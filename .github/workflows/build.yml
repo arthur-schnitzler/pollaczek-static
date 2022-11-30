@@ -1,7 +1,7 @@
 name: Build and publish
 
-on: 
-  push:
+on:
+  workflow_dispatch
 
 jobs:
   build_pages:
@@ -20,7 +20,7 @@ jobs:
     - name: Fetch the data
       run: ./fetch_data.sh
     - name: Process the data
-      run: ./process_sh
+      run: ./process.sh
     - name: Build
       run: |
         ant
