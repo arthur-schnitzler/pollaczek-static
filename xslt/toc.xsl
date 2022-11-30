@@ -31,7 +31,8 @@
                                     <thead>
                                         <tr>
                                             <th scope="col">Seite</th>
-                                            <th scope="col">Dateinname</th>
+                                            <th scope="col">Name</th>
+                                            <th scope="col">Datierung</th>
                                         </tr>
                                     </thead>
                                     <tbody>
@@ -40,7 +41,21 @@
                                                 <xsl:value-of select="document-uri(/)"/>
                                             </xsl:variable>
                                             <tr>
-                                                <td>                                        
+                                                <td>
+                                                    
+                                                    <a>
+                                                        <xsl:attribute name="href">                                                
+                                                            <xsl:value-of select="replace(tokenize($full_path, '/')[last()], '.xml', '.html')"/>
+                                                        </xsl:attribute>
+                                                        <xsl:variable name="seite" select="substring-after(@xml:id, 'ckp')"/>
+                                                        <xsl:value-of select="$seite"/>
+                                                    </a>
+                                                </td>
+                                                
+                                                <td>
+                                                    <span hidden="hidden">
+                                                        <xsl:value-of select="descendant::tei:titleStmt/tei:title[@when-iso][1]/@when-iso"/>
+                                                    </span>
                                                     <a>
                                                         <xsl:attribute name="href">                                                
                                                             <xsl:value-of select="replace(tokenize($full_path, '/')[last()], '.xml', '.html')"/>
@@ -49,7 +64,9 @@
                                                     </a>
                                                 </td>
                                                 <td>
-                                                    <xsl:value-of select="tokenize($full_path, '/')[last()]"/>
+                                                    <xsl:for-each select="descendant::tei:titleStmt/tei:title[@when-iso]">
+                                                        <xsl:value-of select="."/>
+                                                    </xsl:for-each>
                                                 </td>  
                                             </tr>
                                         </xsl:for-each>
