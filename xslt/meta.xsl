@@ -57,7 +57,19 @@
         <del><xsl:apply-templates/></del>
     </xsl:template>    
     <xsl:template match="tei:ref">
-        <a href="{@target}"><xsl:apply-templates/></a>
+        <xsl:choose>
+            <xsl:when test="starts-with(data(@target), 'http')">
+                <a>
+                    <xsl:attribute name="href">
+                        <xsl:value-of select="@target"/>
+                    </xsl:attribute>
+                    <xsl:value-of select="."/>
+                </a>
+            </xsl:when>
+            <xsl:otherwise>
+                <xsl:apply-templates/>
+            </xsl:otherwise>
+        </xsl:choose>
     </xsl:template>
     <xsl:template match="tei:list">
         <ul><xsl:apply-templates/></ul>
