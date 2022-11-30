@@ -147,3 +147,4 @@ desktop.ini
 data/
 html/*.html
 html/*.xml
+html/js-data/calendarData.js

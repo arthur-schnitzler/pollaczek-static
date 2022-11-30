@@ -28,7 +28,7 @@
                                 </div>
                             </li>
                             <li class="nav-item">
-                                <a class="nav-link isDisabled" href="#">Kalender</a>
+                                <a class="nav-link" href="calendar.html">Kalender</a>
                             </li>
                             <li class="nav-item">
                                 <a class="nav-link" href="toc.html">Einträge</a>
