@@ -28,22 +28,22 @@
                                 </div>
                             </li>
                             <li class="nav-item">
-                                <a class="nav-link isDisabled" href="calendar.html">Kalender</a>
+                                <a class="nav-link isDisabled" href="#">Kalender</a>
                             </li>
                             <li class="nav-item">
                                 <a class="nav-link" href="toc.html">Einträge</a>
                             </li>
                             <li class="nav-item">
-                                <a class="nav-link isDisabled" href="listperson.html">Personen</a>
+                                <a class="nav-link isDisabled" href="#">Personen</a>
                             </li>
                             <li class="nav-item">
-                                <a class="nav-link isDisabled" href="listwork.html">Werke</a>
+                                <a class="nav-link isDisabled" href="#">Werke</a>
                             </li> 
                             <li class="nav-item">
-                                <a class="nav-link isDisabled" href="listplace.html">Orte</a>
+                                <a class="nav-link isDisabled" href="#">Orte</a>
                             </li>
                             <li class="nav-item">
-                                <a class="nav-link isDisabled" href="listorg.html">Institutionen</a>
+                                <a class="nav-link isDisabled" href="#">Institutionen</a>
                             </li>
                         </ul>
                         <a href="search.html">
