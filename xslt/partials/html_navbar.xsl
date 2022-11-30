@@ -24,16 +24,32 @@
                                     Zur Edition
                                 </a>
                                 <div class="dropdown-menu">
-                                    <a class="dropdown-item" href="about.html">about</a>
+                                    <a class="dropdown-item" href="about.html">Zur Edition</a>
                                 </div>
+                                <div class="dropdown-menu">
+                                    <a class="dropdown-item" href="editionsprinzipien.html">Editionsprinzipien</a>
+                                </div>
+                                <div class="dropdown-menu">
+                                    <a class="dropdown-item" href="contribute.html">Mithilfe</a>
+                                </div>
+                                <li class="nav-item dropdown-submenu">
+                                    <a title="Links" href="https://schnitzler.acdh.oeaw.ac.at"
+                                        class="nav-link">Schnitzler am ACDH-CH</a>
+                                </li>
+                                <li class="nav-item dropdown-submenu">
+                                    <a title="Links"
+                                        href="https://github.com/arthur-schnitzler/schnitzler-lektueren"
+                                        class="nav-link">Daten auf gitHub</a>
+                                </li>
+                                
                             </li>
                             <li class="nav-item">
                                 <a class="nav-link" href="calendar.html">Kalender</a>
                             </li>
                             <li class="nav-item">
-                                <a class="nav-link" href="toc.html">Einträge</a>
+                                <a class="nav-link" href="toc.html">Inhaltsverzeichnis</a>
                             </li>
-                            <li class="nav-item">
+                            <!--<li class="nav-item">
                                 <a class="nav-link isDisabled" href="#">Personen</a>
                             </li>
                             <li class="nav-item">
@@ -44,7 +60,7 @@
                             </li>
                             <li class="nav-item">
                                 <a class="nav-link isDisabled" href="#">Institutionen</a>
-                            </li>
+                            </li>-->
                         </ul>
                         <a href="search.html">
                             <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="feather feather-search">

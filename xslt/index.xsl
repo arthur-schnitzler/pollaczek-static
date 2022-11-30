@@ -21,89 +21,32 @@
                 <div class="hfeed site" id="page">
                     <xsl:call-template name="nav_bar"/>
                     <div class="wrapper" id="wrapper-hero">
-                        <div class="jumbotron" style="background-image: url(img/logo.jpg); background-size: 100%;"><div class="carousel-caption" style="background-image: linear-gradient(rgba(38.0, 35.3, 37.6, 0.5), rgba(38.0, 35.3, 37.6, 0.5));position: static;">
-                            <h1><xsl:value-of select="$project_title"/></h1>
-                            <h2>Herausgegeben von Martin Anton Müller und Laura Untner</h2>
-                            <p>Digitale Edition</p>
-                        </div>
-                        </div>
+                        <div class="jumbotron" style="background-image: url(img/logo.jpg); background-size: 100%;">
+                            <div class="carousel-caption" style="background-image: linear-gradient(rgba(38.0, 35.3, 37.6, 0.5), rgba(38.0, 35.3, 37.6, 0.5));position: static;">
+                                <h1>Clara Katharina Pollaczek</h1>
+                                <h2>»Arthur Schnitzler und ich«</h2>
+                                <h2><i>Digitale Edition</i></h2>
+                                
+                            </div>
+                        </div>                       
                     </div>
                     <div class="container" style="margin-top:1em;">
                         <div class="row">
                             <div class="col-md-8" style="margin: 0 auto; ">
-                                <p style="font-size:18px;line-heigth:27px;"/>
-                                <p style="font-size:18px;line-heigth:27px;">Diese Website ist einfach der absolute Hammer</p>
-                                <p style="font-size:18px;line-heigth:27px;">Diese Website ist voi guad</p>
-                                <p style="font-size:18px;line-heigth:27px;">Diese Website is Wöd</p>
-                                
-                            </div>
-                        </div>
-                    </div>
-                    <div class="container" style="margin-top:1em;">
-                        <div class="row">
-                            <div class="col-md-4">
-                                <a href="listperson.html" class="index-link">
-                                    <div class="card index-card">
-                                        <div class="card-body">
-                                            <img
-                                                src="https://shared.acdh.oeaw.ac.at/schnitzler-briefe/img/persons.jpg"
-                                                class="d-block w-100" alt="..."/>
-                                        </div>
-                                        <div class="card-header">
-                                            <h3>
-                                                <i class="fa-solid fa-user-group"/> Personenregister
-                                            </h3>
-                                        </div>
-                                    </div>
-                                </a>
-                            </div>
-                            <div class="col-md-4">
-                                <a href="listwork.html" class="index-link">
-                                    <div class="card index-card">
-                                        <div class="card-body">
-                                            <img
-                                                src="https://shared.acdh.oeaw.ac.at/schnitzler-briefe/img/werke.jpg"
-                                                class="d-block w-100" alt="..."/>
-                                        </div>
-                                        <div class="card-header">
-                                            <h3>
-                                                <i class="fa-solid fa-user-group"/> Werkregister
-                                            </h3>
-                                        </div>
-                                    </div>
-                                </a>
-                            </div>
-                            <div class="col-md-4">
-                                <a href="listplace.html" class="index-link">
-                                    <div class="card index-card">
-                                        <div class="card-body">
-                                            <img
-                                                src="https://shared.acdh.oeaw.ac.at/schnitzler-briefe/img/places.jpg"
-                                                class="d-block w-100" alt="..."/>
-                                        </div>
-                                        <div class="card-header">
-                                            <h3>
-                                                <i class="fa-solid fa-user-group"/> Ortsregister
-                                            </h3>
-                                        </div>
-                                    </div>
-                                </a>
-                            </div>
-                            <div class="col-md-4">
-                                <a href="listorg.html" class="index-link">
-                                    <div class="card index-card">
-                                        <div class="card-body">
-                                            <img
-                                                src="https://shared.acdh.oeaw.ac.at/schnitzler-briefe/img/org.jpg"
-                                                class="d-block w-100" alt="..."/>
-                                        </div>
-                                        <div class="card-header">
-                                            <h3>
-                                                <i class="fa-solid fa-user-group"/>
-                                                Institutionsregister </h3>
-                                        </div>
-                                    </div>
-                                </a>
+                                <p style="font-size:18px;line-heigth:27px;">Am 21. Oktober 1931
+                                    starb Arthur Schnitzler. In den folgenden Monaten verfasste
+                                    seine Lebenspartnerin seit Februar 1923 ihre Erinnerungen, indem
+                                    sie Briefe, Tagebucheinträge zusammenfügte und teilweise mit
+                                    überleitenden Texten versah. Das Manuskript, das für die
+                                    Veröffentlichung nach ihrem Tod vorgesehen war, umfasste 990 von
+                                    Schnitzlers Sekretärin getippte Seiten und war bislang
+                                    unveröffentlicht.</p>
+                                <p style="font-size:18px;line-heigth:27px;">Wir legen hier eine
+                                    Veröffentlichung als <hi rend="bold">Rohfassung</hi> vor, die
+                                    nur teilweise fehlerbereinigt ist. Genauere Hinweise finden sich
+                                    in den <ref type="url" target="">Editionsprinzipien</ref>.</p>
+                                <p style="font-size:18px;line-heigth:27px;">Wir freuen uns über <ref
+                                        type="url" target="">Mithilfe</ref>!</p>
                             </div>
                         </div>
                     </div>

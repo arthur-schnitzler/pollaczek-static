@@ -41,18 +41,17 @@
                         </div>
                     </div>
                     <!-- .footer-widget -->      
-                    <!--<div class="footer-widget col-lg-3 col-md-4 col-sm-3 ml-auto">
-                        <div class="row">
-                            <div class="textwidget custom-html-widget">
-                                <img src="https://shared.acdh.oeaw.ac.at/schnitzler-briefe/img/fwf-logo_var2.jpg" class="image" alt="ACDH Logo" style="max-width: 70%; height: auto;" title="FWF Logo"/>
-                                <p/>
-                                <p>Gefördert aus Mitteln des Wissenschaftsfonds FWF, P31277 (2018–2021) und
-                                    P34792 (2021–[2024])</p>
-                                
-                            </div>
+                    <div class="footer-widget col-lg-4 col-md-3 col-sm-4">
+                        <div class="textwidget custom-html-widget">
+                            <h6 class="font-weight-bold">PROJEKTPARTNER</h6>
+                            <a href="https://www.wienbibliothek.at/" target="_blank">Wienbibliothek</a><lb/>
+                            Rathaus
+                            <br/>
+                            Stiege 6, 1. Stock
+                            <br/>
+                            1082 Wien
                         </div>
-                        
-                    </div>-->
+                    </div>
                     <!-- .footer-widget -->                       
                     <div class="footer-widget col-lg-3 col-md-4 col-sm-3 ml-auto">
                         <div class="row">
