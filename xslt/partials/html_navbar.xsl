@@ -58,7 +58,7 @@
                                     Zur Edition
                                 </a>
                                 <div class="dropdown-menu">
-                                    <a class="dropdown-item" href="about.html">Zur Edition</a>
+                                    <a class="dropdown-item" href="projekt.html">Zur Edition</a>
                                     <a class="dropdown-item" href="editionsprinzipien.html">Editionsprinzipien</a>
                                     <a class="dropdown-item" href="mithilfe.html">Mithilfe</a>
                                     <a title="Links" href="https://de.wikipedia.org/wiki/Clara_Katharina_Pollaczek"

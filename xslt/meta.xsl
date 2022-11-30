@@ -56,4 +56,14 @@
     <xsl:template match="tei:del">
         <del><xsl:apply-templates/></del>
     </xsl:template>    
+    <xsl:template match="tei:ref">
+        <a href="{@target}"><xsl:apply-templates/></a>
+    </xsl:template>
+    <xsl:template match="tei:list">
+        <ul><xsl:apply-templates/></ul>
+    </xsl:template>
+    <xsl:template match="tei:item">
+        <item><xsl:apply-templates/></item>
+    </xsl:template>
+    
 </xsl:stylesheet>
