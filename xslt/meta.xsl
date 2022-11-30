@@ -63,7 +63,7 @@
         <ul><xsl:apply-templates/></ul>
     </xsl:template>
     <xsl:template match="tei:item">
-        <item><xsl:apply-templates/></item>
+        <li><xsl:apply-templates/></li>
     </xsl:template>
     
 </xsl:stylesheet>

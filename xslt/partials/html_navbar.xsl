@@ -17,48 +17,6 @@
                         <span class="navbar-toggler-icon"/>
                     </button>
                     <div class="collapse navbar-collapse justify-content-end" id="navbarNavDropdown">
-                        <!-- Your menu goes here -->
-                        <ul id="main-menu" class="navbar-nav">
-                            <li class="nav-item">
-                                <a class="nav-link" href="projekt.html">Zur Edition</a>
-                                <a class="nav-link" href="editionsprinzipien.html">Editionsprinzipien</a>
-                                <a class="nav-link" href="mithilfe.html">Mithilfe</a>
-                                
-                                <a class="nav-link" href="https://de.wikipedia.org/wiki/Clara_Katharina_Pollaczek" target="_blank">C. K. Pollaczek (Wikipedia)</a>
-                                <a class="nav-link" href="https://github.com/arthur-schnitzler/pollaczek-data"
-                                    >Quelldaten bei gitHub</a>
-                                <a class="nav-link" href="https://schnitzler.acdh.oeaw.ac.at" target="_blank"
-                                    >Schnitzler am ACDH-CH</a>
-                            </li>
-                            <li class="nav-item">
-                                <a class="nav-link" href="calendar.html">Kalender</a>
-                            </li>
-                            <li class="nav-item">
-                                <a class="nav-link" href="toc.html">Einträge</a>
-                            </li>
-                            <li class="nav-item">
-                                <a class="nav-link" href="listperson.html">Personen</a>
-                            </li>
-                            <li class="nav-item">
-                                <a class="nav-link" href="listwork.html">Werke</a>
-                            </li> 
-                            <li class="nav-item">
-                                <a class="nav-link" href="listplace.html">Orte</a>
-                            </li>
-                            <li class="nav-item dropdown-submenu">
-                                
-                            </li>
-                            <!--<li class="nav-item dropdown">
-                                <a class="nav-link dropdown-toggle" href="#" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
-                                    API
-                                </a>
-                                <div class="dropdown-menu">
-                                    <a class="dropdown-item" href="../api/api.html">API</a>
-                                    <a class="dropdown-item" href="../analyze/beacon.xql">GND-Beacon</a>
-                                </div>
-                            </li>-->
-                        </ul>
-                        
                         <ul id="main-menu" class="navbar-nav">
                             <li class="nav-item dropdown">
                                 <a class="nav-link dropdown-toggle" href="#" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
