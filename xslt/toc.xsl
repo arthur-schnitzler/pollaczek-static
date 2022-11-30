@@ -42,13 +42,15 @@
                                             </xsl:variable>
                                             <tr>
                                                 <td>
-                                                    
+                                                    <span hidden="hidden">
+                                                        <xsl:value-of select="@xml:id"/>
+                                                    </span>
                                                     <a>
                                                         <xsl:attribute name="href">                                                
                                                             <xsl:value-of select="replace(tokenize($full_path, '/')[last()], '.xml', '.html')"/>
                                                         </xsl:attribute>
                                                         <xsl:variable name="seite" select="substring-after(@xml:id, 'ckp')"/>
-                                                        <xsl:value-of select="$seite"/>
+                                                        <xsl:value-of select="substring-after(replace($seite, '.xml', ''), '0')"/>
                                                     </a>
                                                 </td>
                                                 
@@ -64,7 +66,7 @@
                                                     </a>
                                                 </td>
                                                 <td>
-                                                    <xsl:for-each select="descendant::tei:titleStmt/tei:title[@when-iso]">
+                                                    <xsl:for-each select="descendant::tei:titleStmt/tei:title[@when-iso]/@when-iso">
                                                         <xsl:value-of select="."/>
                                                     </xsl:for-each>
                                                 </td>  
