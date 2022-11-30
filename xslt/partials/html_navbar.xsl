@@ -20,7 +20,15 @@
                         <!-- Your menu goes here -->
                         <ul id="main-menu" class="navbar-nav">
                             <li class="nav-item">
-                                <a class="nav-link" href="about.html">Zur Edition</a>
+                                <a class="nav-link" href="projekt.html">Zur Edition</a>
+                                <a class="nav-link" href="editionsprinzipien.html">Editionsprinzipien</a>
+                                <a class="nav-link" href="mithilfe.html">Mithilfe</a>
+                                
+                                <a class="nav-link" href="https://de.wikipedia.org/wiki/Clara_Katharina_Pollaczek" target="_blank">C. K. Pollaczek (Wikipedia)</a>
+                                <a class="nav-link" href="https://github.com/arthur-schnitzler/pollaczek-data"
+                                    >Quelldaten bei gitHub</a>
+                                <a class="nav-link" href="https://schnitzler.acdh.oeaw.ac.at" target="_blank"
+                                    >Schnitzler am ACDH-CH</a>
                             </li>
                             <li class="nav-item">
                                 <a class="nav-link" href="calendar.html">Kalender</a>
@@ -38,8 +46,7 @@
                                 <a class="nav-link" href="listplace.html">Orte</a>
                             </li>
                             <li class="nav-item dropdown-submenu">
-                                <a title="Links" href="https://schnitzler.acdh.oeaw.ac.at"
-                                    class="nav-link">Schnitzler am ACDH-CH</a>
+                                
                             </li>
                             <!--<li class="nav-item dropdown">
                                 <a class="nav-link dropdown-toggle" href="#" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
