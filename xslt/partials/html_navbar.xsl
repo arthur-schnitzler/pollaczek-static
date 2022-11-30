@@ -19,29 +19,56 @@
                     <div class="collapse navbar-collapse justify-content-end" id="navbarNavDropdown">
                         <!-- Your menu goes here -->
                         <ul id="main-menu" class="navbar-nav">
+                            <li class="nav-item">
+                                <a class="nav-link" href="about.html">Zur Edition</a>
+                            </li>
+                            <li class="nav-item">
+                                <a class="nav-link" href="calendar.html">Kalender</a>
+                            </li>
+                            <li class="nav-item">
+                                <a class="nav-link" href="toc.html">Einträge</a>
+                            </li>
+                            <li class="nav-item">
+                                <a class="nav-link" href="listperson.html">Personen</a>
+                            </li>
+                            <li class="nav-item">
+                                <a class="nav-link" href="listwork.html">Werke</a>
+                            </li> 
+                            <li class="nav-item">
+                                <a class="nav-link" href="listplace.html">Orte</a>
+                            </li>
+                            <li class="nav-item dropdown-submenu">
+                                <a title="Links" href="https://schnitzler.acdh.oeaw.ac.at"
+                                    class="nav-link">Schnitzler am ACDH-CH</a>
+                            </li>
+                            <!--<li class="nav-item dropdown">
+                                <a class="nav-link dropdown-toggle" href="#" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                                    API
+                                </a>
+                                <div class="dropdown-menu">
+                                    <a class="dropdown-item" href="../api/api.html">API</a>
+                                    <a class="dropdown-item" href="../analyze/beacon.xql">GND-Beacon</a>
+                                </div>
+                            </li>-->
+                        </ul>
+                        
+                        <ul id="main-menu" class="navbar-nav">
                             <li class="nav-item dropdown">
                                 <a class="nav-link dropdown-toggle" href="#" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
                                     Zur Edition
                                 </a>
                                 <div class="dropdown-menu">
                                     <a class="dropdown-item" href="about.html">Zur Edition</a>
-                                </div>
-                                <div class="dropdown-menu">
                                     <a class="dropdown-item" href="editionsprinzipien.html">Editionsprinzipien</a>
-                                </div>
-                                <div class="dropdown-menu">
-                                    <a class="dropdown-item" href="contribute.html">Mithilfe</a>
-                                </div>
-                                <li class="nav-item dropdown-submenu">
+                                    <a class="dropdown-item" href="mithilfe.html">Mithilfe</a>
+                                    <a title="Links" href="https://de.wikipedia.org/wiki/Clara_Katharina_Pollaczek"
+                                        class="nav-link">C. K. Pollaczek (Wikipedia)</a>
                                     <a title="Links" href="https://schnitzler.acdh.oeaw.ac.at"
                                         class="nav-link">Schnitzler am ACDH-CH</a>
-                                </li>
-                                <li class="nav-item dropdown-submenu">
                                     <a title="Links"
-                                        href="https://github.com/arthur-schnitzler/schnitzler-lektueren"
+                                        href="https://github.com/arthur-schnitzler/pollaczek-data"
                                         class="nav-link">Daten auf gitHub</a>
-                                </li>
-                                
+                                </div>
                             </li>
                             <li class="nav-item">
                                 <a class="nav-link" href="calendar.html">Kalender</a>

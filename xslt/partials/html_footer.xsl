@@ -44,7 +44,7 @@
                     <div class="footer-widget col-lg-4 col-md-3 col-sm-4">
                         <div class="textwidget custom-html-widget">
                             <h6 class="font-weight-bold">PROJEKTPARTNER</h6>
-                            <a href="https://www.wienbibliothek.at/" target="_blank">Wienbibliothek</a><lb/>
+                            <a href="https://www.wienbibliothek.at/" target="_blank">Wienbibliothek</a><br/>
                             Rathaus
                             <br/>
                             Stiege 6, 1. Stock

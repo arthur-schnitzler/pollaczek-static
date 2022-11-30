@@ -211,6 +211,9 @@
             <xsl:apply-templates/>
         </p>
     </xsl:template>
+    <xsl:template match="tei:lb">
+        <br/>
+    </xsl:template>
     <xsl:template match="tei:div">
         <div id="{local:makeId(.)}">
             <xsl:apply-templates/>

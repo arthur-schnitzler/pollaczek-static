@@ -25,7 +25,7 @@
                             <div class="carousel-caption" style="background-image: linear-gradient(rgba(38.0, 35.3, 37.6, 0.5), rgba(38.0, 35.3, 37.6, 0.5));position: static;">
                                 <h1>Clara Katharina Pollaczek</h1>
                                 <h2>»Arthur Schnitzler und ich«</h2>
-                                <h2><i>Digitale Edition</i></h2>
+                                <h2>Digitale Edition</h2>
                                 
                             </div>
                         </div>                       
@@ -33,20 +33,22 @@
                     <div class="container" style="margin-top:1em;">
                         <div class="row">
                             <div class="col-md-8" style="margin: 0 auto; ">
-                                <p style="font-size:18px;line-heigth:27px;">Am 21. Oktober 1931
-                                    starb Arthur Schnitzler. In den folgenden Monaten verfasste
-                                    seine Lebenspartnerin seit Februar 1923 ihre Erinnerungen, indem
-                                    sie Briefe, Tagebucheinträge zusammenfügte und teilweise mit
-                                    überleitenden Texten versah. Das Manuskript, das für die
+                                <p style="font-size:18px;line-heigth:27px;">Am 21. Oktober 1921 starb Arthur
+                                    Schnitzler. In den 20 Monaten, die auf seinen Tod folgten, verfasste
+                                    seine Lebenspartnerin Clara Katharina Pollaczek, geborene Loeb, ihre Erinnerungen
+                                    an das Kennenlernen in jungen Jahren und vor allem an die Zeit seit Februar 
+                                    1923, während der sie seine zentrale Lebenspartnerin war. Sie fügte
+                                     Briefe, Tagebucheinträge zusammen und versah sie teilweise mit
+                                    überleitenden Texten. Das Manuskript, das für die
                                     Veröffentlichung nach ihrem Tod vorgesehen war, umfasste 990 von
-                                    Schnitzlers Sekretärin getippte Seiten und war bislang
-                                    unveröffentlicht.</p>
+                                    Schnitzlers Sekretärin getippte Seiten. Bis zur vorliegenden Veröffentlichung 
+                                    war es zwar der Forschung bekannt, aber unveröffentlicht.</p>
                                 <p style="font-size:18px;line-heigth:27px;">Wir legen hier eine
-                                    Veröffentlichung als <hi rend="bold">Rohfassung</hi> vor, die
+                                    Veröffentlichung als <b>Rohfassung</b> vor, die
                                     nur teilweise fehlerbereinigt ist. Genauere Hinweise finden sich
-                                    in den <ref type="url" target="">Editionsprinzipien</ref>.</p>
+                                    in den <ref type="url" target="editionsprinzipien.html">Editionsprinzipien</ref>.</p>
                                 <p style="font-size:18px;line-heigth:27px;">Wir freuen uns über <ref
-                                        type="url" target="">Mithilfe</ref>!</p>
+                                    type="url" target="mithilfe.html">Mithilfe</ref>!</p>
                             </div>
                         </div>
                     </div>
