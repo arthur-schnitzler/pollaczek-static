@@ -64,7 +64,7 @@
                                     </div>
                                     <div class="col-md-8">
                                         <h1 align="center">
-                                            <xsl:value-of select="$doc_title"/> - <xsl:value-of select=".//tei:title[@level='a'][1]/text()"/>
+                                            <xsl:value-of select="$doc_title"/>
                                         </h1>
                                         <h3 align="center">
                                             <a href="{$teiSource}">
