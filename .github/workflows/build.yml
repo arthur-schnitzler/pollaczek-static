@@ -25,6 +25,8 @@ jobs:
       run: ./fetch_data.sh
     - name: Process the data
       run: ./process.sh
+    - name: fulltext-index
+      run: python make_typesense_index.py
     - name: Build
       run: |
         ant
