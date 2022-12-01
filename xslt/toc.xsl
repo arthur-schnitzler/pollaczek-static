@@ -52,13 +52,13 @@
                                                   <xsl:variable name="seite">
                                                   <xsl:choose>
                                                   <xsl:when test="starts-with(@xml:id, 'ckp00')">
-                                                  <xsl:value-of select="substring(@xml:id, 6)"/>
+                                                      <xsl:value-of select="substring-after(@xml:id, 'ckp00')"/>
                                                   </xsl:when>
-                                                  <xsl:when test="starts-with(@xml:id, 'ckp0')">
-                                                  <xsl:value-of select="substring(@xml:id, 5)"/>
-                                                  </xsl:when>
+                                                      <xsl:when test="starts-with(@xml:id, 'ckp0')">
+                                                          <xsl:value-of select="substring-after(@xml:id, 'ckp0')"/>
+                                                      </xsl:when>
                                                   <xsl:otherwise>
-                                                  <xsl:value-of select="substring(@xml:id, 4)"/>
+                                                  <xsl:value-of select="replace(@xml:id, 'ckp', '')"/>
                                                   </xsl:otherwise>
                                                   </xsl:choose>
                                                   </xsl:variable>
