@@ -149,3 +149,7 @@ html/*.html
 html/*.xml
 html/js-data/calendarData.js
 secret.sh
+local_ingest.sh
+arche.rdf
+vendor/
+composer.*
