@@ -9,7 +9,7 @@ jobs:
     runs-on: ubuntu-latest
     env:
       ANT_OPTS: -Xmx5g
-      REDMINE_ID: 21016
+      REDMINE_ID: 21195
       # HANDLE_PASSWORD: ${{secrets.HANDLE_PASSWORD}}
       # HANDLE_USERNAME: ${{secrets.HANDLE_USERNAME}}
     steps:
@@ -57,7 +57,7 @@ jobs:
     - name: ingest metadata
       run: |
         echo 'STEP=Upload AIP to Curation Instance (Minerva)' >> $GITHUB_ENV
-        vendor/bin/arche-import-metadata arche.ttl https://arche-dev.acdh-dev.oeaw.ac.at/api ${{secrets.ARCHE_LOGIN}} ${{secrets.ARCHE_PASSWORD}} --retriesOnConflict 25
+        vendor/bin/arche-import-metadata arche.rdf https://arche-dev.acdh-dev.oeaw.ac.at/api ${{secrets.ARCHE_LOGIN}} ${{secrets.ARCHE_PASSWORD}} --retriesOnConflict 25
         vendor/bin/arche-update-redmine --token ${{ secrets.REDMINE_TOKEN }} --append "$RUN_URL" $REDMINE_ID 'Upload AIP to Curation Instance (Minerva)' --message "ingested Metadata" --done "50" --status "In Progress"
     - name: on failure
       if: ${{ failure() }}
