@@ -1,4 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:base="https://id.acdh.oeaw.ac.at.at/pollaczek" xml:id="editionsprinzipien.xml" next="https://id.acdh.oeaw.ac.at.at/pollaczek/mithilfe.xml">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:base="https://id.acdh.oeaw.ac.at.at/ckp" xml:id="editionsprinzipien.xml" next="https://id.acdh.oeaw.ac.at.at/ckp/mithilfe.xml">
    <teiHeader>
       <fileDesc>
          <titleStmt>
