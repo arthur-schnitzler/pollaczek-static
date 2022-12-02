@@ -40,32 +40,15 @@
                                             </xsl:variable>
                                             <tr>
                                                 <td>
-                                                  <span hidden="hidden">
-                                                  <xsl:value-of select="@xml:id"/>
-                                                  </span>
-                                                  <a>
-                                                  <xsl:attribute name="href">
-                                                  <xsl:value-of
-                                                  select="replace(tokenize($full_path, '/')[last()], '.xml', '.html')"
-                                                  />
-                                                  </xsl:attribute>
-                                                  <xsl:variable name="seite">
-                                                  <xsl:choose>
-                                                  <xsl:when test="starts-with(@xml:id, 'ckp00')">
-                                                      <xsl:value-of select="substring-after(@xml:id, 'ckp00')"/>
-                                                  </xsl:when>
-                                                      <xsl:when test="starts-with(@xml:id, 'ckp0')">
-                                                          <xsl:value-of select="substring-after(@xml:id, 'ckp0')"/>
-                                                      </xsl:when>
-                                                  <xsl:otherwise>
-                                                  <xsl:value-of select="replace(@xml:id, 'ckp', '')"/>
-                                                  </xsl:otherwise>
-                                                  </xsl:choose>
-                                                  </xsl:variable>
-                                                  <xsl:value-of
-                                                  select="substring-after(replace($seite, '.xml', ''), '0')"
-                                                  />
-                                                  </a>
+                                                    <span hidden="hidden">
+                                                        <xsl:value-of select="@xml:id"/>
+                                                    </span>
+                                                    <a>
+                                                        <xsl:attribute name="href">                                                
+                                                            <xsl:value-of select="replace(tokenize($full_path, '/')[last()], '.xml', '.html')"/>
+                                                        </xsl:attribute>
+                                                        <xsl:value-of select=".//tei:seite/@id"/>
+                                                    </a>
                                                 </td>
                                                 <td>
                                                   <span hidden="hidden">
@@ -85,14 +68,10 @@
                                                   </a>
                                                 </td>
                                                 <td>
-                                                  <xsl:for-each
-                                                  select="descendant::tei:titleStmt/tei:title[@when-iso]/@when-iso">
-                                                  <xsl:value-of select="."/>
-                                                  <xsl:if test="not(position() = last())">
-                                                  <xsl:text>, </xsl:text>
-                                                  </xsl:if>
-                                                  </xsl:for-each>
-                                                </td>
+                                                    <xsl:for-each select="descendant::tei:titleStmt/tei:title[@when-iso]/@when-iso">
+                                                        <xsl:value-of select="."/> <xsl:text> </xsl:text>
+                                                    </xsl:for-each>
+                                                </td>  
                                             </tr>
                                         </xsl:for-each>
                                     </tbody>
