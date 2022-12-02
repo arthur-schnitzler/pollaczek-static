@@ -42,7 +42,7 @@
                 <acdh:hasLifeCycleStatus rdf:resource="https://vocabs.acdh.oeaw.ac.at/archelifecyclestatus/active"/>
                 <xsl:copy-of select="$constants"/>
             </acdh:Collection>
-            <xsl:for-each select="subsequence(collection('../data/editions')//tei:TEI, 1, 3)">
+            <xsl:for-each select="collection('../data/editions')//tei:TEI">
                 <xsl:variable name="partOf">
                     <xsl:value-of select="concat($TopColId, '/editions')"/>
                 </xsl:variable>
