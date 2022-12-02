@@ -26,6 +26,7 @@
                                     <a class="dropdown-item" href="projekt.html">Zur Edition</a>
                                     <a class="dropdown-item" href="editionsprinzipien.html">Editionsprinzipien</a>
                                     <a class="dropdown-item" href="mithilfe.html">Mithilfe</a>
+                                    <a class="dropdown-item" href="zitat.html">Zitieren</a>
                                     <a title="Links" href="https://de.wikipedia.org/wiki/Clara_Katharina_Pollaczek"
                                         class="nav-link">C. K. Pollaczek (Wikipedia)</a>
                                     <a title="Links" href="https://schnitzler.acdh.oeaw.ac.at"
