@@ -30,6 +30,7 @@
     <xsl:variable name="link">
         <xsl:value-of select="replace($teiSource, '.xml', '.html')"/>
     </xsl:variable>
+ 
     
 
     <xsl:template match="/">
@@ -86,8 +87,38 @@
                                     </div>
                                 </div>
                             </div>
-                            <div class="card-body">                                
-                                <xsl:apply-templates select=".//tei:body"></xsl:apply-templates>
+                            <div class="card-body">
+                                <div class="row">
+                                    <div class="col-md-6">
+                                        <div id="openseadragon-photo" style="height:800px;">
+                                            <script src="https://cdnjs.cloudflare.com/ajax/libs/openseadragon/3.0.0/openseadragon.min.js"/>
+                                            <script type="text/javascript">
+                                                var viewer = OpenSeadragon({
+                                                id: "openseadragon-photo",
+                                                
+                                                prefixUrl: "https://cdnjs.cloudflare.com/ajax/libs/openseadragon/3.0.0/images/",
+                                             
+                                                defaultZoomLevel : 0,
+                                                fitHorizontally : true,
+                                                tileSources: {
+                                                type: 'image',
+                                                url:  'https://shared.acdh.oeaw.ac.at/ckp/<xsl:value-of select="replace($teiSource, 'xml', 'jpg')"/>'
+                                                },
+                                                // Initial rotation angle
+                                                degrees: 0,
+                                                // Show rotation buttons
+                                                showRotationControl: true,
+                                                // Enable touch rotation on tactile devices
+                                                gestureSettingsTouch: {
+                                                pinchRotate: true}
+                                                });
+                                            </script>
+                                        </div>
+                                    </div>
+                                    <div class="col-md-6"><xsl:apply-templates select=".//tei:body"/></div>
+                                </div>
+                                
+                                
                             </div>
                             <div class="card-footer">
                                 <p style="text-align:center;">
