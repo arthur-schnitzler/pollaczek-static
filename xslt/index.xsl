@@ -25,7 +25,7 @@
                             <div class="carousel-caption" style="background-image: linear-gradient(rgba(38.0, 35.3, 37.6, 0.5), rgba(38.0, 35.3, 37.6, 0.5));position: static;">
                                 <h1>Clara Katharina Pollaczek</h1>
                                 <h2>»Arthur Schnitzler und ich«</h2>
-                                <h2>Digitale Edition</h2>
+                                <h2>Digitale Ausgabe</h2>
                                 
                             </div>
                         </div>                       
