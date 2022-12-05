@@ -28,12 +28,12 @@
                                     <a class="dropdown-item" href="mithilfe.html">Mithilfe</a>
                                     <a class="dropdown-item" href="zitat.html">Zitieren</a>
                                     <a title="Links" href="https://de.wikipedia.org/wiki/Clara_Katharina_Pollaczek"
-                                        class="nav-link">C. K. Pollaczek (Wikipedia)</a>
+                                        class="nav-link" target="_blank">C. K. Pollaczek (Wikipedia)</a>
                                     <a title="Links" href="https://schnitzler.acdh.oeaw.ac.at"
-                                        class="nav-link">Schnitzler am ACDH-CH</a>
+                                        class="nav-link" target="_blank">Schnitzler am ACDH-CH</a>
                                     <a title="Links"
                                         href="https://github.com/arthur-schnitzler/pollaczek-data"
-                                        class="nav-link">Daten auf gitHub</a>
+                                        class="nav-link" target="_blank">Daten auf gitHub</a>
                                 </div>
                             </li>
                             <li class="nav-item">
