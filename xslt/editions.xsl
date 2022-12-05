@@ -91,6 +91,7 @@
                                 <div class="row">
                                     <div class="col-md-6">
                                         <div id="openseadragon-photo" style="height:800px;">
+                                            <xsl:variable name="facs-url" select="concat('https://shared.acdh.oeaw.ac.at/ckp/', concat(replace($teiSource, '.xml', ''), '.jpg'))"/>
                                             <script src="https://cdnjs.cloudflare.com/ajax/libs/openseadragon/3.0.0/openseadragon.min.js"/>
                                             <script type="text/javascript">
                                                 var viewer = OpenSeadragon({
@@ -102,7 +103,7 @@
                                                     fitHorizontally: true,
                                                     tileSources: {
                                                         type: 'image',
-                                                        url: 'https://shared.acdh.oeaw.ac.at/ckp/<xsl:value-of select="concat(replace($teiSource, '.xml', ''), '.jpg')"/>
+                                                        url: '<xsl:value-of select="$facs-url"/>'"/>
                                                 '
                                             },
                                             // Initial rotation angle
