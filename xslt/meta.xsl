@@ -23,18 +23,28 @@
             <body class="page">
                 <div class="hfeed site" id="page">
                     <xsl:call-template name="nav_bar"/>
-
-                    <div class="container-fluid">
+                    
+                    <div class="container-fluid">                        
                         <div class="card">
                             <div class="card-header">
-                                <h1>
-                                    <xsl:value-of select="$doc_title"/>
-                                </h1>
+                                <h2 align="center"><xsl:value-of select="$doc_title"/></h2>
                             </div>
-                            <div class="card-body">
-                                <xsl:apply-templates select=".//tei:body"/>
+                            <div class="card-body-index">                                
+                                <xsl:apply-templates select=".//tei:body"></xsl:apply-templates>
                             </div>
-                        </div>
+                            <xsl:if test="descendant::tei:footNote">
+                                <div class="card-body-index">
+                                    <p/>
+                                    <xsl:element name="ol">
+                                        <xsl:attribute name="class">
+                                            <xsl:text>list-for-footnotes-meta</xsl:text>
+                                        </xsl:attribute>
+                                        <xsl:apply-templates select="descendant::tei:footNote"
+                                            mode="footnote"/>
+                                    </xsl:element>
+                                </div>
+                            </xsl:if>
+                        </div>                       
                     </div>
                     <xsl:call-template name="html_footer"/>
                 </div>
