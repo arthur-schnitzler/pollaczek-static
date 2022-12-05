@@ -38,17 +38,17 @@
                                     starb Arthur Schnitzler. In den 20 Monaten, die auf seinen Tod
                                     folgten, verfasste Clara Katharina Pollaczek, geborene Loeb,
                                     ihre Erinnerungen an das Kennenlernen in jungen Jahren und vor
-                                    allem an die gemeinsame Zeit seit Februar 1923, die sie seine
+                                    allem an die gemeinsame Zeit seit Februar 1923, da sie seine
                                     zentrale Lebenspartnerin war. Sie fügte Briefe und
-                                    Tagebucheinträge mit anderen Quellen zusammen und versah sie
-                                    teilweise mit überleitenden Texten. Das Manuskript, das für die
-                                    postume Veröffentlichung vorgesehen war, umfasste 990 von
+                                    Tagebucheinträge und teilweise auch andere Quellen zusammen und versah sie
+                                    gelegentlich mit überleitenden Texten. Das Manuskript, das für die
+                                    postume Veröffentlichung vorgesehen war, umfasst 990 von
                                     Schnitzlers Sekretärin getippte Seiten und blieb nach ihrem Tod
                                     1951 unveröffentlicht. Bis zur vorliegenden Publikation war es
                                     zwar der Forschung bekannt, konnte aber nur in ihrem Nachlass in
                                     der Wienbibliothek eingesehen werden.</p>
                                 <p style="font-size:18px;line-heigth:27px;">Wir legen hier eine
-                                    Veröffentlichung als <b>Rohfassung</b> vor, die nur teilweise
+                                    digitale Ausgabe des Manuskripts in einer <b>Rohfassung</b> vor, die nur teilweise
                                     fehlerbereinigt ist. Genauere Hinweise finden sich in den <a
                                         href="editionsprinzipien.html">Editionsprinzipien</a>.</p>
                                 <p style="font-size:18px;line-heigth:27px;">Wir freuen uns über Ihre
