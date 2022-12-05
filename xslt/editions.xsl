@@ -102,7 +102,7 @@
                                                     fitHorizontally: true,
                                                     tileSources: {
                                                         type: 'image',
-                                                        url: 'https://shared.acdh.oeaw.ac.at/ckp/<xsl:value-of select="replace($teiSource, 'xml', 'jpg')"/>
+                                                        url: 'https://shared.acdh.oeaw.ac.at/ckp/<xsl:value-of select="concat(replace($teiSource, '.xml', ''), '.jpg')"/>
                                                 '
                                             },
                                             // Initial rotation angle
