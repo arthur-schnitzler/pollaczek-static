@@ -40,11 +40,17 @@
                             </p>
                         </div>
                     </div>
-                    <!-- .footer-widget -->      
-                    <div class="footer-widget col-lg-4 col-md-3 col-sm-4">
+                    <!-- .footer-widget --> 
+                    <div class="footer-widget col-lg-1 col-md-2 col-sm-2 col-xs-6  ml-auto  text-center ">
+                        <div class="textwidget custom-html-widget">
+                            <a href="/"><img src="/img/MA9_orbit1_pos_rgb.jpg" class="image" alt="Wienbibliothek Logo" style="max-width: 100%; height: auto;" title="Wienbibliothek Logo"/></a>
+                        </div>
+                    </div>
+                    <!-- .footer-widget -->
+                    <div class="footer-widget col-lg-4 col-md-3 col-sm-3">
                         <div class="textwidget custom-html-widget">
                             <h6 class="font-weight-bold">PROJEKTPARTNER</h6>
-                            <a href="https://www.wienbibliothek.at/" target="_blank">Wienbibliothek</a><br/>
+                            <a href="https://www.wienbibliothek.at/" target="_blank">Wienbibliothek im Rathaus</a><br/>
                             Rathaus
                             <br/>
                             Stiege 6, 1. Stock

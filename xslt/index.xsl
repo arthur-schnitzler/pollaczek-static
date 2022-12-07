@@ -41,11 +41,11 @@
                                     allem an die gemeinsame Zeit seit Februar 1923, da sie seine
                                     zentrale Lebenspartnerin war. Sie fügte Briefe und
                                     Tagebucheinträge und teilweise auch andere Quellen zusammen und versah sie
-                                    gelegentlich mit überleitenden Texten. Das Manuskript, das für die
+                                    gelegentlich mit überleitenden Texten. Das Typoskript, das für die
                                     postume Veröffentlichung vorgesehen war, umfasst 990 von
-                                    Schnitzlers Sekretärin getippte Seiten und blieb nach ihrem Tod
+                                    Schnitzlers Sekretärin Frieda Pollak getippte Seiten und blieb nach ihrem Tod
                                     1951 unveröffentlicht. Bis zur vorliegenden Publikation war es
-                                    zwar der Forschung bekannt, konnte aber nur in ihrem Nachlass in
+                                    zwar der Forschung bekannt, konnte aber nur in ihrem <a href="https://permalink.obvsg.at/wbr/AC15900634" target="_blank">Teilnachlass</a> in
                                     der Wienbibliothek eingesehen werden.</p>
                                 <p style="font-size:18px;line-heigth:27px;">Wir legen hier eine
                                     digitale Ausgabe des Manuskripts in einer <b>Rohfassung</b> vor, die nur teilweise
