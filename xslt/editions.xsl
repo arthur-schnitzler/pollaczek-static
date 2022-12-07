@@ -92,7 +92,9 @@
                                     <div class="col-md-6">
                                         <div id="openseadragon-photo" style="height:800px;">
                                             <xsl:variable name="wb-foto-nummer" as="xs:integer">
-                                                <xsl:value-of select="xs:integer(substring-after(string($teiSource), 'ckp')) + 4182724"/>
+                                                
+                                                
+                                                <xsl:value-of select="xs:integer(substring-after(replace(string($teiSource), '.xml', ''), 'ckp')) + 4182724"/>
                                             </xsl:variable>
                                             <xsl:variable name="facs-url" select="concat('https://www.digital.wienbibliothek.at/i3f/v20/', $wb-foto-nummer, '/info.json')"/>
                                             <script src="https://cdnjs.cloudflare.com/ajax/libs/openseadragon/3.0.0/openseadragon.min.js"/>
