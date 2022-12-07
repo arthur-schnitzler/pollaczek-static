@@ -37,11 +37,12 @@
                                 <a href="https://www.wienbibliothek.at/" target="_blank">
                                     <img src="img/wienbibliothek.jpg" class="image"
                                         alt="Wienbibliothek Logo"
-                                        style="max-width: 100%; height: auto;"
+                                        style="max-width: 90%; height: auto;"
                                         title="Wienbibliothek Logo"/>
                                 </a>
                             </div>
                             <div class="textwidget custom-html-widget">
+                                <p/>
                                 <h6 class="font-weight-bold">PROJEKTPARTNER</h6>
                                 <a href="https://www.wienbibliothek.at/" target="_blank"
                                     >Wienbibliothek im Rathaus</a><br/> Rathaus <br/> Stiege 6, 1.
