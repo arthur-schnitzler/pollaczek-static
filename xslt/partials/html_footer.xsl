@@ -9,7 +9,7 @@
                 <div class="footer-separator"> KONTAKT </div>
                 <div class="row">
                     <div
-                        class="footer-widget col-lg-1 col-md-2 col-sm-2 col-xs-6  ml-auto  text-center ">
+                        class="footer-widget col-lg-1 col-md-2 col-sm-2 col-xs-6  ml-auto  text-center">
                         <div class="textwidget custom-html-widget">
                             <a href="/">
                                 <img
@@ -31,7 +31,7 @@
                         </div>
                     </div>
                     <!-- .footer-widget -->
-                    <div class="footer-widget col-lg-3 col-md-4 col-sm-3 ml-auto">
+                    <div class="footer-widget col-lg-3 col-md-4 col-sm-3 ml-auto text-right">
                         <div class="row">
                             <div class="textwidget custom-html-widget">
                                 <a href="https://www.wienbibliothek.at/" target="_blank">
