@@ -94,7 +94,7 @@
                                             <xsl:variable name="wb-foto-nummer" as="xs:integer">
                                                 
                                                 
-                                                <xsl:value-of select="xs:integer(substring-after(replace(string($teiSource), '.xml', ''), 'ckp')) + 4182724"/>
+                                                <xsl:value-of select="xs:integer(substring-after(replace(string($teiSource), '.xml', ''), 'ckp')) + 4183713"/>
                                             </xsl:variable>
                                             <xsl:variable name="facs-url" select="concat('https://www.digital.wienbibliothek.at/i3f/v20/', $wb-foto-nummer, '/info.json')"/>
                                             <script src="https://cdnjs.cloudflare.com/ajax/libs/openseadragon/3.0.0/openseadragon.min.js"/>
