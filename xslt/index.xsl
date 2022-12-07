@@ -38,13 +38,13 @@
                                     starb Arthur Schnitzler. In den 20 Monaten, die auf seinen Tod
                                     folgten, verfasste Clara Katharina Pollaczek, geborene Loeb,
                                     ihre Erinnerungen an das Kennenlernen in jungen Jahren und vor
-                                    allem an die gemeinsame Zeit seit Februar 1923, da sie seine
+                                    allem an die gemeinsame Zeit seit Februar 1923, während der sie seine
                                     zentrale Lebenspartnerin war. Sie fügte Briefe und
                                     Tagebucheinträge und teilweise auch andere Quellen zusammen und versah sie
-                                    gelegentlich mit überleitenden Texten. Das Typoskript, das für die
-                                    postume Veröffentlichung vorgesehen war, umfasst 990 von
+                                    gelegentlich mit überleitenden Texten. Das Typoskript, für die
+                                    postume Veröffentlichung vorgesehen, umfasst 990 von
                                     Schnitzlers Sekretärin Frieda Pollak getippte Seiten und blieb nach ihrem Tod
-                                    1951 unveröffentlicht. Bis zur vorliegenden Publikation war es
+                                    1951 siebzig Jahre lang unveröffentlicht. Bis zur vorliegenden Publikation war es
                                     zwar der Forschung bekannt, konnte aber nur in ihrem <a href="https://permalink.obvsg.at/wbr/AC15900634" target="_blank">Teilnachlass</a> in
                                     der Wienbibliothek eingesehen werden.</p>
                                 <p style="font-size:18px;line-heigth:27px;">Wir legen hier eine
