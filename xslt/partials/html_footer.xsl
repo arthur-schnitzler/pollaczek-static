@@ -35,7 +35,7 @@
                         <div class="row">
                             <div class="textwidget custom-html-widget">
                                 <a href="https://www.wienbibliothek.at/" target="_blank">
-                                    <img src="/img/wienbibliothek.jpg" class="image"
+                                    <img src="img/wienbibliothek.jpg" class="image"
                                         alt="Wienbibliothek Logo"
                                         style="max-width: 100%; height: auto;"
                                         title="Wienbibliothek Logo"/>
