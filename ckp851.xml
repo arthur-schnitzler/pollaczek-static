@@ -1,4 +1,5 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xml:id="ckp851.xml" xml:base="https://id.acdh.oeaw.ac.at.at/ckp" prev="https://id.acdh.oeaw.ac.at.at/ckp/ckp850.xml" next="https://id.acdh.oeaw.ac.at.at/ckp/ckp852.xml"><teiHeader><fileDesc><titleStmt><title level="s">Clara Katharina Pollaczek: »Arthur Schnitzler und ich«</title><title level="a">Clara Katharina Pollaczek an Arthur Schnitzler, 14. November 1930</title><title type="alternative" when-iso="1930-11-14"/><author ref="#12435">Pollaczek, Clara Katharina</author><editor><name>Müller, Martin Anton</name><name>Untner, Laura</name></editor><funder><name>FWF - Der Wissenschaftsfonds</name><address><street>Sensengasse 1</street><postCode>1090 Wien</postCode><placeName><country>A</country><settlement>Wien</settlement></placeName></address></funder></titleStmt><editionStmt><edition>CKP</edition><respStmt><resp>Transkription und Kommentierung</resp><name>Müller, Martin Anton</name><name>Untner, Laura</name></respStmt></editionStmt><publicationStmt><publisher>Austrian Centre for Digital Humanities and Cultural
+<TEI xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.tei-c.org/ns/1.0" xml:id="ckp851.xml" xml:base="https://id.acdh.oeaw.ac.at.at/ckp" prev="https://id.acdh.oeaw.ac.at.at/ckp/ckp850.xml" next="https://id.acdh.oeaw.ac.at.at/ckp/ckp852.xml"><teiHeader><fileDesc><titleStmt><title level="s">Clara Katharina Pollaczek: »Arthur Schnitzler und
+                                    ich«</title><title level="a"/><author ref="#12435">Pollaczek, Clara Katharina</author><editor><name>Müller, Martin Anton</name><name>Untner, Laura</name></editor><funder><name>FWF - Der Wissenschaftsfonds</name><address><street>Sensengasse 1</street><postCode>1090 Wien</postCode><placeName><country>A</country><settlement>Wien</settlement></placeName></address></funder></titleStmt><editionStmt><edition>CKP</edition><respStmt><resp>Transkription und Kommentierung</resp><name>Müller, Martin Anton</name><name>Untner, Laura</name></respStmt></editionStmt><publicationStmt><publisher>Austrian Centre for Digital Humanities and Cultural
                                     Heritage</publisher><pubPlace>Vienna</pubPlace><date when="2022">2023</date><availability><licence target="https://creativecommons.org/licenses/by/4.0/deed.de"><p>Sie dürfen: Teilen — das Material in jedwedem Format oder
                                             Medium vervielfältigen und weiterverbreiten Bearbeiten —
                                             das Material remixen, verändern und darauf aufbauen und
@@ -24,37 +25,18 @@
                                             Persönlichkeits- und Datenschutzrechte zu beachten sein,
                                             die Ihre Nutzung des Materials entsprechend
                                             beschränken.</p></licence></availability><idno type="handle"/></publicationStmt><seriesStmt><p>Machine-Readable Transcriptions of the Correspondences of Arthur
-                                    Schnitzler</p></seriesStmt><sourceDesc><listWit><witness n="1"><msDesc><msIdentifier><country>A</country><settlement>Wien</settlement><repository>Wienbibliothek</repository><idno>H.I.N. 155550</idno></msIdentifier></msDesc></witness></listWit></sourceDesc></fileDesc><profileDesc><langUsage><language ident="de-AT">German</language></langUsage></profileDesc><revisionDesc status="proposed"><change who="LU" when="2022-12-25">Angelegt</change></revisionDesc></teiHeader><facsimile><graphic url="851"/></facsimile><text><body><div type="writingSession" n="1"><seite id="851">
-            <lb n="01"/>Wien, 14.11.1930.
-      <lb n="02"/>An A.S., Berlin.
-      <lb n="03"/>Liebster,
-      <lb n="04"/>erst heute Früh ist Dein Brief vom 12. gekommen und gestern
-      <lb n="05"/>Mittag die Karte, auf der Du allerdings nicht zu erkennen bist. Ich
-      <lb n="06"/>Mann
-      <lb n="07"/>vermute Dich in dem Paxt mit dem Bart, der bei der Musik lehnt. Die Da-
-      <lb n="08"/>men ringsum sehen recht mässig aus und sprechen nicht sehr für den
-      <lb n="09"/>Five o'clock-tea im Esplanade. Wann ist denn das aufgenommen worden?
-      <lb n="10"/>Ich bin heute zum ersten Mal wieder ausgegangen und auch
-      <lb n="11"/>jetzt ½5 von einem kleinen Spaziergang heimgekommen. Das Wetter ist
-      <lb n="12"/>heute so uungewöhnlich schön, Himmel und Luft so rein und friedlich,
-      <lb n="13"/>wie noch nie in diesem Herbst. Ich wünschte, wir hätten noch
-      <lb n="14"/>manchen so schönen Tag, wenn Du zurück bist. Ich bin lange im
-      <lb n="15"/>Hartäckerpark gestanden. Vormittag war ich wegen Kleid, Pelz etc. und
-      <lb n="16"/>habe allerhand Leichtsinniges getan. - Aber ich habe solche Lust mich
-      <lb n="17"/>zu verändern und zu verschönern.
-      <lb n="18"/>Jetzt bin ich einigermassen müde, denn ich war all die Tage
-      <lb n="19"/>doch recht elend und vielleicht ohne es zu berücksichtigen schon vor-
-      <lb n="20"/>her.
-      <lb n="21"/>Ich habe trotzdem viel gearbeitet und der erste Teil der
-      <lb n="22"/>Novelle istfertig und ich hoffe stilistisch recht gelungen. Heute will
-      <lb n="23"/>ich am zweiten Teil weiterarbeiten, der wohl der schwierigere ist. Mit
-      <lb n="24"/>Direktor Preminger sprach ich telefonisch, er erklärte, er könne keine
-      <lb n="25"/>schriftlichen Referenzen geben, sie hätten bestimmte Formulare für An-
-      <lb n="26"/>nahme und Ablehnung, aber wenn ich das Stück an Horch oder an Harald
-      <lb n="27"/>schicken sollte und einen der beiden an ihn weisen wollte, so würde er
-      <lb n="28"/>ihnen dasselbe sagen, was er mir privat gesagt hat, nämlich, dass er das
-      <lb n="29"/>Stück ausgezeichnet findet. Wenn Du es nun für nützlich halten soll-
-      <lb n="30"/>test, könntest Du diese Stelle meines Briefes Horch oder Harald zeigen
-      <lb n="31"/>oder vorlesen, auch sagen, dass Preminger mir selbst den Rat gab es nach
-      <lb n="32"/>Berlin zu senden, da in der Josefstadt keine Besetzungsmöglichkeiten
-      <lb n="33"/>115</seite></div></body></text></TEI>
+                                    Schnitzler</p></seriesStmt><sourceDesc><listWit><witness n="1"><msDesc><msIdentifier><country>A</country><settlement>Wien</settlement><repository>Wienbibliothek</repository><idno>H.I.N. 155550</idno></msIdentifier></msDesc></witness></listWit></sourceDesc></fileDesc><profileDesc><langUsage><language ident="de-AT">German</language></langUsage></profileDesc><revisionDesc status="proposed"><change who="LU" when="2022-12-25">Angelegt</change></revisionDesc></teiHeader><facsimile><graphic url="ckp851"/></facsimile><text><body><div type="writingSession" n="1"><seite>
+      <lb n="01"/>"Herr? Doktor haben Sie zu essen?" geplant.
+      <lb n="02"/>Mein Mittelfinger rechts benimmt sich immer obstinater, im übrigen
+      <lb n="03"/>leidliches Befinden. In den nächsten Tagen will ich Feilchenfeld,
+      <lb n="04"/>Wiegler,Krell, Fulda,Kerr, eventuell Hegewald, Viki, Mimi,Horch etc. spre-
+      <lb n="05"/>chen. Auch zu Patry will ich gehen, um eventuell den Kakadu für Stadt-
+      <lb n="06"/>theater zu lancieren. Paul Goldmann bin ich begegnet - seine Tochter -
+      <lb n="07"/>hat in Stolpe die Eboli geshielt, - u.zw. mit Legal als Philipp. Legal
+      <lb n="08"/>ist jetzt Direktor des Stadttheaters (Heinis Chef) - und - gastiert
+      <lb n="09"/>zuweilen - nur "im geheimen" - in kleinen Nestern.
+      <lb n="10"/>Am Sonntag werde ich telefonieren, wenn es Dir recht ist. Bis dahin
+      <lb n="11"/>wirst Du noch etliche Male von mir gehört haben - und ich hoffentlich
+      <lb n="12"/>auch von Dir.
+      <lb n="13"/>Lebwohl, mein Liebes, und sei in aller Innigkeit umarmt.
+      <lb n="14"/>Dein A.</seite></div></body></text></TEI>

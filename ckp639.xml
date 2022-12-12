@@ -1,4 +1,5 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xml:id="ckp639.xml" xml:base="https://id.acdh.oeaw.ac.at.at/ckp" prev="https://id.acdh.oeaw.ac.at.at/ckp/ckp638.xml" next="https://id.acdh.oeaw.ac.at.at/ckp/ckp640.xml"><teiHeader><fileDesc><titleStmt><title level="s">Clara Katharina Pollaczek: »Arthur Schnitzler und ich«</title><title level="a">Tagebuch von Clara Katharina Pollaczek, 25.–31. Dezember 1928</title><title type="alternative" when-iso="1928-12-25"/><title type="alternative" when-iso="1928-12-26"/><title type="alternative" when-iso="1928-12-27"/><title type="alternative" when-iso="1928-12-28"/><title type="alternative" when-iso="1928-12-30"/><title type="alternative" when-iso="1928-12-31"/><author ref="#12435">Pollaczek, Clara Katharina</author><editor><name>Müller, Martin Anton</name><name>Untner, Laura</name></editor><funder><name>FWF - Der Wissenschaftsfonds</name><address><street>Sensengasse 1</street><postCode>1090 Wien</postCode><placeName><country>A</country><settlement>Wien</settlement></placeName></address></funder></titleStmt><editionStmt><edition>CKP</edition><respStmt><resp>Transkription und Kommentierung</resp><name>Müller, Martin Anton</name><name>Untner, Laura</name></respStmt></editionStmt><publicationStmt><publisher>Austrian Centre for Digital Humanities and Cultural
+<TEI xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.tei-c.org/ns/1.0" xml:id="ckp639.xml" xml:base="https://id.acdh.oeaw.ac.at.at/ckp" prev="https://id.acdh.oeaw.ac.at.at/ckp/ckp638.xml" next="https://id.acdh.oeaw.ac.at.at/ckp/ckp640.xml"><teiHeader><fileDesc><titleStmt><title level="s">Clara Katharina Pollaczek: »Arthur Schnitzler und
+                                    ich«</title><title level="a"/><author ref="#12435">Pollaczek, Clara Katharina</author><editor><name>Müller, Martin Anton</name><name>Untner, Laura</name></editor><funder><name>FWF - Der Wissenschaftsfonds</name><address><street>Sensengasse 1</street><postCode>1090 Wien</postCode><placeName><country>A</country><settlement>Wien</settlement></placeName></address></funder></titleStmt><editionStmt><edition>CKP</edition><respStmt><resp>Transkription und Kommentierung</resp><name>Müller, Martin Anton</name><name>Untner, Laura</name></respStmt></editionStmt><publicationStmt><publisher>Austrian Centre for Digital Humanities and Cultural
                                     Heritage</publisher><pubPlace>Vienna</pubPlace><date when="2022">2023</date><availability><licence target="https://creativecommons.org/licenses/by/4.0/deed.de"><p>Sie dürfen: Teilen — das Material in jedwedem Format oder
                                             Medium vervielfältigen und weiterverbreiten Bearbeiten —
                                             das Material remixen, verändern und darauf aufbauen und
@@ -24,35 +25,18 @@
                                             Persönlichkeits- und Datenschutzrechte zu beachten sein,
                                             die Ihre Nutzung des Materials entsprechend
                                             beschränken.</p></licence></availability><idno type="handle"/></publicationStmt><seriesStmt><p>Machine-Readable Transcriptions of the Correspondences of Arthur
-                                    Schnitzler</p></seriesStmt><sourceDesc><listWit><witness n="1"><msDesc><msIdentifier><country>A</country><settlement>Wien</settlement><repository>Wienbibliothek</repository><idno>H.I.N. 155550</idno></msIdentifier></msDesc></witness></listWit></sourceDesc></fileDesc><profileDesc><langUsage><language ident="de-AT">German</language></langUsage></profileDesc><revisionDesc status="proposed"><change who="LU" when="2022-12-25">Angelegt</change></revisionDesc></teiHeader><facsimile><graphic url="639"/></facsimile><text><body><div type="writingSession" n="1"><seite id="639">
-            <lb n="01"/>1928
-      <lb n="02"/>gebn
-      <lb n="03"/>25. 12.
-      <lb n="04"/>Heute Abend bei ihm.
-      <lb n="05"/>26.12. Und nun ist er fort. Ich war auch heute zu Tisch und bis 4 Uhr
-      <lb n="06"/>bei inn. Um 6 Uhr ging sein Zug. Mich muss mich erst an den Gedanken ge-
-      <lb n="07"/>wöhnen, dass er fort ist. Und gleich nach seiner Abreise brachte mir Minna
-      <lb n="08"/>einen Strauss Flieder in seinem Auftrag. Ich finde das rührend lieb von
-      <lb n="09"/>ihm.
-      <lb n="10"/>Henry und Fredi zum Abendessen.
-      <lb n="11"/>27.12. Zuhause. Innere Unruhe. Vergeblicher Versuch zu arbeiten. Um die
-      <lb n="12"/>Mittagszeit kurzer Spaziergang, treffe Salten und Gattin. Bitte sie für
-      <lb n="13"/>den 3. zum Thee. Lade telefonisch Sil Vara und seine Freundin dazu.
-      <lb n="14"/>Sie nehmen sehr erfreut an.
-      <lb n="15"/>Abend Otto und Anna bei mir.
-      <lb n="16"/>28.12. Vormittag zuhause. Nachmittag bei Alma Mahler, langes Gespräch
-      <lb n="17"/>mit Werfel über meine Gedichte. Er findet, ich nütze meine lyrische
-      <lb n="18"/>Begabung nicht genügend aus. Einige meiner Gedichte vollendet, und
-      <lb n="19"/>auch bei den schwächerem Gedichten starkes musikalisches Empfinden.
-      <lb n="20"/>Komische Wirtschaft dort. Mischung von Boheme und Bürgerlichkeit.
-      <lb n="21"/>Beim Fortgehen Alma wieder sehr ausfällig gegen die O. Ich betone, dass
-      <lb n="22"/>die Existenz der O. für mich ganz bekanglos ist und mir A.'s Reise
-      <lb n="23"/>nach Berlin nur wegen der Möglichkeiten von Erkältungen und Aufregun-
-      <lb n="24"/>gen zuwider ist. Es waren viele Maler dort, mit denen Alma per Du ist,
-      <lb n="25"/>aber auch mit einer Art Diener ist sie per Du (17 Jahre alt und schlam-
-      <lb n="26"/>pert). Eine andere Welt!
-      <lb n="27"/>30.12. Harry zu Tisch, sonst den ganzen Tag allein. Meinem Mädchen gekün-
-      <lb n="28"/>digt.
-      <lb n="29"/>31.12. Einsamer Sylvesterabend. Brief von A. Sehr lieb, aber er kommt
-      <lb n="30"/>erst nächste Woche zurück. Düstere Stimmung meinerseits. Um 11 Uhr
-      <lb n="31"/>mit Schlafmittel zu Bett.</seite></div></body></text></TEI>
+                                    Schnitzler</p></seriesStmt><sourceDesc><listWit><witness n="1"><msDesc><msIdentifier><country>A</country><settlement>Wien</settlement><repository>Wienbibliothek</repository><idno>H.I.N. 155550</idno></msIdentifier></msDesc></witness></listWit></sourceDesc></fileDesc><profileDesc><langUsage><language ident="de-AT">German</language></langUsage></profileDesc><revisionDesc status="proposed"><change who="LU" when="2022-12-25">Angelegt</change></revisionDesc></teiHeader><facsimile><graphic url="ckp639"/></facsimile><text><body><div type="writingSession" n="1"><seite>
+      <lb n="01"/>»Freiwild« natürlich bist Du da bist. Jetzt sind es noch drei lange
+      <lb n="02"/>Tage! Ich freue mich schon sehr. Du auch? Ich glaube ja.
+      <lb n="03"/>Am Nachmittag gegen 4,bald nachdem P. fort war,kam
+      <lb n="04"/>meine Hausfrau auf einen Tratsch und blieb eine Stunde. Sie sagte,
+      <lb n="05"/>dass der Garten im Frühling wie ein Fliedermeer aussieht, dass so
+      <lb n="06"/>schöner dicker Flieder blüht und so viel, dass man gar nicht weiss
+      <lb n="07"/>wohin damit. Uebrigens ist der Garten auch jetzt mit dem vielen
+      <lb n="08"/>Schnee hübsch anzusehen, sobald ein bissel Sonne herauskommt, will
+      <lb n="09"/>ich ihn photographieren. Jetzt sag ich Dir gute Nacht und morgen
+      <lb n="10"/>schreibe ich noch ein paar Zeilen, die letzten hoffentlich nach
+      <lb n="11"/>Berlin - und dann bist Du wieder da und wir feiern wiedder Flitter-
+      <lb n="12"/>wochen oder Monate oder lieber Flitterjahre.
+      <lb n="13"/>Ich umarme Dich sehr.
+      <lb n="14"/>Deine C.K.</seite></div></body></text></TEI>

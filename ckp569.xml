@@ -1,4 +1,5 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xml:id="ckp569.xml" xml:base="https://id.acdh.oeaw.ac.at.at/ckp" prev="https://id.acdh.oeaw.ac.at.at/ckp/ckp568.xml" next="https://id.acdh.oeaw.ac.at.at/ckp/ckp570.xml"><teiHeader><fileDesc><titleStmt><title level="s">Clara Katharina Pollaczek: »Arthur Schnitzler und ich«</title><title level="a">Clara Katharina Pollaczek an Arthur Schnitzler, 19. August 1928</title><title type="alternative" when-iso="1928-08-19"/><author ref="#12435">Pollaczek, Clara Katharina</author><editor><name>Müller, Martin Anton</name><name>Untner, Laura</name></editor><funder><name>FWF - Der Wissenschaftsfonds</name><address><street>Sensengasse 1</street><postCode>1090 Wien</postCode><placeName><country>A</country><settlement>Wien</settlement></placeName></address></funder></titleStmt><editionStmt><edition>CKP</edition><respStmt><resp>Transkription und Kommentierung</resp><name>Müller, Martin Anton</name><name>Untner, Laura</name></respStmt></editionStmt><publicationStmt><publisher>Austrian Centre for Digital Humanities and Cultural
+<TEI xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.tei-c.org/ns/1.0" xml:id="ckp569.xml" xml:base="https://id.acdh.oeaw.ac.at.at/ckp" prev="https://id.acdh.oeaw.ac.at.at/ckp/ckp568.xml" next="https://id.acdh.oeaw.ac.at.at/ckp/ckp570.xml"><teiHeader><fileDesc><titleStmt><title level="s">Clara Katharina Pollaczek: »Arthur Schnitzler und
+                                    ich«</title><title level="a"/><author ref="#12435">Pollaczek, Clara Katharina</author><editor><name>Müller, Martin Anton</name><name>Untner, Laura</name></editor><funder><name>FWF - Der Wissenschaftsfonds</name><address><street>Sensengasse 1</street><postCode>1090 Wien</postCode><placeName><country>A</country><settlement>Wien</settlement></placeName></address></funder></titleStmt><editionStmt><edition>CKP</edition><respStmt><resp>Transkription und Kommentierung</resp><name>Müller, Martin Anton</name><name>Untner, Laura</name></respStmt></editionStmt><publicationStmt><publisher>Austrian Centre for Digital Humanities and Cultural
                                     Heritage</publisher><pubPlace>Vienna</pubPlace><date when="2022">2023</date><availability><licence target="https://creativecommons.org/licenses/by/4.0/deed.de"><p>Sie dürfen: Teilen — das Material in jedwedem Format oder
                                             Medium vervielfältigen und weiterverbreiten Bearbeiten —
                                             das Material remixen, verändern und darauf aufbauen und
@@ -24,34 +25,23 @@
                                             Persönlichkeits- und Datenschutzrechte zu beachten sein,
                                             die Ihre Nutzung des Materials entsprechend
                                             beschränken.</p></licence></availability><idno type="handle"/></publicationStmt><seriesStmt><p>Machine-Readable Transcriptions of the Correspondences of Arthur
-                                    Schnitzler</p></seriesStmt><sourceDesc><listWit><witness n="1"><msDesc><msIdentifier><country>A</country><settlement>Wien</settlement><repository>Wienbibliothek</repository><idno>H.I.N. 155550</idno></msIdentifier></msDesc></witness></listWit></sourceDesc></fileDesc><profileDesc><langUsage><language ident="de-AT">German</language></langUsage></profileDesc><revisionDesc status="proposed"><change who="LU" when="2022-12-25">Angelegt</change></revisionDesc></teiHeader><facsimile><graphic url="569"/></facsimile><text><body><div type="writingSession" n="1"><seite id="569">
-            <lb n="01"/>141/3
-      <lb n="02"/>Semmering,Südbahnhotel Waldhof.
-      <lb n="03"/>19.8.1928.8 Uhr abends.
-      <lb n="04"/>Mein Liebes, so ein Expressbrief ist doch etwas Wundervolles. Dein
-      <lb n="05"/>Schreiben von gestern Samstag Früh war heute Mittag bei mir und mir
-      <lb n="06"/>ist in dem Augenblick, als ich ihn aus meinem Postfach nahm, direkt bes-
-      <lb n="07"/>ser geworden. Ich bin so froh, dass Dir das Hotel sympathisch ist und
-      <lb n="08"/>dass Du es in dieser Beziehung gut getroffen hast.
-      <lb n="09"/>Ich bin zufrieden im Waldhof zu wohnen, so ramponirt er auch ist, denn
-      <lb n="10"/>drüben ist es wie ein jüdisches Volksfest mit stark ungarischer Be-
-      <lb n="11"/>tonung. Für ein Zimmer hier im Haus 14 S. zu verlangen ist allerdings
-      <lb n="12"/>unverschämt. Das W.C. meinem Zimmer gegenüber nicht englisch. (1928).
-      <lb n="13"/>Im Vorraum alte Möbelstücke, Bettgestelle etc.
-      <lb n="14"/>Ein Tag zu Ende. Ich habe in der Meierei gefrührtückt, bin spazieren
-      <lb n="15"/>gelaufen, in der Sonne gesessen, will mich erholen, will gut aussehen,
-      <lb n="16"/>will Dir gefallen. Freuen tut mich vorläufig noch nichts.
-      <lb n="17"/>(in Fussan)
-      <lb n="18"/>Ich kann mich an die Gegend dort noch ganz gut erinnern, so lange es
-      <lb n="19"/>auch her ist. Wir (die Kinder und ich) lagen immer vor den Toren der
-      <lb n="20"/>Stadt am Waldesrand, ich glaube, es heisst Blutanger oder so ähnlich.
-      <lb n="21"/>Auch ich suche Erinnerungen hier an Dich bei jedem Schritt; auf der
-      <lb n="22"/>Hochstrasse, wo wir im Regen zusammen gingen, bei dem Zuckerbäcker, wo
-      <lb n="23"/>Du mir Schokolade kauftest. Der Portier Rosenbaum erscheint mir wie
-      <lb n="24"/>eine von Dir belebte Marionette.
-      <lb n="25"/>Lebwohl, lebwohl. Lass mich bald hören, dass Du Dich wohler fühlst und
-      <lb n="26"/>zur Arbeit findest. Ich denke immer an Dich und Deinen Schmerz. Und
-      <lb n="27"/>doch glaube ich, dass wenn man von jemand, den man liebt, so geliebt wird,
-      <lb n="28"/>wie ich Dich liebe, kann man nicht ganz unglücklich sein. Ich küsse Dich
-      <lb n="29"/>tausendmal.Deine
-      <lb n="30"/>C.K.</seite></div></body></text></TEI>
+                                    Schnitzler</p></seriesStmt><sourceDesc><listWit><witness n="1"><msDesc><msIdentifier><country>A</country><settlement>Wien</settlement><repository>Wienbibliothek</repository><idno>H.I.N. 155550</idno></msIdentifier></msDesc></witness></listWit></sourceDesc></fileDesc><profileDesc><langUsage><language ident="de-AT">German</language></langUsage></profileDesc><revisionDesc status="proposed"><change who="LU" when="2022-12-25">Angelegt</change></revisionDesc></teiHeader><facsimile><graphic url="ckp569"/></facsimile><text><body><div type="writingSession" n="1"><seite>
+      <lb n="01"/>Hohenschwangau, 18.8.1928. Morgen.
+      <lb n="02"/>Mein Liebes, die Reise ist gut verlaufen; ein München habe ich nichts
+      <lb n="03"/>anderes getan als nach Frühstück im Rheinischen Hof, mit Heini zwei
+      <lb n="04"/>Stunden allein in den Strassen umhergelaufen. Im 1 ging der Zug nach
+      <lb n="05"/>Für Füssen, wir kamen bei Regen an, bei Regen auch in Hohenschwangau; -
+      <lb n="06"/>das Hotel wie ichs in Erinnerung hatte; -mir ist als hätt ich eine gute
+      <lb n="07"/>Wahl getroffen; -Behaglichkeit ohne jeden Luxus; -die Landschaft,-heute
+      <lb n="08"/>ists kühl und sonnig, besonders schön.-Die Nacht tief geschlafen. Von -
+      <lb n="09"/>9½ bis 5, mit peinlichem Kopfweh erwacht; noch bis 7 geduselt.- Mein
+      <lb n="10"/>definitive Zimmer bekomm ich erst Mittag, mit Bad, auch dieses provi-
+      <lb n="11"/>s-orisch und schönem Blick, höher als dieses, in dem ich eben gefrüh-
+      <lb n="12"/>stückt habe. Direction und Personal sympathisch, Publikum belanglos.
+      <lb n="13"/>Natürlich absolut keine Bekannten oder Landamann.
+      <lb n="14"/>Heute werde ich wohl Vormittag nach Füssen spazieren; es ist mir ein
+      <lb n="15"/>guter Gedanke, dass Du vor Jahren ein paar Wochen dort gewohnt
+      <lb n="16"/>hast. Ich hoffe Du atmest am Semmering ein wenig auf, - für Dich und für
+      <lb n="17"/>mich. Weiter will ich heut nichts von mir sagen.
+      <lb n="18"/>Ich umarme Dich von ganzem Herzen. Dein
+      <lb n="19"/>A.</seite></div></body></text></TEI>

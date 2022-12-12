@@ -1,4 +1,5 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xml:id="ckp862.xml" xml:base="https://id.acdh.oeaw.ac.at.at/ckp" prev="https://id.acdh.oeaw.ac.at.at/ckp/ckp861.xml" next="https://id.acdh.oeaw.ac.at.at/ckp/ckp863.xml"><teiHeader><fileDesc><titleStmt><title level="s">Clara Katharina Pollaczek: »Arthur Schnitzler und ich«</title><title level="a">Tagebuch von Clara Katharina Pollaczek, 5.–8. Dezember 1930</title><title type="alternative" when-iso="1930-12-05"/><title type="alternative" when-iso="1930-12-06"/><title type="alternative" when-iso="1930-12-07"/><title type="alternative" when-iso="1930-12-08"/><author ref="#12435">Pollaczek, Clara Katharina</author><editor><name>Müller, Martin Anton</name><name>Untner, Laura</name></editor><funder><name>FWF - Der Wissenschaftsfonds</name><address><street>Sensengasse 1</street><postCode>1090 Wien</postCode><placeName><country>A</country><settlement>Wien</settlement></placeName></address></funder></titleStmt><editionStmt><edition>CKP</edition><respStmt><resp>Transkription und Kommentierung</resp><name>Müller, Martin Anton</name><name>Untner, Laura</name></respStmt></editionStmt><publicationStmt><publisher>Austrian Centre for Digital Humanities and Cultural
+<TEI xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.tei-c.org/ns/1.0" xml:id="ckp862.xml" xml:base="https://id.acdh.oeaw.ac.at.at/ckp" prev="https://id.acdh.oeaw.ac.at.at/ckp/ckp861.xml" next="https://id.acdh.oeaw.ac.at.at/ckp/ckp863.xml"><teiHeader><fileDesc><titleStmt><title level="s">Clara Katharina Pollaczek: »Arthur Schnitzler und
+                                    ich«</title><title level="a"/><author ref="#12435">Pollaczek, Clara Katharina</author><editor><name>Müller, Martin Anton</name><name>Untner, Laura</name></editor><funder><name>FWF - Der Wissenschaftsfonds</name><address><street>Sensengasse 1</street><postCode>1090 Wien</postCode><placeName><country>A</country><settlement>Wien</settlement></placeName></address></funder></titleStmt><editionStmt><edition>CKP</edition><respStmt><resp>Transkription und Kommentierung</resp><name>Müller, Martin Anton</name><name>Untner, Laura</name></respStmt></editionStmt><publicationStmt><publisher>Austrian Centre for Digital Humanities and Cultural
                                     Heritage</publisher><pubPlace>Vienna</pubPlace><date when="2022">2023</date><availability><licence target="https://creativecommons.org/licenses/by/4.0/deed.de"><p>Sie dürfen: Teilen — das Material in jedwedem Format oder
                                             Medium vervielfältigen und weiterverbreiten Bearbeiten —
                                             das Material remixen, verändern und darauf aufbauen und
@@ -24,36 +25,33 @@
                                             Persönlichkeits- und Datenschutzrechte zu beachten sein,
                                             die Ihre Nutzung des Materials entsprechend
                                             beschränken.</p></licence></availability><idno type="handle"/></publicationStmt><seriesStmt><p>Machine-Readable Transcriptions of the Correspondences of Arthur
-                                    Schnitzler</p></seriesStmt><sourceDesc><listWit><witness n="1"><msDesc><msIdentifier><country>A</country><settlement>Wien</settlement><repository>Wienbibliothek</repository><idno>H.I.N. 155550</idno></msIdentifier></msDesc></witness></listWit></sourceDesc></fileDesc><profileDesc><langUsage><language ident="de-AT">German</language></langUsage></profileDesc><revisionDesc status="proposed"><change who="LU" when="2022-12-25">Angelegt</change></revisionDesc></teiHeader><facsimile><graphic url="862"/></facsimile><text><body><div type="writingSession" n="1"><seite id="862">
-            <lb n="01"/>Tgb. 5.11.1930.
-      <lb n="02"/>zende Person, völlig aus der Taussig-Art geschlagen. A. am Abend
-      <lb n="03"/>bei Clauser eingeladen. Ich ärgere mich nicht mehr.
-      <lb n="04"/>6.12. Mittag Harry, Fredi, dann Hagenbunderöffnung. Fredi 9 sehr hüb-
-      <lb n="05"/>sche Aquarelle. Abend allein zuhause. A. angeblich auch zuhause.
-      <lb n="06"/>Ich weiss nichts von ihm und wage nicht anzurufen, da er es als
-      <lb n="07"/>Kontrolle auslegt. Ich war die ganze Woche einmal mit ihm zusammen.
-      <lb n="08"/>7.11. Mittag mit Jakob und Martha Wassermann zu Tisch bei A. Ich
-      <lb n="09"/>sehr gesprächig, obwohl mir beide nicht sehr sympathisch sind.
-      <lb n="10"/>Am Abend mit Donath auch dort. Am Heimweg sagte mir D. A. habe ihm
-      <lb n="11"/>gesagt, er hätte Herzbeschwerden, er soll mir aber ja nichts davon
-      <lb n="12"/>sagen. Ich antwortete ihm, ich hätte ihn ja unlängst schon angerufen,
-      <lb n="13"/>weil ich die Magenüblichkeiten nicht fürharmlose halte. D. behaup-
-      <lb n="14"/>tet, die hätten mit dem Herzen nichts zu tun. Auch findet er es be-
-      <lb n="15"/>langlos, wenn A. wie heute drei Tassen schwarzen Kaffee trinkt.-Das
-      <lb n="16"/>versteh ich nicht. Ich mache mir Sorgen und bin doch nicht ganz über-
-      <lb n="17"/>zeugt, dass ich nicht angeschwindelt werde, um A.'s Wesen und Benehmen
-      <lb n="18"/>gegen mich zu entschuldigen. Vielleicht von ihm - vielleicht von D.
-      <lb n="19"/>8.11. Heute Mittag mit A. bei Emma Sachs. A. kam mich holen und er-
-      <lb n="20"/>zählte mir gleich, dass er Dr.D. gestern gesagt habe,dass er öfters
-      <lb n="21"/>an Herzuständen leide (und der sollte es angeblich mir nicht
-      <lb n="22"/>sagen) und D. will diese Woche eine Röntgenaufnahme von ihm machen
-      <lb n="23"/>und eventuell wieder einen Aderlass.
-      <lb n="24"/>Ich sagte ihm, ich verstehe nicht, dass er bei Herzklopfen etc. so viel
-      <lb n="25"/>schwarzen Kaffee trinkt, in der Früh einen Theeextrakt, wie sonst
-      <lb n="26"/>kein Mensch und eine Havannah nach Tisch raucht. Antwort: "Es schmeckt
-      <lb n="27"/>mir!“ Ich rede wie mit einem kleinen Kind; dass sich doch jüngere Men-
-      <lb n="28"/>schen auch ern Diäten und kleine Entbehrungen gewöhnen müssen. Er
-      <lb n="29"/>gibt mir recht, trinkt aber nach Tisch doch wieder schwarzen Kaffee.
-      <lb n="30"/>Sonst war es dort sehr nett. Der Haussohn sympathisch,else Wohlgemuth
-      <lb n="31"/>mit Gatten (Graf Thun) höchst angenehme Menschen. Ich bespreche mit
-      <lb n="32"/>126</seite></div></body></text></TEI>
+                                    Schnitzler</p></seriesStmt><sourceDesc><listWit><witness n="1"><msDesc><msIdentifier><country>A</country><settlement>Wien</settlement><repository>Wienbibliothek</repository><idno>H.I.N. 155550</idno></msIdentifier></msDesc></witness></listWit></sourceDesc></fileDesc><profileDesc><langUsage><language ident="de-AT">German</language></langUsage></profileDesc><revisionDesc status="proposed"><change who="LU" when="2022-12-25">Angelegt</change></revisionDesc></teiHeader><facsimile><graphic url="ckp862"/></facsimile><text><body><div type="writingSession" n="1"><seite>
+      <lb n="01"/>Sonntag 30.10. Vormittag Spaziergang mit A. bei gutem Wetter. Trotzdem
+      <lb n="02"/>stimmungslos. Sein Aussehen elend. Habe Dr.D. meine Bedenken te-
+      <lb n="03"/>lefoniert.
+      <lb n="04"/>Nachmittag bei Baronin Guttmann zum Thee, Abend bei A. Ging zeitlich
+      <lb n="05"/>fort, um jeder Gereiztheit auszuweichen.
+      <lb n="06"/>1.11. Vormittag Stadt. Nachmittag Frieda den Schluss der Novelle
+      <lb n="07"/>diktiert (Mütter" und sie A. hinübergeschickt. Dann zum Nachtmahl
+      <lb n="08"/>zu Otto, Emmy, wo auch Fredi anwesend war. Ganz gemütlich. Zuhause um
+      <lb n="09"/>11 Uhr Nachts rief mich A. an, um mir zu sagen, dass die Novelle zum
+      <lb n="10"/>Basten gehört, was ich geschrieben habe, sie sei staunenswert gut.
+      <lb n="11"/>2.11. Sah A. auch heute nicht. Vormittag Stadt, Nachmittag bei Emmy
+      <lb n="12"/>Erlanger (Frau Prof. Fränkel, Baronin Margutti, Frau Veith). Abend
+      <lb n="13"/>allein zuhause.
+      <lb n="14"/>3.11. Trebitsch und Gattin, Anna und Gisela Berger zum Thee bei mir.
+      <lb n="15"/>Später auch A. Nach Fortgang der beiden Trebitsch blieben Anna, Gi-
+      <lb n="16"/>sela mit A. zum Nachtmahl. Es war ganz nett, aber A. Ziemlich unbe-
+      <lb n="17"/>teiligt meist mit dem Radio beschäftigt, ging mit den beiden Damen
+      <lb n="18"/>gleichzeitig fort.
+      <lb n="19"/>4.11. Mit A. Vormittag kurzer Spaziergang, dann in die Stadt. Ich bin
+      <lb n="20"/>freundlich, kühl, wie es die Situation erfordert. Am Abend bei Tolnay,
+      <lb n="21"/>A. bei Louis Friedmann eingeladen. Er kam mich in meinem neuen
+      <lb n="22"/>schwarzen Spitzenkleid ansehen, fand mich "bildhübsch" und machte
+      <lb n="23"/>mir einige Komplimente. Ich habe mich sehr gut unterhalten. Die ein-
+      <lb n="24"/>zige gut aussehende Frau. Globoznik und Henry Menasse meine Tisch-
+      <lb n="25"/>herren machten mir sehr den Hof. Für mein "Selbstbewusstsein" sind
+      <lb n="26"/>solche Gesellschaften sehr zuträglich. Der alte Zsolnay (Vaßer vom
+      <lb n="27"/>Verleger) brachte mich nachhause. Henry M. war nicht sehr entzückt
+      <lb n="28"/>darüber, aber es war ganz gut so, ich mag den Lumpen nicht.
+      <lb n="29"/>5.11. Vormittag Stadt. Gutes Wetter. Nachmittag Herma Artaria, rei-</seite></div></body></text></TEI>

@@ -1,4 +1,5 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xml:id="ckp669.xml" xml:base="https://id.acdh.oeaw.ac.at.at/ckp" prev="https://id.acdh.oeaw.ac.at.at/ckp/ckp668.xml" next="https://id.acdh.oeaw.ac.at.at/ckp/ckp670.xml"><teiHeader><fileDesc><titleStmt><title level="s">Clara Katharina Pollaczek: »Arthur Schnitzler und ich«</title><title level="a">Arthur Schnitzler an Clara Katharina Pollaczek, 22. März 1929</title><title type="alternative" when-iso="1929-03-22"/><author ref="#12435">Pollaczek, Clara Katharina</author><editor><name>Müller, Martin Anton</name><name>Untner, Laura</name></editor><funder><name>FWF - Der Wissenschaftsfonds</name><address><street>Sensengasse 1</street><postCode>1090 Wien</postCode><placeName><country>A</country><settlement>Wien</settlement></placeName></address></funder></titleStmt><editionStmt><edition>CKP</edition><respStmt><resp>Transkription und Kommentierung</resp><name>Müller, Martin Anton</name><name>Untner, Laura</name></respStmt></editionStmt><publicationStmt><publisher>Austrian Centre for Digital Humanities and Cultural
+<TEI xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.tei-c.org/ns/1.0" xml:id="ckp669.xml" xml:base="https://id.acdh.oeaw.ac.at.at/ckp" prev="https://id.acdh.oeaw.ac.at.at/ckp/ckp668.xml" next="https://id.acdh.oeaw.ac.at.at/ckp/ckp670.xml"><teiHeader><fileDesc><titleStmt><title level="s">Clara Katharina Pollaczek: »Arthur Schnitzler und
+                                    ich«</title><title level="a"/><author ref="#12435">Pollaczek, Clara Katharina</author><editor><name>Müller, Martin Anton</name><name>Untner, Laura</name></editor><funder><name>FWF - Der Wissenschaftsfonds</name><address><street>Sensengasse 1</street><postCode>1090 Wien</postCode><placeName><country>A</country><settlement>Wien</settlement></placeName></address></funder></titleStmt><editionStmt><edition>CKP</edition><respStmt><resp>Transkription und Kommentierung</resp><name>Müller, Martin Anton</name><name>Untner, Laura</name></respStmt></editionStmt><publicationStmt><publisher>Austrian Centre for Digital Humanities and Cultural
                                     Heritage</publisher><pubPlace>Vienna</pubPlace><date when="2022">2023</date><availability><licence target="https://creativecommons.org/licenses/by/4.0/deed.de"><p>Sie dürfen: Teilen — das Material in jedwedem Format oder
                                             Medium vervielfältigen und weiterverbreiten Bearbeiten —
                                             das Material remixen, verändern und darauf aufbauen und
@@ -24,42 +25,31 @@
                                             Persönlichkeits- und Datenschutzrechte zu beachten sein,
                                             die Ihre Nutzung des Materials entsprechend
                                             beschränken.</p></licence></availability><idno type="handle"/></publicationStmt><seriesStmt><p>Machine-Readable Transcriptions of the Correspondences of Arthur
-                                    Schnitzler</p></seriesStmt><sourceDesc><listWit><witness n="1"><msDesc><msIdentifier><country>A</country><settlement>Wien</settlement><repository>Wienbibliothek</repository><idno>H.I.N. 155550</idno></msIdentifier></msDesc></witness></listWit></sourceDesc></fileDesc><profileDesc><langUsage><language ident="de-AT">German</language></langUsage></profileDesc><revisionDesc status="proposed"><change who="LU" when="2022-12-25">Angelegt</change></revisionDesc></teiHeader><facsimile><graphic url="669"/></facsimile><text><body><div type="writingSession" n="1"><seite id="669">
-            <lb n="01"/>Berlin, 22.3.1929.
-      <lb n="02"/>Mein Liebes, von gestenn hab ich noch zu erzählen, dass - nach einem
-      <lb n="03"/>da
-      <lb n="04"/>Gespräch mit Fischer (Bermann und Maril), - xxx natürlich auch noch nicht
-      <lb n="05"/>endgültig.
-      <lb n="06"/>mer, ich mit Wiegler im Hotel speiste (er war übrigens
-      <lb n="07"/>stockheiser). Er findet die Novelle sehr hübsch,- hat nur Bedenken we
-      <lb n="08"/>gen der "Zauberei", behauptet sie wärmstens empfohlen zu haben (ohne
-      <lb n="09"/>entscheideures
-      <lb n="10"/>nun
-      <lb n="11"/>seinem Einfluss entscheidend zuzutrauen), -vor allem der Dame, wo sie von
-      <lb n="12"/>zwei dazu bestimmten Inidividuen, einem Herrn und einer Dame gelesen
-      <lb n="13"/>fragte ihn.
-      <lb n="14"/>für
-      <lb n="15"/>werden soll. Ich xxx xxx,ob ich xxx Ende dieser Woche definitive
-      <lb n="16"/>Antwort erwarten dürfe - er erklärte es sei unmahrscheinlichö, glaubt
-      <lb n="17"/>in 8-10 Tagen; - ein Drängen (so scheint mir) würde die Chancen nicht
-      <lb n="18"/>bessern. Meine (in meinem Brief ihm ausgesprochene) Vermutung), dass eine
-      <lb n="19"/>Empfehlung von mir eher ungünstig wirken würde, scheint nicht unrich-
-      <lb n="20"/>tig, denn er äusserte in dieser Hinsicht überhaupt nichts. - Er war herz-
-      <lb n="21"/>lich und sympathisch (was hat man davon.) - Daraufhin Spaziergang in
-      <lb n="22"/>der Stadt, der mich eher ermüdete. - Am Abend bei O., wo Ephraim Frisch,
-      <lb n="23"/>Fischer, Makob, Martha, Viki, Mimi und Elisabeth; etwas später Heini.
-      <lb n="24"/>hatte
-      <lb n="25"/>Elisabeth kat eben mit Neppach eine Besprechung gehabt - ist sehr an-
-      <lb n="26"/>getan von seiner Lösung - behauptet aber plötzlich, - sichs nicht vor-
-      <lb n="27"/>stellen zu können. Kurzum ein Wort gab das andere, ich sagte ihr, dass
-      <lb n="28"/>sie eben doch nicht völlig zu der Sache stehe, sich von allen
-      <lb n="29"/>Leuten beeinflusse lasse u. s.w. - Worauf sie: Sie glauben nicht an die Sa-
-      <lb n="30"/>che,- sonst könnten Sie nicht glauben, dass ich von der Sache abfalle...
-      <lb n="31"/>Ich: Sie müssten doch endlich klar sein, - welches Theater - wir müssen
-      <lb n="32"/>in diesen Tagen abschliessen - ich kann doch nicht mehr thun als es Ihnen
-      <lb n="33"/>freistellen; ob Reinhardt, Barnowsky oder Klein. Nun kam die Regisseur-
-      <lb n="34"/>frage. Alle, Heini, Neppach,Kerr empfehlen Engel. Sie: Berüst mein Feind; -
-      <lb n="35"/>und ist Uberdies ein Freund Kortners, der mir von der Sache am meisten
-      <lb n="36"/>abgeredet, gehört zu der Jhering-Clique... u.s.w. - Ich erklärte, dass
-      <lb n="37"/>man auf diese Weise nicht weiter käme. Wenn ich vor jedem Partei-
-      <lb n="38"/>219</seite></div></body></text></TEI>
+                                    Schnitzler</p></seriesStmt><sourceDesc><listWit><witness n="1"><msDesc><msIdentifier><country>A</country><settlement>Wien</settlement><repository>Wienbibliothek</repository><idno>H.I.N. 155550</idno></msIdentifier></msDesc></witness></listWit></sourceDesc></fileDesc><profileDesc><langUsage><language ident="de-AT">German</language></langUsage></profileDesc><revisionDesc status="proposed"><change who="LU" when="2022-12-25">Angelegt</change></revisionDesc></teiHeader><facsimile><graphic url="ckp669"/></facsimile><text><body><div type="writingSession" n="1"><seite>
+      <lb n="01"/>An A.S., Berlin.
+      <lb n="02"/>Wien, 21.3.1929.
+      <lb n="03"/>Liebster,
+      <lb n="04"/>verzeih, dass ich Dir auch nach unserem heutigen telefo-
+      <lb n="05"/>nischen und wenig beglückenden Gespräch nur ein paar Zeilen sende.
+      <lb n="06"/>Zu erzählen habe ich nichts, denn dass ich gestern bei Tante Sidonie
+      <lb n="07"/>war ist:recht belanglos und für den gewissen leichten Plauderton fehlt
+      <lb n="08"/>es mir an Stimmung.
+      <lb n="09"/>Ueber die Gründe meiner Depression zu sprechen ist ganz
+      <lb n="10"/>Überflüssig, Du kennst sie, oder kannet sie Dir aus tausendmal Gesag-
+      <lb n="11"/>tem zusammenreimen. Worte darüber würden Dich nur verstimmen und
+      <lb n="12"/>nichts ändern - also wozu? Zu alledem kommt die pekuniäre Enge, die
+      <lb n="13"/>mir jede Bewegungsfreiheit nimmt, mich jede Situation doppelt und
+      <lb n="14"/>dreifach empfinden lässt und mir die Unmöglichkeiten zeigt irgend
+      <lb n="15"/>einem Impuls zu folgen. - Nur aus diesen Gründen würde mich eine po-
+      <lb n="16"/>sitive Antwort Ullsteins so glücklich machen. Aber ich höre schon
+      <lb n="17"/>das "Nein" und weiss, dass ich dann für die Oeffentlichkeit keine
+      <lb n="18"/>Zeile mehr schreibe und für mich nicht mehr, als einem inneren Zwang
+      <lb n="19"/>entspringt.- Hoffentlich führen Deine dortigen "else"-Verhandlungen
+      <lb n="20"/>doch zu dem von Dir gewünschten Resultat und jedesfalls musst Du
+      <lb n="21"/>dort bleiben, bis Du schriftliche Abmachungen in Händen hast.
+      <lb n="22"/>Ich habe nicht das Geringste vor. Porges, Hatvanys,Tol-
+      <lb n="23"/>nays,Tedy B., Ferda Bl. sind an der Riviera,Königswarter in doppel-
+      <lb n="24"/>ter Trauer.
+      <lb n="25"/>Das Wetter ist schön und heute auch wärmer.
+      <lb n="26"/>Mit herzlicher Umarmung und guten Wünschen
+      <lb n="27"/>Deine C.K.</seite></div></body></text></TEI>

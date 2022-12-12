@@ -1,4 +1,5 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xml:id="ckp774.xml" xml:base="https://id.acdh.oeaw.ac.at.at/ckp" prev="https://id.acdh.oeaw.ac.at.at/ckp/ckp773.xml" next="https://id.acdh.oeaw.ac.at.at/ckp/ckp775.xml"><teiHeader><fileDesc><titleStmt><title level="s">Clara Katharina Pollaczek: »Arthur Schnitzler und ich«</title><title level="a">Tagebuch von Clara Katharina Pollaczek, 4.–14. Mai 1930</title><title type="alternative" when-iso="1930-05-04"/><title type="alternative" when-iso="1930-05-06"/><title type="alternative" when-iso="1930-05-08"/><title type="alternative" when-iso="1930-05-10"/><title type="alternative" when-iso="1930-05-12"/><title type="alternative" when-iso="1930-05-13"/><title type="alternative" when-iso="1930-05-14"/><author ref="#12435">Pollaczek, Clara Katharina</author><editor><name>Müller, Martin Anton</name><name>Untner, Laura</name></editor><funder><name>FWF - Der Wissenschaftsfonds</name><address><street>Sensengasse 1</street><postCode>1090 Wien</postCode><placeName><country>A</country><settlement>Wien</settlement></placeName></address></funder></titleStmt><editionStmt><edition>CKP</edition><respStmt><resp>Transkription und Kommentierung</resp><name>Müller, Martin Anton</name><name>Untner, Laura</name></respStmt></editionStmt><publicationStmt><publisher>Austrian Centre for Digital Humanities and Cultural
+<TEI xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.tei-c.org/ns/1.0" xml:id="ckp774.xml" xml:base="https://id.acdh.oeaw.ac.at.at/ckp" prev="https://id.acdh.oeaw.ac.at.at/ckp/ckp773.xml" next="https://id.acdh.oeaw.ac.at.at/ckp/ckp775.xml"><teiHeader><fileDesc><titleStmt><title level="s">Clara Katharina Pollaczek: »Arthur Schnitzler und
+                                    ich«</title><title level="a"/><author ref="#12435">Pollaczek, Clara Katharina</author><editor><name>Müller, Martin Anton</name><name>Untner, Laura</name></editor><funder><name>FWF - Der Wissenschaftsfonds</name><address><street>Sensengasse 1</street><postCode>1090 Wien</postCode><placeName><country>A</country><settlement>Wien</settlement></placeName></address></funder></titleStmt><editionStmt><edition>CKP</edition><respStmt><resp>Transkription und Kommentierung</resp><name>Müller, Martin Anton</name><name>Untner, Laura</name></respStmt></editionStmt><publicationStmt><publisher>Austrian Centre for Digital Humanities and Cultural
                                     Heritage</publisher><pubPlace>Vienna</pubPlace><date when="2022">2023</date><availability><licence target="https://creativecommons.org/licenses/by/4.0/deed.de"><p>Sie dürfen: Teilen — das Material in jedwedem Format oder
                                             Medium vervielfältigen und weiterverbreiten Bearbeiten —
                                             das Material remixen, verändern und darauf aufbauen und
@@ -24,36 +25,32 @@
                                             Persönlichkeits- und Datenschutzrechte zu beachten sein,
                                             die Ihre Nutzung des Materials entsprechend
                                             beschränken.</p></licence></availability><idno type="handle"/></publicationStmt><seriesStmt><p>Machine-Readable Transcriptions of the Correspondences of Arthur
-                                    Schnitzler</p></seriesStmt><sourceDesc><listWit><witness n="1"><msDesc><msIdentifier><country>A</country><settlement>Wien</settlement><repository>Wienbibliothek</repository><idno>H.I.N. 155550</idno></msIdentifier></msDesc></witness></listWit></sourceDesc></fileDesc><profileDesc><langUsage><language ident="de-AT">German</language></langUsage></profileDesc><revisionDesc status="proposed"><change who="LU" when="2022-12-25">Angelegt</change></revisionDesc></teiHeader><facsimile><graphic url="774"/></facsimile><text><body><div type="writingSession" n="1"><seite id="774">
-            <lb n="01"/>Tgb. 4.5.1930.
-      <lb n="02"/>Ich habe nicht ein unfreundliches Wort erwiedert, aber ich werde A. in
-      <lb n="03"/>diesen Tagen möglichst ausweichen. Ich will keine Szene vor seiner Ab-
-      <lb n="04"/>reise. Alles übrige wird sich finden.
-      <lb n="05"/>Seine Kränklichkeit, seine Nerven, eine Aufregung und Unruhe sind zum
-      <lb n="06"/>grossen Teil das schlechte Gewissen, das er mir gegenüber hat.
-      <lb n="07"/>Mit Cari und Magdi bei Strasser zu Mittag gegessen. Eine Einladung zu
-      <lb n="08"/>A. für Nachmittag zum Tee, lehnte ich höflich ab, indem ich Müdigkeit vor-
-      <lb n="09"/>Frieda
-      <lb n="10"/>schützte. Ich wollte für Dienstag, Mittwoch in die Wachau, aber sie kann
-      <lb n="11"/>leider nicht. Was für Tage, was für Nächte und der Himmel ist blau und
-      <lb n="12"/>der Flieder blüht.
-      <lb n="13"/>6.5.1930. A.'s Anruf in der Früh, er erwartet O. im Laufe des Vormittags.
-      <lb n="14"/>Er wünscht gegen Abend zu mir zu kommen, trotzdem ich sagte, er möge sich
-      <lb n="15"/>durch
-      <lb n="16"/>mich in keiner Weise stören lassen und tun, als ob ich abwesend wäre.
-      <lb n="17"/>Ton kühl, unbeträchtlich. Diese Tage müssen Klarheit in die Zukunft brin-
-      <lb n="18"/>gen.
-      <lb n="19"/>8.5. A. mit 0. und Arnoldo auf den Semmering, wo wir im Vorjahr Tür an
-      <lb n="20"/>Tür wohnten. Abschied wortlos, ich zitterte vor Aufregung.
-      <lb n="21"/>10.5.A. ruft vom Semmering aus an. Wozu? Um sich kühle, fremde Worte zu
-      <lb n="22"/>sagen.
-      <lb n="23"/>12.5. Ich schrieb ihm einen Brief, der ihn hier erwarten soll. Entweder-
-      <lb n="24"/>oder. Diese Zeilen sind noch einmal mit meinem ganzen Herzen geschrie-
-      <lb n="25"/>ben.
-      <lb n="26"/>13.5. Harry teilt mir mit, er habe sich mit einer entzückenden Russin,
-      <lb n="27"/>einem Fräulein v. Günzburg, verlobt. Ich sagte, ich nehme seine Bräute
-      <lb n="28"/>nicht mehr zur Kenntnis.
-      <lb n="29"/>est
-      <lb n="30"/>14.5. A. mit der O. heute um 1 Uhr angekommen mich um 4 Uhr angerufen,
-      <lb n="31"/>da sie bei ihm gegessen hat. Mein Brief bei Ihm. Was wird er sagen?
-      <lb n="32"/>38</seite></div></body></text></TEI>
+                                    Schnitzler</p></seriesStmt><sourceDesc><listWit><witness n="1"><msDesc><msIdentifier><country>A</country><settlement>Wien</settlement><repository>Wienbibliothek</repository><idno>H.I.N. 155550</idno></msIdentifier></msDesc></witness></listWit></sourceDesc></fileDesc><profileDesc><langUsage><language ident="de-AT">German</language></langUsage></profileDesc><revisionDesc status="proposed"><change who="LU" when="2022-12-25">Angelegt</change></revisionDesc></teiHeader><facsimile><graphic url="ckp774"/></facsimile><text><body><div type="writingSession" n="1"><seite>
+      <lb n="01"/>Stunde später brüllte ich vor Schmerzen. Cary benahm sich wie
+      <lb n="02"/>ein Engel, liess zur Vorsicht auch den Assistenten Popper kommen, der
+      <lb n="03"/>alle Verordnungen gut fand. Carry schlief bei mir. A. habe ich nicht
+      <lb n="04"/>verständigt.
+      <lb n="05"/>Als er heute Früh wie gewöhnlich anrief sagte ich ihm erst von mei-
+      <lb n="06"/>ner Erkrankung, ohne ein Wort über den Grund, der sie ausgelöst hat.
+      <lb n="07"/>Ich liege heute noch, denn ich bin sehr müde. A. Vormittag bei mir,
+      <lb n="08"/>las mir einen Brief Arnoldos vor, der vom 3.-16.Mai Urlaub hat und
+      <lb n="09"/>ebenso gerne hier wie wo anders ein Zusammentreffen will. A. sagt:
+      <lb n="10"/>"Hier natürlich". Musste ich erst krank werden, damit er so viel
+      <lb n="11"/>Einsicht hat. Ich äusserte darüber keine Silbe.
+      <lb n="12"/>Die Anwesenheit der O. wird gewiss kein Vergnügen sein, aber alles
+      <lb n="13"/>besser als A. mit diesen Menschen wo anders zu <unclear>wissen</unclear>. Heini kommt bestimmt viel lieber
+      <lb n="14"/>nach Wien.
+      <lb n="15"/>30.4. Kino. "Die Nacht gehört uns". Der beste Tonfilm bisher. Und
+      <lb n="16"/>doch eigentlich blöd und unerträglich. Nachher Meisl und Schadn. Un-
+      <lb n="17"/>persönliche Konversation. Nachmittag Gisela Berger.
+      <lb n="18"/>1. Mai. A bei mir Radio zugehört. Dann Meisl genachtmahlt. Oed wie immer jetzt.
+      <lb n="19"/>Ich frage mich, wie das weiter werden soll.
+      <lb n="20"/>3. Mai. Arnoldo hier. Vor dem Nachtmahl mit A. im Kino "Warschauer"
+      <lb n="21"/>Zitadelle". O. telegraphiert, dass sie Dienstag kommt und wünscht
+      <lb n="22"/>morgen telefonischen Anruf. Wozu?? Ich vermute, dass entweder Heini
+      <lb n="23"/>doch Urlaub bekommt, oder dass sie Aufenthalt am Semmering vorschla-
+      <lb n="24"/>gen will. Vederemo.
+      <lb n="25"/>4. Mai. Also C. kommt Dienstag und Donnerstag fährt A. mit der durch-
+      <lb n="26"/>gegangenen und geschiedenen Gattin und den übel beleunundeten Schwie-
+      <lb n="27"/>gersohn auf den Semmering.
+      <lb n="28"/>Ich habe nicht ein unfreundliches Wort erwidert, aber ich werde ihm</seite></div></body></text></TEI>

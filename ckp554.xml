@@ -1,4 +1,5 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xml:id="ckp554.xml" xml:base="https://id.acdh.oeaw.ac.at.at/ckp" prev="https://id.acdh.oeaw.ac.at.at/ckp/ckp553.xml" next="https://id.acdh.oeaw.ac.at.at/ckp/ckp555.xml"><teiHeader><fileDesc><titleStmt><title level="s">Clara Katharina Pollaczek: »Arthur Schnitzler und ich«</title><title level="a">Tagebuch von Clara Katharina Pollaczek, 10.–17. Juli 1928</title><title type="alternative" when-iso="1928-07-10"/><title type="alternative" when-iso="1928-07-11"/><title type="alternative" when-iso="1928-07-12"/><title type="alternative" when-iso="1928-07-13"/><title type="alternative" when-iso="1928-07-14"/><title type="alternative" when-iso="1928-07-15"/><title type="alternative" when-iso="1928-07-16"/><title type="alternative" when-iso="1928-07-17"/><author ref="#12435">Pollaczek, Clara Katharina</author><editor><name>Müller, Martin Anton</name><name>Untner, Laura</name></editor><funder><name>FWF - Der Wissenschaftsfonds</name><address><street>Sensengasse 1</street><postCode>1090 Wien</postCode><placeName><country>A</country><settlement>Wien</settlement></placeName></address></funder></titleStmt><editionStmt><edition>CKP</edition><respStmt><resp>Transkription und Kommentierung</resp><name>Müller, Martin Anton</name><name>Untner, Laura</name></respStmt></editionStmt><publicationStmt><publisher>Austrian Centre for Digital Humanities and Cultural
+<TEI xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.tei-c.org/ns/1.0" xml:id="ckp554.xml" xml:base="https://id.acdh.oeaw.ac.at.at/ckp" prev="https://id.acdh.oeaw.ac.at.at/ckp/ckp553.xml" next="https://id.acdh.oeaw.ac.at.at/ckp/ckp555.xml"><teiHeader><fileDesc><titleStmt><title level="s">Clara Katharina Pollaczek: »Arthur Schnitzler und
+                                    ich«</title><title level="a"/><author ref="#12435">Pollaczek, Clara Katharina</author><editor><name>Müller, Martin Anton</name><name>Untner, Laura</name></editor><funder><name>FWF - Der Wissenschaftsfonds</name><address><street>Sensengasse 1</street><postCode>1090 Wien</postCode><placeName><country>A</country><settlement>Wien</settlement></placeName></address></funder></titleStmt><editionStmt><edition>CKP</edition><respStmt><resp>Transkription und Kommentierung</resp><name>Müller, Martin Anton</name><name>Untner, Laura</name></respStmt></editionStmt><publicationStmt><publisher>Austrian Centre for Digital Humanities and Cultural
                                     Heritage</publisher><pubPlace>Vienna</pubPlace><date when="2022">2023</date><availability><licence target="https://creativecommons.org/licenses/by/4.0/deed.de"><p>Sie dürfen: Teilen — das Material in jedwedem Format oder
                                             Medium vervielfältigen und weiterverbreiten Bearbeiten —
                                             das Material remixen, verändern und darauf aufbauen und
@@ -24,34 +25,32 @@
                                             Persönlichkeits- und Datenschutzrechte zu beachten sein,
                                             die Ihre Nutzung des Materials entsprechend
                                             beschränken.</p></licence></availability><idno type="handle"/></publicationStmt><seriesStmt><p>Machine-Readable Transcriptions of the Correspondences of Arthur
-                                    Schnitzler</p></seriesStmt><sourceDesc><listWit><witness n="1"><msDesc><msIdentifier><country>A</country><settlement>Wien</settlement><repository>Wienbibliothek</repository><idno>H.I.N. 155550</idno></msIdentifier></msDesc></witness></listWit></sourceDesc></fileDesc><profileDesc><langUsage><language ident="de-AT">German</language></langUsage></profileDesc><revisionDesc status="proposed"><change who="LU" when="2022-12-25">Angelegt</change></revisionDesc></teiHeader><facsimile><graphic url="554"/></facsimile><text><body><div type="writingSession" n="1"><seite id="554">
-            <lb n="01"/>1928
-      <lb n="02"/>Befinden elend. Kongestionen und Schwindel. Mein Aussehen dabei sehr
-      <lb n="03"/>gut. A. besonders nett. Rundfahrt um den Ring in der Nachtkühle.
-      <lb n="04"/>11.7. mittwoch Vormittag. A. in der Stadt getroffen. Wundervolle Tasche
-      <lb n="05"/>bekommen. Parfum. Später mit <supplied>S</supplied>chwarzkopf. Mittag Otto, Fredi, Harry.
-      <lb n="06"/>Am Abend Anna.
-      <lb n="07"/>1.2.7. Abend Autoausflug mit A., Berta Z. und ihren Kindern. Erst um
-      <lb n="08"/>3/4 1 nach Haus. Gut geschlafen. A. sehr lieb zu mir.
-      <lb n="09"/>13.7. Hitze unbeschreiblich.
-      <lb n="10"/>14.7. Am Abend mit A. und Heini erst im Kino, dann bei Prohaska genacht
-      <lb n="11"/>mahlt. Sehr nett, wenn auch ein wenig Befangenheit auf allen Seiten.
-      <lb n="12"/>Heini sieht sehr gut aus, gar nicht wie ein Schauspieler, eher wir ein
-      <lb n="13"/>junger, deutsch-völkischer Student.
-      <lb n="14"/>15.7. Cary–Magdi zurück, sprach sie nur telefonisch. 
-      <lb n="15"/>16.7. Die Kinder sehen blühend aus und sind sehr lieb. Um 1/3 holte
-      <lb n="16"/>mich A. im Auto bei ihnen ab. Mit Heini, Frieda und Bruder wundervolle
-      <lb n="17"/>Fahrt nach Mauerbach, dann über St. Veit, Mauer zum Roten Stadl. Sehr ge
-      <lb n="18"/>mütlich und heiter. Bei der Heimfahrt A. vor mir gesessen, sehr lieb
-      <lb n="19"/>und zärtlich.
-      <lb n="20"/>Frieda verriet mir, dass er letzthin von mir gesagt hat, ich sei die
-      <lb n="21"/>beste Gefährtin, die man sich nur wünschen kann – ich hätte gar keinen
-      <lb n="22"/>Fehler.
-      <lb n="23"/>Heute Abend wieder bei den Kindern mit Egon. Er holt mich mit Auto ab
-      <lb n="24"/>und ich nehme das Nachtmahl mit.
-      <lb n="25"/>7.7. Gestern sehr gemütlich. Das Nachtmahl im Garten, nach dem wahnsin
-      <lb n="26"/>nig heissen Tag sehr erholend. Es hatte Nachmittag 35 Grad Réaumur
-      <lb n="27"/>an meinem Fenster. Magda erzählt mir, dass ihr Vater ihr gesagt habe,
-      <lb n="28"/>Hugo Hofmannsthal spräche so nett von mir. Ich gefalle ihm so gut und
-      <lb n="29"/>er habe eine sehr gute Meinung von mir. Ich freute mich nur, um es A.
-      <lb n="30"/>wieder erzählen zu können.</seite></div></body></text></TEI>
+                                    Schnitzler</p></seriesStmt><sourceDesc><listWit><witness n="1"><msDesc><msIdentifier><country>A</country><settlement>Wien</settlement><repository>Wienbibliothek</repository><idno>H.I.N. 155550</idno></msIdentifier></msDesc></witness></listWit></sourceDesc></fileDesc><profileDesc><langUsage><language ident="de-AT">German</language></langUsage></profileDesc><revisionDesc status="proposed"><change who="LU" when="2022-12-25">Angelegt</change></revisionDesc></teiHeader><facsimile><graphic url="ckp554"/></facsimile><text><body><div type="writingSession" n="1"><seite>
+      <lb n="01"/>Wolfi.-Die gekündigte Hausdame von A. scheint mit Lili zu intrigieren.
+      <lb n="02"/>Ich ahne Unannehmlichkeiten.
+      <lb n="03"/>Brief meines Hausherrn wegen grosser Reparaturen, die gemacht werden
+      <lb n="04"/>müssen. Auf meinen Teil kämen 1300 und etliche Schillinge. Ich kann
+      <lb n="05"/>überhaupt nicht mehr zahlen. Mag er mich auf die Strasse setzen.
+      <lb n="06"/>3.7. Zu heiss, um zu schreiben. Gute, ruhige Zeit. Mit A. bei der "Aegyp-
+      <lb n="07"/>tischen Helena" (langweilig und schlechter Text von Hugo), aber Anregung
+      <lb n="08"/>für mich – wer weiss!
+      <lb n="09"/>Sorgen mit Fredi. Abreise der Kinder nach B. Mein Befinden mässig.
+      <lb n="10"/>Wallungen und Störungen.
+      <lb n="11"/>Mit A. bei Savoy Band. Netter Abend. Dann beim "Aär". Kallinas Erfolg
+      <lb n="12"/>übertrieben. Freitag schöner Ausflug über Tuln. Hitze unbeschreiblich.
+      <lb n="13"/>Brief Sil Vara. "Gespenster im Haus". Eines der wenigen Stücke, die
+      <lb n="14"/>das Guild-Theatre ihm noch nicht zurückgeschickt hat. Entscheidung im
+      <lb n="15"/>Herbst.
+      <lb n="16"/>5.7. Im Busch-Kino beim "Pilgrin" mit Charly Chaplin mit A. Dann bei
+      <lb n="17"/>Prohaska genachtmahlt. Gestern Unterredung mit Paul Zsolnay. Soll ihm
+      <lb n="18"/>den Roman schicken. Halte es für recht aussichtslos.
+      <lb n="19"/>6.7. Mittag bei A. mit Hofrätin Z. Sehr gemütlich. Am Abend allein
+      <lb n="20"/>mit A. Besonders gutes Zusammensein. Ich sehe gut aus, obwohl ich mich
+      <lb n="21"/>physisch nicht wohl fühle. Nachmittag heftiges Gewitter.
+      <lb n="22"/>Brief vom Fischer-Verlag. Sie haben von Kahane gehört, dass ich ein
+      <lb n="23"/>Stück "Mimi und Gwendi" geschrieben. Ich soll es zur Einsicht für
+      <lb n="24"/>den Bünnenverlag schicken. Gott, vielleicht werde ich doch Geld verdie-
+      <lb n="25"/>nen. Wie froh wäre ich! Mein Befinden elend. Herzklopfen, Wallungen,
+      <lb n="26"/>Kopfschmerzen.
+      <lb n="27"/>10.7. Mit A. im Planetarium. Dann im Kino "Die letzten Nächte einer
+      <lb n="28"/>schönen Frau“. Dann bei Hartmann am Ring im Freien genachtmahlt. Mein</seite></div></body></text></TEI>

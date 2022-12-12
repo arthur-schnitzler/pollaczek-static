@@ -1,4 +1,5 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xml:id="ckp012.xml" xml:base="https://id.acdh.oeaw.ac.at.at/ckp" prev="https://id.acdh.oeaw.ac.at.at/ckp/ckp011.xml" next="https://id.acdh.oeaw.ac.at.at/ckp/ckp013.xml"><teiHeader><fileDesc><titleStmt><title level="s">Clara Katharina Pollaczek: »Arthur Schnitzler und ich«</title><title level="a">Arthur Schnitzler an Hugo von Hofmannsthal</title><title type="alternative" when-iso="1897-07-21"/><author ref="#12435">Pollaczek, Clara Katharina</author><editor><name>Müller, Martin Anton</name><name>Untner, Laura</name></editor><funder><name>FWF - Der Wissenschaftsfonds</name><address><street>Sensengasse 1</street><postCode>1090 Wien</postCode><placeName><country>A</country><settlement>Wien</settlement></placeName></address></funder></titleStmt><editionStmt><edition>CKP</edition><respStmt><resp>Transkription und Kommentierung</resp><name>Müller, Martin Anton</name><name>Untner, Laura</name></respStmt></editionStmt><publicationStmt><publisher>Austrian Centre for Digital Humanities and Cultural
+<TEI xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.tei-c.org/ns/1.0" xml:id="ckp012.xml" xml:base="https://id.acdh.oeaw.ac.at.at/ckp" prev="https://id.acdh.oeaw.ac.at.at/ckp/ckp011.xml" next="https://id.acdh.oeaw.ac.at.at/ckp/ckp013.xml"><teiHeader><fileDesc><titleStmt><title level="s">Clara Katharina Pollaczek: »Arthur Schnitzler und
+                                    ich«</title><title level="a"/><author ref="#12435">Pollaczek, Clara Katharina</author><editor><name>Müller, Martin Anton</name><name>Untner, Laura</name></editor><funder><name>FWF - Der Wissenschaftsfonds</name><address><street>Sensengasse 1</street><postCode>1090 Wien</postCode><placeName><country>A</country><settlement>Wien</settlement></placeName></address></funder></titleStmt><editionStmt><edition>CKP</edition><respStmt><resp>Transkription und Kommentierung</resp><name>Müller, Martin Anton</name><name>Untner, Laura</name></respStmt></editionStmt><publicationStmt><publisher>Austrian Centre for Digital Humanities and Cultural
                                     Heritage</publisher><pubPlace>Vienna</pubPlace><date when="2022">2023</date><availability><licence target="https://creativecommons.org/licenses/by/4.0/deed.de"><p>Sie dürfen: Teilen — das Material in jedwedem Format oder
                                             Medium vervielfältigen und weiterverbreiten Bearbeiten —
                                             das Material remixen, verändern und darauf aufbauen und
@@ -24,18 +25,10 @@
                                             Persönlichkeits- und Datenschutzrechte zu beachten sein,
                                             die Ihre Nutzung des Materials entsprechend
                                             beschränken.</p></licence></availability><idno type="handle"/></publicationStmt><seriesStmt><p>Machine-Readable Transcriptions of the Correspondences of Arthur
-                                    Schnitzler</p></seriesStmt><sourceDesc><listWit><witness n="1"><msDesc><msIdentifier><country>A</country><settlement>Wien</settlement><repository>Wienbibliothek</repository><idno>H.I.N. 155550</idno></msIdentifier></msDesc></witness></listWit></sourceDesc></fileDesc><profileDesc><langUsage><language ident="de-AT">German</language></langUsage></profileDesc><revisionDesc status="proposed"><change who="LU" when="2022-12-25">Angelegt</change></revisionDesc></teiHeader><facsimile><graphic url="12"/></facsimile><text><body><div type="writingSession" n="1"><seite id="12">
-            <lb n="01"/>Ischl, 21.7.97.
-      <lb n="02"/>Arthur Schnitzler an Hugo v. Hofmannstal
-      <lb n="03"/>in Angelegenheit meines Ein-Aktes
-      <lb n="04"/>»Mimi« Strahlenbilder aus dem
-      <lb n="05"/>Mädchenleben
-      <lb n="06"/>Neulich war ich in Aussee bei den Loebs; gestern
-      <lb n="07"/>waren sie in Ischl. Clara fühlt sich sehr verlas
-      <lb n="08"/>sen von Ihnen. Sie hat es anders ausgedrückt; aber
-      <lb n="09"/>das ist der Sinn.-
-      <lb n="10"/>Sie wissen wohl, dass Burckhardt die Jordan nicht
-      <lb n="11"/>aufführt? -
-      <lb n="12"/>Ich ärgere mich sehr; umso mehr als ich zu ahnen
-      <lb n="13"/>glaube, wo die Gründe liegen und wer eigentlich
-      <lb n="14"/>-- sagen wir "mit"-schuldig ist.-</seite></div></body></text></TEI>
+                                    Schnitzler</p></seriesStmt><sourceDesc><listWit><witness n="1"><msDesc><msIdentifier><country>A</country><settlement>Wien</settlement><repository>Wienbibliothek</repository><idno>H.I.N. 155550</idno></msIdentifier></msDesc></witness></listWit></sourceDesc></fileDesc><profileDesc><langUsage><language ident="de-AT">German</language></langUsage></profileDesc><revisionDesc status="proposed"><change who="LU" when="2022-12-25">Angelegt</change></revisionDesc></teiHeader><facsimile><graphic url="ckp012"/></facsimile><text><body><div type="writingSession" n="1"><seite>
+      <lb n="01"/>macht mich offenbar
+      <lb n="02"/>»Minni« zu liebe älter.
+      <lb n="03"/>Es konnt aber auch sein,
+      <lb n="04"/>daß <hi rend="underline" n="">ich</hi> mich für Hugo älter
+      <lb n="05"/>machte um ihm 
+      <lb n="06"/>zu imponieren.</seite></div></body></text></TEI>

@@ -1,4 +1,5 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xml:id="ckp927.xml" xml:base="https://id.acdh.oeaw.ac.at.at/ckp" prev="https://id.acdh.oeaw.ac.at.at/ckp/ckp926.xml" next="https://id.acdh.oeaw.ac.at.at/ckp/ckp928.xml"><teiHeader><fileDesc><titleStmt><title level="s">Clara Katharina Pollaczek: »Arthur Schnitzler und ich«</title><title level="a">Tagebuch von Clara Katharina Pollaczek, 19.–21. Juni 1931</title><title type="alternative" when-iso="1931-06-19"/><title type="alternative" when-iso="1931-06-20"/><title type="alternative" when-iso="1931-06-21"/><author ref="#12435">Pollaczek, Clara Katharina</author><editor><name>Müller, Martin Anton</name><name>Untner, Laura</name></editor><funder><name>FWF - Der Wissenschaftsfonds</name><address><street>Sensengasse 1</street><postCode>1090 Wien</postCode><placeName><country>A</country><settlement>Wien</settlement></placeName></address></funder></titleStmt><editionStmt><edition>CKP</edition><respStmt><resp>Transkription und Kommentierung</resp><name>Müller, Martin Anton</name><name>Untner, Laura</name></respStmt></editionStmt><publicationStmt><publisher>Austrian Centre for Digital Humanities and Cultural
+<TEI xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.tei-c.org/ns/1.0" xml:id="ckp927.xml" xml:base="https://id.acdh.oeaw.ac.at.at/ckp" prev="https://id.acdh.oeaw.ac.at.at/ckp/ckp926.xml" next="https://id.acdh.oeaw.ac.at.at/ckp/ckp928.xml"><teiHeader><fileDesc><titleStmt><title level="s">Clara Katharina Pollaczek: »Arthur Schnitzler und
+                                    ich«</title><title level="a"/><author ref="#12435">Pollaczek, Clara Katharina</author><editor><name>Müller, Martin Anton</name><name>Untner, Laura</name></editor><funder><name>FWF - Der Wissenschaftsfonds</name><address><street>Sensengasse 1</street><postCode>1090 Wien</postCode><placeName><country>A</country><settlement>Wien</settlement></placeName></address></funder></titleStmt><editionStmt><edition>CKP</edition><respStmt><resp>Transkription und Kommentierung</resp><name>Müller, Martin Anton</name><name>Untner, Laura</name></respStmt></editionStmt><publicationStmt><publisher>Austrian Centre for Digital Humanities and Cultural
                                     Heritage</publisher><pubPlace>Vienna</pubPlace><date when="2022">2023</date><availability><licence target="https://creativecommons.org/licenses/by/4.0/deed.de"><p>Sie dürfen: Teilen — das Material in jedwedem Format oder
                                             Medium vervielfältigen und weiterverbreiten Bearbeiten —
                                             das Material remixen, verändern und darauf aufbauen und
@@ -24,37 +25,33 @@
                                             Persönlichkeits- und Datenschutzrechte zu beachten sein,
                                             die Ihre Nutzung des Materials entsprechend
                                             beschränken.</p></licence></availability><idno type="handle"/></publicationStmt><seriesStmt><p>Machine-Readable Transcriptions of the Correspondences of Arthur
-                                    Schnitzler</p></seriesStmt><sourceDesc><listWit><witness n="1"><msDesc><msIdentifier><country>A</country><settlement>Wien</settlement><repository>Wienbibliothek</repository><idno>H.I.N. 155550</idno></msIdentifier></msDesc></witness></listWit></sourceDesc></fileDesc><profileDesc><langUsage><language ident="de-AT">German</language></langUsage></profileDesc><revisionDesc status="proposed"><change who="LU" when="2022-12-25">Angelegt</change></revisionDesc></teiHeader><facsimile><graphic url="927"/></facsimile><text><body><div type="writingSession" n="1"><seite id="927">
-            <lb n="01"/>Tøb. 19.6.1931.
-      <lb n="02"/>Das Stück "Komparserie" von Duschinkki sehr gut, sehr ergreifend,Heinis
-      <lb n="03"/>Inscenierung brillant. Nachher brachte mich A. nachhause. Ruth und
-      <lb n="04"/>Heini bei ihm zu Tisch. Ruth fährt angeblich Dienstag fort. Die Familie
-      <lb n="05"/>der "Zwischenspiele" - dazu tauge ich nicht.
-      <lb n="06"/>Gestern Mittag die Kinder bei mir, dann mit ihnen, während ein Orkan über
-      <lb n="07"/>ein
-      <lb n="08"/>Wien niederging, vortrag Spechts über die "Bacchantinnen" von Egon.
-      <lb n="09"/>Specht sprach nicht gut und so viel Entschuldigungen gleichen Beschul-
-      <lb n="10"/>digungen. In meinem Garten ist ein Baum abgebrochen und alle Rosen
-      <lb n="11"/>vernichtet. In mir ist eine grenzenlose Traurigkeit und mein Befinden
-      <lb n="12"/>täglich wohlechter. Heute ab 5 Uhr Darmzustände und Schmerzen, nahm Papa-
-      <lb n="13"/>verin.
-      <lb n="14"/>20.6. Karte zu den "Baccchantinnen" geholt, da Alma, die mit mir gehen
-      <lb n="15"/>wollte, sich nicht meldete. Dann bei Hedwig, die mir Empfehlungen für Harry
-      <lb n="16"/>nach Euenos-Aires gab, wie ist das beste, gütigste Wesen. Harry
-      <lb n="17"/>lui
-      <lb n="18"/>war gestern Abend bei ihr und sie findet sehr nett und vernünftig.
-      <lb n="19"/>Wenn ich an meinen Kindern Fehlern und Mängel finde, so sind sie noch
-      <lb n="20"/>immer tausendmal besser als andere.
-      <lb n="21"/>A. Anruf Nachmittag. Er frug gar nicht, wohin ich nach dem Theater gehe.
-      <lb n="22"/>Ich bin überzeugt, die Glaumer ist heute in der Volkstheaterpremière und
-      <lb n="23"/>er ist nachher mit ihr zusammen (mein Verdacht nimmt zu). Emmy W. sagte
-      <lb n="24"/>mir letzthin, sie finde sie maniriert und xxx
-      <lb n="25"/>rend. Ich wünschte, ich hätte diese Première hinter mir und läge mit
-      <lb n="26"/>Schlafmitteln zu Bett.
-      <lb n="27"/>21.6. Der Erfolg gestern stürmisch, sogar Korngold muss in seiner Kritik
-      <lb n="28"/>bacchantischen Applau zugeben, obwohl er wie erwartet, schimpft. Nachher
-      <lb n="29"/>Zusammenkunft im Blauen Saal Hotel Imperial. Ich ging sehr bald, da ich
-      <lb n="30"/>mich elend fühlte.- Heute Anruf A. Er war nach dem Theater mit meiner
-      <lb n="31"/>ganzen Familie, Frau Clauser, deren Freundin, Heini und der Schauspielerin
-      <lb n="32"/>Ulrich bei Schöner nachtmahlen. Ich fürchte immer, ich werde nicht bis zu
-      <lb n="33"/>191</seite></div></body></text></TEI>
+                                    Schnitzler</p></seriesStmt><sourceDesc><listWit><witness n="1"><msDesc><msIdentifier><country>A</country><settlement>Wien</settlement><repository>Wienbibliothek</repository><idno>H.I.N. 155550</idno></msIdentifier></msDesc></witness></listWit></sourceDesc></fileDesc><profileDesc><langUsage><language ident="de-AT">German</language></langUsage></profileDesc><revisionDesc status="proposed"><change who="LU" when="2022-12-25">Angelegt</change></revisionDesc></teiHeader><facsimile><graphic url="ckp927"/></facsimile><text><body><div type="writingSession" n="1"><seite>
+      <lb n="01"/>Am Heimweg im Auto behauptete A., Heini hätte ihm auf seine die bezügli¬
+      <lb n="02"/>che Anfrage vor ein paar Tagen erklärt, meine Anwesenheit sei ihm nicht
+      <lb n="03"/>erwünscht. Ich fürchte, A. spricht die Unwahrheit. Er behauptet auch
+      <lb n="04"/>nicht zu ahnen, wie Heini und Ruth miteinander stehen und gerade gestern
+      <lb n="05"/>seit die Rechnung des Advokaten für die Scheidung gekommen. Ansonsten
+      <lb n="06"/>war er den ganzen Abend unliebenswürdiger und fremder denn je. Heute
+      <lb n="07"/>Früh Anruf wie immer, Frage nach meinem Befinden. Er geht am Abend noch¬
+      <lb n="08"/>mals zu "Leer", allein. Er riet mir Vormittag bei der Hitze nicht fort¬
+      <lb n="09"/>zugehen. Seit zwei Tagen Hochsommerwetter.
+      <lb n="10"/>Ich rief um all Vormittag bei ihm an, um ihn noch zu ersuchen wegen der
+      <lb n="11"/>Generalprobe keinesfalls etwas mit Heini zu bezprechen, wenn er nicht da-
+      <lb n="12"/>von anfängt. Aber A. war nicht zuhause. "Zum Friseur vielleicht", meinte
+      <lb n="13"/>Minna. Ich habe eben 12 Uhr wieder angerufen und da sich wieder Minna
+      <lb n="14"/>meldete, legte ich das Hörrohr fort, ohne mich zu melden. Der leidende,
+      <lb n="15"/>müde, alte Herr ist bei der Temperatur unterwegs. - Ich glaube nicht mehr,
+      <lb n="16"/>dass er mich zu halten versuchen wird, wenn ich fortgehe.- Harry fährt
+      <lb n="17"/>am 29. oder 30. mit der "Lacoronia" via Hamburg, bis dahin müssen meine
+      <lb n="18"/>Nerven halten.
+      <lb n="19"/>Als ich um 3/4 1 nochmals anrief, war Frieda am Telefon und sagte, der
+      <lb n="20"/>Herr Doktor sei den Moment auf einen Sprung weggegangen, sie glaube,
+      <lb n="21"/>zum Advokaten. Sie lügt, - aber was bleibt ihr schliesslich übrig?
+      <lb n="22"/>Abend allein zuhause. A. nochmals bei "Lear", weil Heini jetzt als
+      <lb n="23"/>Narr im 3. Akt stirbt. Cary und Magdi sind auch im Theater.
+      <lb n="24"/><date>19.6.</date> Anruf A.'s vor 8 Uhr. Er holt mich zwischen ½ und 3/4 11 Uhr zur
+      <lb n="25"/>Generalprobe ab, muss vorher zum "Friseur", also war er gestern nicht
+      <lb n="26"/>dort,oder geht heute nicht hin.
+      <lb n="27"/>A. kam schon im Auto um 3/4 11 aus der Richtung seines Hauses, brachte
+      <lb n="28"/>Rosen aus seinem Garten. Beim Volkstheater machte die Taxe fast
+      <lb n="29"/>9 Schillinge aus, wo mag er vorher gewesen sein?</seite></div></body></text></TEI>

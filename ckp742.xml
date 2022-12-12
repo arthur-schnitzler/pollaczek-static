@@ -1,4 +1,5 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xml:id="ckp742.xml" xml:base="https://id.acdh.oeaw.ac.at.at/ckp" prev="https://id.acdh.oeaw.ac.at.at/ckp/ckp741.xml" next="https://id.acdh.oeaw.ac.at.at/ckp/ckp743.xml"><teiHeader><fileDesc><titleStmt><title level="s">Clara Katharina Pollaczek: »Arthur Schnitzler und ich«</title><title level="a">Tagebuch von Clara Katharina Pollaczek, 22.–29. Dezember 1929</title><title type="alternative" when-iso="1929-12-22"/><title type="alternative" when-iso="1929-12-23"/><title type="alternative" when-iso="1929-12-24"/><title type="alternative" when-iso="1929-12-26"/><title type="alternative" when-iso="1929-12-27"/><title type="alternative" when-iso="1929-12-28"/><title type="alternative" when-iso="1929-12-29"/><author ref="#12435">Pollaczek, Clara Katharina</author><editor><name>Müller, Martin Anton</name><name>Untner, Laura</name></editor><funder><name>FWF - Der Wissenschaftsfonds</name><address><street>Sensengasse 1</street><postCode>1090 Wien</postCode><placeName><country>A</country><settlement>Wien</settlement></placeName></address></funder></titleStmt><editionStmt><edition>CKP</edition><respStmt><resp>Transkription und Kommentierung</resp><name>Müller, Martin Anton</name><name>Untner, Laura</name></respStmt></editionStmt><publicationStmt><publisher>Austrian Centre for Digital Humanities and Cultural
+<TEI xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.tei-c.org/ns/1.0" xml:id="ckp742.xml" xml:base="https://id.acdh.oeaw.ac.at.at/ckp" prev="https://id.acdh.oeaw.ac.at.at/ckp/ckp741.xml" next="https://id.acdh.oeaw.ac.at.at/ckp/ckp743.xml"><teiHeader><fileDesc><titleStmt><title level="s">Clara Katharina Pollaczek: »Arthur Schnitzler und
+                                    ich«</title><title level="a"/><author ref="#12435">Pollaczek, Clara Katharina</author><editor><name>Müller, Martin Anton</name><name>Untner, Laura</name></editor><funder><name>FWF - Der Wissenschaftsfonds</name><address><street>Sensengasse 1</street><postCode>1090 Wien</postCode><placeName><country>A</country><settlement>Wien</settlement></placeName></address></funder></titleStmt><editionStmt><edition>CKP</edition><respStmt><resp>Transkription und Kommentierung</resp><name>Müller, Martin Anton</name><name>Untner, Laura</name></respStmt></editionStmt><publicationStmt><publisher>Austrian Centre for Digital Humanities and Cultural
                                     Heritage</publisher><pubPlace>Vienna</pubPlace><date when="2022">2023</date><availability><licence target="https://creativecommons.org/licenses/by/4.0/deed.de"><p>Sie dürfen: Teilen — das Material in jedwedem Format oder
                                             Medium vervielfältigen und weiterverbreiten Bearbeiten —
                                             das Material remixen, verändern und darauf aufbauen und
@@ -24,34 +25,32 @@
                                             Persönlichkeits- und Datenschutzrechte zu beachten sein,
                                             die Ihre Nutzung des Materials entsprechend
                                             beschränken.</p></licence></availability><idno type="handle"/></publicationStmt><seriesStmt><p>Machine-Readable Transcriptions of the Correspondences of Arthur
-                                    Schnitzler</p></seriesStmt><sourceDesc><listWit><witness n="1"><msDesc><msIdentifier><country>A</country><settlement>Wien</settlement><repository>Wienbibliothek</repository><idno>H.I.N. 155550</idno></msIdentifier></msDesc></witness></listWit></sourceDesc></fileDesc><profileDesc><langUsage><language ident="de-AT">German</language></langUsage></profileDesc><revisionDesc status="proposed"><change who="LU" when="2022-12-25">Angelegt</change></revisionDesc></teiHeader><facsimile><graphic url="742"/></facsimile><text><body><div type="writingSession" n="1"><seite id="742">
-            <lb n="01"/>T gb. 22.12.1929.
-      <lb n="02"/>Gestern Abend Première "Spiel der Sommerlüfte".Grosser, herzlicher Er-
-      <lb n="03"/>folg. Mit Carry und Magda in einer Loge. A. bis zur Mitte des 2. Aktes
-      <lb n="04"/>bei uns, nach Schluss Jubel, besonders des Galeriepublikums. A. unzählige-
-      <lb n="05"/>male hervorgerufen. Ich holte ihn nach der Vorstellung bei der Bühne
-      <lb n="06"/>ab. Ein Stückchen zu Fuss in der schönen Winternacht. Dann mit Auto zu
-      <lb n="07"/>ihm in die Sternwartestrasse. Er sehr befriedigt und animiert. Liebe-
-      <lb n="08"/>voll-freundliches Zusammensein, aber doch ohne wirkliche Wärme.
-      <lb n="09"/>23.12. Bei A. Trotz des Erfolges sehr nervös. Gespräche über seine Ab-
-      <lb n="10"/>reise und beiderzeitige Gereiztheit.
-      <lb n="11"/>24.12. Weihnachtsabend. Mittag Herry. Gegen Abend Carry und Magda auf
-      <lb n="12"/>einen Sprung. Dann ich auf etwa eine Stunde zu A., der um 8 Uhr zu sei-
-      <lb n="13"/>nem Bruder fuhr. Ich allein zuhause.
-      <lb n="14"/>26.12.A. Mittag bei mir. Anflug von Zärtlichkeit.
-      <lb n="15"/>27.12. A heute um 6.20 nach Berlin. War Mittag bei ihm. A. schreck-
-      <lb n="16"/>lich nervös. Ich schlage vor ihn zur Bann zu begleiten, er lennt es
-      <lb n="17"/>selbst
-      <lb n="18"/>haftig und unwirsch vor Frieda ab. Kaum ist sie fort schlägt er es mir
-      <lb n="19"/>gehört vor. Wir kommen 1½ Stunden zu früh an die Bahn, sitzen erst im
-      <lb n="20"/>Restaurant, dann geht er eingehängt mit mir am Perron auf und ab. Ich
-      <lb n="21"/>muss mir auch seinen Schlafwagen ansehen. Viel Ungesprochenes bleibt
-      <lb n="22"/>zwischen uns. Wenn er wüsste, wie ich mich gesundheitlich um ihn sorge,
-      <lb n="23"/>von allen andern brüben Gedanken abgesehen.- -
-      <lb n="24"/>28.12. Gemlich Tee bei mir mit Hermine, Pauli, Hans und Gattin,Carry und
-      <lb n="25"/>mit
-      <lb n="26"/>Magdi und Herry. Erste Begegnung ist Herry und Magda seit ihrem Bös-
-      <lb n="27"/>sein. Sie sehr kindisch und er ein einiger Lausbub.
-      <lb n="28"/>29.12. Kurzer Anruf aus Berlin, offenbar um sich einen Brief zu erspa-
-      <lb n="29"/>ren. Er war gestern nach der Ankunft Mittag und Abend bei 0. mit Ar-
-      <lb n="30"/>ndero Heini und Ruth besammen.</seite></div></body></text></TEI>
+                                    Schnitzler</p></seriesStmt><sourceDesc><listWit><witness n="1"><msDesc><msIdentifier><country>A</country><settlement>Wien</settlement><repository>Wienbibliothek</repository><idno>H.I.N. 155550</idno></msIdentifier></msDesc></witness></listWit></sourceDesc></fileDesc><profileDesc><langUsage><language ident="de-AT">German</language></langUsage></profileDesc><revisionDesc status="proposed"><change who="LU" when="2022-12-25">Angelegt</change></revisionDesc></teiHeader><facsimile><graphic url="ckp742"/></facsimile><text><body><div type="writingSession" n="1"><seite>
+      <lb n="01"/>5.11. Heute hat man ihm zur Ader gelassen. Ich war am Abend bei ihm.
+      <lb n="02"/>Er war so müde, dass ich ihm die Schuhe aufknöpfelte und auszog, damit
+      <lb n="03"/>er rascher ins Bett konnte.
+      <lb n="04"/>6.11. ohne Mädchen. Sie ist angeblich hier rheumatisch geworden. Habe
+      <lb n="05"/>wahnsinnig viel zu tun und sehe elend aus.
+      <lb n="06"/>– – – – – – – –
+      <lb n="07"/>20.12. 10.Uhr abends. Ich habe wochenlang nicht eingeschrieben. Meine
+      <lb n="08"/>innere Zerrissenheit zu gross. Morgen Première "Spiel der Sommerlüfte".
+      <lb n="09"/>Mittwoch bei der ersten Kostümprobe. Heute bei den Generalprobe. Nachher
+      <lb n="10"/>mit Hofrätin Z., A., Beer-Hofmann, Moissi und Termin im Grand Hotel. Ich
+      <lb n="11"/>glaube an einen Erfolg und wünsche ihn aus tiefstem Herzensgrund. Die
+      <lb n="12"/>Stimmung des Publikums war in der heutigen Probe schon sehr gut bis
+      <lb n="13"/>auf einige feindlich Gesinnte: Ernst Lothar und Trebitsch. waren schon
+      <lb n="14"/>vorher entschlossen das Stück nicht gut zu finden. Je mehr ich die
+      <lb n="15"/>Intellektuellen in der Nähe sehe, desto mir bin ich angeekelt. Nie früher
+      <lb n="16"/>habe ich so viel Bösartigkeit, Unbeständigkei und Bestechlichkeit
+      <lb n="17"/>getroffen. Ich hab Ausreissgelüste. Es ist alles so schwer für mich.
+      <lb n="18"/>Es war eine so trübselige Zeit. A.'s physische und psychische Verfassung
+      <lb n="19"/>xxx machen Rücksichtnahme nötig, die oft über meine Kraft geht. Man muss
+      <lb n="20"/>jede Verletzung hinnehmen: zeige ich die kleinste Verstimmung, so sind unabseh-
+      <lb n="21"/>bare Szenen die Folge. Und gleich nach Weihnachten fährt er nach Berlin.
+      <lb n="22"/>Seit wir von Territet fort sind war kein wirklich guter Tag und trotz
+      <lb n="23"/>allem fühl ich jede Freude und jedes Leid mit ihm. Er hat schon keinen
+      <lb n="24"/>Menschen auf der Welt, der so zu ihm steht.
+      <lb n="25"/>Ist es eigentlich nicht unerhört, dass der Sohn nicht zur Première des
+      <lb n="26"/>Vaters her kommt? Wahrscheinlich lässt ihn die O. nicht her, damit er
+      <lb n="27"/>nicht die Reise nach Berlin aufschiebt. Ich höre, sie hat wieder Schulden
+      <lb n="28"/>gemacht und braucht Geld.</seite></div></body></text></TEI>

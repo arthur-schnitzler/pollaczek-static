@@ -1,4 +1,5 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xml:id="ckp689.xml" xml:base="https://id.acdh.oeaw.ac.at.at/ckp" prev="https://id.acdh.oeaw.ac.at.at/ckp/ckp688.xml" next="https://id.acdh.oeaw.ac.at.at/ckp/ckp690.xml"><teiHeader><fileDesc><titleStmt><title level="s">Clara Katharina Pollaczek: »Arthur Schnitzler und ich«</title><title level="a">Clara Katharina Pollaczek an Arthur Schnitzler, 3. Mai 1929</title><title type="alternative" when-iso="1929-05-03"/><author ref="#12435">Pollaczek, Clara Katharina</author><editor><name>Müller, Martin Anton</name><name>Untner, Laura</name></editor><funder><name>FWF - Der Wissenschaftsfonds</name><address><street>Sensengasse 1</street><postCode>1090 Wien</postCode><placeName><country>A</country><settlement>Wien</settlement></placeName></address></funder></titleStmt><editionStmt><edition>CKP</edition><respStmt><resp>Transkription und Kommentierung</resp><name>Müller, Martin Anton</name><name>Untner, Laura</name></respStmt></editionStmt><publicationStmt><publisher>Austrian Centre for Digital Humanities and Cultural
+<TEI xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.tei-c.org/ns/1.0" xml:id="ckp689.xml" xml:base="https://id.acdh.oeaw.ac.at.at/ckp" prev="https://id.acdh.oeaw.ac.at.at/ckp/ckp688.xml" next="https://id.acdh.oeaw.ac.at.at/ckp/ckp690.xml"><teiHeader><fileDesc><titleStmt><title level="s">Clara Katharina Pollaczek: »Arthur Schnitzler und
+                                    ich«</title><title level="a"/><author ref="#12435">Pollaczek, Clara Katharina</author><editor><name>Müller, Martin Anton</name><name>Untner, Laura</name></editor><funder><name>FWF - Der Wissenschaftsfonds</name><address><street>Sensengasse 1</street><postCode>1090 Wien</postCode><placeName><country>A</country><settlement>Wien</settlement></placeName></address></funder></titleStmt><editionStmt><edition>CKP</edition><respStmt><resp>Transkription und Kommentierung</resp><name>Müller, Martin Anton</name><name>Untner, Laura</name></respStmt></editionStmt><publicationStmt><publisher>Austrian Centre for Digital Humanities and Cultural
                                     Heritage</publisher><pubPlace>Vienna</pubPlace><date when="2022">2023</date><availability><licence target="https://creativecommons.org/licenses/by/4.0/deed.de"><p>Sie dürfen: Teilen — das Material in jedwedem Format oder
                                             Medium vervielfältigen und weiterverbreiten Bearbeiten —
                                             das Material remixen, verändern und darauf aufbauen und
@@ -24,26 +25,23 @@
                                             Persönlichkeits- und Datenschutzrechte zu beachten sein,
                                             die Ihre Nutzung des Materials entsprechend
                                             beschränken.</p></licence></availability><idno type="handle"/></publicationStmt><seriesStmt><p>Machine-Readable Transcriptions of the Correspondences of Arthur
-                                    Schnitzler</p></seriesStmt><sourceDesc><listWit><witness n="1"><msDesc><msIdentifier><country>A</country><settlement>Wien</settlement><repository>Wienbibliothek</repository><idno>H.I.N. 155550</idno></msIdentifier></msDesc></witness></listWit></sourceDesc></fileDesc><profileDesc><langUsage><language ident="de-AT">German</language></langUsage></profileDesc><revisionDesc status="proposed"><change who="LU" when="2022-12-25">Angelegt</change></revisionDesc></teiHeader><facsimile><graphic url="689"/></facsimile><text><body><div type="writingSession" n="1"><seite id="689">
-            <lb n="01"/>3.5.29.
-      <lb n="02"/>Kinder willen, es gäbe dies und jenes eben zu be-
-      <lb n="03"/>sprechen, so täuschtest Du mich und Dich selbst.
-      <lb n="04"/>Ich glaube nicht, dass irgend eine Frau,
-      <lb n="05"/>die reinen Herzens ist, in diesem Fall anders em-
-      <lb n="06"/>pfinden könnte als ich. Es wäre Wahnsinn von Dir
-      <lb n="07"/>irgend etwas aufzugeben, was Dir Wunsch und Bedürf-
-      <lb n="08"/>nis ist. Ich verlange es nicht und ich möchte es
-      <lb n="09"/>nicht. Du scheinst immer zu glauben, dass ich Angst
-      <lb n="10"/>habe, Du könntest die O. zurücknehmen. Nein, mein
-      <lb n="11"/>Kind, daran denke ich gar nicht, umso weniger als ich
-      <lb n="12"/>in dieser Richtung nicht die geringsten Aspirationen
-      <lb n="13"/>habe. Es genügt meiner Eifersucht, wie Du esnennst,
-      <lb n="14"/>vollkommen, wenn Du einen Aufenthalt mit ihr teilst.
-      <lb n="15"/>Gemeinsame Ausflüge, gemeinsame Spaziergänge, eine
-      <lb n="16"/>gemeinsame Landschaft, eine Zugehörigkeit, und wenn
-      <lb n="17"/>diese Qual für mich auch nur acht Tage dauert, bis
-      <lb n="18"/>eben wieder eine neue kommt. Du sollst und darfst
-      <lb n="19"/>nichts aufgeben, ich gebe nur mich auf. Ich bin
-      <lb n="20"/>einfach dieser Situation nicht mehr gewachsen. Sage
-      <lb n="21"/>nicht: "Das alles, weil ich mir erlaube 8 Tage an
-      <lb n="22"/>6</seite></div></body></text></TEI>
+                                    Schnitzler</p></seriesStmt><sourceDesc><listWit><witness n="1"><msDesc><msIdentifier><country>A</country><settlement>Wien</settlement><repository>Wienbibliothek</repository><idno>H.I.N. 155550</idno></msIdentifier></msDesc></witness></listWit></sourceDesc></fileDesc><profileDesc><langUsage><language ident="de-AT">German</language></langUsage></profileDesc><revisionDesc status="proposed"><change who="LU" when="2022-12-25">Angelegt</change></revisionDesc></teiHeader><facsimile><graphic url="ckp689"/></facsimile><text><body><div type="writingSession" n="1"><seite>
+      <lb n="01"/>sten nach Cannes zu gehen, ausserhalb der Saison,
+      <lb n="02"/>keine Bekannten zu fürchten und sicher billige
+      <lb n="03"/>Preise. Und so hatte ich auch während Deines lan-
+      <lb n="04"/>gen Aufenthaltes in B. und in all meinen Verstim-
+      <lb n="05"/>mungen und verzweifelten Stunden eine kleine Hoff-
+      <lb n="06"/>nung auf das Frühjahr gesetzt. Ich dachte,Sommer,
+      <lb n="07"/>Sonnen,Landschaft werden uns Beiden helfen, wir
+      <lb n="08"/>werden über manches Elend dieses Winters, auf des-
+      <lb n="09"/>sen Einzelheiten ich hier nicht eingehen will,
+      <lb n="10"/>wieder ganz zueinander finden - eine schöne Zeit
+      <lb n="11"/>wird kommen. Und nun ist plötzlich diese Reise
+      <lb n="12"/>an den Wörthersee da! "Belanglos" sagst Du. Kann
+      <lb n="13"/>etwas belanglos sein, was einem Andern so viel
+      <lb n="14"/>Leid bereitet? Kann etwas belanglos sein, worauf
+      <lb n="15"/>man ohne jeden zwingenden Grund besteht, trotzdem
+      <lb n="16"/>man damit einer angeblich geliebten Frau so weh tut?
+      <lb n="17"/>Es war nie belanglos und ist es heute nicht. Und
+      <lb n="18"/>wenn Du bei früheren Zusammenkünften (ich meine
+      <lb n="19"/>in früheren Jahren) mir sagtest,es geschähe um der</seite></div></body></text></TEI>

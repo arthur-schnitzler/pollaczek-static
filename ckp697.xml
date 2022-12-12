@@ -1,4 +1,5 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xml:id="ckp697.xml" xml:base="https://id.acdh.oeaw.ac.at.at/ckp" prev="https://id.acdh.oeaw.ac.at.at/ckp/ckp696.xml" next="https://id.acdh.oeaw.ac.at.at/ckp/ckp698.xml"><teiHeader><fileDesc><titleStmt><title level="s">Clara Katharina Pollaczek: »Arthur Schnitzler und ich«</title><title level="a">Tagebuch von Clara Katharina Pollaczek, 16. Mai 1929</title><title type="alternative" when-iso="1929-05-16"/><author ref="#12435">Pollaczek, Clara Katharina</author><editor><name>Müller, Martin Anton</name><name>Untner, Laura</name></editor><funder><name>FWF - Der Wissenschaftsfonds</name><address><street>Sensengasse 1</street><postCode>1090 Wien</postCode><placeName><country>A</country><settlement>Wien</settlement></placeName></address></funder></titleStmt><editionStmt><edition>CKP</edition><respStmt><resp>Transkription und Kommentierung</resp><name>Müller, Martin Anton</name><name>Untner, Laura</name></respStmt></editionStmt><publicationStmt><publisher>Austrian Centre for Digital Humanities and Cultural
+<TEI xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.tei-c.org/ns/1.0" xml:id="ckp697.xml" xml:base="https://id.acdh.oeaw.ac.at.at/ckp" prev="https://id.acdh.oeaw.ac.at.at/ckp/ckp696.xml" next="https://id.acdh.oeaw.ac.at.at/ckp/ckp698.xml"><teiHeader><fileDesc><titleStmt><title level="s">Clara Katharina Pollaczek: »Arthur Schnitzler und
+                                    ich«</title><title level="a"/><author ref="#12435">Pollaczek, Clara Katharina</author><editor><name>Müller, Martin Anton</name><name>Untner, Laura</name></editor><funder><name>FWF - Der Wissenschaftsfonds</name><address><street>Sensengasse 1</street><postCode>1090 Wien</postCode><placeName><country>A</country><settlement>Wien</settlement></placeName></address></funder></titleStmt><editionStmt><edition>CKP</edition><respStmt><resp>Transkription und Kommentierung</resp><name>Müller, Martin Anton</name><name>Untner, Laura</name></respStmt></editionStmt><publicationStmt><publisher>Austrian Centre for Digital Humanities and Cultural
                                     Heritage</publisher><pubPlace>Vienna</pubPlace><date when="2022">2023</date><availability><licence target="https://creativecommons.org/licenses/by/4.0/deed.de"><p>Sie dürfen: Teilen — das Material in jedwedem Format oder
                                             Medium vervielfältigen und weiterverbreiten Bearbeiten —
                                             das Material remixen, verändern und darauf aufbauen und
@@ -24,35 +25,33 @@
                                             Persönlichkeits- und Datenschutzrechte zu beachten sein,
                                             die Ihre Nutzung des Materials entsprechend
                                             beschränken.</p></licence></availability><idno type="handle"/></publicationStmt><seriesStmt><p>Machine-Readable Transcriptions of the Correspondences of Arthur
-                                    Schnitzler</p></seriesStmt><sourceDesc><listWit><witness n="1"><msDesc><msIdentifier><country>A</country><settlement>Wien</settlement><repository>Wienbibliothek</repository><idno>H.I.N. 155550</idno></msIdentifier></msDesc></witness></listWit></sourceDesc></fileDesc><profileDesc><langUsage><language ident="de-AT">German</language></langUsage></profileDesc><revisionDesc status="proposed"><change who="LU" when="2022-12-25">Angelegt</change></revisionDesc></teiHeader><facsimile><graphic url="697"/></facsimile><text><body><div type="writingSession" n="1"><seite id="697">
-            <lb n="01"/>Tgb. 16.5.1929.
-      <lb n="02"/>mutet stattgefunden wurde flüchtig erwähnt, und dass die Reise an den
-      <lb n="03"/>Wörthersee unterbleiben dürfte. Ich stellte keinerlei Frage.-Um keine
-      <lb n="04"/>allzu zärtliche Stimmung aufkommen zu lassen [Verbot Dr.Donath] spielen
-      <lb n="05"/>wir Worterraten. Einmal im Eifer des Spiels sage ich ihm Du, während
-      <lb n="06"/>Minna im Zimmer ist und korrigiere es erschreckt mit einem Sie. Herzliches
-      <lb n="07"/>Gelächter von allen Seiten. Es passiert mir jetzt leicht mich vor Andern
-      <lb n="08"/>zu versprechen, weil wir doch so viel beisammen sind.
-      <lb n="09"/>Heute Vormittag bei Dr.D. gewesen nach vorheriger Anfrage, um über A.
-      <lb n="10"/>mit ihm zu sprechen. Er sagte mir, er habe schon längst erwartet, dass
-      <lb n="11"/>ich ihn aufsuche. Anscheinnend sehr netter ehrlicher Mensch, versichert
-      <lb n="12"/>mir,A. sei organisch vollkommen gesund, nur psychisch sehr labil. Ob
-      <lb n="13"/>leichte Streifung, wie ich fürchte, statt gefunden, lässt sich nicht fest-
-      <lb n="14"/>stellen. Jede Aufregung muss vermieden werden. Ich sage ihm, dass ich
-      <lb n="15"/>mein Möglichstes tun will, aber er soll nur vermeiden, dass A. mit O.
-      <lb n="16"/>und Arnoldo irgendwo allein beisammen ist, da ich ihn diesen Beiden unter
-      <lb n="17"/>keiner Bedingung ausliefere. Er ist ganz meiner Ansicht. Wenn A. an den
-      <lb n="18"/>Wörthersee fahren sollte, muss Frieda mitgehen. Ich sagte ihm auch, dass
-      <lb n="19"/>wenn Arnoldo,O. und Heini demnächst herkommen (was auch möglich ist),
-      <lb n="20"/>dann will ich sogar für ein paar Tage fortgehen, um die Situation zuver-
-      <lb n="21"/>leichtern. Er sagte für mein Fortgehen inder Zeit sei er absolut nicht
-      <lb n="22"/>und A. würde es gewiss auch nicht wollen. Er sagte: „Ihnen ist die schwie-
-      <lb n="23"/>rigste Aufgabe zuteil geworden, aber Sie können sie lösen.“ Er bat mich
-      <lb n="24"/>auch A. ja nicht zu verlassen, ihm auch keinen diesbezüglichen Vorschlag
-      <lb n="25"/>mehr zu machen, da er unbedingt krank werden würde. Ach Gott wie schwer
-      <lb n="26"/>ist das alles. Am Abend A. wieder bei mir. Sehr lieb.
-      <lb n="27"/>Ich vergesse ganz, dass meine Novelle in der Presse genommen ist.1000 S.
-      <lb n="28"/>Honorar. Ein kleiner Lichtpunkt.
-      <lb n="29"/>Gestern Nachmittag bei Hermine, Paula, die nach zwei Monaten Süden und
-      <lb n="30"/>Paris wieder da sind. Es wirkte erheiternd.
-      <lb n="31"/>239</seite></div></body></text></TEI>
+                                    Schnitzler</p></seriesStmt><sourceDesc><listWit><witness n="1"><msDesc><msIdentifier><country>A</country><settlement>Wien</settlement><repository>Wienbibliothek</repository><idno>H.I.N. 155550</idno></msIdentifier></msDesc></witness></listWit></sourceDesc></fileDesc><profileDesc><langUsage><language ident="de-AT">German</language></langUsage></profileDesc><revisionDesc status="proposed"><change who="LU" when="2022-12-25">Angelegt</change></revisionDesc></teiHeader><facsimile><graphic url="ckp697"/></facsimile><text><body><div type="writingSession" n="1"><seite>
+      <lb n="01"/>folgt nicht ganz seinem Willen. Ich begleite ihn nachhause, bin dann
+      <lb n="02"/>selbst ganz erschöpft psychisch und physisch. Liege bei meiner Heimkehr
+      <lb n="03"/>bis 36 am Divan. Am Abend wieder bei ihm. Auch Frieda mit ihrem Bruder.
+      <lb n="04"/>Stimmung sehr ungleich. Manchmal plötzliche Heiterkeit. So z.B. als ich
+      <lb n="05"/>erzählte, dass mir einmal ein Schwimmmeister zu einem grossen Uelbild
+      <lb n="06"/>Akt gestanden hat und meine alte Mademoiselle als Garde dabei sass.
+      <lb n="07"/>13.5. Heute Vormittag in der Stadt beim Friseur und auf der Suche nach
+      <lb n="08"/>einem Geburtstagsgeschenk für A. Dann ganz kurz bei ihm. Bessere Verfas-
+      <lb n="09"/>zung. Machte mir Komplimente über mein Aussehen (unbegreiflich) und
+      <lb n="10"/>frug, ob man mich nicht in der Stadt viel angestarrt hat etc.
+      <lb n="11"/>Zu Tisch Cari und Magda. Cari brachte mir Maiglöckchen, er ist sehr lieb
+      <lb n="12"/>und sie sehr herzig.
+      <lb n="13"/>Am Abend Dr. Donathouand Gattin bei A. getroffen, dann allein hei ihm. Er
+      <lb n="14"/>sehr lieb zu mir.
+      <lb n="15"/>14.5. Dreimal im Tag bei ihm. Stimmung schwankend, grössere Beweglichkeit.
+      <lb n="16"/>Gestern Abend zeitweise grosse Traurigkeit, heute besser. Nach Tisch im
+      <lb n="17"/>Garten bei ihm. Später Besuch Helene Schnitzler mit Schwiegertochter und
+      <lb n="18"/>Enkel, herziger, hellblonder Bub. A. spielte mit ihm, nahm ihn auf den Arm.
+      <lb n="19"/>Nichts von Ataxie oder Parese zu merken. Am Abend wieder bei ihm. Von
+      <lb n="20"/>der Reise oder O. wird kein Wort gesprochen.
+      <lb n="21"/>15.5. Sein Geburtstag. In der Früh telefonisch grosse Düsterkeit, sehr
+      <lb n="22"/>nervös. Bei späterem Anruf von seiner Seite sichtliche Entspannung. Ver-
+      <lb n="23"/>mute Gespräch mit Berlin. Ich weiss noch immer nicht, ob wir einen Aus-
+      <lb n="24"/>flug heute machen oder ob er Mittag bei mir ist. Ich habe mich für alle
+      <lb n="25"/>Fälle vorbereitet. Ich komme zu keinerlei Arbeit,zu keinem selbständigen
+      <lb n="26"/>Giedanken mehr.
+      <lb n="27"/>16.5. Der gestrige Tag gut verlaufen. In Mödling bei Hajek Mittagmahl,
+      <lb n="28"/>ein wenig herumgegangen und mit Appetit gegessen. Heimfahrt bei Regen, aber
+      <lb n="29"/>nicht ungemütlich. Abend wieder bei ihm. Berliner Gespräch, wie ich ver-</seite></div></body></text></TEI>

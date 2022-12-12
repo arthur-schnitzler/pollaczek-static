@@ -1,4 +1,5 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xml:id="ckp686.xml" xml:base="https://id.acdh.oeaw.ac.at.at/ckp" prev="https://id.acdh.oeaw.ac.at.at/ckp/ckp685.xml" next="https://id.acdh.oeaw.ac.at.at/ckp/ckp687.xml"><teiHeader><fileDesc><titleStmt><title level="s">Clara Katharina Pollaczek: »Arthur Schnitzler und ich«</title><title level="a">Clara Katharina Pollaczek an Arthur Schnitzler, 3. Mai 1929</title><title type="alternative" when-iso="1929-05-03"/><author ref="#12435">Pollaczek, Clara Katharina</author><editor><name>Müller, Martin Anton</name><name>Untner, Laura</name></editor><funder><name>FWF - Der Wissenschaftsfonds</name><address><street>Sensengasse 1</street><postCode>1090 Wien</postCode><placeName><country>A</country><settlement>Wien</settlement></placeName></address></funder></titleStmt><editionStmt><edition>CKP</edition><respStmt><resp>Transkription und Kommentierung</resp><name>Müller, Martin Anton</name><name>Untner, Laura</name></respStmt></editionStmt><publicationStmt><publisher>Austrian Centre for Digital Humanities and Cultural
+<TEI xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.tei-c.org/ns/1.0" xml:id="ckp686.xml" xml:base="https://id.acdh.oeaw.ac.at.at/ckp" prev="https://id.acdh.oeaw.ac.at.at/ckp/ckp685.xml" next="https://id.acdh.oeaw.ac.at.at/ckp/ckp687.xml"><teiHeader><fileDesc><titleStmt><title level="s">Clara Katharina Pollaczek: »Arthur Schnitzler und
+                                    ich«</title><title level="a"/><author ref="#12435">Pollaczek, Clara Katharina</author><editor><name>Müller, Martin Anton</name><name>Untner, Laura</name></editor><funder><name>FWF - Der Wissenschaftsfonds</name><address><street>Sensengasse 1</street><postCode>1090 Wien</postCode><placeName><country>A</country><settlement>Wien</settlement></placeName></address></funder></titleStmt><editionStmt><edition>CKP</edition><respStmt><resp>Transkription und Kommentierung</resp><name>Müller, Martin Anton</name><name>Untner, Laura</name></respStmt></editionStmt><publicationStmt><publisher>Austrian Centre for Digital Humanities and Cultural
                                     Heritage</publisher><pubPlace>Vienna</pubPlace><date when="2022">2023</date><availability><licence target="https://creativecommons.org/licenses/by/4.0/deed.de"><p>Sie dürfen: Teilen — das Material in jedwedem Format oder
                                             Medium vervielfältigen und weiterverbreiten Bearbeiten —
                                             das Material remixen, verändern und darauf aufbauen und
@@ -24,28 +25,24 @@
                                             Persönlichkeits- und Datenschutzrechte zu beachten sein,
                                             die Ihre Nutzung des Materials entsprechend
                                             beschränken.</p></licence></availability><idno type="handle"/></publicationStmt><seriesStmt><p>Machine-Readable Transcriptions of the Correspondences of Arthur
-                                    Schnitzler</p></seriesStmt><sourceDesc><listWit><witness n="1"><msDesc><msIdentifier><country>A</country><settlement>Wien</settlement><repository>Wienbibliothek</repository><idno>H.I.N. 155550</idno></msIdentifier></msDesc></witness></listWit></sourceDesc></fileDesc><profileDesc><langUsage><language ident="de-AT">German</language></langUsage></profileDesc><revisionDesc status="proposed"><change who="LU" when="2022-12-25">Angelegt</change></revisionDesc></teiHeader><facsimile><graphic url="686"/></facsimile><text><body><div type="writingSession" n="1"><seite id="686">
-            <lb n="01"/>3.5. 29.
-      <lb n="02"/>nen die einzigen wirklich guten Wochen dieses Win-
-      <lb n="03"/>ters. Ich war zuversichtlich und Du erholtest Dich
-      <lb n="04"/>zusehends.
-      <lb n="05"/>Dann brachte es O. durch allerlei Vermitt-
-      <lb n="06"/>lungen zuwege, dass Arnoldo Urlaub zu Weihnachten be-
-      <lb n="07"/>kam und Du wieder nach B. fahren musstest. Du weisst,
-      <lb n="08"/>wir sind damals im zärtlichsten Einverständnis aus-
-      <lb n="09"/>einander gegangen. Du fuhrst am 1. Weihnachtstag fort,
-      <lb n="10"/>ich verbrachte den 1.Sylvesterabend in dem neuen
-      <lb n="11"/>Heim mutterseelenallein, Du bei Deiner geschiedenen
-      <lb n="12"/>Gattin. Ich hatte in der mir noch ganz ungewohnten
-      <lb n="13"/>Umgebung, bei der plötzlichen grossen Kälte, durch
-      <lb n="14"/>Schneefälle isoliert, ein Gefühl schrecklicher Ver-
-      <lb n="15"/>einsamung.
-      <lb n="16"/>Dann kamst Du endlich zurück und an
-      <lb n="17"/>Deinem ganzen Verhalten, in Deinem Wesen sogar merk-
-      <lb n="18"/>te ich deutlich, dass sich die Beziehung zur O. wieder
-      <lb n="19"/>gebessert hat. Es muss wohl etwas daran sein, sonst
-      <lb n="20"/>könnte ich nicht aus Deinem Benehmen zu mir so
-      <lb n="21"/>séneilif
-      <lb n="22"/>genau erkennen, wie Du zu ihr stehst. Ich habe daher
-      <lb n="23"/>Deiner 3. Berliner Reise ein paar Wochen später
-      <lb n="24"/>233/3</seite></div></body></text></TEI>
+                                    Schnitzler</p></seriesStmt><sourceDesc><listWit><witness n="1"><msDesc><msIdentifier><country>A</country><settlement>Wien</settlement><repository>Wienbibliothek</repository><idno>H.I.N. 155550</idno></msIdentifier></msDesc></witness></listWit></sourceDesc></fileDesc><profileDesc><langUsage><language ident="de-AT">German</language></langUsage></profileDesc><revisionDesc status="proposed"><change who="LU" when="2022-12-25">Angelegt</change></revisionDesc></teiHeader><facsimile><graphic url="ckp686"/></facsimile><text><body><div type="writingSession" n="1"><seite>
+      <lb n="01"/>erst am 5.Tag Deines Hierseins kommen liessest,
+      <lb n="02"/>als, wie Du mir wörtlich sagtest, die O. so »ein-
+      <lb n="03"/>sichtig" war zu begreifen, dass Du mich sehen willst
+      <lb n="04"/>und einen Vormittag fort blieb. Ich habe es ertra-
+      <lb n="05"/>gen, dass Du 3 Wochen lang bei Deiner Familie in
+      <lb n="06"/>Hohenschwangau gesessen bist und Dich damals bei
+      <lb n="07"/>Deiner Rückkehr mit einem Ueberschwang an Gefühl
+      <lb n="08"/>empfangen und in dem heissen Bedürfnis Dir zu helfen.
+      <lb n="09"/>Du hast mir nach 3 Wochen erklärt, dass Du nach
+      <lb n="10"/>Berlin musst, ich soll das verstehen. Nach der ersten
+      <lb n="11"/>Erregung habe ich auch das eingesehen, da Du immer
+      <lb n="12"/>und immer wieder betontest, dass Deine Sehnsucht nur
+      <lb n="13"/>Heini gelte und ich in dieser Richtung alles be-
+      <lb n="14"/>greife.
+      <lb n="15"/>Du bist damals in einer der O. feindlichen
+      <lb n="16"/>Stimmung aus Berlin zurückgekehrt. Ohne dass Du
+      <lb n="17"/>es mir sagtest, ohne dass ich den Grund dafür wuss-
+      <lb n="18"/>te oder weiss, habe ich es gefühlt, denn Du warst
+      <lb n="19"/>zärtlicher, hingegebener an mich und unsere Bezie-
+      <lb n="20"/>hung. Es waren trotz Deiner zeitweisen Depressio-</seite></div></body></text></TEI>

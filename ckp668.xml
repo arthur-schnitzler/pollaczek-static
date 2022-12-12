@@ -1,4 +1,5 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xml:id="ckp668.xml" xml:base="https://id.acdh.oeaw.ac.at.at/ckp" prev="https://id.acdh.oeaw.ac.at.at/ckp/ckp667.xml" next="https://id.acdh.oeaw.ac.at.at/ckp/ckp669.xml"><teiHeader><fileDesc><titleStmt><title level="s">Clara Katharina Pollaczek: »Arthur Schnitzler und ich«</title><title level="a">Clara Katharina Pollaczek an Arthur Schnitzler, 21. März 1929</title><title type="alternative" when-iso="1929-03-21"/><author ref="#12435">Pollaczek, Clara Katharina</author><editor><name>Müller, Martin Anton</name><name>Untner, Laura</name></editor><funder><name>FWF - Der Wissenschaftsfonds</name><address><street>Sensengasse 1</street><postCode>1090 Wien</postCode><placeName><country>A</country><settlement>Wien</settlement></placeName></address></funder></titleStmt><editionStmt><edition>CKP</edition><respStmt><resp>Transkription und Kommentierung</resp><name>Müller, Martin Anton</name><name>Untner, Laura</name></respStmt></editionStmt><publicationStmt><publisher>Austrian Centre for Digital Humanities and Cultural
+<TEI xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.tei-c.org/ns/1.0" xml:id="ckp668.xml" xml:base="https://id.acdh.oeaw.ac.at.at/ckp" prev="https://id.acdh.oeaw.ac.at.at/ckp/ckp667.xml" next="https://id.acdh.oeaw.ac.at.at/ckp/ckp669.xml"><teiHeader><fileDesc><titleStmt><title level="s">Clara Katharina Pollaczek: »Arthur Schnitzler und
+                                    ich«</title><title level="a"/><author ref="#12435">Pollaczek, Clara Katharina</author><editor><name>Müller, Martin Anton</name><name>Untner, Laura</name></editor><funder><name>FWF - Der Wissenschaftsfonds</name><address><street>Sensengasse 1</street><postCode>1090 Wien</postCode><placeName><country>A</country><settlement>Wien</settlement></placeName></address></funder></titleStmt><editionStmt><edition>CKP</edition><respStmt><resp>Transkription und Kommentierung</resp><name>Müller, Martin Anton</name><name>Untner, Laura</name></respStmt></editionStmt><publicationStmt><publisher>Austrian Centre for Digital Humanities and Cultural
                                     Heritage</publisher><pubPlace>Vienna</pubPlace><date when="2022">2023</date><availability><licence target="https://creativecommons.org/licenses/by/4.0/deed.de"><p>Sie dürfen: Teilen — das Material in jedwedem Format oder
                                             Medium vervielfältigen und weiterverbreiten Bearbeiten —
                                             das Material remixen, verändern und darauf aufbauen und
@@ -24,35 +25,33 @@
                                             Persönlichkeits- und Datenschutzrechte zu beachten sein,
                                             die Ihre Nutzung des Materials entsprechend
                                             beschränken.</p></licence></availability><idno type="handle"/></publicationStmt><seriesStmt><p>Machine-Readable Transcriptions of the Correspondences of Arthur
-                                    Schnitzler</p></seriesStmt><sourceDesc><listWit><witness n="1"><msDesc><msIdentifier><country>A</country><settlement>Wien</settlement><repository>Wienbibliothek</repository><idno>H.I.N. 155550</idno></msIdentifier></msDesc></witness></listWit></sourceDesc></fileDesc><profileDesc><langUsage><language ident="de-AT">German</language></langUsage></profileDesc><revisionDesc status="proposed"><change who="LU" when="2022-12-25">Angelegt</change></revisionDesc></teiHeader><facsimile><graphic url="668"/></facsimile><text><body><div type="writingSession" n="1"><seite id="668">
-            <lb n="01"/>An A.S., Berlin.
-      <lb n="02"/>Wien, 21.3.1929.
-      <lb n="03"/>Liebster,
-      <lb n="04"/>verzeih, dass ich Dir auch nach unserem heutigen telefo-
-      <lb n="05"/>nischen und wenig beglückenden Gespräch nur ein paar Zeilen sende.
-      <lb n="06"/>Zu erzählen habe ich nichts, denn dass ich gestern bei Tante Sidonie
-      <lb n="07"/>war ist:recht belanglos und für den gewissen leichten Plauderton fehlt
-      <lb n="08"/>es mir an Stimmung.
-      <lb n="09"/>Ueber die Gründe meiner Depression zu sprechen ist ganz
-      <lb n="10"/>Überflüssig, Du kennst sie, oder kannet sie Dir aus tausendmal Gesag-
-      <lb n="11"/>tem zusammenreimen. Worte darüber würden Dich nur verstimmen und
-      <lb n="12"/>nichts ändern - also wozu? Zu alledem kommt die pekuniäre Enge, die
-      <lb n="13"/>nimmt
-      <lb n="14"/>mir jede Bewegungsfreiheit mich jede Situation doppelt und
-      <lb n="15"/>lässt
-      <lb n="16"/>zeigt
-      <lb n="17"/>Kreifach empfinden und mir die Unmöglichkeiten irgend
-      <lb n="18"/>einem Impuls zu folgen. - Nur aus diesen Gründen würde mich eine po-
-      <lb n="19"/>sitive Antwort Ullsteins so glücklich machen. Aber ich höre schon
-      <lb n="20"/>das "Nein" und weiss, dass ich dann für die Oeffentlichkeit keine
-      <lb n="21"/>Zeile mehr schreibe und für mich nicht mehr, als einem inneren Zwang
-      <lb n="22"/>entspringt.- Hoffentlich führen Deine dortigen "else"-Verhandlungen
-      <lb n="23"/>doch zu dem von Dir gewünschten Resultat und jedesfalls musst Du
-      <lb n="24"/>dort bleiben, bis Du schriftliche Abmachungen in Händen hast.
-      <lb n="25"/>Ich habe nicht das Geringste vor. Porges, Hatvanys,Tol-
-      <lb n="26"/>nays,Tedy B., Ferda Bl. sind an der Riviera,Königswarter in doppel-
-      <lb n="27"/>ter Trauer.
-      <lb n="28"/>Das Wetter ist schön und heute auch wärmer.
-      <lb n="29"/>Mit herzlicher Umarmung und guten Wünschen
-      <lb n="30"/>Deine C.K.
-      <lb n="31"/>218</seite></div></body></text></TEI>
+                                    Schnitzler</p></seriesStmt><sourceDesc><listWit><witness n="1"><msDesc><msIdentifier><country>A</country><settlement>Wien</settlement><repository>Wienbibliothek</repository><idno>H.I.N. 155550</idno></msIdentifier></msDesc></witness></listWit></sourceDesc></fileDesc><profileDesc><langUsage><language ident="de-AT">German</language></langUsage></profileDesc><revisionDesc status="proposed"><change who="LU" when="2022-12-25">Angelegt</change></revisionDesc></teiHeader><facsimile><graphic url="ckp668"/></facsimile><text><body><div type="writingSession" n="1"><seite>
+      <lb n="01"/>die Else machen will und dass ihr die Else das allerwichtigste ist; –
+      <lb n="02"/>sie glaubt es auch selbst; – aber die Gegeneinflüsse scheinen mächti¬
+      <lb n="03"/>ger (durchaus nicht aus Feindseligkeit gegen mich – sondern aus allen
+      <lb n="04"/>möglichen Theateropportunitätsgründen), – als ich ohnedies schon ver¬
+      <lb n="05"/>mutet hatte. – Morgen spätestens wird (?) Antwort von Strand da sein; –
+      <lb n="06"/>Donnerstag hab ich eine Besprechung mit Elisabeth. Samstag muss es
+      <lb n="07"/>endgültig feststehen, zu welchem Direktor wir uns entschliessen. – Wenn
+      <lb n="08"/>der einmal feststeht, sagt sie, – ist ja die Sache in einer Stunde erle¬
+      <lb n="09"/>digt. – Gewiss ist die theoretische Lösung der Inszenierungsfrage ge¬
+      <lb n="10"/>geben; Trottoir roulant – und wandelnde Prospecte (gegen Laterna magica
+      <lb n="11"/>sind wir alle); – die technischen Einzelheiten sind natürlich nur mit
+      <lb n="12"/>Hinblick auf die betreffende Bühne zu lösen. Es ist und bleibt unfass¬
+      <lb n="13"/>bar, was Strnad mit seinen Massen gewollt hat; – selbst unter den Sälen
+      <lb n="14"/>war kaum einer zu finden, der für seinen Plan in Betracht käme.
+      <lb n="15"/>Natürlich hätte ich das schon vor drei Wochen wissen können, wenn
+      <lb n="16"/>Elisabeth sofort mit dem Strnadplan zu Duorski (dem ersten Theater¬
+      <lb n="17"/>meister in Berlin) gegangen wäre. Eleonore Mendelsohn, die neueste Freun¬
+      <lb n="18"/>din Elisabeths (mit der Heini im Aretino spielt) sagte ihm gestern, dass
+      <lb n="19"/>E. sich über die harten Dinge, die ich ihr unverblümt sage, ärgert, sie
+      <lb n="20"/>aber immer wieder selbst einsieht und dass ich eigentlich der einzige
+      <lb n="21"/>Mensch sei, der ihr »imponiere«! – Und so schaut das aus!
+      <lb n="22"/>Den gestrigen Abend verbrachte ich mit heftigen Kopfschmerzen allein.
+      <lb n="23"/>Heute esse ich bei Herr zu Mittag: Abend bin ich mit Viki und Mimi
+      <lb n="24"/>zusammen.
+      <lb n="25"/>Am Donnerstag Morgens, mein Liebes, ruf ich Dich an- und hoffe Dir mehr
+      <lb n="26"/>sagen zu können. Das Wetter ist sehr schön; aber ich hab weder äusser¬
+      <lb n="27"/>lich noch innerlich etwas davon. Lebwohl, ich drücke Dich innig an mein
+      <lb n="28"/>Herz.
+      <lb n="29"/>Dein A.</seite></div></body></text></TEI>

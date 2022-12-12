@@ -1,4 +1,5 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xml:id="ckp905.xml" xml:base="https://id.acdh.oeaw.ac.at.at/ckp" prev="https://id.acdh.oeaw.ac.at.at/ckp/ckp904.xml" next="https://id.acdh.oeaw.ac.at.at/ckp/ckp906.xml"><teiHeader><fileDesc><titleStmt><title level="s">Clara Katharina Pollaczek: »Arthur Schnitzler und ich«</title><title level="a">Tagebuch von Clara Katharina Pollaczek, 4.–6. Mai 1931</title><title type="alternative" when-iso="1931-05-04"/><title type="alternative" when-iso="1931-05-05"/><title type="alternative" when-iso="1931-05-06"/><author ref="#12435">Pollaczek, Clara Katharina</author><editor><name>Müller, Martin Anton</name><name>Untner, Laura</name></editor><funder><name>FWF - Der Wissenschaftsfonds</name><address><street>Sensengasse 1</street><postCode>1090 Wien</postCode><placeName><country>A</country><settlement>Wien</settlement></placeName></address></funder></titleStmt><editionStmt><edition>CKP</edition><respStmt><resp>Transkription und Kommentierung</resp><name>Müller, Martin Anton</name><name>Untner, Laura</name></respStmt></editionStmt><publicationStmt><publisher>Austrian Centre for Digital Humanities and Cultural
+<TEI xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.tei-c.org/ns/1.0" xml:id="ckp905.xml" xml:base="https://id.acdh.oeaw.ac.at.at/ckp" prev="https://id.acdh.oeaw.ac.at.at/ckp/ckp904.xml" next="https://id.acdh.oeaw.ac.at.at/ckp/ckp906.xml"><teiHeader><fileDesc><titleStmt><title level="s">Clara Katharina Pollaczek: »Arthur Schnitzler und
+                                    ich«</title><title level="a"/><author ref="#12435">Pollaczek, Clara Katharina</author><editor><name>Müller, Martin Anton</name><name>Untner, Laura</name></editor><funder><name>FWF - Der Wissenschaftsfonds</name><address><street>Sensengasse 1</street><postCode>1090 Wien</postCode><placeName><country>A</country><settlement>Wien</settlement></placeName></address></funder></titleStmt><editionStmt><edition>CKP</edition><respStmt><resp>Transkription und Kommentierung</resp><name>Müller, Martin Anton</name><name>Untner, Laura</name></respStmt></editionStmt><publicationStmt><publisher>Austrian Centre for Digital Humanities and Cultural
                                     Heritage</publisher><pubPlace>Vienna</pubPlace><date when="2022">2023</date><availability><licence target="https://creativecommons.org/licenses/by/4.0/deed.de"><p>Sie dürfen: Teilen — das Material in jedwedem Format oder
                                             Medium vervielfältigen und weiterverbreiten Bearbeiten —
                                             das Material remixen, verändern und darauf aufbauen und
@@ -24,36 +25,34 @@
                                             Persönlichkeits- und Datenschutzrechte zu beachten sein,
                                             die Ihre Nutzung des Materials entsprechend
                                             beschränken.</p></licence></availability><idno type="handle"/></publicationStmt><seriesStmt><p>Machine-Readable Transcriptions of the Correspondences of Arthur
-                                    Schnitzler</p></seriesStmt><sourceDesc><listWit><witness n="1"><msDesc><msIdentifier><country>A</country><settlement>Wien</settlement><repository>Wienbibliothek</repository><idno>H.I.N. 155550</idno></msIdentifier></msDesc></witness></listWit></sourceDesc></fileDesc><profileDesc><langUsage><language ident="de-AT">German</language></langUsage></profileDesc><revisionDesc status="proposed"><change who="LU" when="2022-12-25">Angelegt</change></revisionDesc></teiHeader><facsimile><graphic url="905"/></facsimile><text><body><div type="writingSession" n="1"><seite id="905">
-            <lb n="01"/>Tgb. 4.5.1931.
-      <lb n="02"/>mit Schnittling essen kann, fühlt man sich nicht schlecht.
-      <lb n="03"/>Dr. D. sagte mir auch gestern "sein Verhalten gegen Sie hat mit seinem
-      <lb n="04"/>Gesundheitszustand nichts zu tun.“ Ich habe allerdings manchmal das
-      <lb n="05"/>Gefühl, dass er nicht mehr normal ist.
-      <lb n="06"/>Heute Vorm. Stadt. Nachmittag nach zwei Jahren Puthon bei mir. Wir
-      <lb n="07"/>plauschten zwei Stunden. Er hat eine Wärme und Herzlichkeit, die A. nie
-      <lb n="08"/>aufbringt. Ich erzählte A. natürlich, dass er da war, als er mich um 8
-      <lb n="09"/>Uhr anrief, nur um über Filmangelegenheiten zu referieren. Bin heute
-      <lb n="10"/>viel in der Sonne gewessen.
-      <lb n="11"/>5.5. Vorm. Stadt. Abends sollen wir zu "Bumberry" mit Adele Sandrock
-      <lb n="12"/>als Gast gehen.
-      <lb n="13"/>Abend. Stück recht anusamt, aber nachher - - Es wird immer qualvoller.
-      <lb n="14"/>5. Ich habe heute etwas Schreckliches getan. Ich gäbe viel darum,
-      <lb n="15"/>wenn ich es ungeschehen machen könnte. A. sagte gestern Abend wieder:
-      <lb n="16"/>Ih ruf erst Nachmittag an". In meinem Majestrauen ging ich um 10
-      <lb n="17"/>Uhr fort, die Türkenschanzstrasse hinunter. Von der Ecke aus sah ich
-      <lb n="18"/>kommen. Da es ist ist auch nicht auf denselben haben stehen. Ich warte fünf Minuten. Da
-      <lb n="19"/>sommt ein weibliches Wesen aus dem Haus, steigt ein, fährt fort. Ich kann
-      <lb n="20"/>aus der Entfernung ihre Züge nicht sehen, aber ich weiss nicht mehr, was
-      <lb n="21"/>ich tue. Ich läute an seiner Türe. Trotzdem Minna meint, der Herr Doktor
-      <lb n="22"/>sei noch nicht angekleidet, verlange ich zu ihm. Er empfängt mich im
-      <lb n="23"/>Schlafrock über dem Nachthend, da ich dicht hinter Minna sein Zimmer
-      <lb n="24"/>betrete. Verlegen-erstauntes Gesicht: "Du? Wieno?" - Ich sage nur:
-      <lb n="25"/>de
-      <lb n="26"/>"Ich möchte nur wissen, wer die Person ist, die Dich eben verlassen hat"
-      <lb n="27"/>und breche zusammen. Zwei Stunden Szenen.
-      <lb n="28"/>Ich habe mich zu tief erniedrigt, als dass er oder ich es vergessen
-      <lb n="29"/>könnten. Er schwor bei allem, was ihm heilig ist, "die Masseurin" und
-      <lb n="30"/>sie habe sich das Auto kommen lassen, um in einen andern Bezirk zu fah-
-      <lb n="31"/>ren. Ich sagte, ich weiss, daß ich mich unwürdig benommen habe, dass ich
-      <lb n="32"/>16</seite></div></body></text></TEI>
+                                    Schnitzler</p></seriesStmt><sourceDesc><listWit><witness n="1"><msDesc><msIdentifier><country>A</country><settlement>Wien</settlement><repository>Wienbibliothek</repository><idno>H.I.N. 155550</idno></msIdentifier></msDesc></witness></listWit></sourceDesc></fileDesc><profileDesc><langUsage><language ident="de-AT">German</language></langUsage></profileDesc><revisionDesc status="proposed"><change who="LU" when="2022-12-25">Angelegt</change></revisionDesc></teiHeader><facsimile><graphic url="ckp905"/></facsimile><text><body><div type="writingSession" n="1"><seite>
+      <lb n="01"/>will Nachmittag zu Melless und bin um 7 Uhr bei Dr.D. angesagt.
+      <lb n="02"/>Eben von Dr. D., der mich sehr bedauert. Ich sol A. einfach als einen
+      <lb n="03"/>verschrullten alten Mann betrachten. Das ist leicht gesagt. Dann rät
+      <lb n="04"/>er mir wieder für einige Zeit fortzugehen. Ich sagte: Nein! Die
+      <lb n="05"/>Verschlechter ng und Trostlosigkeit ist nur durch die vorjährige
+      <lb n="06"/>sech wöchentliche Trennung gekommen. Wenn ich gehe, - dann eben auf
+      <lb n="07"/>immer. Er (Dr.D.) behauptet, dass diese viertägige Trennung schon eine
+      <lb n="08"/>Klugheit von mir gewesen sei und sicher von guter Wirkung
+      <lb n="09"/>Morgen soll A. anrufen,vederemo!
+      <lb n="10"/>Nachmittag bei Wellenz, mich physisch wenig wohl gefühlt.
+      <lb n="11"/>3.5. Heute Früh Anruf A. Recht freundlich, will mich um 11 zum Spazie-
+      <lb n="12"/>renfahren holen. Dr.D. hat ihn gestern noch angerufen (ich hatte es
+      <lb n="13"/>ihm verboten) und sehr nett von mir gesprochen, er will mir darüber
+      <lb n="14"/>mündlich erzählen.
+      <lb n="15"/>3.5.Abend. Der heutige Tag schlimmendenn je. Nach herzlicher (schon
+      <lb n="16"/>zu viel gesagt), freundlicher Begrüssung Spazierfahrt mit Konverwation.
+      <lb n="17"/>Abend Theater "Hauptmann von Köpenick" (interessantes Stück, Thaller
+      <lb n="18"/>ergreifend), dann Hotel Krantz Majolika-Saal. A. eisig, stumm, unausge-
+      <lb n="19"/>setzt gereizt, trotz meiner Bemühungen ein Gespräch aufrecht zu erhal-
+      <lb n="20"/>ten, bis ich ihm sage, ich werde morgen wieder nicht vorhanden sein.
+      <lb n="21"/>Dann lenkt er mühsam ein. Wir fahren stumm und steif wie immer nach
+      <lb n="22"/>Haus. Vor dem Haustor wagt er: "Ich ruf erst morgen Nachmittag an."
+      <lb n="23"/>Ich sage: "Gut, schlaf wohl.“
+      <lb n="24"/>Und jetzt sitze ich da und weine, und weiss mir nicht zu helfen. Nur
+      <lb n="25"/>fort - fort.
+      <lb n="26"/>4.5. A. rief schon um 8 Uhr Früh an. Ich soll sei gestriges Benommen
+      <lb n="27"/>verzeihen, er sei so reizbar. Ich antwortete sehr freundlich: "Wenn
+      <lb n="28"/>du das einziehet,brauchen wir nicht mehr darüber reden.“ Er meinte,
+      <lb n="29"/>es käme von physischen Onbehagen. Ich glaube das nicht, wenn ich auch
+      <lb n="30"/>erwiederte. Wenn man Rindsgyulasch, darauf Gansleber und Butterbrot</seite></div></body></text></TEI>

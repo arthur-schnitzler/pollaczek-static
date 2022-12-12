@@ -1,4 +1,5 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xml:id="ckp721.xml" xml:base="https://id.acdh.oeaw.ac.at.at/ckp" prev="https://id.acdh.oeaw.ac.at.at/ckp/ckp720.xml" next="https://id.acdh.oeaw.ac.at.at/ckp/ckp722.xml"><teiHeader><fileDesc><titleStmt><title level="s">Clara Katharina Pollaczek: »Arthur Schnitzler und ich«</title><title level="a">Tagebuch von Clara Katharina Pollaczek, 12.–15. September 1929</title><title type="alternative" when-iso="1929-09-12"/><title type="alternative" when-iso="1929-09-13"/><title type="alternative" when-iso="1929-09-14"/><title type="alternative" when-iso="1929-09-15"/><author ref="#12435">Pollaczek, Clara Katharina</author><editor><name>Müller, Martin Anton</name><name>Untner, Laura</name></editor><funder><name>FWF - Der Wissenschaftsfonds</name><address><street>Sensengasse 1</street><postCode>1090 Wien</postCode><placeName><country>A</country><settlement>Wien</settlement></placeName></address></funder></titleStmt><editionStmt><edition>CKP</edition><respStmt><resp>Transkription und Kommentierung</resp><name>Müller, Martin Anton</name><name>Untner, Laura</name></respStmt></editionStmt><publicationStmt><publisher>Austrian Centre for Digital Humanities and Cultural
+<TEI xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.tei-c.org/ns/1.0" xml:id="ckp721.xml" xml:base="https://id.acdh.oeaw.ac.at.at/ckp" prev="https://id.acdh.oeaw.ac.at.at/ckp/ckp720.xml" next="https://id.acdh.oeaw.ac.at.at/ckp/ckp722.xml"><teiHeader><fileDesc><titleStmt><title level="s">Clara Katharina Pollaczek: »Arthur Schnitzler und
+                                    ich«</title><title level="a"/><author ref="#12435">Pollaczek, Clara Katharina</author><editor><name>Müller, Martin Anton</name><name>Untner, Laura</name></editor><funder><name>FWF - Der Wissenschaftsfonds</name><address><street>Sensengasse 1</street><postCode>1090 Wien</postCode><placeName><country>A</country><settlement>Wien</settlement></placeName></address></funder></titleStmt><editionStmt><edition>CKP</edition><respStmt><resp>Transkription und Kommentierung</resp><name>Müller, Martin Anton</name><name>Untner, Laura</name></respStmt></editionStmt><publicationStmt><publisher>Austrian Centre for Digital Humanities and Cultural
                                     Heritage</publisher><pubPlace>Vienna</pubPlace><date when="2022">2023</date><availability><licence target="https://creativecommons.org/licenses/by/4.0/deed.de"><p>Sie dürfen: Teilen — das Material in jedwedem Format oder
                                             Medium vervielfältigen und weiterverbreiten Bearbeiten —
                                             das Material remixen, verändern und darauf aufbauen und
@@ -24,34 +25,30 @@
                                             Persönlichkeits- und Datenschutzrechte zu beachten sein,
                                             die Ihre Nutzung des Materials entsprechend
                                             beschränken.</p></licence></availability><idno type="handle"/></publicationStmt><seriesStmt><p>Machine-Readable Transcriptions of the Correspondences of Arthur
-                                    Schnitzler</p></seriesStmt><sourceDesc><listWit><witness n="1"><msDesc><msIdentifier><country>A</country><settlement>Wien</settlement><repository>Wienbibliothek</repository><idno>H.I.N. 155550</idno></msIdentifier></msDesc></witness></listWit></sourceDesc></fileDesc><profileDesc><langUsage><language ident="de-AT">German</language></langUsage></profileDesc><revisionDesc status="proposed"><change who="LU" when="2022-12-25">Angelegt</change></revisionDesc></teiHeader><facsimile><graphic url="721"/></facsimile><text><body><div type="writingSession" n="1"><seite id="721">
-            <lb n="01"/>Tgb. 12.9.1929.
-      <lb n="02"/>zu sein scheint. Aber wie schön wäre ein anderer Abschluss dieser Reise
-      <lb n="03"/>gewesen. Und ich hatte mich so gefreut, dass A. erholt und heiter war wie
-      <lb n="04"/>noch nie. Ich sitze in meinem Zimmer und muss weinen. In zwei Stunden
-      <lb n="05"/>trennen wir uns.
-      <lb n="06"/>Wilde Auseinandersetzung, die unvermeidlich war. Ich schreibe A. schliess
-      <lb n="07"/>lich ein paar Zeilen, um mein und sein Verhalten festzulegen. Ich schrei
-      <lb n="08"/>be: "In meiner Verstimmung, die jeder Mensch verstehen müsste, lag noch
-      <lb n="09"/>immer mehr Liebe als in Deinem Ueberschwang" etc.
-      <lb n="10"/>Und plötzlich sah er ein. Er brachte mir Rosen; sagte: dass die ver
-      <lb n="11"/>gangenen Wochen die schönsten seines Lebens gewesen sind und dass er nur
-      <lb n="12"/>dafür dankt. Und dann war alles wieder gut.
-      <lb n="13"/>
-            <date>13.9.</date> Wien. Gestrige Reise sehr ermüdend. Kam um 11 halbtot hier an.
-      <lb n="14"/>Diese 3 Reisetage waren erschöpfend. Liebes Telegramm von A. vorgefun-
-      <lb n="15"/>den, der schon um 13 an Ort und Stelle war. Wohnung sehr sauber
-      <lb n="16"/>angetroffen, alle Vasen voll Blumen.
-      <lb n="17"/>
-            <date>14.9.</date> Gestern Bestimmung, gemacht, niemand gesehen. Heute Vormittag
-      <lb n="18"/>zu Minna hinüber, die mich glänzend aussehend findet. Dann in die neue
-      <lb n="19"/>Wohnung von Carry und Magdi, um Reinigung etc. zu veranlassen, während sie
-      <lb n="20"/>in Ricclone sind. Nach Tisch zweiten Brief an A. geschrieben. Jetzt
-      <lb n="21"/>sollen Otto und Emma kommen. Von A. eine Karte. Morgen wohl ein Brief.
-      <lb n="22"/>Sonntag. <date>15.9.</date> Merkwürdigerweise kein Brief. Bin beunruhigt. Sonst schö-
-      <lb n="23"/>ner Tag. Anna zu Tisch. Recht gemütliches Zusammenbleiben. Später Frieda.
-      <lb n="24"/>Mit ihr zu Fuss nach Pötzleinsdorf zu Strasser. Dort genachtmahlt. Viel
-      <lb n="25"/>Über A. und O., über ihren Aufenthalt in Aussee, Jakob W., Prof. Schinne
-      <lb n="26"/>rer gesprochen. Sie ist sehr klug.
-      <lb n="27"/>Gestriger Abend mit Otto und Enmy sehr nett. Auch Wolfi war einen Augen
-      <lb n="28"/>blick da. Entzükender Bub, aber viel zu selbständig und frei erzogen.</seite></div></body></text></TEI>
+                                    Schnitzler</p></seriesStmt><sourceDesc><listWit><witness n="1"><msDesc><msIdentifier><country>A</country><settlement>Wien</settlement><repository>Wienbibliothek</repository><idno>H.I.N. 155550</idno></msIdentifier></msDesc></witness></listWit></sourceDesc></fileDesc><profileDesc><langUsage><language ident="de-AT">German</language></langUsage></profileDesc><revisionDesc status="proposed"><change who="LU" when="2022-12-25">Angelegt</change></revisionDesc></teiHeader><facsimile><graphic url="ckp721"/></facsimile><text><body><div type="writingSession" n="1"><seite>
+      <lb n="01"/>wertvolle Gespräche. Mit Schinnerer getanzt.
+      <lb n="02"/><date>9.9.</date> Liebevoller Morgen. Abschiedsstimmung. Noch immer keine definitive
+      <lb n="03"/>Entscheidung von O.
+      <lb n="04"/>Telegramm: Sie fährt nach Franzensbad. 5. Programmt Kein Wort, dass sie ihn
+      <lb n="05"/>erwartet. A. telegraphiert an Heini, ob er sie dort besuchen soll oder
+      <lb n="06"/>nicht. Um 10 Uhr abends Anruf aus Berlin, der dann wieder abgesagt wird.
+      <lb n="07"/>A. sehr enerviert. Ich bin sehr lieb zu ihm.
+      <lb n="08"/><date>10.9.</date> Enervierte Stimmung. Mir ist sehr mies, aber ich trachte nur ihn
+      <lb n="09"/>in Ruhe zu erhalten.
+      <lb n="10"/><date>11.9.</date> 6 Uhr Früh. Gestrige Fahrt nach Zürich leidlich. In Olten Schinne¬
+      <lb n="11"/>rer Abschied genommen, der über Berlin nach Amerika zurückfährt. Ein lie¬
+      <lb n="12"/>ber Mensch.
+      <lb n="13"/>In Zürich schlechte Zimmer im Hotel National. Im Hotel Gotthard Telegramm
+      <lb n="14"/>von Heini abgeholt "Besuch wird Mutter sehr freuen". Im Baur au lac
+      <lb n="15"/>Telegramm Doras abgeholt. Besuch bei O. wünschenswert. Dann <hi rend="underline" n="">Reisebureau</hi>
+      <lb n="16"/>wegen Zugsverbindung.Zum Telegraphenamt. An Heini, Dora, Olga und ver-
+      <lb n="17"/>schiedene Hotels telegraphiert. Zur Bahn Gepäck aufgeben nach verschie¬
+      <lb n="18"/>denen Richtungen. Schliesslich ins Gotthard zum Nachtmahl ich mit einer
+      <lb n="19"/>Migräne, wie noch nie in meinem Leben. Ich kann nicht sprechen, keinen
+      <lb n="20"/>Bissen essen, obwohl ausgehungert und übermüdet.
+      <lb n="21"/>Reisebestimmung: Wir fahren nach Nürnberg. Er von dort aus nach Marien¬
+      <lb n="22"/>bad, von wo aus er die O. besuchen wird, -ich nach Wien.
+      <lb n="23"/><date>12.9.</date> Nürnberg. Um 12.30 von Zürich gestern abgefahren, A. kühl, nimmt
+      <lb n="24"/>mir meine Verstimmung, die jeder Mensch begreifen würde, übel, anstatt sie
+      <lb n="25"/>mit ein paar lieben Worten zu beseitigen.
+      <lb n="26"/>Ich finde es ja begreiflich, dass er die O. besucht, da sie wirklich krank</seite></div></body></text></TEI>

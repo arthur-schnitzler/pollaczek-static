@@ -1,4 +1,5 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xml:id="ckp928.xml" xml:base="https://id.acdh.oeaw.ac.at.at/ckp" prev="https://id.acdh.oeaw.ac.at.at/ckp/ckp927.xml" next="https://id.acdh.oeaw.ac.at.at/ckp/ckp929.xml"><teiHeader><fileDesc><titleStmt><title level="s">Clara Katharina Pollaczek: »Arthur Schnitzler und ich«</title><title level="a">Tagebuch von Clara Katharina Pollaczek, 21. Juni 1931</title><title type="alternative" when-iso="1931-06-21"/><author ref="#12435">Pollaczek, Clara Katharina</author><editor><name>Müller, Martin Anton</name><name>Untner, Laura</name></editor><funder><name>FWF - Der Wissenschaftsfonds</name><address><street>Sensengasse 1</street><postCode>1090 Wien</postCode><placeName><country>A</country><settlement>Wien</settlement></placeName></address></funder></titleStmt><editionStmt><edition>CKP</edition><respStmt><resp>Transkription und Kommentierung</resp><name>Müller, Martin Anton</name><name>Untner, Laura</name></respStmt></editionStmt><publicationStmt><publisher>Austrian Centre for Digital Humanities and Cultural
+<TEI xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.tei-c.org/ns/1.0" xml:id="ckp928.xml" xml:base="https://id.acdh.oeaw.ac.at.at/ckp" prev="https://id.acdh.oeaw.ac.at.at/ckp/ckp927.xml" next="https://id.acdh.oeaw.ac.at.at/ckp/ckp929.xml"><teiHeader><fileDesc><titleStmt><title level="s">Clara Katharina Pollaczek: »Arthur Schnitzler und
+                                    ich«</title><title level="a"/><author ref="#12435">Pollaczek, Clara Katharina</author><editor><name>Müller, Martin Anton</name><name>Untner, Laura</name></editor><funder><name>FWF - Der Wissenschaftsfonds</name><address><street>Sensengasse 1</street><postCode>1090 Wien</postCode><placeName><country>A</country><settlement>Wien</settlement></placeName></address></funder></titleStmt><editionStmt><edition>CKP</edition><respStmt><resp>Transkription und Kommentierung</resp><name>Müller, Martin Anton</name><name>Untner, Laura</name></respStmt></editionStmt><publicationStmt><publisher>Austrian Centre for Digital Humanities and Cultural
                                     Heritage</publisher><pubPlace>Vienna</pubPlace><date when="2022">2023</date><availability><licence target="https://creativecommons.org/licenses/by/4.0/deed.de"><p>Sie dürfen: Teilen — das Material in jedwedem Format oder
                                             Medium vervielfältigen und weiterverbreiten Bearbeiten —
                                             das Material remixen, verändern und darauf aufbauen und
@@ -24,35 +25,33 @@
                                             Persönlichkeits- und Datenschutzrechte zu beachten sein,
                                             die Ihre Nutzung des Materials entsprechend
                                             beschränken.</p></licence></availability><idno type="handle"/></publicationStmt><seriesStmt><p>Machine-Readable Transcriptions of the Correspondences of Arthur
-                                    Schnitzler</p></seriesStmt><sourceDesc><listWit><witness n="1"><msDesc><msIdentifier><country>A</country><settlement>Wien</settlement><repository>Wienbibliothek</repository><idno>H.I.N. 155550</idno></msIdentifier></msDesc></witness></listWit></sourceDesc></fileDesc><profileDesc><langUsage><language ident="de-AT">German</language></langUsage></profileDesc><revisionDesc status="proposed"><change who="LU" when="2022-12-25">Angelegt</change></revisionDesc></teiHeader><facsimile><graphic url="928"/></facsimile><text><body><div type="writingSession" n="1"><seite id="928">
-            <lb n="01"/>Tgb. 21.6.1931.
-      <lb n="02"/>Henry Abreise durchhalten, mein Verdacht gegen diese Frau verstärkt sich.
-      <lb n="03"/>Eine Vormittag begonmene Unterredung woll am Abend fortgesetzt werden.
-      <lb n="04"/>Ich sagte A., dass ich meinen Contrakt hier nicht erneuern, sondern fort
-      <lb n="05"/>will, dass er wohl vorbereitet darauf gewesen sein muss, das der Zustand
-      <lb n="06"/>der letzten Monate sich nicht fortsetzen kann. Er sieht das vollkommen
-      <lb n="07"/>ein, will aber absolut nicht auf mich verzichten etc. Immer dieselbe Ge-
-      <lb n="08"/>schichte. Ich woll mich umstellen, seine Freiheit respektieren. Ich sagte,
-      <lb n="09"/>diese Umstellung verzuchen wir seit einem Jahr und die Qual wird täglich
-      <lb n="10"/>grösser. Obwohl ich eine Fortsetzung des Gespräches überflüssig fand, be-
-      <lb n="11"/>stand er darauf, dass ich um 28 Uhr zu ihm hindüberkomme, um weiter zureden.
-      <lb n="12"/>ich bin überzeugt, dass wenn man in einer solchen Stunde wie heute Vormit-
-      <lb n="13"/>tag nicht mehr das richtige Wort findet, man es nie mehr findet. Er redet
-      <lb n="14"/>immer nur um die Details herum, die ihm wichtig sind. Ich sagte ihm, dass
-      <lb n="15"/>mir ein Zusammensein mit Frau Clauser und ähnlichen Damen ganz gleich-
-      <lb n="16"/>gültig wäre (onne das Benehmen der Frau Clauser gut zu heissen), aber
-      <lb n="17"/>sich müsste eben bei ihm Wärme, Geborgenheit, Heimat finden. Ist es ihm
-      <lb n="18"/>eingefallen mir nach Caryz langer Krankheit zu sagen: Komm, mein Kind,
-      <lb n="19"/>jetzt gehen wir ein bisschen fort, du muust dich erholen - oh nein! Und
-      <lb n="20"/>jetzt, wo ich so herunter und elend bin, fragt er in der Früh: "Wie gehtz?"
-      <lb n="21"/>Oder: "Du wohltest doch einen Arzt fragen". Aber er denkt nicht daran,
-      <lb n="22"/>dass er mit mir zu einem Arzt gehen könnte oder mir einen schicken
-      <lb n="23"/>müsste. Er sagt: "Ich bin doch nicht verpflichtet dich immer einzuladen".
-      <lb n="24"/>Ich: "Nein. Aber dass du es als Verpflichtung" und nicht als Freude em-
-      <lb n="25"/>pfindest, das ist eben der springende Punkt." - Er: "Ich muss schon wieder
-      <lb n="26"/>Angst, haben, weil demnächst der Verleger Maupray kommt und ich ihn mit
-      <lb n="27"/>der Clauser zusammen einladen werde. - Ich: "Es wäre natürlich, wenn
-      <lb n="28"/>mere Beziehung eine gute wäre) gar kein Grund mich nicht dazu zu bitten,
-      <lb n="29"/>aber du klammerst dich immer an Einzelheiten, die ganz unwichtig sind,
-      <lb n="30"/>gegendas, um was es egentlich geht.“ - Also, um 18 Uhr Fortsetzung. Wozu?
-      <lb n="31"/>92</seite></div></body></text></TEI>
+                                    Schnitzler</p></seriesStmt><sourceDesc><listWit><witness n="1"><msDesc><msIdentifier><country>A</country><settlement>Wien</settlement><repository>Wienbibliothek</repository><idno>H.I.N. 155550</idno></msIdentifier></msDesc></witness></listWit></sourceDesc></fileDesc><profileDesc><langUsage><language ident="de-AT">German</language></langUsage></profileDesc><revisionDesc status="proposed"><change who="LU" when="2022-12-25">Angelegt</change></revisionDesc></teiHeader><facsimile><graphic url="ckp928"/></facsimile><text><body><div type="writingSession" n="1"><seite>
+      <lb n="01"/>Das Stück "Komparserie" von Duschinkki sehr gut, sehr ergreifend,Heinis
+      <lb n="02"/>Inscenierung brillant. Nachher brachte mich A. nachhause. Ruth und
+      <lb n="03"/>Heini bei ihm zu Tisch. Ruth fährt angeblich Dienstag fort. Die Familie
+      <lb n="04"/>der "Zwischenspiele" - dazu tauge ich nicht.
+      <lb n="05"/>Gestern Mittag die Kinder bei mir, dann mit ihnen, während ein Orkan über
+      <lb n="06"/>Wien niederging, beim Vortrag Spechts über die "Bacchantinnen" von Egon.
+      <lb n="07"/>Specht sprach nicht gut und so viel Entschuldigungen gleichen Beschul-
+      <lb n="08"/>digungen. In meinem Garten ist ein Baum abgebrochen und alle Rosen
+      <lb n="09"/>vernichtet. In mir ist eine grenzenlose Traurigkeit und mein Befinden
+      <lb n="10"/>täglich wohlechter. Heute ab 5 Uhr Darmzustände und Schmerzen, nahm Papa-
+      <lb n="11"/>verin.
+      <lb n="12"/>20.6. Karte zu den "Baccchantinnen" geholt, da Alma, die mit mir gehen
+      <lb n="13"/>wollte, sich nicht meldete. Dann bei Hedwig, die mir Empfehlungen für Harry
+      <lb n="14"/>nach Euenos-Aires gab, wie ist das beste, gütigste Wesen. Harry
+      <lb n="15"/>war gestern Abend bei ihr und sie findet ihn sehr nett und vernünftig.
+      <lb n="16"/>Wenn ich an meinen Kindern Fehlern und Mängel finde, so sind sie noch
+      <lb n="17"/>immer tausendmal besser als andere.
+      <lb n="18"/>A. Anruf Nachmittag. Er frug gar nicht, wohin ich nach dem Theater gehe.
+      <lb n="19"/>Ich bin überzeugt, die Glaumer ist heute in der Volkstheaterpremière und
+      <lb n="20"/>er ist nachher mit ihr zusammen (mein Verdacht nimmt zu). Emmy W. sagte
+      <lb n="21"/>mir letzthin, sie finde sie maniriert und minaudi¬
+      <lb n="22"/>rend. Ich wünschte, ich hätte diese Première hinter mir und läge mit
+      <lb n="23"/>Schlafmitteln zu Bett.
+      <lb n="24"/>21.6. Der Erfolg gestern stürmisch, sogar Korngold muss in seiner Kritik
+      <lb n="25"/>bacchantischen Applau zugeben, obwohl er wie erwartet, schimpft. Nachher
+      <lb n="26"/>Zusammenkunft im Blauen Saal Hotel Imperial. Ich ging sehr bald, da ich
+      <lb n="27"/>mich elend fühlte.- Heute Anruf A. Er war nach dem Theater mit meiner
+      <lb n="28"/>ganzen Familie, Frau Clauser, deren Freundin, Heini und der Schauspielerin
+      <lb n="29"/>Ulrich bei Schöner nachtmahlen. Ich fürchte immer, ich werde nicht bis zu</seite></div></body></text></TEI>

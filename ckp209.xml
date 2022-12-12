@@ -1,4 +1,5 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xml:id="ckp209.xml" xml:base="https://id.acdh.oeaw.ac.at.at/ckp" prev="https://id.acdh.oeaw.ac.at.at/ckp/ckp208.xml" next="https://id.acdh.oeaw.ac.at.at/ckp/ckp210.xml"><teiHeader><fileDesc><titleStmt><title level="s">Clara Katharina Pollaczek: »Arthur Schnitzler und ich«</title><title level="a">Zwischenbemerkung, 16. Juni 1925</title><title type="alternative" when-iso="1925-06-16"/><author ref="#12435">Pollaczek, Clara Katharina</author><editor><name>Müller, Martin Anton</name><name>Untner, Laura</name></editor><funder><name>FWF - Der Wissenschaftsfonds</name><address><street>Sensengasse 1</street><postCode>1090 Wien</postCode><placeName><country>A</country><settlement>Wien</settlement></placeName></address></funder></titleStmt><editionStmt><edition>CKP</edition><respStmt><resp>Transkription und Kommentierung</resp><name>Müller, Martin Anton</name><name>Untner, Laura</name></respStmt></editionStmt><publicationStmt><publisher>Austrian Centre for Digital Humanities and Cultural
+<TEI xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.tei-c.org/ns/1.0" xml:id="ckp209.xml" xml:base="https://id.acdh.oeaw.ac.at.at/ckp" prev="https://id.acdh.oeaw.ac.at.at/ckp/ckp208.xml" next="https://id.acdh.oeaw.ac.at.at/ckp/ckp210.xml"><teiHeader><fileDesc><titleStmt><title level="s">Clara Katharina Pollaczek: »Arthur Schnitzler und
+                                    ich«</title><title level="a"/><author ref="#12435">Pollaczek, Clara Katharina</author><editor><name>Müller, Martin Anton</name><name>Untner, Laura</name></editor><funder><name>FWF - Der Wissenschaftsfonds</name><address><street>Sensengasse 1</street><postCode>1090 Wien</postCode><placeName><country>A</country><settlement>Wien</settlement></placeName></address></funder></titleStmt><editionStmt><edition>CKP</edition><respStmt><resp>Transkription und Kommentierung</resp><name>Müller, Martin Anton</name><name>Untner, Laura</name></respStmt></editionStmt><publicationStmt><publisher>Austrian Centre for Digital Humanities and Cultural
                                     Heritage</publisher><pubPlace>Vienna</pubPlace><date when="2022">2023</date><availability><licence target="https://creativecommons.org/licenses/by/4.0/deed.de"><p>Sie dürfen: Teilen — das Material in jedwedem Format oder
                                             Medium vervielfältigen und weiterverbreiten Bearbeiten —
                                             das Material remixen, verändern und darauf aufbauen und
@@ -24,14 +25,17 @@
                                             Persönlichkeits- und Datenschutzrechte zu beachten sein,
                                             die Ihre Nutzung des Materials entsprechend
                                             beschränken.</p></licence></availability><idno type="handle"/></publicationStmt><seriesStmt><p>Machine-Readable Transcriptions of the Correspondences of Arthur
-                                    Schnitzler</p></seriesStmt><sourceDesc><listWit><witness n="1"><msDesc><msIdentifier><country>A</country><settlement>Wien</settlement><repository>Wienbibliothek</repository><idno>H.I.N. 155550</idno></msIdentifier></msDesc></witness></listWit></sourceDesc></fileDesc><profileDesc><langUsage><language ident="de-AT">German</language></langUsage></profileDesc><revisionDesc status="proposed"><change who="LU" when="2022-12-25">Angelegt</change></revisionDesc></teiHeader><facsimile><graphic url="209"/></facsimile><text><body><div type="writingSession" n="1"><seite id="209">
-            <lb n="01"/>Arthur fuhr nach Baden- Baden, um Lili zu ihrer Mutter zu bringen
-      <lb n="02"/>und wir sollten uns dann zu einer kleinen gemeinsamen Reise treffen.
-      <lb n="03"/>Als A. mir aber sagte dass er eine dringende Aufforderung seiner gesen
-      <lb n="04"/>schiedenen Frau, in ihrem Haus in B. B. zu wohnen angenommen hat, war
-      <lb n="05"/>ich sehr erbittert (er hatte bisdahin in solchen Fällen immer im Ho-
-      <lb n="06"/>tei Gunzelmann gewohnt : und erklärte, dass ich ihn unter diesen Um-
-      <lb n="07"/>ständen nicht treffen wolle. Er rief mich noch knapp vor seiner Abreise
-      <lb n="08"/>von Wien an, war aussersich über meine Weigerung, meine Einstellung sei
-      <lb n="09"/>kindisch und schloss mit einem dreimaligen " auf Wiedersehen".
-      <lb n="10"/>159</seite></div></body></text></TEI>
+                                    Schnitzler</p></seriesStmt><sourceDesc><listWit><witness n="1"><msDesc><msIdentifier><country>A</country><settlement>Wien</settlement><repository>Wienbibliothek</repository><idno>H.I.N. 155550</idno></msIdentifier></msDesc></witness></listWit></sourceDesc></fileDesc><profileDesc><langUsage><language ident="de-AT">German</language></langUsage></profileDesc><revisionDesc status="proposed"><change who="LU" when="2022-12-25">Angelegt</change></revisionDesc></teiHeader><facsimile><graphic url="ckp209"/></facsimile><text><body><div type="writingSession" n="1"><seite>
+      <lb n="01"/>21.3.1925.
+      <lb n="02"/>gegen Abend sagte sich Hery plötzlich an, kam zum Nachtmahl zu mir und
+      <lb n="03"/>ich konnte Eierspeis und Sacherwürsteln. Es war der Schwanengesang
+      <lb n="04"/>meines Kochers. Jetzt ist er hin. Den Thee für meine Gäste habe ich
+      <lb n="05"/>eben bestellt.
+      <lb n="06"/>Dies wird wohl der letzte Brief vor Deiner Ankunft sein.
+      <lb n="07"/>Dass ich mich von ganzem Herzen auf Dich freue, brauche ich Dir wohl
+      <lb n="08"/>nicht erst zu sagen. Hoffentlich wird dieses Wiedersehen der Beginn
+      <lb n="09"/>einer neuen warmen, sonnigen Zeit. Es will ja Frühling werden!
+      <lb n="10"/>Ich küsse Dich innig.
+      <lb n="11"/>Deine
+      <lb n="12"/>C.K.
+      <lb n="13"/>158</seite></div></body></text></TEI>

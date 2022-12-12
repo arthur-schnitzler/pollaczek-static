@@ -1,4 +1,5 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xml:id="ckp704.xml" xml:base="https://id.acdh.oeaw.ac.at.at/ckp" prev="https://id.acdh.oeaw.ac.at.at/ckp/ckp703.xml" next="https://id.acdh.oeaw.ac.at.at/ckp/ckp705.xml"><teiHeader><fileDesc><titleStmt><title level="s">Clara Katharina Pollaczek: »Arthur Schnitzler und ich«</title><title level="a">Tagebuch von Clara Katharina Pollaczek, 15.–21. Juni 1929</title><title type="alternative" when-iso="1929-06-15"/><title type="alternative" when-iso="1929-06-16"/><title type="alternative" when-iso="1929-06-17"/><title type="alternative" when-iso="1929-06-21"/><author ref="#12435">Pollaczek, Clara Katharina</author><editor><name>Müller, Martin Anton</name><name>Untner, Laura</name></editor><funder><name>FWF - Der Wissenschaftsfonds</name><address><street>Sensengasse 1</street><postCode>1090 Wien</postCode><placeName><country>A</country><settlement>Wien</settlement></placeName></address></funder></titleStmt><editionStmt><edition>CKP</edition><respStmt><resp>Transkription und Kommentierung</resp><name>Müller, Martin Anton</name><name>Untner, Laura</name></respStmt></editionStmt><publicationStmt><publisher>Austrian Centre for Digital Humanities and Cultural
+<TEI xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.tei-c.org/ns/1.0" xml:id="ckp704.xml" xml:base="https://id.acdh.oeaw.ac.at.at/ckp" prev="https://id.acdh.oeaw.ac.at.at/ckp/ckp703.xml" next="https://id.acdh.oeaw.ac.at.at/ckp/ckp705.xml"><teiHeader><fileDesc><titleStmt><title level="s">Clara Katharina Pollaczek: »Arthur Schnitzler und
+                                    ich«</title><title level="a"/><author ref="#12435">Pollaczek, Clara Katharina</author><editor><name>Müller, Martin Anton</name><name>Untner, Laura</name></editor><funder><name>FWF - Der Wissenschaftsfonds</name><address><street>Sensengasse 1</street><postCode>1090 Wien</postCode><placeName><country>A</country><settlement>Wien</settlement></placeName></address></funder></titleStmt><editionStmt><edition>CKP</edition><respStmt><resp>Transkription und Kommentierung</resp><name>Müller, Martin Anton</name><name>Untner, Laura</name></respStmt></editionStmt><publicationStmt><publisher>Austrian Centre for Digital Humanities and Cultural
                                     Heritage</publisher><pubPlace>Vienna</pubPlace><date when="2022">2023</date><availability><licence target="https://creativecommons.org/licenses/by/4.0/deed.de"><p>Sie dürfen: Teilen — das Material in jedwedem Format oder
                                             Medium vervielfältigen und weiterverbreiten Bearbeiten —
                                             das Material remixen, verändern und darauf aufbauen und
@@ -24,36 +25,31 @@
                                             Persönlichkeits- und Datenschutzrechte zu beachten sein,
                                             die Ihre Nutzung des Materials entsprechend
                                             beschränken.</p></licence></availability><idno type="handle"/></publicationStmt><seriesStmt><p>Machine-Readable Transcriptions of the Correspondences of Arthur
-                                    Schnitzler</p></seriesStmt><sourceDesc><listWit><witness n="1"><msDesc><msIdentifier><country>A</country><settlement>Wien</settlement><repository>Wienbibliothek</repository><idno>H.I.N. 155550</idno></msIdentifier></msDesc></witness></listWit></sourceDesc></fileDesc><profileDesc><langUsage><language ident="de-AT">German</language></langUsage></profileDesc><revisionDesc status="proposed"><change who="LU" when="2022-12-25">Angelegt</change></revisionDesc></teiHeader><facsimile><graphic url="704"/></facsimile><text><body><div type="writingSession" n="1"><seite id="704">
-            <lb n="01"/>Tgb. 14.6.1929.
-      <lb n="02"/>15.6.1929. Mittag Harry, Mädi, Cary, Marti zu Tisch. Herry empörend, sein
-      <lb n="03"/>Ton gegen die Braut grotesk,gegen Magda ungezogen. Magdi sitzt starr
-      <lb n="04"/>mit weita fgerissenen Augen,bereit zu weinen.
-      <lb n="05"/>Diese Verlobung macht mir keine Freude, es ist gut, dass wir Übermor-
-      <lb n="06"/>gen auf den Semmering fahren.
-      <lb n="07"/>Abend fader Film "Parade", dann im Prater genachtmahlt.A. sehr lieb.
-      <lb n="08"/>Ich habe leider Zahnschmerzen.
-      <lb n="09"/>16.6. Vorm. bei A. Nachm. eingepackt. Abend mit A., Frieda und Bruder
-      <lb n="10"/>bei "Komödie der Worte" mit Bassermana, in einer Loge. Herrliches Stück,
-      <lb n="11"/>herrliche Besetzung, wirklich grosses Vergnügen! In der Loge nebenan
-      <lb n="12"/>Bürgermeister Seitz, der A. abfing, um ihm Liebenswürdigkeiten zu sagen.
-      <lb n="13"/>Nachher bei Prohaska im Prater genachtmahlt. Sehr gemütlich trotz mei-
-      <lb n="14"/>ner Zahnschmerzen
-      <lb n="15"/>17.6. Muteste mir den Zahn reissen lassen. Recht unangenehm. Fühle mich
-      <lb n="16"/>gar nicht wohl. Nachm. Frieda. Einen Brief an die Neue fr. Presse Dr.
-      <lb n="17"/>Wertheimer diktiert wegen der Verstümmelung meiner Novelle. Frieda
-      <lb n="18"/>sagt mir,A. habe noch nie in so liebevollen und begeisterten Worten
-      <lb n="19"/>von mir gesprochen als jetzt. Er komme immer mehr auf meine guten Eigen-
-      <lb n="20"/>schaften u.s.w. Ich bin sehr froh.
-      <lb n="21"/>Am Abend mit A. noch am Cohenzl genachtmahlt. Bin merkwürdig müde.
-      <lb n="22"/>Fertig gepackt. Morgen Früh!
-      <lb n="23"/>21.6. Semmering. Seit ich hier bin liege ich krank zu Bett.Einige
-      <lb n="24"/>Stunden nach Ankunft Fieberschauer, dann durch 2 Tage und mächte um
-      <lb n="25"/>39 herum. Heute endlich fieberfrei. A. ist rührend zu mir. Dr.Ender
-      <lb n="26"/>zweimal im Tag. Schwere Angina mit argen Schmerzen. Schad um das schöne
-      <lb n="27"/>Wetter und all die verlorenen Stunden. Was kann man tun als Geduld
-      <lb n="28"/>haben. Mir war all die Tage zu elend, um zu schreiben.
-      <lb n="29"/>Nachm. Fieber wieder gestiegen. Ich habe ein höchst unbehagliches Ge-
-      <lb n="30"/>fühl. A. ist so lieb und herzkg. Jeden Augenblick bringt er was anderes
-      <lb n="31"/>angeschleppt. Blumen, Früchte, Cognac, Bonbons. Ich bin froh, dass er Ge-
-      <lb n="32"/>2b</seite></div></body></text></TEI>
+                                    Schnitzler</p></seriesStmt><sourceDesc><listWit><witness n="1"><msDesc><msIdentifier><country>A</country><settlement>Wien</settlement><repository>Wienbibliothek</repository><idno>H.I.N. 155550</idno></msIdentifier></msDesc></witness></listWit></sourceDesc></fileDesc><profileDesc><langUsage><language ident="de-AT">German</language></langUsage></profileDesc><revisionDesc status="proposed"><change who="LU" when="2022-12-25">Angelegt</change></revisionDesc></teiHeader><facsimile><graphic url="ckp704"/></facsimile><text><body><div type="writingSession" n="1"><seite>
+      <lb n="01"/>da Frau T. mir telefonierte, er benehme sich elend gegen Mädi. Ich ver¬
+      <lb n="02"/>mute Lola dahinter, früheres Verhältnis.)
+      <lb n="03"/>9.6. Fühle mich so wohl wie schon lange nicht, fast etwas übermütig.
+      <lb n="04"/>Als ob das Fieber alle bösen Bazillen mit fort genommen hätte. Sommer¬
+      <lb n="05"/>wetter. A. holt mich um ¼ 12 zum Spazierenfahren.
+      <lb n="06"/>11.6. Gestern und heute Abend Kino mit A., der sehr lieb ist. Unangenehme
+      <lb n="07"/>Debatten mit Harry. Jetzt, da es ernst werden soll, behauptet er, er habe
+      <lb n="08"/>Angst vor der Ehe.
+      <lb n="09"/>12.6. Harry ruft jede Stunde an – er weiss nicht was er tun soll. Ich
+      <lb n="10"/>sage ihm immer wieder, dass er bei einem solchen Mangel an Begeisterung
+      <lb n="11"/>es nicht tun darf. Er möchte, dass ich ihm zurede, damit er mir nachher
+      <lb n="12"/>Vorwürfe machen kann oder behaupten, er habe es mir zulieb getan.
+      <lb n="13"/>½6. Harry teilt mir mit, er habe sich eben verlobt, um ½ 7 kommen sie zu
+      <lb n="14"/>mir.
+      <lb n="15"/>13.6. Gestern Abend mit A. bei »Katharina Knie« mit Bassermann. B.herr¬
+      <lb n="16"/>lich. War sehr erschüttert.
+      <lb n="17"/>Vorm. Besuch von Baron Melingo, habe ihn gebeten Harry vor schädlichen
+      <lb n="18"/>Einflüssen zu schützen und vor Lola.
+      <lb n="19"/>14.6. Gestern Abend Verlobungsessen in einem Separée des Hotel Krantz.
+      <lb n="20"/>Uebertrieben chick und elegant, Abendkleider und Smoking. Nach einer
+      <lb n="21"/>halben Stunde trug man mir das Du an.
+      <lb n="22"/>Heute Vorm. Stadt. Nachm. Alma Mahler. Anregend wie immer, aber mit Vor¬
+      <lb n="23"/>sicht zu gebrauchen. Schimpferei über die O., wie gewöhnlich. Versteht
+      <lb n="24"/>nicht, dass ich A. nicht heirate. Ich sage ihr, daß mir der Gedanke un¬
+      <lb n="25"/>erträglich wäre. Sie lässt durchblicken, dass Sie Wenzel heiraten möchte
+      <lb n="26"/>(sie sagt, nur wegen der 12jährigen Tochter, die sie im Haus hat).
+      <lb n="27"/>Am Abend im Kino und bei der »Linde« genachtmahlt. A. sehr liebevoll.</seite></div></body></text></TEI>

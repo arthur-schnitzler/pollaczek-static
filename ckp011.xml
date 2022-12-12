@@ -1,4 +1,5 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xml:id="ckp011.xml" xml:base="https://id.acdh.oeaw.ac.at.at/ckp" prev="https://id.acdh.oeaw.ac.at.at/ckp/ckp010.xml" next="https://id.acdh.oeaw.ac.at.at/ckp/ckp012.xml"><teiHeader><fileDesc><titleStmt><title level="s">Clara Katharina Pollaczek: »Arthur Schnitzler und ich«</title><title level="a">Hugo von Hofmannsthal an Marianne Benedikt</title><title type="alternative" when-iso="1897-04-16"/><author ref="#12435">Pollaczek, Clara Katharina</author><editor><name>Müller, Martin Anton</name><name>Untner, Laura</name></editor><funder><name>FWF - Der Wissenschaftsfonds</name><address><street>Sensengasse 1</street><postCode>1090 Wien</postCode><placeName><country>A</country><settlement>Wien</settlement></placeName></address></funder></titleStmt><editionStmt><edition>CKP</edition><respStmt><resp>Transkription und Kommentierung</resp><name>Müller, Martin Anton</name><name>Untner, Laura</name></respStmt></editionStmt><publicationStmt><publisher>Austrian Centre for Digital Humanities and Cultural
+<TEI xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.tei-c.org/ns/1.0" xml:id="ckp011.xml" xml:base="https://id.acdh.oeaw.ac.at.at/ckp" prev="https://id.acdh.oeaw.ac.at.at/ckp/ckp010.xml" next="https://id.acdh.oeaw.ac.at.at/ckp/ckp012.xml"><teiHeader><fileDesc><titleStmt><title level="s">Clara Katharina Pollaczek: »Arthur Schnitzler und
+                                    ich«</title><title level="a"/><author ref="#12435">Pollaczek, Clara Katharina</author><editor><name>Müller, Martin Anton</name><name>Untner, Laura</name></editor><funder><name>FWF - Der Wissenschaftsfonds</name><address><street>Sensengasse 1</street><postCode>1090 Wien</postCode><placeName><country>A</country><settlement>Wien</settlement></placeName></address></funder></titleStmt><editionStmt><edition>CKP</edition><respStmt><resp>Transkription und Kommentierung</resp><name>Müller, Martin Anton</name><name>Untner, Laura</name></respStmt></editionStmt><publicationStmt><publisher>Austrian Centre for Digital Humanities and Cultural
                                     Heritage</publisher><pubPlace>Vienna</pubPlace><date when="2022">2023</date><availability><licence target="https://creativecommons.org/licenses/by/4.0/deed.de"><p>Sie dürfen: Teilen — das Material in jedwedem Format oder
                                             Medium vervielfältigen und weiterverbreiten Bearbeiten —
                                             das Material remixen, verändern und darauf aufbauen und
@@ -24,8 +25,8 @@
                                             Persönlichkeits- und Datenschutzrechte zu beachten sein,
                                             die Ihre Nutzung des Materials entsprechend
                                             beschränken.</p></licence></availability><idno type="handle"/></publicationStmt><seriesStmt><p>Machine-Readable Transcriptions of the Correspondences of Arthur
-                                    Schnitzler</p></seriesStmt><sourceDesc><listWit><witness n="1"><msDesc><msIdentifier><country>A</country><settlement>Wien</settlement><repository>Wienbibliothek</repository><idno>H.I.N. 155550</idno></msIdentifier></msDesc></witness></listWit></sourceDesc></fileDesc><profileDesc><langUsage><language ident="de-AT">German</language></langUsage></profileDesc><revisionDesc status="proposed"><change who="LU" when="2022-12-25">Angelegt</change></revisionDesc></teiHeader><facsimile><graphic url="11"/></facsimile><text><body><div type="writingSession" n="1"><seite id="11">
-            <lb n="01"/>Hofmannsthal
+                                    Schnitzler</p></seriesStmt><sourceDesc><listWit><witness n="1"><msDesc><msIdentifier><country>A</country><settlement>Wien</settlement><repository>Wienbibliothek</repository><idno>H.I.N. 155550</idno></msIdentifier></msDesc></witness></listWit></sourceDesc></fileDesc><profileDesc><langUsage><language ident="de-AT">German</language></langUsage></profileDesc><revisionDesc status="proposed"><change who="LU" when="2022-12-25">Angelegt</change></revisionDesc></teiHeader><facsimile><graphic url="ckp011"/></facsimile><text><body><div type="writingSession" n="1"><seite>
+      <lb n="01"/>Hofmannsthal
       <lb n="02"/>junge anfangende Schriftsteller die mich um das-
       <lb n="03"/>selbe hätten bitten können. Ob es gescheidt oder
       <lb n="04"/>dumm ist, vom ausserliterarischen Standpunkt, so
@@ -34,14 +35,14 @@
       <lb n="07"/>meine Sache, ihr da drinzureden. Was ich in dem
       <lb n="08"/>Prolog ausgedrückt habe, geht nicht über das hi-
       <lb n="09"/>naus was ich bei solchen Sachen, wie diese oder
-      <lb n="10"/>wie früher einmal das Tagebuch der Marie Basch
+      <lb n="10"/>wie früher einmal das Tagebuch der Marie Basch¬
       <lb n="11"/>kirtseff, wirklich empfinde: dass es wirklich
       <lb n="12"/>recht merkwürdig ist, wie stark in unserer Zeit
       <lb n="13"/>Frauen oder Mädeln von dem Spiegelbild ihrer
       <lb n="14"/>selbst fasciniert und dadurch aus dem naiven
       <lb n="15"/>starken Empfinden hinausgestohlen (gestossen) werden. Warum
       <lb n="16"/>soll mir also die Geschichte Unannehemlichkeiten
-      <lb n="17"/>bereiten? das verdient man doch nur wenn man ge
+      <lb n="17"/>bereiten? das verdient man doch nur wenn man ge¬
       <lb n="18"/>logen oder entstellt hat, ich habe aber wirklich
       <lb n="19"/>nichts gesagt, als was ich auch denke nur dass
       <lb n="20"/>Versen ernster klingt.- Es thut mir so leid,

@@ -1,4 +1,5 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xml:id="ckp822.xml" xml:base="https://id.acdh.oeaw.ac.at.at/ckp" prev="https://id.acdh.oeaw.ac.at.at/ckp/ckp821.xml" next="https://id.acdh.oeaw.ac.at.at/ckp/ckp823.xml"><teiHeader><fileDesc><titleStmt><title level="s">Clara Katharina Pollaczek: »Arthur Schnitzler und ich«</title><title level="a">Tagebuch von Clara Katharina Pollaczek, 9.–12. August 1930</title><title type="alternative" when-iso="1930-08-09"/><title type="alternative" when-iso="1930-08-09"/><title type="alternative" when-iso="1930-08-10"/><title type="alternative" when-iso="1930-08-11"/><title type="alternative" when-iso="1930-08-12"/><author ref="#12435">Pollaczek, Clara Katharina</author><editor><name>Müller, Martin Anton</name><name>Untner, Laura</name></editor><funder><name>FWF - Der Wissenschaftsfonds</name><address><street>Sensengasse 1</street><postCode>1090 Wien</postCode><placeName><country>A</country><settlement>Wien</settlement></placeName></address></funder></titleStmt><editionStmt><edition>CKP</edition><respStmt><resp>Transkription und Kommentierung</resp><name>Müller, Martin Anton</name><name>Untner, Laura</name></respStmt></editionStmt><publicationStmt><publisher>Austrian Centre for Digital Humanities and Cultural
+<TEI xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.tei-c.org/ns/1.0" xml:id="ckp822.xml" xml:base="https://id.acdh.oeaw.ac.at.at/ckp" prev="https://id.acdh.oeaw.ac.at.at/ckp/ckp821.xml" next="https://id.acdh.oeaw.ac.at.at/ckp/ckp823.xml"><teiHeader><fileDesc><titleStmt><title level="s">Clara Katharina Pollaczek: »Arthur Schnitzler und
+                                    ich«</title><title level="a"/><author ref="#12435">Pollaczek, Clara Katharina</author><editor><name>Müller, Martin Anton</name><name>Untner, Laura</name></editor><funder><name>FWF - Der Wissenschaftsfonds</name><address><street>Sensengasse 1</street><postCode>1090 Wien</postCode><placeName><country>A</country><settlement>Wien</settlement></placeName></address></funder></titleStmt><editionStmt><edition>CKP</edition><respStmt><resp>Transkription und Kommentierung</resp><name>Müller, Martin Anton</name><name>Untner, Laura</name></respStmt></editionStmt><publicationStmt><publisher>Austrian Centre for Digital Humanities and Cultural
                                     Heritage</publisher><pubPlace>Vienna</pubPlace><date when="2022">2023</date><availability><licence target="https://creativecommons.org/licenses/by/4.0/deed.de"><p>Sie dürfen: Teilen — das Material in jedwedem Format oder
                                             Medium vervielfältigen und weiterverbreiten Bearbeiten —
                                             das Material remixen, verändern und darauf aufbauen und
@@ -24,34 +25,26 @@
                                             Persönlichkeits- und Datenschutzrechte zu beachten sein,
                                             die Ihre Nutzung des Materials entsprechend
                                             beschränken.</p></licence></availability><idno type="handle"/></publicationStmt><seriesStmt><p>Machine-Readable Transcriptions of the Correspondences of Arthur
-                                    Schnitzler</p></seriesStmt><sourceDesc><listWit><witness n="1"><msDesc><msIdentifier><country>A</country><settlement>Wien</settlement><repository>Wienbibliothek</repository><idno>H.I.N. 155550</idno></msIdentifier></msDesc></witness></listWit></sourceDesc></fileDesc><profileDesc><langUsage><language ident="de-AT">German</language></langUsage></profileDesc><revisionDesc status="proposed"><change who="LU" when="2022-12-25">Angelegt</change></revisionDesc></teiHeader><facsimile><graphic url="822"/></facsimile><text><body><div type="writingSession" n="1"><seite id="822">
-            <lb n="01"/>Tagebuch 9.8.1930.
-      <lb n="02"/>9.8.1930. Anraf aus St. Moritz mit Voranmeldung. Als mir der Anruf ge-
-      <lb n="03"/>meldet wurde und in den Minuten, die bis zum Gespräch verrannen, war
-      <lb n="04"/>ich irrsinnig vor Angst, es könne ihm etwas geschehen sein und man will
-      <lb n="05"/>mich vorbereiten, - aber als er dann am Telefon war,zog mich mein Innenes
-      <lb n="06"/>feindselig zusammen und ich beantwortete seine Fragen nach meinem Be-
-      <lb n="07"/>finden möglichst kurz. Er fährt erst morgen dort fort und trifft Montag
-      <lb n="08"/>Vormittag hier ein. Und was wird weiter werden - - Ich habe kein
-      <lb n="09"/>Vertrauen mehr, trotzdem er sagte, er sei froh wenigstens meine Stimme zu
-      <lb n="10"/>hören. Das hätte früher kommen müssen. Mein Befinden heute mässig, aber
-      <lb n="11"/>etwas weniger aufgeregt. Heute Vormittag zum zweiten Mal Gesichtsmas-
-      <lb n="12"/>sage, ich glaube nicht, dass es was nützt. Noch zwei Nächte und ein Tag!!
-      <lb n="13"/>10.8. Der letzte Tag vor seiner Ankunft. Gesundheitlich etwas besser,
-      <lb n="14"/>Magdi von 11-4 bei mir, viel Aenderungen an der Corday diktiert und
-      <lb n="15"/>viel mit ihr geplauscht. Sie ist viel reifer geworden. Cary und sie
-      <lb n="16"/>sind das Beste in meinem Leben. Wetter trüb und kühl.
-      <lb n="17"/>11.8. 10 Uhr. Er hat angerufen, kühles Gespräch im gleichen Ton wie vor
-      <lb n="18"/>6 Wochen. Schon von seiner Seite so eingesetzt. Ich soll um 1 Uhr hinü-
-      <lb n="19"/>berkommen. Ich sehe nichts Gutes voraus.
-      <lb n="20"/>5 Minuten vor 1 Uhr. Jetzt gehe ich hinüber, wie werde ich wiederkehren? -
-      <lb n="21"/>5 Uhr. Ich sitze seit 1 1/2 Stunden regungslos auf meinem Divan, unfähig
-      <lb n="22"/>irgend etwas zu tun. Es ist alles viel schlimmer, als ich dachte. Elen-
-      <lb n="23"/>des Aussehen, kühle, gleichgiltige Konversation. Ich war beim Kommen
-      <lb n="24"/>sehr erregt, konnte kaum atmen. Ich sagte lächelnd: "Ist es so ergrei-
-      <lb n="25"/>f end mich wiederzusehen?“ Das ernüchterte mich. Von da an belanglose
-      <lb n="26"/>Gesprüche und Fragen. Zum Schluss frug er mich,ob ich nicht drüben
-      <lb n="27"/>nachtmahlen will. Ich lehnte ab. Was könnte dabei Gutes herauskommen?
-      <lb n="28"/>7 Uhr Abend. Manchesmal glaube ich, es muss doch etwas Licht in diese
-      <lb n="29"/>Finsternis fallen. Aber es wird immer dunkler und dunkler.
-      <lb n="30"/>12.8. Mein Befinden elend. Cary Magi zu Tisch bei mir. Um 7 Uhr zu</seite></div></body></text></TEI>
+                                    Schnitzler</p></seriesStmt><sourceDesc><listWit><witness n="1"><msDesc><msIdentifier><country>A</country><settlement>Wien</settlement><repository>Wienbibliothek</repository><idno>H.I.N. 155550</idno></msIdentifier></msDesc></witness></listWit></sourceDesc></fileDesc><profileDesc><langUsage><language ident="de-AT">German</language></langUsage></profileDesc><revisionDesc status="proposed"><change who="LU" when="2022-12-25">Angelegt</change></revisionDesc></teiHeader><facsimile><graphic url="ckp822"/></facsimile><text><body><div type="writingSession" n="1"><seite>
+      <lb n="01"/>die mittleren Hotels scheinen wie ausgestorben - und es soll in der
+      <lb n="02"/>ganzen Schweiz nicht vielbesser
+      <lb n="03"/>Nachgesandte Post unbedeutend - Tonfilmanfragen ohne Folge. S.F. sehr
+      <lb n="04"/>pesimistisch, frägt mich, was er tun soll, um meine Bücher zu fördern;
+      <lb n="05"/>ich rate (im allgemeinen) zur Verbilligung - sehe nach wie vor persön-
+      <lb n="06"/>liche Sympathie, - aber weder Elan noch Glauben.
+      <lb n="07"/>Es bleibt wohl dabei, dass ich über Heinis Geburtstag hier bleibe;
+      <lb n="08"/>er fährt dann mit Ruth, die nett und klug ist, - doch glaube ich für
+      <lb n="09"/>die nächste Zeit nicht an die Absicht (und Möglichkeit) einer Verhei-
+      <lb n="10"/>ratung, - über Como nach Mailand. Zusammentreffen mit Arnoldo; ich
+      <lb n="11"/>wohl direct nachhäuse, vielleicht bei gutem Wetter Auto nach Landeck,
+      <lb n="12"/>eventuell Aufenthalt dort oder Innsbruck.-
+      <lb n="13"/>Ich danke Dir, Liebe, für Deinen Brief, der gestern Abend kam; - heute
+      <lb n="14"/>nichts über Probleme und Problematisches - Muss ich wirklich erst sa-
+      <lb n="15"/>gen, dass ich mich freue Dich bald wiederzusehen? Und hoffentlich komme
+      <lb n="16"/>ich in besserer Stimmung wieder als ich sie heute und überhaupt in
+      <lb n="17"/>diesen Tagen bei mir feststellen kann. Meine Unfähigkeit Briefe zu
+      <lb n="18"/>schreiben, mein liebes Kind, verzeih mir wieder einmal, sammle glühen-
+      <lb n="19"/>de Kohlen auf mein Haupt und glaube, dass ich mit den innigsten Gefühlen
+      <lb n="20"/>bei Dir bin.
+      <lb n="21"/>Ich umarme Dich von Herzen.
+      <lb n="22"/>Dein A.</seite></div></body></text></TEI>

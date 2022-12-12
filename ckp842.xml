@@ -1,4 +1,5 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xml:id="ckp842.xml" xml:base="https://id.acdh.oeaw.ac.at.at/ckp" prev="https://id.acdh.oeaw.ac.at.at/ckp/ckp841.xml" next="https://id.acdh.oeaw.ac.at.at/ckp/ckp843.xml"><teiHeader><fileDesc><titleStmt><title level="s">Clara Katharina Pollaczek: »Arthur Schnitzler und ich«</title><title level="a">Tagebuch von Clara Katharina Pollaczek, 19.–27. Oktober 1930</title><title type="alternative" when-iso="1930-10-19"/><title type="alternative" when-iso="1930-10-20"/><title type="alternative" when-iso="1930-10-22"/><title type="alternative" when-iso="1930-10-26"/><title type="alternative" when-iso="1930-10-27"/><author ref="#12435">Pollaczek, Clara Katharina</author><editor><name>Müller, Martin Anton</name><name>Untner, Laura</name></editor><funder><name>FWF - Der Wissenschaftsfonds</name><address><street>Sensengasse 1</street><postCode>1090 Wien</postCode><placeName><country>A</country><settlement>Wien</settlement></placeName></address></funder></titleStmt><editionStmt><edition>CKP</edition><respStmt><resp>Transkription und Kommentierung</resp><name>Müller, Martin Anton</name><name>Untner, Laura</name></respStmt></editionStmt><publicationStmt><publisher>Austrian Centre for Digital Humanities and Cultural
+<TEI xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.tei-c.org/ns/1.0" xml:id="ckp842.xml" xml:base="https://id.acdh.oeaw.ac.at.at/ckp" prev="https://id.acdh.oeaw.ac.at.at/ckp/ckp841.xml" next="https://id.acdh.oeaw.ac.at.at/ckp/ckp843.xml"><teiHeader><fileDesc><titleStmt><title level="s">Clara Katharina Pollaczek: »Arthur Schnitzler und
+                                    ich«</title><title level="a"/><author ref="#12435">Pollaczek, Clara Katharina</author><editor><name>Müller, Martin Anton</name><name>Untner, Laura</name></editor><funder><name>FWF - Der Wissenschaftsfonds</name><address><street>Sensengasse 1</street><postCode>1090 Wien</postCode><placeName><country>A</country><settlement>Wien</settlement></placeName></address></funder></titleStmt><editionStmt><edition>CKP</edition><respStmt><resp>Transkription und Kommentierung</resp><name>Müller, Martin Anton</name><name>Untner, Laura</name></respStmt></editionStmt><publicationStmt><publisher>Austrian Centre for Digital Humanities and Cultural
                                     Heritage</publisher><pubPlace>Vienna</pubPlace><date when="2022">2023</date><availability><licence target="https://creativecommons.org/licenses/by/4.0/deed.de"><p>Sie dürfen: Teilen — das Material in jedwedem Format oder
                                             Medium vervielfältigen und weiterverbreiten Bearbeiten —
                                             das Material remixen, verändern und darauf aufbauen und
@@ -24,34 +25,33 @@
                                             Persönlichkeits- und Datenschutzrechte zu beachten sein,
                                             die Ihre Nutzung des Materials entsprechend
                                             beschränken.</p></licence></availability><idno type="handle"/></publicationStmt><seriesStmt><p>Machine-Readable Transcriptions of the Correspondences of Arthur
-                                    Schnitzler</p></seriesStmt><sourceDesc><listWit><witness n="1"><msDesc><msIdentifier><country>A</country><settlement>Wien</settlement><repository>Wienbibliothek</repository><idno>H.I.N. 155550</idno></msIdentifier></msDesc></witness></listWit></sourceDesc></fileDesc><profileDesc><langUsage><language ident="de-AT">German</language></langUsage></profileDesc><revisionDesc status="proposed"><change who="LU" when="2022-12-25">Angelegt</change></revisionDesc></teiHeader><facsimile><graphic url="842"/></facsimile><text><body><div type="writingSession" n="1"><seite id="842">
-            <lb n="01"/>Tgb. 18
-      <lb n="02"/>19.10. Der gestrige Abend besser als ich dachte. A. sehr gesprächig.
-      <lb n="03"/>Wildgans eher still, beobachtend, seine Stellungnahme nie preisgebend.
-      <lb n="04"/>Werfel sympathisch wie immer. Frau Clauser recht hübsch und
-      <lb n="05"/>sehr freundschaftlich gegen mich. Alma unsoigniert und nicht sehr
-      <lb n="06"/>vorteilhaft, aber temperamentvoll und anregend wie gewöhnlich.
-      <lb n="07"/>Frau Clauser telefonierte heute A. und sagte ihm angeblich,ich hätte
-      <lb n="08"/>so besonders gut ausgesehen und Schmeichelhaftes über meine Gestalt
-      <lb n="09"/>und meine Heine. Sie hat auffallend schlechte Arme und Beine.
-      <lb n="10"/>Da A. am Vormittag einen Anruf von Heini erwartet, habe ich eine Ein-
-      <lb n="11"/>ladung von Frau Sachs angenommen, die mich seit zwei 2 Jahren darum
-      <lb n="12"/>bittet. Ich speise dort.
-      <lb n="13"/>Abends. Mittagessen ganz nett. Ausser dem sympathischen Gatten, Gisela
-      <lb n="14"/>Berger und ein Schriftsteller Erwin Rieger. Dann eine halbe Stunde
-      <lb n="15"/>bei Hermine und Paula, die mich per Auto nach Hause brachten. Abend
-      <lb n="16"/>mit A. Kino. "Der Brand in der Oper".Guter Film mit Gründgens, wenn
-      <lb n="17"/>nicht gesprochen würde. Diese Tonfilme sind unerträglich. Dann bei A.
-      <lb n="18"/>Quälend wie immer, wenn wir jetzt allein sind.
-      <lb n="19"/>Und morgen wird der Brief aus dem Burgtheater kommen, der seit zwei
-      <lb n="20"/>Tagen unterwegs ist, wisman mir ges ern Früh in der Burgtheaterkanzlei
-      <lb n="21"/>sagte. Ich halte den Atem an.
-      <lb n="22"/>20.10. Absage Burgtheater.
-      <lb n="23"/>22.10. Abend mit A. im Kino: Jazzkönig im Apollo. Langweiligster
-      <lb n="24"/>Kitsch. Salten begegnet. Stille.
-      <lb n="25"/>26.10. Gestern Harry zu Tisch. Heute Sturm und Regen. Abend mit A.
-      <lb n="26"/>im Kino. "Dolly macht Carrière." Dann bei A. Sternwartestrasse.
-      <lb n="27"/>Gemütlicherer Abend.
-      <lb n="28"/>27.10. Sturm,Regen seit Tagen. Viel gearbeitet. Mit A. dreimal tele-
-      <lb n="29"/>fonisch gesprochen.
-      <lb n="30"/>106</seite></div></body></text></TEI>
+                                    Schnitzler</p></seriesStmt><sourceDesc><listWit><witness n="1"><msDesc><msIdentifier><country>A</country><settlement>Wien</settlement><repository>Wienbibliothek</repository><idno>H.I.N. 155550</idno></msIdentifier></msDesc></witness></listWit></sourceDesc></fileDesc><profileDesc><langUsage><language ident="de-AT">German</language></langUsage></profileDesc><revisionDesc status="proposed"><change who="LU" when="2022-12-25">Angelegt</change></revisionDesc></teiHeader><facsimile><graphic url="ckp842"/></facsimile><text><body><div type="writingSession" n="1"><seite>
+      <lb n="01"/>Ich sprach so ernst und gütig zu ihm wie noch nie. Gott gebe mir die
+      <lb n="02"/>Kraft an diesem Ton festzuhalten.
+      <lb n="03"/>15.10. Die Unterredung wieder im Sand verlaufen; scheinbare Rührung
+      <lb n="04"/>bei ihm, scheinbare Einsicht und schliesslich alles beim alten.
+      <lb n="05"/>Ich bin derart heiser, dass ich keinen Laut herausbringe, teilweise
+      <lb n="06"/>zu Bett. A. Vormittag und Abend bei mir. Schläfrig und kühl wie immer.
+      <lb n="07"/>Er solle erst nach Heinis Hochzeit nach Berlin kommen. Ich glaube,
+      <lb n="08"/>d as verstimmt ihn.
+      <lb n="09"/>Otto telefoniert, dass er die "Corday" gelosen und sie ausserordent-
+      <lb n="10"/>lich findet. Wenn das nur Wildgans auch fände, es wäre eine seelische
+      <lb n="11"/>Rettung für mich.
+      <lb n="12"/>16.10. Kann noch immernicht sprechen, ohne eigentlich erkältet zu sein.
+      <lb n="13"/>Wir fahren am Abend zu "Mass für Mass" ins Burgtheater. Samstag
+      <lb n="14"/>sollen Werfels, Wildgabs, Clausers, Hofrätin 2. und ich bei A. drüben
+      <lb n="15"/>sein. Wenn ich nur bis dahin wohler bin. Mit dieser Stimme kann ich
+      <lb n="16"/>nirgends hingehen.
+      <lb n="17"/>17.50. Gestern nach dem Theater (schöne Vorstellung) bei mir. Stim-
+      <lb n="18"/>mungsloses Zusammensein. A. heute Vormittag einen Sprung bei mir,
+      <lb n="19"/>sehen, wie es mir geht. Was nützt das alles? -Nachmittag Otto, der
+      <lb n="20"/>mir die "Corday" zurückbringt.
+      <lb n="21"/>17.10. Abend. Während Otto da war kam A., brachte mir Caviar und Scho-
+      <lb n="22"/>kolade. Sehr aufmerksam. Aber ich fühle nichts dabei.
+      <lb n="23"/>Meine Rettung wäre die Corday. Es ist schrecklich, aber es wird zu einem
+      <lb n="24"/>fixen Gedanken bei mir. Ich fürchte die Antwort von Wildgans.
+      <lb n="25"/>18.10. Mittag Kinder. Harry recht unangenehm. Was er sagt ist auf-
+      <lb n="26"/>reizend, und wie er sich anzieht erst recht.
+      <lb n="27"/>Eben A. wieder auf einen Sprung dagewesen. Es ist, als ob er eine
+      <lb n="28"/>Aufgabe erledigte. Der Nachgeschmack beibt für mich immer derselbe.
+      <lb n="29"/>Ich fürchte den heutigen Abend mit Wild gans.</seite></div></body></text></TEI>

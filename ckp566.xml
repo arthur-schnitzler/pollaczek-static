@@ -1,4 +1,5 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xml:id="ckp566.xml" xml:base="https://id.acdh.oeaw.ac.at.at/ckp" prev="https://id.acdh.oeaw.ac.at.at/ckp/ckp565.xml" next="https://id.acdh.oeaw.ac.at.at/ckp/ckp567.xml"><teiHeader><fileDesc><titleStmt><title level="s">Clara Katharina Pollaczek: »Arthur Schnitzler und ich«</title><title level="a">Tagebuch von Clara Katharina Pollaczek, 16.–24. August 1928</title><title type="alternative" when-iso="1928-08-16"/><title type="alternative" when-iso="1928-08-17"/><title type="alternative" when-iso="1928-08-18"/><title type="alternative" when-iso="1928-08-19"/><title type="alternative" when-iso="1928-08-20"/><title type="alternative" when-iso="1928-08-21"/><title type="alternative" when-iso="1928-08-22"/><title type="alternative" when-iso="1928-08-23"/><title type="alternative" when-iso="1928-08-24"/><author ref="#12435">Pollaczek, Clara Katharina</author><editor><name>Müller, Martin Anton</name><name>Untner, Laura</name></editor><funder><name>FWF - Der Wissenschaftsfonds</name><address><street>Sensengasse 1</street><postCode>1090 Wien</postCode><placeName><country>A</country><settlement>Wien</settlement></placeName></address></funder></titleStmt><editionStmt><edition>CKP</edition><respStmt><resp>Transkription und Kommentierung</resp><name>Müller, Martin Anton</name><name>Untner, Laura</name></respStmt></editionStmt><publicationStmt><publisher>Austrian Centre for Digital Humanities and Cultural
+<TEI xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.tei-c.org/ns/1.0" xml:id="ckp566.xml" xml:base="https://id.acdh.oeaw.ac.at.at/ckp" prev="https://id.acdh.oeaw.ac.at.at/ckp/ckp565.xml" next="https://id.acdh.oeaw.ac.at.at/ckp/ckp567.xml"><teiHeader><fileDesc><titleStmt><title level="s">Clara Katharina Pollaczek: »Arthur Schnitzler und
+                                    ich«</title><title level="a"/><author ref="#12435">Pollaczek, Clara Katharina</author><editor><name>Müller, Martin Anton</name><name>Untner, Laura</name></editor><funder><name>FWF - Der Wissenschaftsfonds</name><address><street>Sensengasse 1</street><postCode>1090 Wien</postCode><placeName><country>A</country><settlement>Wien</settlement></placeName></address></funder></titleStmt><editionStmt><edition>CKP</edition><respStmt><resp>Transkription und Kommentierung</resp><name>Müller, Martin Anton</name><name>Untner, Laura</name></respStmt></editionStmt><publicationStmt><publisher>Austrian Centre for Digital Humanities and Cultural
                                     Heritage</publisher><pubPlace>Vienna</pubPlace><date when="2022">2023</date><availability><licence target="https://creativecommons.org/licenses/by/4.0/deed.de"><p>Sie dürfen: Teilen — das Material in jedwedem Format oder
                                             Medium vervielfältigen und weiterverbreiten Bearbeiten —
                                             das Material remixen, verändern und darauf aufbauen und
@@ -24,35 +25,32 @@
                                             Persönlichkeits- und Datenschutzrechte zu beachten sein,
                                             die Ihre Nutzung des Materials entsprechend
                                             beschränken.</p></licence></availability><idno type="handle"/></publicationStmt><seriesStmt><p>Machine-Readable Transcriptions of the Correspondences of Arthur
-                                    Schnitzler</p></seriesStmt><sourceDesc><listWit><witness n="1"><msDesc><msIdentifier><country>A</country><settlement>Wien</settlement><repository>Wienbibliothek</repository><idno>H.I.N. 155550</idno></msIdentifier></msDesc></witness></listWit></sourceDesc></fileDesc><profileDesc><langUsage><language ident="de-AT">German</language></langUsage></profileDesc><revisionDesc status="proposed"><change who="LU" when="2022-12-25">Angelegt</change></revisionDesc></teiHeader><facsimile><graphic url="566"/></facsimile><text><body><div type="writingSession" n="1"><seite id="566">
-            <lb n="01"/>1928
-      <lb n="02"/>1.6.8. Absage von Ullstein! Habe ich Besseres erwartet?
-      <lb n="03"/>Dann zu A. Abeschiednehmen. Heute Abend fährt er mit Heini nach Hohen-
-      <lb n="04"/>schwangau und Anfang nächster Woche kommen O. und Arnoldo auch hin,
-      <lb n="05"/>Trotz a/ller Liebe und allen Küssen ein schwerer, schwerer Abschied. Es
-      <lb n="06"/>ist oft gut, dass kein geladener Revolver da liegt die Versuchung wäre
-      <lb n="07"/>gross.
-      <lb n="08"/>17.8. Gottlob ein gehetzter Tag. Nicht denken, nicht denken! Besorgeungen,
-      <lb n="09"/>die Kinder. Harry zum Nachtmahl. Ein lieber Kerl, aber auch er tut mir
-      <lb n="10"/>irgendwie leid. Um zehn ins Bettçund Phanodorm.
-      <lb n="11"/>18.8. Und nun sitze ich wirklich im Coupé, bin froh, dass es keine weite
-      <lb n="12"/>Reise ist. Werde ich heiterer heimkehren?
-      <lb n="13"/>19.8. Ein Tag vorbei. Brief von A. Sehr lieb. Ich sehne mich nach ihm.
-      <lb n="14"/>20.8. Frühstück Meierei. Spaziergang mit Emma R. Prachtvolle Person,
-      <lb n="15"/>aber ermüdend. Mittag mit ihr im "Stüberl" gegessen. Nachmittag geruht,
-      <lb n="16"/>gelesen, gedacht. Abend eine halbe Stunde in der Halle, dann einsam am
-      <lb n="17"/>Fenster meines Zimmers gestanden. Sternenhimmel.
-      <lb n="18"/>21.8. Karte und sehr lieber Brief von A. Meierei, einsamer Spaziergang.
-      <lb n="19"/>Mittag im Stüberl Emmy getroffen. Gewitter. Regen. Tante Sidonie im
-      <lb n="20"/>Panhans besucht. Zu faul mich für die Halle druben umzukleiden, bin
-      <lb n="21"/>in meinem Zimmer geblieben. Habe den 5. Brief an A. geschrieben.
-      <lb n="22"/>22.8. Wieder ein Tag um. Schade um die schöne Natur.
-      <lb n="23"/>23.8. Vormittag mit Emmy R., sie war gestern bei der Alma M., die an eine
-      <lb n="24"/>Annäherung zwischen A. und O. zu glauben scheint. Daher veränderte Ein-
-      <lb n="25"/>stellung gegen mich. Vor wenigen Monaten hat sie über die O. zu mir
-      <lb n="26"/>geschimpft und war von mir entzückt. Das sind die interessanten Frauen!!
-      <lb n="27"/>Sehr lieber, aber trauriger Brief von A.
-      <lb n="28"/>24.8. Ein Sommertag! Vormittag mit Emma am Pinkehkogel. Wirklichein aus-
-      <lb n="29"/>gezeichnetes Wesen. Kurzer Brief von A. Rut, die Freundin Heinig, ist dort
-      <lb n="30"/>und gestern sind wohl auch Arnoldo und O. eingetroffen. Und ich?
-      <lb n="31"/>141</seite></div></body></text></TEI>
+                                    Schnitzler</p></seriesStmt><sourceDesc><listWit><witness n="1"><msDesc><msIdentifier><country>A</country><settlement>Wien</settlement><repository>Wienbibliothek</repository><idno>H.I.N. 155550</idno></msIdentifier></msDesc></witness></listWit></sourceDesc></fileDesc><profileDesc><langUsage><language ident="de-AT">German</language></langUsage></profileDesc><revisionDesc status="proposed"><change who="LU" when="2022-12-25">Angelegt</change></revisionDesc></teiHeader><facsimile><graphic url="ckp566"/></facsimile><text><body><div type="writingSession" n="1"><seite>
+      <lb n="01"/>aber angefault. Sie wollte keine Kinder, ekelte sich vor Kindern -sagt
+      <lb n="02"/>das nicht alles?
+      <lb n="03"/>Jammervolle Tage. Ich sehne mich nach dem Schlafmittel, das ich jeden
+      <lb n="04"/>Abend um 11 Unr nehme.
+      <lb n="05"/>Bei Frieda, dann bei den Kindern, die lieb und herzig sind, aber die ich
+      <lb n="06"/>schliesslich doch nur störe. Auch die Gespräche mit Frieda werden sinn-
+      <lb n="07"/>los. Sie meint es ja gut, steht aber bald da, bald dort mit ihrer Meinung.
+      <lb n="08"/>10.8. Vormittag wieder mit A. Von Pätzleinsdorf nach Dornbach gewan-
+      <lb n="09"/>dert. Mir ist so elend, dass ich Lili beinah beneide. Wo ist Platz für
+      <lb n="10"/>mic n¬
+      <lb n="11"/>12.8. Ein Tag unerträglicher als der andere. O. und Schwiegersohn
+      <lb n="12"/>gestern nach wenedig. A. hat sie bis zum Hotel Bristol begleitet. Sie
+      <lb n="13"/>ist ihm vor allen Leuten auf der Ringstrasse um den Hals gefallen.
+      <lb n="14"/>Heute Vormittag mit ihm im Auto Weidling am Bach. Im Wald tristes Ge-
+      <lb n="15"/>spräch und Weinen. Ich spüre, dass ich versage und das macht mich noch
+      <lb n="16"/>verzweifelter. Ich dürfte heute nur mein Leid senen.
+      <lb n="17"/>Nachmittag mit Gisale Berger im Kino, um mich zu betäuben. La da rutti
+      <lb n="18"/>sieht Lili so ähnlich. Ich musste fortwährend weinen, obwohl es ein
+      <lb n="19"/>Lustspiel war.
+      <lb n="20"/>Quälende telefonische Gespräche mit Frieda. Sie wollte durchaus, dass
+      <lb n="21"/>ich mit ihr nach Aussee fahre. Um irgend etwas Definitives zu tun,
+      <lb n="22"/>Zimmer am Semmering bestellt.
+      <lb n="23"/>14.8. A. war bei mir. Gute Worte von beiden Seiten. Vorübergehendes
+      <lb n="24"/>Aufatmen. Mittag Cary und Magda. Lieb aber ohne jedes Interesse an mir.
+      <lb n="25"/>Die Hauptsache für mich ist, dass sie sich lieben und glücklich sind.
+      <lb n="26"/>Für mich verlange ich nichts.
+      <lb n="27"/>15.8. Abendspaziergang mit A. mit Nachtmahl im Nussdorfer Bräu. Trotz
+      <lb n="28"/>Sternenhimmel düsterer Abend.</seite></div></body></text></TEI>

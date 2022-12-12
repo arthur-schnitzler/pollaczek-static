@@ -1,4 +1,5 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xml:id="ckp947.xml" xml:base="https://id.acdh.oeaw.ac.at.at/ckp" prev="https://id.acdh.oeaw.ac.at.at/ckp/ckp946.xml" next="https://id.acdh.oeaw.ac.at.at/ckp/ckp948.xml"><teiHeader><fileDesc><titleStmt><title level="s">Clara Katharina Pollaczek: »Arthur Schnitzler und ich«</title><title level="a">Arthur Schnitzler an Clara Katharina Pollaczek, 8.–9.8.1931</title><title type="alternative" when-iso="1931-08-08"/><author ref="#12435">Pollaczek, Clara Katharina</author><editor><name>Müller, Martin Anton</name><name>Untner, Laura</name></editor><funder><name>FWF - Der Wissenschaftsfonds</name><address><street>Sensengasse 1</street><postCode>1090 Wien</postCode><placeName><country>A</country><settlement>Wien</settlement></placeName></address></funder></titleStmt><editionStmt><edition>CKP</edition><respStmt><resp>Transkription und Kommentierung</resp><name>Müller, Martin Anton</name><name>Untner, Laura</name></respStmt></editionStmt><publicationStmt><publisher>Austrian Centre for Digital Humanities and Cultural
+<TEI xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.tei-c.org/ns/1.0" xml:id="ckp947.xml" xml:base="https://id.acdh.oeaw.ac.at.at/ckp" prev="https://id.acdh.oeaw.ac.at.at/ckp/ckp946.xml" next="https://id.acdh.oeaw.ac.at.at/ckp/ckp948.xml"><teiHeader><fileDesc><titleStmt><title level="s">Clara Katharina Pollaczek: »Arthur Schnitzler und
+                                    ich«</title><title level="a"/><author ref="#12435">Pollaczek, Clara Katharina</author><editor><name>Müller, Martin Anton</name><name>Untner, Laura</name></editor><funder><name>FWF - Der Wissenschaftsfonds</name><address><street>Sensengasse 1</street><postCode>1090 Wien</postCode><placeName><country>A</country><settlement>Wien</settlement></placeName></address></funder></titleStmt><editionStmt><edition>CKP</edition><respStmt><resp>Transkription und Kommentierung</resp><name>Müller, Martin Anton</name><name>Untner, Laura</name></respStmt></editionStmt><publicationStmt><publisher>Austrian Centre for Digital Humanities and Cultural
                                     Heritage</publisher><pubPlace>Vienna</pubPlace><date when="2022">2023</date><availability><licence target="https://creativecommons.org/licenses/by/4.0/deed.de"><p>Sie dürfen: Teilen — das Material in jedwedem Format oder
                                             Medium vervielfältigen und weiterverbreiten Bearbeiten —
                                             das Material remixen, verändern und darauf aufbauen und
@@ -24,31 +25,28 @@
                                             Persönlichkeits- und Datenschutzrechte zu beachten sein,
                                             die Ihre Nutzung des Materials entsprechend
                                             beschränken.</p></licence></availability><idno type="handle"/></publicationStmt><seriesStmt><p>Machine-Readable Transcriptions of the Correspondences of Arthur
-                                    Schnitzler</p></seriesStmt><sourceDesc><listWit><witness n="1"><msDesc><msIdentifier><country>A</country><settlement>Wien</settlement><repository>Wienbibliothek</repository><idno>H.I.N. 155550</idno></msIdentifier></msDesc></witness></listWit></sourceDesc></fileDesc><profileDesc><langUsage><language ident="de-AT">German</language></langUsage></profileDesc><revisionDesc status="proposed"><change who="LU" when="2022-12-25">Angelegt</change></revisionDesc></teiHeader><facsimile><graphic url="947"/></facsimile><text><body><div type="writingSession" n="1"><seite id="947">
-            <lb n="01"/>
-            <date>8.8.31</date>. Bl. 2.
-      <lb n="02"/>Esplanade. Heute gegen Abend kommt Heini, Montag wahrscheinlich
-      <lb n="03"/>Arnoldo; Mittwoch wahrwohnlich Schinnerer.- Trotzdem hoff ich die
-      <lb n="04"/>Zeit zum arbeiten zu haben.
-      <lb n="05"/>9.8. Sonntag Früh.
-      <lb n="06"/>Kaum hatte ich das geschrieben, so wurde mir gemeldet, dass Heini schon
-      <lb n="07"/>angekommen sei. Er war von Attnang aus mit dem Autobus gekommen. Er
-      <lb n="08"/>sieht famor aus und hat an 100 Photographien mit den unheimlichsten
-      <lb n="09"/>Gletschern mitgebracht, die er überquert hat (und allerlei mildere
-      <lb n="10"/>Aufnahmen.) Wir gingen abends am See spazieren und landeten an einem
-      <lb n="11"/>Wirtshaus "Zum Weiher", wo wir in ein Volksfest hineingerleten, mit
-      <lb n="12"/>der Rede eines cylanderschwenkenden Bürgermeister, Feuerwerk, Trubel
-      <lb n="13"/>und einer Schönheitskonkurrenz, die wir nicht
-      <lb n="14"/>mehr abwarteten.
-      <lb n="15"/>Das Hotel abgesehen von den üblichen Unannehmlichkeiten der alten
-      <lb n="16"/>Salzkammerguthotels ist sympathisch, und die Lage wirklich berückend.
-      <lb n="17"/>Von einem Wechsel des Aufenthaltes ist ja nicht die Rede: Heini muss
-      <lb n="18"/>am 17. in Berlin sein; die Anwesenheit von 0., Arnoldo dürfte mich
-      <lb n="19"/>nicht um vieles länger erstrecken. So hoffe ich sehr um den 20. he
-      <lb n="20"/>rum mit Dir zusammen zu sein; - Über den Ort werden wir uns unschwer
-      <lb n="21"/>einigen können.-
-      <lb n="22"/>Ich sende Dir diesen Brief nach Wunsch rekommandiert-express, obzwar
-      <lb n="23"/>ich nicht glaube, dass die Neugier in Deiner Umgebung bis zum Spo
-      <lb n="24"/>lieren von Briefen getrieben werden dürfte - Bitte um Nachrichten
-      <lb n="25"/>und sei tausendmal gegrässt. Dein A.
-      <lb n="26"/>- - - - -</seite></div></body></text></TEI>
+                                    Schnitzler</p></seriesStmt><sourceDesc><listWit><witness n="1"><msDesc><msIdentifier><country>A</country><settlement>Wien</settlement><repository>Wienbibliothek</repository><idno>H.I.N. 155550</idno></msIdentifier></msDesc></witness></listWit></sourceDesc></fileDesc><profileDesc><langUsage><language ident="de-AT">German</language></langUsage></profileDesc><revisionDesc status="proposed"><change who="LU" when="2022-12-25">Angelegt</change></revisionDesc></teiHeader><facsimile><graphic url="ckp947"/></facsimile><text><body><div type="writingSession" n="1"><seite>
+      <lb n="01"/>Bad Gastein 5ten Aug 1931 nach Gmunden H. Austria
+      <lb n="02"/>Lieber, Ich schickte auf Deinen Brief eine Karte nach Wien und warte mit
+      <lb n="03"/>der Absendung dieser Zeilen bis das in Aussicht gestellte Telegr. mit
+      <lb n="04"/>Adresse eintrifft. Mein Befinden ziemlich unverändert. Nach meinem
+      <lb n="05"/>2ten Bad heute früh sehr arge Herzklopfen. Stophantus.
+      <lb n="06"/>Traf Irene Au. (2stündige Bekenntnisse über Ehe, Leid, und Liebe,
+      <lb n="07"/>aber ich verriet nichts von meinem Leben, hörte nur zu) Wenn auch anders
+      <lb n="08"/>Frauen glücklicher sind - ich tausche nicht.
+      <lb n="09"/>Ansonsten habe ich mich Annüherungs- Versuchen von Bekannten und Unbekannt
+      <lb n="10"/>ten gegenüber ablehnend verhalten - da ich noch innerlich und äusserlich
+      <lb n="11"/>zu müde war.
+      <lb n="12"/>Ich konnte in Deinen Zeilen, den Dir sympathischesten Ort nicht entziffern,
+      <lb n="13"/>- Gmunden- oder Garnisch.
+      <lb n="14"/>Nun jedenfalls alles Gute und Schöne, meine besten Wünsche und Grüsse.
+      <lb n="15"/>D. Clara Katharina
+      <lb n="16"/>6ten Aug.
+      <lb n="17"/>Anstat des Telegramms keinen bisher 2 unleserliche Wiere Karten ich entzif-
+      <lb n="18"/>fere - Gmunden H. Austria und das Frauchen dorthin zu schreiben sende die
+      <lb n="19"/>gestrigen Zeilen daher an diese Adresse.
+      <lb n="20"/>ogar
+      <lb n="21"/>Die Reine dürfte beider Hitze die Heute hier ist unangenehm sein.
+      <lb n="22"/>Gut dass sie nicht lange dauert.
+      <lb n="23"/>Nochmals viele Grüsse.
+      <lb n="24"/>Cl. K.</seite></div></body></text></TEI>

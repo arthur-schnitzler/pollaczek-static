@@ -1,4 +1,5 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xml:id="ckp688.xml" xml:base="https://id.acdh.oeaw.ac.at.at/ckp" prev="https://id.acdh.oeaw.ac.at.at/ckp/ckp687.xml" next="https://id.acdh.oeaw.ac.at.at/ckp/ckp689.xml"><teiHeader><fileDesc><titleStmt><title level="s">Clara Katharina Pollaczek: »Arthur Schnitzler und ich«</title><title level="a">Clara Katharina Pollaczek an Arthur Schnitzler, 3. Mai 1929</title><title type="alternative" when-iso="1929-05-03"/><author ref="#12435">Pollaczek, Clara Katharina</author><editor><name>Müller, Martin Anton</name><name>Untner, Laura</name></editor><funder><name>FWF - Der Wissenschaftsfonds</name><address><street>Sensengasse 1</street><postCode>1090 Wien</postCode><placeName><country>A</country><settlement>Wien</settlement></placeName></address></funder></titleStmt><editionStmt><edition>CKP</edition><respStmt><resp>Transkription und Kommentierung</resp><name>Müller, Martin Anton</name><name>Untner, Laura</name></respStmt></editionStmt><publicationStmt><publisher>Austrian Centre for Digital Humanities and Cultural
+<TEI xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.tei-c.org/ns/1.0" xml:id="ckp688.xml" xml:base="https://id.acdh.oeaw.ac.at.at/ckp" prev="https://id.acdh.oeaw.ac.at.at/ckp/ckp687.xml" next="https://id.acdh.oeaw.ac.at.at/ckp/ckp689.xml"><teiHeader><fileDesc><titleStmt><title level="s">Clara Katharina Pollaczek: »Arthur Schnitzler und
+                                    ich«</title><title level="a"/><author ref="#12435">Pollaczek, Clara Katharina</author><editor><name>Müller, Martin Anton</name><name>Untner, Laura</name></editor><funder><name>FWF - Der Wissenschaftsfonds</name><address><street>Sensengasse 1</street><postCode>1090 Wien</postCode><placeName><country>A</country><settlement>Wien</settlement></placeName></address></funder></titleStmt><editionStmt><edition>CKP</edition><respStmt><resp>Transkription und Kommentierung</resp><name>Müller, Martin Anton</name><name>Untner, Laura</name></respStmt></editionStmt><publicationStmt><publisher>Austrian Centre for Digital Humanities and Cultural
                                     Heritage</publisher><pubPlace>Vienna</pubPlace><date when="2022">2023</date><availability><licence target="https://creativecommons.org/licenses/by/4.0/deed.de"><p>Sie dürfen: Teilen — das Material in jedwedem Format oder
                                             Medium vervielfältigen und weiterverbreiten Bearbeiten —
                                             das Material remixen, verändern und darauf aufbauen und
@@ -24,24 +25,24 @@
                                             Persönlichkeits- und Datenschutzrechte zu beachten sein,
                                             die Ihre Nutzung des Materials entsprechend
                                             beschränken.</p></licence></availability><idno type="handle"/></publicationStmt><seriesStmt><p>Machine-Readable Transcriptions of the Correspondences of Arthur
-                                    Schnitzler</p></seriesStmt><sourceDesc><listWit><witness n="1"><msDesc><msIdentifier><country>A</country><settlement>Wien</settlement><repository>Wienbibliothek</repository><idno>H.I.N. 155550</idno></msIdentifier></msDesc></witness></listWit></sourceDesc></fileDesc><profileDesc><langUsage><language ident="de-AT">German</language></langUsage></profileDesc><revisionDesc status="proposed"><change who="LU" when="2022-12-25">Angelegt</change></revisionDesc></teiHeader><facsimile><graphic url="688"/></facsimile><text><body><div type="writingSession" n="1"><seite id="688">
-            <lb n="01"/>3.5.29.
-      <lb n="02"/>sten nach Cannes zu gehen, ausserhalb der Saison,
-      <lb n="03"/>keine Bekannten zu fürchten und sicher billige
-      <lb n="04"/>Preise. Und so hatte ich auch während Deines lan-
-      <lb n="05"/>gen Aufenthaltes in B. und in all meinen Verstim-
-      <lb n="06"/>mungen und verzweifelten Stunden eine kleine Hoff-
-      <lb n="07"/>nung auf das Frühjahr gesetzt. Ich dachte,Sommer,
-      <lb n="08"/>Sonnen,Landschaft werden uns Beiden helfen, wir
-      <lb n="09"/>werden über manches Elend dieses Winters, auf des-
-      <lb n="10"/>sen Einzelheiten ich hier nicht eingehen will,
-      <lb n="11"/>wieder ganz zueinander finden - eine schöne Zeit
-      <lb n="12"/>wird kommen. Und nun ist plötzlich diese Reise
-      <lb n="13"/>an den Wörthersee da! "Belanglos" sagst Du. Kann
-      <lb n="14"/>etwas belanglos sein, was einem Andern so viel
-      <lb n="15"/>Leid bereitet? Kann etwas belanglos sein, worauf
-      <lb n="16"/>man ohne jeden zwingenden Grund besteht, trotzdem
-      <lb n="17"/>man damit einer angeblich geliebten Frau so weh tut?
-      <lb n="18"/>Es war nie belanglos und ist es heute nicht. Und
-      <lb n="19"/>wenn Du bei früheren Zusammenkünften (ich meine
-      <lb n="20"/>in früheren Jahren) mir sagtest,es geschähe um der</seite></div></body></text></TEI>
+                                    Schnitzler</p></seriesStmt><sourceDesc><listWit><witness n="1"><msDesc><msIdentifier><country>A</country><settlement>Wien</settlement><repository>Wienbibliothek</repository><idno>H.I.N. 155550</idno></msIdentifier></msDesc></witness></listWit></sourceDesc></fileDesc><profileDesc><langUsage><language ident="de-AT">German</language></langUsage></profileDesc><revisionDesc status="proposed"><change who="LU" when="2022-12-25">Angelegt</change></revisionDesc></teiHeader><facsimile><graphic url="ckp688"/></facsimile><text><body><div type="writingSession" n="1"><seite>
+      <lb n="01"/>schon heftigen inneren Widerwillen entgegengebracht,
+      <lb n="02"/>obwohl es diesmal eine geschäftliche Reise sein
+      <lb n="03"/>sollte. Denn es ist mir ganz klar - und klarer denn
+      <lb n="04"/>je - dass Du ohne die "else"-Angelegenheit einen
+      <lb n="05"/>anderen Vorwand für ein Zusammensein gefunden hät-
+      <lb n="06"/>test.
+      <lb n="07"/>Du hast genau gewusst, wie ich täglich,
+      <lb n="08"/>stündlich unter Deinem Dortsein leide und hast
+      <lb n="09"/>trotzdem eine neuerliche Verabredung,diesmal zu
+      <lb n="10"/>Dritt, "Arnoldo, O. und Du" getroffen.
+      <lb n="11"/>Es war vor Deiner letzten Reise nach Ber-
+      <lb n="12"/>lin, als wir in einer traurig-zärtlichen Stunde
+      <lb n="13"/>hier bei mir zusammensassen und ich zu Dir sagte:
+      <lb n="14"/>Wir sollten aus dieser schrecklichen Kälte hier fort,
+      <lb n="15"/>an irgend einen schönen Ort. Ich will Dich wieder jünger
+      <lb n="16"/>und fröhlicher machen. Du sagtest darauf: Jetzt ist
+      <lb n="17"/>es noch zu früh, aber Ende April oder Anfang Mai -
+      <lb n="18"/>und dann frugst Du, wohin ich eigentlich möchte. Es
+      <lb n="19"/>war das erste Mal, dass Du mich das frugst und'sich
+      <lb n="20"/>war sehr froh und sagte, um die Zeit wäre es am schön-</seite></div></body></text></TEI>

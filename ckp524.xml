@@ -1,4 +1,5 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xml:id="ckp524.xml" xml:base="https://id.acdh.oeaw.ac.at.at/ckp" prev="https://id.acdh.oeaw.ac.at.at/ckp/ckp523.xml" next="https://id.acdh.oeaw.ac.at.at/ckp/ckp525.xml"><teiHeader><fileDesc><titleStmt><title level="s">Clara Katharina Pollaczek: »Arthur Schnitzler und ich«</title><title level="a">Clara Katharina Pollaczek an Arthur Schnitzler, 14.4.–15.4.1927</title><title type="alternative" when-iso="1928-04-15"/><author ref="#12435">Pollaczek, Clara Katharina</author><editor><name>Müller, Martin Anton</name><name>Untner, Laura</name></editor><funder><name>FWF - Der Wissenschaftsfonds</name><address><street>Sensengasse 1</street><postCode>1090 Wien</postCode><placeName><country>A</country><settlement>Wien</settlement></placeName></address></funder></titleStmt><editionStmt><edition>CKP</edition><respStmt><resp>Transkription und Kommentierung</resp><name>Müller, Martin Anton</name><name>Untner, Laura</name></respStmt></editionStmt><publicationStmt><publisher>Austrian Centre for Digital Humanities and Cultural
+<TEI xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.tei-c.org/ns/1.0" xml:id="ckp524.xml" xml:base="https://id.acdh.oeaw.ac.at.at/ckp" prev="https://id.acdh.oeaw.ac.at.at/ckp/ckp523.xml" next="https://id.acdh.oeaw.ac.at.at/ckp/ckp525.xml"><teiHeader><fileDesc><titleStmt><title level="s">Clara Katharina Pollaczek: »Arthur Schnitzler und
+                                    ich«</title><title level="a"/><author ref="#12435">Pollaczek, Clara Katharina</author><editor><name>Müller, Martin Anton</name><name>Untner, Laura</name></editor><funder><name>FWF - Der Wissenschaftsfonds</name><address><street>Sensengasse 1</street><postCode>1090 Wien</postCode><placeName><country>A</country><settlement>Wien</settlement></placeName></address></funder></titleStmt><editionStmt><edition>CKP</edition><respStmt><resp>Transkription und Kommentierung</resp><name>Müller, Martin Anton</name><name>Untner, Laura</name></respStmt></editionStmt><publicationStmt><publisher>Austrian Centre for Digital Humanities and Cultural
                                     Heritage</publisher><pubPlace>Vienna</pubPlace><date when="2022">2023</date><availability><licence target="https://creativecommons.org/licenses/by/4.0/deed.de"><p>Sie dürfen: Teilen — das Material in jedwedem Format oder
                                             Medium vervielfältigen und weiterverbreiten Bearbeiten —
                                             das Material remixen, verändern und darauf aufbauen und
@@ -24,27 +25,36 @@
                                             Persönlichkeits- und Datenschutzrechte zu beachten sein,
                                             die Ihre Nutzung des Materials entsprechend
                                             beschränken.</p></licence></availability><idno type="handle"/></publicationStmt><seriesStmt><p>Machine-Readable Transcriptions of the Correspondences of Arthur
-                                    Schnitzler</p></seriesStmt><sourceDesc><listWit><witness n="1"><msDesc><msIdentifier><country>A</country><settlement>Wien</settlement><repository>Wienbibliothek</repository><idno>H.I.N. 155550</idno></msIdentifier></msDesc></witness></listWit></sourceDesc></fileDesc><profileDesc><langUsage><language ident="de-AT">German</language></langUsage></profileDesc><revisionDesc status="proposed"><change who="LU" when="2022-12-25">Angelegt</change></revisionDesc></teiHeader><facsimile><graphic url="524"/></facsimile><text><body><div type="writingSession" n="1"><seite id="524">
-            <lb n="01"/>14.4.28.
-      <lb n="02"/>Acht, dass Du Dich nicht erkältest.
-      <lb n="03"/>Eben haben mich die drei Damen verlassen. Ich kam mir vor
-      <lb n="04"/>wie einem Kaffeekränzchen. Gespräche und Religion, Theosophie, Christen-
-      <lb n="05"/>tum etz. mit Goethezitaten (von Gretl Königswarternatürlich) Touchant
-      <lb n="06"/>mais hideux! Sie kam übrigens früher als die Andern, brachte mir Blumen
-      <lb n="07"/>und erzählte viel Liebes von Frau Wilbrandt-Baudius. Auch sprachen wir
-      <lb n="08"/>über Besetzungsmöglichkeiten. Etwas verfrüht! Jetzt will ich noch ar-
-      <lb n="09"/>beiten, lesen, telefonieren. Für morgen steht vorläufig nur die Hofrätin
-      <lb n="10"/>Z. am Programm. Vielleicht füge ich noch ein paar Worte bei ehe ich
-      <lb n="11"/>schliesse.
-      <lb n="12"/>16.4.
-      <lb n="13"/>Guten Morgen! Eben erst Deine Karte vom 13.erhalten. So
-      <lb n="14"/>ist die Post. Habe mir von Frieda die genaue Adresse für diesen Brief
-      <lb n="15"/>geben lassen. Sie selbst schreibt heute schon nach Constantinopel, wohin
-      <lb n="16"/>ich auch noch im Laufe des Tages schreibe. Endlich etwas Sonnenschein.
-      <lb n="17"/>Vormittag an die Luft. Ich habe Sehnsucht nach Bewegung und Zerstreuung,
-      <lb n="18"/>Damen jausen genügen mir nicht. Ich hoffe, Du hast eine schöne Fahrt
-      <lb n="19"/>gehabt und die Abreise hat geklappt. Sind Lilt und der Capitano pünkt-
-      <lb n="20"/>lich eingetroffen? Ich hoffe, diese Zeilen kommen rechtzeitig in Deine
-      <lb n="21"/>Hände und ich umarme Dich nochmals herzlichst.
-      <lb n="22"/>Deine
-      <lb n="23"/>C.K.</seite></div></body></text></TEI>
+                                    Schnitzler</p></seriesStmt><sourceDesc><listWit><witness n="1"><msDesc><msIdentifier><country>A</country><settlement>Wien</settlement><repository>Wienbibliothek</repository><idno>H.I.N. 155550</idno></msIdentifier></msDesc></witness></listWit></sourceDesc></fileDesc><profileDesc><langUsage><language ident="de-AT">German</language></langUsage></profileDesc><revisionDesc status="proposed"><change who="LU" when="2022-12-25">Angelegt</change></revisionDesc></teiHeader><facsimile><graphic url="ckp524"/></facsimile><text><body><div type="writingSession" n="1"><seite>
+      <lb n="01"/>Wien, 14.4.1928.
+      <lb n="02"/>An A.S.Mittelmeer.
+      <lb n="03"/>Liebster,
+      <lb n="04"/>es ist kein Brief aus Triest gekommen und wenn Du ihn nicht
+      <lb n="05"/>express aufgegeben hast kommt auch morgen Sonntag nichts an.
+      <lb n="06"/>Vor der Credit-Anstalt traf ich den J.Benedikt, der mir noch
+      <lb n="07"/>"Aufstieg" gratulierte, der ihm sehr gefallen hat und unbegreifli-
+      <lb n="08"/>cher Weise fand, dass ich "jung und entzückend aussehe", ich finde es nicht.
+      <lb n="09"/>Nachmittag war Frieda da, der ich zehngrosse Seiten diktierte. Sie schie-
+      <lb n="10"/>nen ihr zu gefallen. Für morgen Nachmittag habe ich mir eine Damenjause
+      <lb n="11"/>angetan, mir graust schon jetzt. Margarthe Königswarter, Emmy Erlanger,
+      <lb n="12"/>Margarete Blum. Ich bin heute doch nicht mehr ins Kino, da ich schon zu
+      <lb n="13"/>müde bin. Ich hoffe auf nächste Woche auf mehr Sonne, Wärme und Zerstreu-
+      <lb n="14"/>ung.
+      <lb n="15"/>von der Presse kann ich trotz wiederholter Anrufe das Honorar
+      <lb n="16"/>für die Novelle nicht erfahren. Heute wurde ich auf Montag vertröstet.
+      <lb n="17"/>15.4.
+      <lb n="18"/>Vor einer Stunde kamen Deine lieben Zeilen aus Triest, für die
+      <lb n="19"/>ich Dir herzlich danke. Jedesfalls scheint das Wetter dort freundlicher
+      <lb n="20"/>als hier, denn vorgestern regnete es hier den ganzen Tag und heute wehte
+      <lb n="21"/>ein kalter heftiger Wind. Ich werde Vormittag kaum fortehen. Deinen
+      <lb n="22"/>Brief konnte ich noch nicht ganz entziffern. Wen Du am Bahnhof in Triest
+      <lb n="23"/>getroffen hast, konnte ich noch nicht herausbekommen, aber es ist auch
+      <lb n="24"/>nicht sehr wichtig. Beim Schluss sind mir auch ein paar Worte nicht
+      <lb n="25"/>klar.
+      <lb n="26"/>Was hat Lili von Alma erzählt? Wie sieht Lili aus?
+      <lb n="27"/>Tausend gute Wünsche, Grüsse und herzliche Umarmung.
+      <lb n="28"/>Deine C.K.
+      <lb n="29"/>Fortsetzung Abend 1/2 9.
+      <lb n="30"/>Ich habe diesen Brief heute nicht abgeschickt, da man ihn des
+      <lb n="31"/>Sonntags wegen nicht ausgehoben hätte und auf die Hauptpost bin ich
+      <lb n="32"/>nicht gekommen, weil das Wetter zu elend ist. Regen und Wind. Gib nur</seite></div></body></text></TEI>

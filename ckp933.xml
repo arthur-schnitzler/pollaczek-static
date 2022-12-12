@@ -1,4 +1,5 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xml:id="ckp933.xml" xml:base="https://id.acdh.oeaw.ac.at.at/ckp" prev="https://id.acdh.oeaw.ac.at.at/ckp/ckp932.xml" next="https://id.acdh.oeaw.ac.at.at/ckp/ckp934.xml"><teiHeader><fileDesc><titleStmt><title level="s">Clara Katharina Pollaczek: »Arthur Schnitzler und ich«</title><title level="a">Tagebuch von Clara Katharina Pollaczek, 30. Juni – 4. Juli 1931</title><title type="alternative" when-iso="1931-06-30"/><title type="alternative" when-iso="1931-07-02"/><title type="alternative" when-iso="1931-07-03"/><title type="alternative" when-iso="1931-07-04"/><author ref="#12435">Pollaczek, Clara Katharina</author><editor><name>Müller, Martin Anton</name><name>Untner, Laura</name></editor><funder><name>FWF - Der Wissenschaftsfonds</name><address><street>Sensengasse 1</street><postCode>1090 Wien</postCode><placeName><country>A</country><settlement>Wien</settlement></placeName></address></funder></titleStmt><editionStmt><edition>CKP</edition><respStmt><resp>Transkription und Kommentierung</resp><name>Müller, Martin Anton</name><name>Untner, Laura</name></respStmt></editionStmt><publicationStmt><publisher>Austrian Centre for Digital Humanities and Cultural
+<TEI xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.tei-c.org/ns/1.0" xml:id="ckp933.xml" xml:base="https://id.acdh.oeaw.ac.at.at/ckp" prev="https://id.acdh.oeaw.ac.at.at/ckp/ckp932.xml" next="https://id.acdh.oeaw.ac.at.at/ckp/ckp934.xml"><teiHeader><fileDesc><titleStmt><title level="s">Clara Katharina Pollaczek: »Arthur Schnitzler und
+                                    ich«</title><title level="a"/><author ref="#12435">Pollaczek, Clara Katharina</author><editor><name>Müller, Martin Anton</name><name>Untner, Laura</name></editor><funder><name>FWF - Der Wissenschaftsfonds</name><address><street>Sensengasse 1</street><postCode>1090 Wien</postCode><placeName><country>A</country><settlement>Wien</settlement></placeName></address></funder></titleStmt><editionStmt><edition>CKP</edition><respStmt><resp>Transkription und Kommentierung</resp><name>Müller, Martin Anton</name><name>Untner, Laura</name></respStmt></editionStmt><publicationStmt><publisher>Austrian Centre for Digital Humanities and Cultural
                                     Heritage</publisher><pubPlace>Vienna</pubPlace><date when="2022">2023</date><availability><licence target="https://creativecommons.org/licenses/by/4.0/deed.de"><p>Sie dürfen: Teilen — das Material in jedwedem Format oder
                                             Medium vervielfältigen und weiterverbreiten Bearbeiten —
                                             das Material remixen, verändern und darauf aufbauen und
@@ -24,37 +25,33 @@
                                             Persönlichkeits- und Datenschutzrechte zu beachten sein,
                                             die Ihre Nutzung des Materials entsprechend
                                             beschränken.</p></licence></availability><idno type="handle"/></publicationStmt><seriesStmt><p>Machine-Readable Transcriptions of the Correspondences of Arthur
-                                    Schnitzler</p></seriesStmt><sourceDesc><listWit><witness n="1"><msDesc><msIdentifier><country>A</country><settlement>Wien</settlement><repository>Wienbibliothek</repository><idno>H.I.N. 155550</idno></msIdentifier></msDesc></witness></listWit></sourceDesc></fileDesc><profileDesc><langUsage><language ident="de-AT">German</language></langUsage></profileDesc><revisionDesc status="proposed"><change who="LU" when="2022-12-25">Angelegt</change></revisionDesc></teiHeader><facsimile><graphic url="933"/></facsimile><text><body><div type="writingSession" n="1"><seite id="933">
-            <lb n="01"/>30.6.1931.
-      <lb n="02"/>auch gar nichts mehr nützt.
-      <lb n="03"/>Zwei Karten an Harry abgeschickt, Gestern Abend mit Thea Graf tolofo-
-      <lb n="04"/>niert, mit der er in den letzten Monaten sehr befreundet war. Sie tut
-      <lb n="05"/>mir so leid. Mein Befinden elend.
-      <lb n="06"/>2.7. Grosse Hitze. Mein Befinden mehr schlecht. Wenn ich in den Spie-
-      <lb n="07"/>gel schau muss ich weinen. Herzbeschwerden. Vormittag Globoeznik
-      <lb n="08"/>fin
-      <lb n="09"/>bis
-      <lb n="10"/>bei mir im Garten. Mittag Abschiedsessen für A. meini, Frieda auch
-      <lb n="11"/>da. Bat Heini beim Abschied keine gefährlichen Touren zu machen. Er
-      <lb n="12"/>gab mir verständnisvoll und herzlich die Hand.
-      <lb n="13"/>Nachmittag Tante Russo, dann zu Emmy Redlich. Abschiedsbesuche und
-      <lb n="14"/>Verpflichtungen nach allen Seiten. Elende Nacht. In der Früh Gespräch
-      <lb n="15"/>mit Dr. Selinger. Gestern Vormittag in der Stadt mich wiegen zu lassen:
-      <lb n="16"/>53.20. Nachmittag mit Gerty Hofmannwthal. Abend mit A., der mich holte,
-      <lb n="17"/>nach Mödling, Hayek, Vorderbrühl, genachtmahlt. Trostloser Abend. Sein
-      <lb n="18"/>Sohn mit Frau Claumer und Gesellschaft im Prater drahn; offenbar
-      <lb n="19"/>wär er lieber dort gewesen.- -
-      <lb n="20"/>3.7. Radiotelegramm von Harry. Er ist unterwegs. Heute etwas wohler.
-      <lb n="21"/>Vormitta brachte mich A. in die Stadt. Er kam wie ein Irreinniger
-      <lb n="22"/>erüber und erklärte, jetzt halte er es hier nicht mehr aus und er
-      <lb n="23"/>gene vielleicht vor mir schon auf den Semmering.-Ein paar Tage Allein-
-      <lb n="24"/>Schreibung
-      <lb n="25"/>sein. Gut, gut, ich kann nicht mehr reden! Abend Marianne P. und ihr
-      <lb n="26"/>Cary und Magdi bei mir. Kalte Nachtmahl auf der Terrasse. Fühlte
-      <lb n="27"/>mich Marianne P. verpflichtet, weil sie Harry sehr gute Empfehlungen
-      <lb n="28"/>mitgegeben hat. A. rief um 11 Uhr noch an, als ich schon an allein war.
-      <lb n="29"/>Heini heute fort. Tropische Hitze.
-      <lb n="30"/>4.7. Vormittag Anna bei mir. Zusammen im Türkenschanzpark gegessen.
-      <lb n="31"/>Hitze abnorm, aber es kommt ein Gewitter. Sehr lieber Brief von
-      <lb n="32"/>Harry, noch aus Hamburg. Abend bei Wellecz, A. frischer und etwas freund-
-      <lb n="33"/>licher als sonst. Gerty v. Hofmannsthal spricht zu viel und zu monoton.</seite></div></body></text></TEI>
+                                    Schnitzler</p></seriesStmt><sourceDesc><listWit><witness n="1"><msDesc><msIdentifier><country>A</country><settlement>Wien</settlement><repository>Wienbibliothek</repository><idno>H.I.N. 155550</idno></msIdentifier></msDesc></witness></listWit></sourceDesc></fileDesc><profileDesc><langUsage><language ident="de-AT">German</language></langUsage></profileDesc><revisionDesc status="proposed"><change who="LU" when="2022-12-25">Angelegt</change></revisionDesc></teiHeader><facsimile><graphic url="ckp933"/></facsimile><text><body><div type="writingSession" n="1"><seite>
+      <lb n="01"/>Ich bringe kein Wort mehr über die Lippen. Zuhause Harry: "Wie siehst
+      <lb n="02"/>du aus? Kann ich dir helfen? " 4 Allonal. Jetzt weit 6 Uhr wach.
+      <lb n="03"/>Mit A. krxx kurzes Telefongespräch, will morgen über den Sommer weiter
+      <lb n="04"/>reden. Ich reagiere nicht. Abend die Kinder bei mir, letztes gemeinsa-
+      <lb n="05"/>mes Abendessen. Nachmittag war Melingo da beim Einpacken helfen. In
+      <lb n="06"/>2 Stunden war es erledigt. Dann fuhren er und Harry gleich zur Bahn
+      <lb n="07"/>das Gepäck absenden.
+      <lb n="08"/>28.6. Vormittag mit A. Autofahrt. Er möchte eventuell nach Hofgastein.
+      <lb n="09"/>Ich sage, dass ich natürlich auch nach Hofgastein gehe, wenn es ihm lie-
+      <lb n="10"/>ber ist und er mit mir zusammen wein will. Er antwortet: "Nein, es ist
+      <lb n="11"/>mir lieber, wenn du nach Bad Gastein gehet“, ein Zusammensein am selben
+      <lb n="12"/>Ort scheine ihm nicht wünschenswert. Das muss man sich sagen lassen!
+      <lb n="13"/>Dann will er ein paar Tage ganz allein wo anders hin, ohne jede Ver-
+      <lb n="14"/>pflichtung. Dann Heini, O. und Arnoldo treffen und schliesslich auch
+      <lb n="15"/>mich. Nein, auf eine solche Einstellung werde ich meine Zukunft nicht
+      <lb n="16"/>uxxx aufbauen, nein,n ein,nein!
+      <lb n="17"/>Abend "Komparserie" in einer Loge mit A. und dem alten Schwarzkopf,
+      <lb n="18"/>den man vontallen Seiten stützen muss, damit er nicht umfällt. Nachher
+      <lb n="19"/>ödes Nachtmahl bei Schöner mit Heini. Ich habe ein Gefühl, als ob ich
+      <lb n="20"/>selbst in den letzten Zügen läge - und morgen führt Harry fort. Heute
+      <lb n="21"/>ist er den ganzen Tag an der Donau gewesen mit Thea Graf, er lag ganz
+      <lb n="22"/>braun gebraumt im Bett, als ich heinkam. Wie fühle ich in diesen Tagen,
+      <lb n="23"/>dass er mein Kind ist. Mein Weg ist nicht mehr lang.
+      <lb n="24"/>29.6. Abend. Harry fort. Ich kann nicht mehr.
+      <lb n="25"/>30.6. Ich sehe aus wie eine Wasserleiche. A. Vormittag bei mir im
+      <lb n="26"/>Garten. Neuer Vorschlag; zusammen am 15. auf den Semmering, dann er
+      <lb n="27"/>allein, eventuelle Z kurze Zusammenkunft mit 0., dann wieder ich, aber
+      <lb n="28"/>er kann keinerlei Versprechungen machen, was seine Stimmung oder sein
+      <lb n="29"/>Wesen anbelangt.-Ich zagte sehr wenig, weil ich viel zu müde bin und es</seite></div></body></text></TEI>

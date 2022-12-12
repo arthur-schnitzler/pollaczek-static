@@ -1,4 +1,5 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xml:id="ckp902.xml" xml:base="https://id.acdh.oeaw.ac.at.at/ckp" prev="https://id.acdh.oeaw.ac.at.at/ckp/ckp901.xml" next="https://id.acdh.oeaw.ac.at.at/ckp/ckp903.xml"><teiHeader><fileDesc><titleStmt><title level="s">Clara Katharina Pollaczek: »Arthur Schnitzler und ich«</title><title level="a">Tagebuch von Clara Katharina Pollaczek, 26.–29. April 1931</title><title type="alternative" when-iso="1931-04-26"/><title type="alternative" when-iso="1931-04-27"/><title type="alternative" when-iso="1931-04-28"/><title type="alternative" when-iso="1931-04-29"/><author ref="#12435">Pollaczek, Clara Katharina</author><editor><name>Müller, Martin Anton</name><name>Untner, Laura</name></editor><funder><name>FWF - Der Wissenschaftsfonds</name><address><street>Sensengasse 1</street><postCode>1090 Wien</postCode><placeName><country>A</country><settlement>Wien</settlement></placeName></address></funder></titleStmt><editionStmt><edition>CKP</edition><respStmt><resp>Transkription und Kommentierung</resp><name>Müller, Martin Anton</name><name>Untner, Laura</name></respStmt></editionStmt><publicationStmt><publisher>Austrian Centre for Digital Humanities and Cultural
+<TEI xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.tei-c.org/ns/1.0" xml:id="ckp902.xml" xml:base="https://id.acdh.oeaw.ac.at.at/ckp" prev="https://id.acdh.oeaw.ac.at.at/ckp/ckp901.xml" next="https://id.acdh.oeaw.ac.at.at/ckp/ckp903.xml"><teiHeader><fileDesc><titleStmt><title level="s">Clara Katharina Pollaczek: »Arthur Schnitzler und
+                                    ich«</title><title level="a"/><author ref="#12435">Pollaczek, Clara Katharina</author><editor><name>Müller, Martin Anton</name><name>Untner, Laura</name></editor><funder><name>FWF - Der Wissenschaftsfonds</name><address><street>Sensengasse 1</street><postCode>1090 Wien</postCode><placeName><country>A</country><settlement>Wien</settlement></placeName></address></funder></titleStmt><editionStmt><edition>CKP</edition><respStmt><resp>Transkription und Kommentierung</resp><name>Müller, Martin Anton</name><name>Untner, Laura</name></respStmt></editionStmt><publicationStmt><publisher>Austrian Centre for Digital Humanities and Cultural
                                     Heritage</publisher><pubPlace>Vienna</pubPlace><date when="2022">2023</date><availability><licence target="https://creativecommons.org/licenses/by/4.0/deed.de"><p>Sie dürfen: Teilen — das Material in jedwedem Format oder
                                             Medium vervielfältigen und weiterverbreiten Bearbeiten —
                                             das Material remixen, verändern und darauf aufbauen und
@@ -24,35 +25,33 @@
                                             Persönlichkeits- und Datenschutzrechte zu beachten sein,
                                             die Ihre Nutzung des Materials entsprechend
                                             beschränken.</p></licence></availability><idno type="handle"/></publicationStmt><seriesStmt><p>Machine-Readable Transcriptions of the Correspondences of Arthur
-                                    Schnitzler</p></seriesStmt><sourceDesc><listWit><witness n="1"><msDesc><msIdentifier><country>A</country><settlement>Wien</settlement><repository>Wienbibliothek</repository><idno>H.I.N. 155550</idno></msIdentifier></msDesc></witness></listWit></sourceDesc></fileDesc><profileDesc><langUsage><language ident="de-AT">German</language></langUsage></profileDesc><revisionDesc status="proposed"><change who="LU" when="2022-12-25">Angelegt</change></revisionDesc></teiHeader><facsimile><graphic url="902"/></facsimile><text><body><div type="writingSession" n="1"><seite id="902">
-            <lb n="01"/>Tgb. 27.4.193
-      <lb n="02"/>anderes übrig?
-      <lb n="03"/>27.4. A. mich in der Früh eher brummig angerufen. Dr.D. sagte mir
-      <lb n="04"/>gestern am Heimweg (Anny war dabei),A. sei sehr nervös und neurasthe-
-      <lb n="05"/>nisch, fühle sich sonst aber sehr wohl. Er habe ihm geraten für ein
-      <lb n="06"/>paar Tage fortzugehen, auf den Semmering etwa, ich aine nicht
-      <lb n="07"/>ob mit oder ohne mich.
-      <lb n="08"/>Heute Mittag die Kinder und Trude Bien zu Tisch, die sich während
-      <lb n="09"/>Carrys Krankheit fabelhaft bernommen hat. Abend allein.
-      <lb n="10"/>28.4. Heute Abend mit A. bei Ronecher. Fades Programm und ich fühlte
-      <lb n="11"/>mich physisch und seelisch nicht wohl. Dann Hotel Krantz (Majolika-
-      <lb n="12"/>Saal). Ich machte krampfhaft Konversation. A. wichtlich verlegen.
-      <lb n="13"/>Endlich frage ich, da er immer von seiner "Erschöpfung" spricht, was
-      <lb n="14"/>Ferry ihm eigentlich verordnet hat. A.: "Er hat an Gastein gedacht,
-      <lb n="15"/>aber ich denke nicht daran, werde nur vielleicht für ein paar Tage al-
-      <lb n="16"/>lein fortgehen.“ -ich sage nichts als „so“ und „preche weiter weder
-      <lb n="17"/>verstimmt noch in einem andern Ton als bisher. Aber sein schlechtes
-      <lb n="18"/>Gewissen lässt ihm keine Ruh. Im Wagen geht es los; es sei kein
-      <lb n="19"/>Grund verstimmt zu sein, weil er vielleicht für ein paar Tage auf den
-      <lb n="20"/>Semmering gehe etc. Er quält mich so lange, bis ich losbreche. Jeder
-      <lb n="21"/>Mensch frage mich, ob er nicht mit mir eine kleine Reise machen würde,
-      <lb n="22"/>wo ich so elend aussehe und Frieda hat mir vor Wochen gesagt, dass
-      <lb n="23"/>er diese Absicht hat. Er leugnet. Ich empfinde das Elend unserer Be-
-      <lb n="24"/>ziehung nicht um ein Atom stärker weit er mir diese Mitteilung gemacht
-      <lb n="25"/>hat als vorher. Er: "Es ist doch keine schlimme Absicht dabei." Ich:
-      <lb n="26"/>"Es genügt wohl nicht, dass du nach diesem Jahr, das hinter mir liegt,
-      <lb n="27"/>nichts gegen mich Gerichtetes tust, du hättest eben etwas für mich
-      <lb n="28"/>tun müssen. Du bist entweder nicht normal oder bösartig."
-      <lb n="29"/>29.4. Quälende telefonische Gespräche ohne Resultat. Mittag die Kin-
-      <lb n="30"/>der noch zu Tisch, die morgen abreisen. Nachm. bei Hedwig, Abend allein.
-      <lb n="31"/>166</seite></div></body></text></TEI>
+                                    Schnitzler</p></seriesStmt><sourceDesc><listWit><witness n="1"><msDesc><msIdentifier><country>A</country><settlement>Wien</settlement><repository>Wienbibliothek</repository><idno>H.I.N. 155550</idno></msIdentifier></msDesc></witness></listWit></sourceDesc></fileDesc><profileDesc><langUsage><language ident="de-AT">German</language></langUsage></profileDesc><revisionDesc status="proposed"><change who="LU" when="2022-12-25">Angelegt</change></revisionDesc></teiHeader><facsimile><graphic url="ckp902"/></facsimile><text><body><div type="writingSession" n="1"><seite>
+      <lb n="01"/>Kinder nach Lugano fahren. Ich danke Gott, - der göttlichen Macht, die
+      <lb n="02"/>ich fühle, ohne sie zu kennen.
+      <lb n="03"/>23.4.Die Ehe Ruth-Meini scheint schon erledigt zu sein,Heini hat
+      <lb n="04"/>seinem Vater geschrieben, genau das getan, was ich durch Dr.D., (der sich
+      <lb n="05"/>nicht meldet) verhüten lassen wollte.
+      <lb n="06"/>Abend mit A.Kino bei "Sturm in Wasserglas". Er ist nervös, unfreund-
+      <lb n="07"/>lich. Wir gingen dann Jeder für mich nachhause nachtmahlen. Er be-
+      <lb n="08"/>gleitete mich bis zu meiner Tür (zu Fuss), obwohl ich noch hinke
+      <lb n="09"/>nahm er nicht einmal meinen Arm. Mir ist oft, als müsse ich auf und
+      <lb n="10"/>davon.
+      <lb n="11"/>24.4. Die Kinder Carty - Magdi zu Tisch zum ersten Mal seit 2 Monaten.
+      <lb n="12"/>Die Sonne nicht so intensiv als ich gewünscht hätte, damit Carry
+      <lb n="13"/>in der Sonne sitzen könnte; sie sind Beide lieb und herzig. Wenn wir
+      <lb n="14"/>nur Alle etwas mehr Geld hätten.- Mit A. Abend bei "Nora" nit Sybille
+      <lb n="15"/>Binder, dann bei Meisl genachtmahlt. Das Stück bleibt wundervoll. Der
+      <lb n="16"/>Abend quälender und öder noch als alle früheren.
+      <lb n="17"/>25.4. Mittag carry, Magdi, Harry. Carry wieht schon viel besser aus.
+      <lb n="18"/>Er sagte, ich hätte es viel nötiger auf Erholung zu gehen. Mit A. ge-
+      <lb n="19"/>reiztes telefonisches Gespräch, da ich mich w eigere morgen Abend
+      <lb n="20"/>mit Dr.D. und Frau bei ihm zu nachtmahlen. Dr. D. hat sich elend gegen
+      <lb n="21"/>mich benommen und bei meiner Gereiztheit und Nervösität ist ein Zusam-
+      <lb n="22"/>mensein sinnlos. A. kam herüber und es wurde daraus leider wieder
+      <lb n="23"/>eine Auseinandersetzung, die ich so lange verhütet habe. Ich weinte, -
+      <lb n="24"/>er war gerührt und nützen wird es doch nichts. Ich sagte ihm, ich halte
+      <lb n="25"/>dieses Leben nicht mehr aus. Wenn er nicht anders wird, so werde ich
+      <lb n="26"/>unserer Beziehung ein Ende machen. Ach, was sagte ich ihm alles!
+      <lb n="27"/>Sonntag, 26.4. Vorm. mit A. in den Dornbacher Park gefahren und eine
+      <lb n="28"/>Weile spazieren gegangen. Frühling um uns und wir beide müde, zerbro-
+      <lb n="29"/>chen.-Abend mit Dr. D. und Anny, mit Humor erledigt, - was bleibt mir</seite></div></body></text></TEI>

@@ -1,4 +1,5 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xml:id="ckp468.xml" xml:base="https://id.acdh.oeaw.ac.at.at/ckp" prev="https://id.acdh.oeaw.ac.at.at/ckp/ckp467.xml" next="https://id.acdh.oeaw.ac.at.at/ckp/ckp469.xml"><teiHeader><fileDesc><titleStmt><title level="s">Clara Katharina Pollaczek: »Arthur Schnitzler und ich«</title><title level="a">Tagebuch von Clara Katharina Pollaczek, 23.–28. August 1927</title><title type="alternative" when-iso="1927-08-23"/><title type="alternative" when-iso="1927-08-24"/><title type="alternative" when-iso="1927-08-25"/><title type="alternative" when-iso="1927-08-26"/><title type="alternative" when-iso="1927-08-27"/><title type="alternative" when-iso="1927-08-28"/><author ref="#12435">Pollaczek, Clara Katharina</author><editor><name>Müller, Martin Anton</name><name>Untner, Laura</name></editor><funder><name>FWF - Der Wissenschaftsfonds</name><address><street>Sensengasse 1</street><postCode>1090 Wien</postCode><placeName><country>A</country><settlement>Wien</settlement></placeName></address></funder></titleStmt><editionStmt><edition>CKP</edition><respStmt><resp>Transkription und Kommentierung</resp><name>Müller, Martin Anton</name><name>Untner, Laura</name></respStmt></editionStmt><publicationStmt><publisher>Austrian Centre for Digital Humanities and Cultural
+<TEI xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.tei-c.org/ns/1.0" xml:id="ckp468.xml" xml:base="https://id.acdh.oeaw.ac.at.at/ckp" prev="https://id.acdh.oeaw.ac.at.at/ckp/ckp467.xml" next="https://id.acdh.oeaw.ac.at.at/ckp/ckp469.xml"><teiHeader><fileDesc><titleStmt><title level="s">Clara Katharina Pollaczek: »Arthur Schnitzler und
+                                    ich«</title><title level="a"/><author ref="#12435">Pollaczek, Clara Katharina</author><editor><name>Müller, Martin Anton</name><name>Untner, Laura</name></editor><funder><name>FWF - Der Wissenschaftsfonds</name><address><street>Sensengasse 1</street><postCode>1090 Wien</postCode><placeName><country>A</country><settlement>Wien</settlement></placeName></address></funder></titleStmt><editionStmt><edition>CKP</edition><respStmt><resp>Transkription und Kommentierung</resp><name>Müller, Martin Anton</name><name>Untner, Laura</name></respStmt></editionStmt><publicationStmt><publisher>Austrian Centre for Digital Humanities and Cultural
                                     Heritage</publisher><pubPlace>Vienna</pubPlace><date when="2022">2023</date><availability><licence target="https://creativecommons.org/licenses/by/4.0/deed.de"><p>Sie dürfen: Teilen — das Material in jedwedem Format oder
                                             Medium vervielfältigen und weiterverbreiten Bearbeiten —
                                             das Material remixen, verändern und darauf aufbauen und
@@ -24,38 +25,35 @@
                                             Persönlichkeits- und Datenschutzrechte zu beachten sein,
                                             die Ihre Nutzung des Materials entsprechend
                                             beschränken.</p></licence></availability><idno type="handle"/></publicationStmt><seriesStmt><p>Machine-Readable Transcriptions of the Correspondences of Arthur
-                                    Schnitzler</p></seriesStmt><sourceDesc><listWit><witness n="1"><msDesc><msIdentifier><country>A</country><settlement>Wien</settlement><repository>Wienbibliothek</repository><idno>H.I.N. 155550</idno></msIdentifier></msDesc></witness></listWit></sourceDesc></fileDesc><profileDesc><langUsage><language ident="de-AT">German</language></langUsage></profileDesc><revisionDesc status="proposed"><change who="LU" when="2022-12-25">Angelegt</change></revisionDesc></teiHeader><facsimile><graphic url="468"/></facsimile><text><body><div type="writingSession" n="1"><seite id="468">
-            <lb n="01"/>bestehe
-      <lb n="02"/>reundschaftliche Beziehung,- es werde mir dadurch nichts weggenommen, nicht
-      <lb n="03"/>as Geringste. Der Schluss Zärtlichkeiten, (Sinnlichkei) ohne das einer
-      <lb n="04"/>von uns seinen Standpunkt aufgiebt.
-      <lb n="05"/>24ten Wundervoller Auto-Ausflug mit Steffenelli nach Sulden. Schöner Tag schö-
-      <lb n="06"/>ner Abend in Bozen. Flitterwochen - Stimmung. Aber ich werde ihrer doch nichtmehr
-      <lb n="07"/>froh. Ich weiss was dieser Winter an Qualen bringen wird.
-      <lb n="08"/>25 ten Aug. Fahrt nach Gardone, wo wir bleiben sollen. Reise trotz ihrer Kürze
-      <lb n="09"/>um
-      <lb n="10"/>recht abenteuerlich. Nicht zu ernieren ob man in Verona aussteigen, muss oder
-      <lb n="11"/>nicht A. war sehr nervös und zappelig ich sehr ruhig. Bei der Ankunft, Unannehm-
-      <lb n="12"/>lichkeiten wegen des Autos, das sich für ein vom Hotel geschicktes Auto ausge-
-      <lb n="13"/>geben hatte und dann bezahlt werden sollte. A. tobt, wil sofort wieder abreisen,
-      <lb n="14"/>ist mit Allem unzufrieden. Schliezslich behält er wgen des Autos recht und be-
-      <lb n="15"/>ruhigt sich. Sehr ermutet zeitlich zu Bett.
-      <lb n="16"/>26ten Stiller unwesentlicher Tag, aber ich habe zu arbeiten begonnen und das
-      <lb n="17"/>ist sehr wichtig. Aussicht auf den See wundervoll.
-      <lb n="18"/>27 ten Habe A. allein spazieren gehen lassen, will einige Correspondenz erledi-
-      <lb n="19"/>gen, damit mir der Nachmittag zum Arbeiten bleibt. Das Wetter ist himmlisch
-      <lb n="20"/>Ich bin schon viel in der Sonne gelegen. A. rennt ruhelos hinund her.
-      <lb n="21"/>Gegen Mittag gebadet. Ich nur ein wenig im Wasser geplätschert, da ich wegen
-      <lb n="22"/>meiner "Galle" nicht schwimmen soll. A. schwamm weit hinaus, dann lagen wir
-      <lb n="23"/>nebeneinander in der Sonne- und  Wir giengen in den Schwinn- Anzügen
-      <lb n="24"/>ins Hotel zurück. Ich glaube ich habe gut ausgesehen -- A. kam in mein Zimmer--
-      <lb n="25"/>Nachmittag gut und fleissig gearbeitet.
-      <lb n="26"/>Der Abend von einer tiefen Traurigkeit. Wir sind sehr freundlich zu einander,
-      <lb n="27"/>aber wirkliche Herzlichkeit kommt nicht auf. Nicht meine Schuld.
-      <lb n="28"/>In einem Beisel gegessen dann hier in der Halle gelesen. Steppen- Wolf von Hesse-
-      <lb n="29"/>28ten Vormittag Spaziergang nach Fasano. Heiss und stimmungslos. Kan etwas müde
-      <lb n="30"/>heim liess A. allein baden gehn. A. Brief von Dora M. Sie ist mit der O.
-      <lb n="31"/>zusammen. Ich fühle wie diese Frau von allen Seiten arbeitet und die Einflüsse
-      <lb n="32"/>sich in A.'Werhalten mir gegenüber auswirken.
-      <lb n="33"/>Der Abend womöglich noch trister. Wir haben beide bis 7 gearbeitet. Ich wäre
-      <lb n="34"/>56</seite></div></body></text></TEI>
+                                    Schnitzler</p></seriesStmt><sourceDesc><listWit><witness n="1"><msDesc><msIdentifier><country>A</country><settlement>Wien</settlement><repository>Wienbibliothek</repository><idno>H.I.N. 155550</idno></msIdentifier></msDesc></witness></listWit></sourceDesc></fileDesc><profileDesc><langUsage><language ident="de-AT">German</language></langUsage></profileDesc><revisionDesc status="proposed"><change who="LU" when="2022-12-25">Angelegt</change></revisionDesc></teiHeader><facsimile><graphic url="ckp468"/></facsimile><text><body><div type="writingSession" n="1"><seite>
+      <lb n="01"/>Tagebuchaufzeichnungen begonnen am
+      <lb n="02"/>22ten 8. 1927 auf der Fahrt von Schloss Neudorf na<supplied>c</supplied>h Botzen
+      <lb n="03"/>Noch nie bin ich mit so wenig guten gefühlen A. entgegengefahren. Ich
+      <lb n="04"/>fürchte mich fast vor diesem Zusammentreffen.
+      <lb n="05"/>Dieser qualvolle Winter die Aufregungen in den Letzten Tagen in Wien und jetzt
+      <lb n="06"/>wieder dieser rücksichtslose Zwang, der auf mich ausgeübt wird.
+      <lb n="07"/>Diese 12 Tage in Schloss Neudorf waren weiss Gott nicht angenehm, trotz der
+      <lb n="08"/>grossen Liebenswürdigkeit der Hausleute. Langweile Krankenhausstimmung.
+      <lb n="09"/>Ich schreibe das ich Freitag komme (der Tag war für unser Zusammentreffen
+      <lb n="10"/>fixiert) Er telegrafiert,- Montag, und dabei bleibt es, ob es mir nun passt
+      <lb n="11"/>oder nicht. Ich habe diese ganze weite unständliche Reise Bolsano von Neudorf
+      <lb n="12"/>nach Bolzano nicht wollen. - ich muss. Es bliebe mir nur übrig nach Wien zurückzu
+      <lb n="13"/>fahren. Und das gäbe Katastrophen. Und wenn er hundertmal betont, dass er
+      <lb n="14"/>nur mich liebt, dass die O. ihm nichts bedeutet, dass er froh ist sie los zu
+      <lb n="15"/>sein, irgendwo braucht er doch ihre intel<supplied>l</supplied>ektuellen und lächerlichen Phrasen  und ihr ko-
+      <lb n="16"/>mödiantisches Getue. Hinter seinem Vorgehen steht nur die O.
+      <lb n="17"/>Meine Gefühle sind nichtmehr was sie waren, es ist zu viel Erbitterung in mir.
+      <lb n="18"/>8 Uhr abend (seit 7 Uhr früh unterwegs) Die grenze passiert. Fraüdende Fahrt,
+      <lb n="19"/>Stimmung sehr down.
+      <lb n="20"/>Eben hat mich eine Dame im Gang angesprochen, ob ich die "berümte" Schriftst
+      <lb n="21"/>stellerin C. K. P. sei. Diese s. g. Berühmtheit wird rasch verblassen, wenn es
+      <lb n="22"/>mit meiner Arbeitsfühigkeit so weiter geht.- In 2% St. soll ich A. wiedrsehen,
+      <lb n="23"/>- ich fürchte mich - das kann nicht gut ausfallen.
+      <lb n="24"/>Mit Verspätung sehr ermattet um dreiviertel elf angekommen. A. an der Bahn.
+      <lb n="25"/>Er sehr beflissen, ich unfähig ein Freundliches Wort zu sagen, trotz Blumen und
+      <lb n="26"/>Früchten in meinem Zimmer.- Er will mich bewegen in seinem Hadezimmer zu baden
+      <lb n="27"/>- ich lehne ab- In der Stimmung, nein. Wie schön war das im Vorjahr--
+      <lb n="28"/>23ten Vor. Mittag Bunmel durch die Stadt. Ich sehe trotz schlechten Schlaf sehr
+      <lb n="29"/>gut aus. A. versucht Zürtlichkeiten, ich bleibe zurückhaltend. Aufforderung
+      <lb n="30"/>mir doch sein Zimmer anzusehen. Schliesslich heftige Auseinandersetzungs
+      <lb n="31"/>Ich soll froh sein, dass zwischen der O. und ihm jetzt eine gute harmlose</seite></div></body></text></TEI>

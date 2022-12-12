@@ -1,4 +1,5 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xml:id="ckp780.xml" xml:base="https://id.acdh.oeaw.ac.at.at/ckp" prev="https://id.acdh.oeaw.ac.at.at/ckp/ckp779.xml" next="https://id.acdh.oeaw.ac.at.at/ckp/ckp781.xml"><teiHeader><fileDesc><titleStmt><title level="s">Clara Katharina Pollaczek: »Arthur Schnitzler und ich«</title><title level="a">Tagebuch von Clara Katharina Pollaczek, 30. Mai – 19. Juni 1930</title><title type="alternative" when-iso="1930-05-30"/><title type="alternative" when-iso="1930-06-07"/><title type="alternative" when-iso="1930-06-12"/><title type="alternative" when-iso="1930-06-15"/><title type="alternative" when-iso="1930-06-17"/><title type="alternative" when-iso="1930-06-18"/><title type="alternative" when-iso="1930-06-19"/><author ref="#12435">Pollaczek, Clara Katharina</author><editor><name>Müller, Martin Anton</name><name>Untner, Laura</name></editor><funder><name>FWF - Der Wissenschaftsfonds</name><address><street>Sensengasse 1</street><postCode>1090 Wien</postCode><placeName><country>A</country><settlement>Wien</settlement></placeName></address></funder></titleStmt><editionStmt><edition>CKP</edition><respStmt><resp>Transkription und Kommentierung</resp><name>Müller, Martin Anton</name><name>Untner, Laura</name></respStmt></editionStmt><publicationStmt><publisher>Austrian Centre for Digital Humanities and Cultural
+<TEI xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.tei-c.org/ns/1.0" xml:id="ckp780.xml" xml:base="https://id.acdh.oeaw.ac.at.at/ckp" prev="https://id.acdh.oeaw.ac.at.at/ckp/ckp779.xml" next="https://id.acdh.oeaw.ac.at.at/ckp/ckp781.xml"><teiHeader><fileDesc><titleStmt><title level="s">Clara Katharina Pollaczek: »Arthur Schnitzler und
+                                    ich«</title><title level="a"/><author ref="#12435">Pollaczek, Clara Katharina</author><editor><name>Müller, Martin Anton</name><name>Untner, Laura</name></editor><funder><name>FWF - Der Wissenschaftsfonds</name><address><street>Sensengasse 1</street><postCode>1090 Wien</postCode><placeName><country>A</country><settlement>Wien</settlement></placeName></address></funder></titleStmt><editionStmt><edition>CKP</edition><respStmt><resp>Transkription und Kommentierung</resp><name>Müller, Martin Anton</name><name>Untner, Laura</name></respStmt></editionStmt><publicationStmt><publisher>Austrian Centre for Digital Humanities and Cultural
                                     Heritage</publisher><pubPlace>Vienna</pubPlace><date when="2022">2023</date><availability><licence target="https://creativecommons.org/licenses/by/4.0/deed.de"><p>Sie dürfen: Teilen — das Material in jedwedem Format oder
                                             Medium vervielfältigen und weiterverbreiten Bearbeiten —
                                             das Material remixen, verändern und darauf aufbauen und
@@ -24,32 +25,32 @@
                                             Persönlichkeits- und Datenschutzrechte zu beachten sein,
                                             die Ihre Nutzung des Materials entsprechend
                                             beschränken.</p></licence></availability><idno type="handle"/></publicationStmt><seriesStmt><p>Machine-Readable Transcriptions of the Correspondences of Arthur
-                                    Schnitzler</p></seriesStmt><sourceDesc><listWit><witness n="1"><msDesc><msIdentifier><country>A</country><settlement>Wien</settlement><repository>Wienbibliothek</repository><idno>H.I.N. 155550</idno></msIdentifier></msDesc></witness></listWit></sourceDesc></fileDesc><profileDesc><langUsage><language ident="de-AT">German</language></langUsage></profileDesc><revisionDesc status="proposed"><change who="LU" when="2022-12-25">Angelegt</change></revisionDesc></teiHeader><facsimile><graphic url="780"/></facsimile><text><body><div type="writingSession" n="1"><seite id="780">
-            <lb n="01"/>Tgb. 30.5.1930.
-      <lb n="02"/>"Wenn ich so nachdenk - Du hast schon massenhaft für mich getan und
-      <lb n="03"/>wär Zeit, dass ich um zwei Kreutzer Vernunft hätte."
-      <lb n="04"/>Gegen Abend A. auf einen Sprung. Zum Nachtmahl Anna.
-      <lb n="05"/>A. macht morgen eine Autopartie nach Thalheim zu seiner Uebersetzerin
-      <lb n="06"/>Clauser. Dadurch, dass er sie zuletzt ohne mich eingeladen hat und mich
-      <lb n="07"/>unausgesetzt verhindert sie zusammen einzuladen (sie war nur bei einem
-      <lb n="08"/>Damentee bei mir und ich bei ihr) bin ich auch jetzt nicht eingeladen.
-      <lb n="09"/>Sonst ist jeder kleine Ausflug für ihn eine Affaire und da kann er sich
-      <lb n="10"/>von all Uhr Vormittag bis 11 Uhr Nachts in Bewegung setzen. Meine Merven
-      <lb n="11"/>sind manchmal am Rand.
-      <lb n="12"/>14.6. Stummheit, Kälte - so gehen die Tage hin und es ist Sommer und
-      <lb n="13"/>es wird wieder Herbst werden.
-      <lb n="14"/>12.6. Etwas besser. Ich gebe mir solche Mühe. Er sagt, ich habe Dich sehr
-      <lb n="15"/>lieb, auch wenn ichs nicht zeigen kann.
-      <lb n="16"/>15.6. Nach Monaten ein guter Tag, aber ich trau mich kaum mehr mich zu
-      <lb n="17"/>freuen. A. holte mich ab, wir sassen im Türkenschanzpark, dann zu Tisch
-      <lb n="18"/>und bis 6 Uhr bei ihm. Grosse Zärtlichkeit. Abend Kino, dann Heimfahrt
-      <lb n="19"/>Hand in Hand und viele liebe Worte.
-      <lb n="20"/>17.6. Gestern 16. ruft A. mich an mit fremder, kalter Stimme und teilt mir
-      <lb n="21"/>mit,Dora M. sei für einige Tage hier. Warum er deshalb wieder verändert
-      <lb n="22"/>ist weiss ich nicht.
-      <lb n="23"/>18.6. Sorgen wegen Harry,Sorgen wegen A. Er ist wieder kalt und steif.
-      <lb n="24"/>19.6. Nachmittag. Schwerer Gallensteinanfall nach einem telefonischen
-      <lb n="25"/>Gespräch mit Dora. Ich soll sie heute bei A. am Abend mit etlichen Andern
-      <lb n="26"/>treffen und ich rief sie an, um ihr zu sagen, dass ich sie auch gerne al-
-      <lb n="27"/>lein sprechen möchte, da sie mich doch gar nicht kennt und sie die Situa-
-      <lb n="28"/>tion hier nicht verstehen kann. Ihren merkwürdigen Antworten nach muss</seite></div></body></text></TEI>
+                                    Schnitzler</p></seriesStmt><sourceDesc><listWit><witness n="1"><msDesc><msIdentifier><country>A</country><settlement>Wien</settlement><repository>Wienbibliothek</repository><idno>H.I.N. 155550</idno></msIdentifier></msDesc></witness></listWit></sourceDesc></fileDesc><profileDesc><langUsage><language ident="de-AT">German</language></langUsage></profileDesc><revisionDesc status="proposed"><change who="LU" when="2022-12-25">Angelegt</change></revisionDesc></teiHeader><facsimile><graphic url="ckp780"/></facsimile><text><body><div type="writingSession" n="1"><seite>
+      <lb n="01"/>15.5. Der Brief ein Schlag ins Wasser. Er kam zu mir, sagt: "Soll ich
+      <lb n="02"/>mir vielleicht jetzt den Kopf zerbrechen, was daraus entsteht, wenn ich die
+      <lb n="03"/>O. im Sommer irgendwo treffe, wenn ich mit Heini zusammen bin? Ich kann
+      <lb n="04"/>ihr nicht sagen, du darfst nicht auf zwei Tage zu mir kommen, Frau Clara
+      <lb n="05"/>erlaubt es nicht". Dabei ist er entstellt vor Wut und Aufregung. Was
+      <lb n="06"/>bleibt übrig - als kuschen. Sein Geburtstag! Mittag die O.-abends ich -
+      <lb n="07"/>heiter!
+      <lb n="08"/>20.5. Immer freudloser. 0. am 16. nach Berlin zurück. Es ändert nichts
+      <lb n="09"/>mehr.
+      <lb n="10"/>Zahnarzt, Sorgen wegen Harry, ich arbeiteviel.
+      <lb n="11"/>23.5. Kino,Theater, Autofahrten ohne jede Freude oder Zürtichkeit.oft
+      <lb n="12"/>glaube ich ess steckt noch etwas anderes hiner seinem Wesen. - Versuch
+      <lb n="13"/>einer Auseinandersetzung und zun Schluss wieder Verkrampfung. Ich ar-
+      <lb n="14"/>beite und meine Arbeit gedeiht, das ist der einzige Weg, den ich sehe.
+      <lb n="15"/>Am 27. heiratet Harry.
+      <lb n="16"/>24.5. VormittagAutofahrt mit A., Mittag bei ihm, Abend Kino, "Kuss" mit Garbo
+      <lb n="17"/>und - zuhause in meinem Zimmer vor Erbitterung geweint.
+      <lb n="18"/>27.5. Harrys Frau äusserlich entzückend. Gott gebe, dass es ein Glück
+      <lb n="19"/>wind!
+      <lb n="20"/>Am Abend mit A. vor meiner Gartentür ein langes Gespräch. Er behauptet
+      <lb n="21"/>mich um nichts weniger zu lieben als früher. Bezsere Stimmung, - vielleicht,
+      <lb n="22"/>vielleicht -
+      <lb n="23"/>29.5. Mit A. Vormittag im Prater. Im Auto schiebe ich meine Hand unter
+      <lb n="24"/>die seine, er drückt meine Hand freundlich, dann lässt er sie wieder los.
+      <lb n="25"/>Ich ermüde.
+      <lb n="26"/>30.5. Abend Nachtmahl bei Strasser mit A. Ich anfangs heiter, gesprächig,
+      <lb n="27"/>herzlich, später trostlos, traurig.
+      <lb n="28"/>Sehr liebe Briefe von Harry und Sina aus Heiligenkreuz. Harry schreibt:</seite></div></body></text></TEI>

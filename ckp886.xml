@@ -1,4 +1,5 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xml:id="ckp886.xml" xml:base="https://id.acdh.oeaw.ac.at.at/ckp" prev="https://id.acdh.oeaw.ac.at.at/ckp/ckp885.xml" next="https://id.acdh.oeaw.ac.at.at/ckp/ckp887.xml"><teiHeader><fileDesc><titleStmt><title level="s">Clara Katharina Pollaczek: »Arthur Schnitzler und ich«</title><title level="a">Tagebuch von Clara Katharina Pollaczek, 5.–7. Februar 1931</title><title type="alternative" when-iso="1931-02-05"/><title type="alternative" when-iso="1931-02-06"/><title type="alternative" when-iso="1931-02-07"/><author ref="#12435">Pollaczek, Clara Katharina</author><editor><name>Müller, Martin Anton</name><name>Untner, Laura</name></editor><funder><name>FWF - Der Wissenschaftsfonds</name><address><street>Sensengasse 1</street><postCode>1090 Wien</postCode><placeName><country>A</country><settlement>Wien</settlement></placeName></address></funder></titleStmt><editionStmt><edition>CKP</edition><respStmt><resp>Transkription und Kommentierung</resp><name>Müller, Martin Anton</name><name>Untner, Laura</name></respStmt></editionStmt><publicationStmt><publisher>Austrian Centre for Digital Humanities and Cultural
+<TEI xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.tei-c.org/ns/1.0" xml:id="ckp886.xml" xml:base="https://id.acdh.oeaw.ac.at.at/ckp" prev="https://id.acdh.oeaw.ac.at.at/ckp/ckp885.xml" next="https://id.acdh.oeaw.ac.at.at/ckp/ckp887.xml"><teiHeader><fileDesc><titleStmt><title level="s">Clara Katharina Pollaczek: »Arthur Schnitzler und
+                                    ich«</title><title level="a"/><author ref="#12435">Pollaczek, Clara Katharina</author><editor><name>Müller, Martin Anton</name><name>Untner, Laura</name></editor><funder><name>FWF - Der Wissenschaftsfonds</name><address><street>Sensengasse 1</street><postCode>1090 Wien</postCode><placeName><country>A</country><settlement>Wien</settlement></placeName></address></funder></titleStmt><editionStmt><edition>CKP</edition><respStmt><resp>Transkription und Kommentierung</resp><name>Müller, Martin Anton</name><name>Untner, Laura</name></respStmt></editionStmt><publicationStmt><publisher>Austrian Centre for Digital Humanities and Cultural
                                     Heritage</publisher><pubPlace>Vienna</pubPlace><date when="2022">2023</date><availability><licence target="https://creativecommons.org/licenses/by/4.0/deed.de"><p>Sie dürfen: Teilen — das Material in jedwedem Format oder
                                             Medium vervielfältigen und weiterverbreiten Bearbeiten —
                                             das Material remixen, verändern und darauf aufbauen und
@@ -24,36 +25,33 @@
                                             Persönlichkeits- und Datenschutzrechte zu beachten sein,
                                             die Ihre Nutzung des Materials entsprechend
                                             beschränken.</p></licence></availability><idno type="handle"/></publicationStmt><seriesStmt><p>Machine-Readable Transcriptions of the Correspondences of Arthur
-                                    Schnitzler</p></seriesStmt><sourceDesc><listWit><witness n="1"><msDesc><msIdentifier><country>A</country><settlement>Wien</settlement><repository>Wienbibliothek</repository><idno>H.I.N. 155550</idno></msIdentifier></msDesc></witness></listWit></sourceDesc></fileDesc><profileDesc><langUsage><language ident="de-AT">German</language></langUsage></profileDesc><revisionDesc status="proposed"><change who="LU" when="2022-12-25">Angelegt</change></revisionDesc></teiHeader><facsimile><graphic url="886"/></facsimile><text><body><div type="writingSession" n="1"><seite id="886">
-            <lb n="01"/>Forts. vom 5.2.1931.
-      <lb n="02"/>Der Komponist Hiller war bei mir. Typus eines soignierten Gymnasial-
-      <lb n="03"/>professors, hat mir das Lied vorgespielt, aber ich habe keine Ahnung,
-      <lb n="04"/>ob es gut ist, da er sehr schlecht spielt. Angeblich Aufführung am 28.
-      <lb n="05"/>mit Orchester und einer Sängerin Munk, dann Indrucklegung als Orchetter-
-      <lb n="06"/>stück und Beteiligung an den Tantièmen. Schlafmittel und zu
-      <lb n="07"/>Bett.
-      <lb n="08"/>6.2.1931. Vormittag Friedhof bei argem Sonneefall, Sterbetag meiner
-      <lb n="09"/>Mutter gestern gewesen. Ich bin mit sehr trüben Gedanken an diesem
-      <lb n="10"/>Grab gestanden.
-      <lb n="11"/>Abends
-      <lb n="12"/>Eben 27 Uhr Anruf A.'s, der zurück ist. Ich gehe 8 Uhr hinüber. Mein
-      <lb n="13"/>guter Gott, lege mir die richtigen Worte indem Mund, denn so kann es
-      <lb n="14"/>nicht weitergehen.
-      <lb n="15"/>6.2.1931. Spät Abend. Iamer dasselbe. Er will absolut keine Trennung,
-      <lb n="16"/>niemand stehe ihn so nah, Ferry habe falsch verstand,er brauche nur
-      <lb n="17"/>ein bescheidenes Mass von Freiheit (als ob ich es ihm jemals streitig
-      <lb n="18"/>machte), seine Kälte nur Unzulänglichkeit, durch sein physisches Befin-
-      <lb n="19"/>den ausgelöst, keinerlei anderes Interesse vorhanden. Neue ich meinen
-      <lb n="20"/>Mantel und gehe zur Tür, schreit er wie wahnsinnig: "Bleib, bleib"
-      <lb n="21"/>Komm ich zurück, liegt er mit geschlossenen Augen da und ist stumm.
-      <lb n="22"/>7.2.1931. Infolge von Schlafmitteln fast den ganzen Tag geschlafen. Mit-
-      <lb n="23"/>tag Harry, der jetzt wieder einmal nach Argentinien auswandern will. Als
-      <lb n="24"/>er fortging war ich so müde, dass ich mich hinlegen musste.
-      <lb n="25"/>Heute Früh telefonisches Gespräch mit Graf Thun-Wohlgemut, weil es ges-
-      <lb n="26"/>tern hiess, dass sie krank ist und nicht im "Gang zum Weiher" spielen
-      <lb n="27"/>wird. Er sagte, sie spiele bestimmt und schien über meine Teilnahme sehr
-      <lb n="28"/>erfreut.
-      <lb n="29"/>7.2.1931. Heute sind es 8 Jahre!! Im vorigen Jahr schickte er mir noch
-      <lb n="30"/>Blumen mit einer Karte: "Tausend Küsse Arthur". Heuer nichts, obwohl wir
-      <lb n="31"/>bei der gestrigen Auseinandersetzung davon sprachen, dass es 8 Jahre
-      <lb n="32"/>150</seite></div></body></text></TEI>
+                                    Schnitzler</p></seriesStmt><sourceDesc><listWit><witness n="1"><msDesc><msIdentifier><country>A</country><settlement>Wien</settlement><repository>Wienbibliothek</repository><idno>H.I.N. 155550</idno></msIdentifier></msDesc></witness></listWit></sourceDesc></fileDesc><profileDesc><langUsage><language ident="de-AT">German</language></langUsage></profileDesc><revisionDesc status="proposed"><change who="LU" when="2022-12-25">Angelegt</change></revisionDesc></teiHeader><facsimile><graphic url="ckp886"/></facsimile><text><body><div type="writingSession" n="1"><seite>
+      <lb n="01"/>rium sei, was A. mir zunute. Ich wollte A. mein Gespräch mit D. schrei-
+      <lb n="02"/>ben, ihn völlig frei geben und ihm schriftlich mitteilen, dass ich, da
+      <lb n="03"/>er trotzdem ich ihm mein Herz,meine Nerven, meine Gesundheit gegeben
+      <lb n="04"/>habe und mich lächelnd immer wieder in diese qualvolle Situation
+      <lb n="05"/>hineingefunden habe und er sich trotzdem über unsere Beziehung be-
+      <lb n="06"/>klagt und angeblich darunter leidet, ich ihn eben vollkommen frei gebe
+      <lb n="07"/>und meiner Wege gehe. D. beschwor mich, ihm das alles zu sagen und ja
+      <lb n="08"/>nicht zu schreiben und dass er das Gefühl hat, dass noch alles gut,
+      <lb n="09"/>ja vielleicht besser denn je werden könne. Ich glaube es nicht mehr.
+      <lb n="10"/>War dann bei den Kindern zum Nachtmahl. Carry sagte, ich sehe so aus,
+      <lb n="11"/>dass ich ins Bett gehöre.
+      <lb n="12"/>5.2.1931. Wenn ich denke, dass A. mir am 1. Januar (laut Tagebuch) vorge-
+      <lb n="13"/>worfen hat, dass ich nicht gut zu ihm stehe und ich müsse doch endlich
+      <lb n="14"/>fühlen, wie lieb er mich hat und ungefähr dasselbe sagte er mir noch
+      <lb n="15"/>Sonntag Mittag, als ich im Bett lag und am Abend desselben Tages be-
+      <lb n="16"/>klagt er sich bei Dr. D. Ich weiss nicht mehr, was mit mir werden soll.
+      <lb n="17"/>Vormittag auf eine Aufforderung hin bei Frau v.Zsolnay im Palais
+      <lb n="18"/>Collalto. Manche Menschen sind noch sehr reich. Sie findet meine No-
+      <lb n="19"/>vellen entzückend, aber sie weiss nicht, ob sie ihren Sohn dazu bringen
+      <lb n="20"/>wird sie zu verlegen. Wie nötig wäre es für mich!
+      <lb n="21"/>Ein Komponist Hiller teilt mir telefonisch mit, dass er mein Gedicht:
+      <lb n="22"/>"Wissen um den Tod" vertont hat und dass es am 28.im Industriehaus
+      <lb n="23"/>mit Orchester und Sophran zur Aufführung kommt. Sicher eine Läpperei.
+      <lb n="24"/>Hofrat Pollak (Friedas Bruder) bringt mir die Corday zurück, die ich
+      <lb n="25"/>ihm zum Lesen gegeben. Windet es ein Werk von Rang, ausgezeichnet im
+      <lb n="26"/>Aufbau etc., besonders die männlichen Szenen sehr dramatisch. Aber ich
+      <lb n="27"/>bin müde,müde.-
+      <lb n="28"/>A. hat in der Früh telefoniert (vom Semmering). Ein paar nichtssagende
+      <lb n="29"/>Worte, dürfte morgen zurückkommen.</seite></div></body></text></TEI>

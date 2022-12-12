@@ -1,4 +1,5 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xml:id="ckp724.xml" xml:base="https://id.acdh.oeaw.ac.at.at/ckp" prev="https://id.acdh.oeaw.ac.at.at/ckp/ckp723.xml" next="https://id.acdh.oeaw.ac.at.at/ckp/ckp725.xml"><teiHeader><fileDesc><titleStmt><title level="s">Clara Katharina Pollaczek: »Arthur Schnitzler und ich«</title><title level="a">Clara Katharina Pollaczek an Arthur Schnitzler, 13. September 1929</title><title type="alternative" when-iso="1929-09-13"/><author ref="#12435">Pollaczek, Clara Katharina</author><editor><name>Müller, Martin Anton</name><name>Untner, Laura</name></editor><funder><name>FWF - Der Wissenschaftsfonds</name><address><street>Sensengasse 1</street><postCode>1090 Wien</postCode><placeName><country>A</country><settlement>Wien</settlement></placeName></address></funder></titleStmt><editionStmt><edition>CKP</edition><respStmt><resp>Transkription und Kommentierung</resp><name>Müller, Martin Anton</name><name>Untner, Laura</name></respStmt></editionStmt><publicationStmt><publisher>Austrian Centre for Digital Humanities and Cultural
+<TEI xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.tei-c.org/ns/1.0" xml:id="ckp724.xml" xml:base="https://id.acdh.oeaw.ac.at.at/ckp" prev="https://id.acdh.oeaw.ac.at.at/ckp/ckp723.xml" next="https://id.acdh.oeaw.ac.at.at/ckp/ckp725.xml"><teiHeader><fileDesc><titleStmt><title level="s">Clara Katharina Pollaczek: »Arthur Schnitzler und
+                                    ich«</title><title level="a"/><author ref="#12435">Pollaczek, Clara Katharina</author><editor><name>Müller, Martin Anton</name><name>Untner, Laura</name></editor><funder><name>FWF - Der Wissenschaftsfonds</name><address><street>Sensengasse 1</street><postCode>1090 Wien</postCode><placeName><country>A</country><settlement>Wien</settlement></placeName></address></funder></titleStmt><editionStmt><edition>CKP</edition><respStmt><resp>Transkription und Kommentierung</resp><name>Müller, Martin Anton</name><name>Untner, Laura</name></respStmt></editionStmt><publicationStmt><publisher>Austrian Centre for Digital Humanities and Cultural
                                     Heritage</publisher><pubPlace>Vienna</pubPlace><date when="2022">2023</date><availability><licence target="https://creativecommons.org/licenses/by/4.0/deed.de"><p>Sie dürfen: Teilen — das Material in jedwedem Format oder
                                             Medium vervielfältigen und weiterverbreiten Bearbeiten —
                                             das Material remixen, verändern und darauf aufbauen und
@@ -24,29 +25,35 @@
                                             Persönlichkeits- und Datenschutzrechte zu beachten sein,
                                             die Ihre Nutzung des Materials entsprechend
                                             beschränken.</p></licence></availability><idno type="handle"/></publicationStmt><seriesStmt><p>Machine-Readable Transcriptions of the Correspondences of Arthur
-                                    Schnitzler</p></seriesStmt><sourceDesc><listWit><witness n="1"><msDesc><msIdentifier><country>A</country><settlement>Wien</settlement><repository>Wienbibliothek</repository><idno>H.I.N. 155550</idno></msIdentifier></msDesc></witness></listWit></sourceDesc></fileDesc><profileDesc><langUsage><language ident="de-AT">German</language></langUsage></profileDesc><revisionDesc status="proposed"><change who="LU" when="2022-12-25">Angelegt</change></revisionDesc></teiHeader><facsimile><graphic url="724"/></facsimile><text><body><div type="writingSession" n="1"><seite id="724">
-            <lb n="01"/>
-            <date>13.9.29</date>.
-      <lb n="02"/>ständigung.
-      <lb n="03"/>Von Frieda fand ich einen sehr lieben Brief vor, sie
-      <lb n="04"/>scheint selig über Dein Telegramm und hat Dir einen Brief geschrieben,
-      <lb n="05"/>der wohl eine Rundreise bis zu Dir machen wird
-      <lb n="06"/>Heute Früh rief ich auch schon bei Turnowskys an, sprach
-      <lb n="07"/>die Mutter, die überströmend lieb war, mir erklärte, ich sei der "ent
-      <lb n="08"/>zückendste Mensche" - - hört! hört! - und sie hätte immer gesagt, der
-      <lb n="09"/>einzige Gewinn an der ganzen Verlobungsgeschichte sei ich. Trotzdem
-      <lb n="10"/>werde ich recht zurückhaltend sein, was den weiteren Verkehr anbelangt.
-      <lb n="11"/>Ich erwarte mit grosser Ungeduld Deine Nachrichten
-      <lb n="12"/>über O. Du irrst sehr, wenn Du glaubst, dass ich sie hasse. Ich wünsche
-      <lb n="13"/>ihr wirklich alles Gute und dass sie bald gesund ist, sowohl um ihret
-      <lb n="14"/>als um Deinetwillen.
-      <lb n="15"/>Für heute genug, mein Liebes, es ist hier viel sommerlicher
-      <lb n="16"/>als zur Zeit unserer Abreise, aber gar nicht zu heiss. Ich freue mich
-      <lb n="17"/>über den blauen Himmel, über meine Wohnung, die sehr schön ist und
-      <lb n="18"/>auf Dich!
-      <lb n="19"/>Bitte bestelle Beer-Hofmanns einen schönen Gruss, da sie
-      <lb n="20"/>mich ja auch letzhin grüssen liessen. Ich glaube, Marienbad wird Dich
-      <lb n="21"/>sehr gefallen und ich glaube, Du solltest Dich ein wenig umsehen für
-      <lb n="22"/>ein ander Mal für uns Reide. Ich umarme Dich und danke Dir noch mit
-      <lb n="23"/>einem besonderen Kuss für Alles.
-      <lb n="24"/>Deine C.K.</seite></div></body></text></TEI>
+                                    Schnitzler</p></seriesStmt><sourceDesc><listWit><witness n="1"><msDesc><msIdentifier><country>A</country><settlement>Wien</settlement><repository>Wienbibliothek</repository><idno>H.I.N. 155550</idno></msIdentifier></msDesc></witness></listWit></sourceDesc></fileDesc><profileDesc><langUsage><language ident="de-AT">German</language></langUsage></profileDesc><revisionDesc status="proposed"><change who="LU" when="2022-12-25">Angelegt</change></revisionDesc></teiHeader><facsimile><graphic url="ckp724"/></facsimile><text><body><div type="writingSession" n="1"><seite>
+      <lb n="01"/>An A.S. Marienbad, Hotel Weimar.
+      <lb n="02"/>Wien, <date>13.9.1929</date>.
+      <lb n="03"/>Mein Liebstes,
+      <lb n="04"/>es war so hübsch und so beruhigend Deinen Gruss hier
+      <lb n="05"/>vorzufinden, als ich um ½11 Uhr etwas taumelig vor Müdigkeit ankam
+      <lb n="06"/>und ich danke Dir sehr dafür. Die Fahrt schien mir endlos, der Schmutz
+      <lb n="07"/>in dem von Paris kommenden und nach Bukarest gehenden Waggon war bei¬
+      <lb n="08"/>spiellos und eine in meinem Coupé sitzende, sehr mindere Engländerin
+      <lb n="09"/>sagte, sie hätte so ein "Compartiment" noch nicht gesehen. Später stieg
+      <lb n="10"/>noch eine andere, sehr nette deutsche junge Dame ein (ich schätze sehr
+      <lb n="11"/>gute jüdische Familie), mit der ich ein wenig sprach und in Wels ein
+      <lb n="12"/>recht gut aussehender Herr. Ich war so hin, dass mir immer die Augen
+      <lb n="13"/>zufielen, ohne schlafen zu können. Mit Träger, Koffer, Taxi hatte ich
+      <lb n="14"/>natürlich das heimatliche Gfrett. Aber schliesslich war ich doch um
+      <lb n="15"/>½11 daheim, fand meine Wohnung in schönster Ordnung, alles nach meiner
+      <lb n="16"/>Vorschrift gereinigt, blendend sauber und in allen Vasen Blumen von
+      <lb n="17"/>Hausfrau und Gärtner, der sich offenbar bei mir einschmeicheln will.
+      <lb n="18"/>Ich stürzte mich gleich auf Dein Telegramm, mit dem ich mich riesig
+      <lb n="19"/>freute. Schlaf trotz dieser grossen Müdigkeit (ja vielleicht deswegen)
+      <lb n="20"/>und Schlafmittel recht elend, und um 7 Uhr ganz vergnügt erwacht.
+      <lb n="21"/>Der eine hässliche Tag ist auf etwas ganz Winziges und
+      <lb n="22"/>Unwesentliches zusammengeschmolzen und es bleibt nur die Erinnerung
+      <lb n="23"/>an diese wunderschöne, sonnige Zeit. Hoffentlich geht es Dir auch so
+      <lb n="24"/>und Du sehnet Dich auch da fortzusetzen, wo wir aufgehört haben und
+      <lb n="25"/>zusammen sehr jung und froh zu sein.
+      <lb n="26"/>Ich wünschte, dass Du Dich nach der ermüdenden Herumfahrer
+      <lb n="27"/>die paar Tage recht ausruhst und Dich nicht zu sehr alterierst. Minna
+      <lb n="28"/>habe ich bereits telefoniert, dass Du am 18. kommen dürftest,dass sie
+      <lb n="29"/>aber jedesfalls am 17. fertig sein soll, was ihr, wie sie mir sagte, sehr
+      <lb n="30"/>leicht möglich ist, nur bis zum 12. hätte sie nicht gut so weit sein
+      <lb n="31"/>können. Mit der Postnachsendung wartet sie auf Deine oder meine Ver¬</seite></div></body></text></TEI>

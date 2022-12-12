@@ -1,4 +1,5 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xml:id="ckp680.xml" xml:base="https://id.acdh.oeaw.ac.at.at/ckp" prev="https://id.acdh.oeaw.ac.at.at/ckp/ckp679.xml" next="https://id.acdh.oeaw.ac.at.at/ckp/ckp681.xml"><teiHeader><fileDesc><titleStmt><title level="s">Clara Katharina Pollaczek: »Arthur Schnitzler und ich«</title><title level="a">Tagebuch von Clara Katharina Pollaczek, 20.–21. April 1929</title><title type="alternative" when-iso="1929-04-20"/><title type="alternative" when-iso="1929-04-21"/><author ref="#12435">Pollaczek, Clara Katharina</author><editor><name>Müller, Martin Anton</name><name>Untner, Laura</name></editor><funder><name>FWF - Der Wissenschaftsfonds</name><address><street>Sensengasse 1</street><postCode>1090 Wien</postCode><placeName><country>A</country><settlement>Wien</settlement></placeName></address></funder></titleStmt><editionStmt><edition>CKP</edition><respStmt><resp>Transkription und Kommentierung</resp><name>Müller, Martin Anton</name><name>Untner, Laura</name></respStmt></editionStmt><publicationStmt><publisher>Austrian Centre for Digital Humanities and Cultural
+<TEI xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.tei-c.org/ns/1.0" xml:id="ckp680.xml" xml:base="https://id.acdh.oeaw.ac.at.at/ckp" prev="https://id.acdh.oeaw.ac.at.at/ckp/ckp679.xml" next="https://id.acdh.oeaw.ac.at.at/ckp/ckp681.xml"><teiHeader><fileDesc><titleStmt><title level="s">Clara Katharina Pollaczek: »Arthur Schnitzler und
+                                    ich«</title><title level="a"/><author ref="#12435">Pollaczek, Clara Katharina</author><editor><name>Müller, Martin Anton</name><name>Untner, Laura</name></editor><funder><name>FWF - Der Wissenschaftsfonds</name><address><street>Sensengasse 1</street><postCode>1090 Wien</postCode><placeName><country>A</country><settlement>Wien</settlement></placeName></address></funder></titleStmt><editionStmt><edition>CKP</edition><respStmt><resp>Transkription und Kommentierung</resp><name>Müller, Martin Anton</name><name>Untner, Laura</name></respStmt></editionStmt><publicationStmt><publisher>Austrian Centre for Digital Humanities and Cultural
                                     Heritage</publisher><pubPlace>Vienna</pubPlace><date when="2022">2023</date><availability><licence target="https://creativecommons.org/licenses/by/4.0/deed.de"><p>Sie dürfen: Teilen — das Material in jedwedem Format oder
                                             Medium vervielfältigen und weiterverbreiten Bearbeiten —
                                             das Material remixen, verändern und darauf aufbauen und
@@ -24,16 +25,34 @@
                                             Persönlichkeits- und Datenschutzrechte zu beachten sein,
                                             die Ihre Nutzung des Materials entsprechend
                                             beschränken.</p></licence></availability><idno type="handle"/></publicationStmt><seriesStmt><p>Machine-Readable Transcriptions of the Correspondences of Arthur
-                                    Schnitzler</p></seriesStmt><sourceDesc><listWit><witness n="1"><msDesc><msIdentifier><country>A</country><settlement>Wien</settlement><repository>Wienbibliothek</repository><idno>H.I.N. 155550</idno></msIdentifier></msDesc></witness></listWit></sourceDesc></fileDesc><profileDesc><langUsage><language ident="de-AT">German</language></langUsage></profileDesc><revisionDesc status="proposed"><change who="LU" when="2022-12-25">Angelegt</change></revisionDesc></teiHeader><facsimile><graphic url="680"/></facsimile><text><body><div type="writingSession" n="1"><seite id="680">
-            <lb n="01"/>1929
-      <lb n="02"/>20.4.
-      <lb n="03"/>Dann "Linde". A. bessere Stimmung, aber mir fehlt schon jedes Vertrauen
-      <lb n="04"/>in die Zukunft.
-      <lb n="05"/>Harry zu Tisch. Ennervante Gespräche über seine Ehe. Ernimmt es wieder
-      <lb n="06"/>nicht ernst.
-      <lb n="07"/>21.4. Nur nun 5 Grad über Null und wässeriger Schnee. Dabei will mein
-      <lb n="08"/>Ofen nicht mehr brennen. Es ist zum Verzweifeln. Heute steht in der Neuen
-      <lb n="09"/>Freien Presse über die Schwangerschaftsreaktion, die Cary mit Hans Porges
-      <lb n="10"/>gemeinsam entdeckt hat. Die Idee war von Cary. Leider sind die Versuche
-      <lb n="11"/>noch keineswegs gelungen.
-      <lb n="12"/>230</seite></div></body></text></TEI>
+                                    Schnitzler</p></seriesStmt><sourceDesc><listWit><witness n="1"><msDesc><msIdentifier><country>A</country><settlement>Wien</settlement><repository>Wienbibliothek</repository><idno>H.I.N. 155550</idno></msIdentifier></msDesc></witness></listWit></sourceDesc></fileDesc><profileDesc><langUsage><language ident="de-AT">German</language></langUsage></profileDesc><revisionDesc status="proposed"><change who="LU" when="2022-12-25">Angelegt</change></revisionDesc></teiHeader><facsimile><graphic url="ckp680"/></facsimile><text><body><div type="writingSession" n="1"><seite>
+      <lb n="01"/>9.4. Sol A. telefoniert mir: Brief von Arnoldo. Er macht jetzt Prüfung
+      <lb n="02"/>und will ihn dann sehen. A. hat die Absicht ihn in Klagenfort oder in
+      <lb n="03"/>der Umgebung im Mai zu treffen und natürlich soll die 0. auch hinkommen.
+      <lb n="04"/>Also Frühlingsausflug mit Gattin und Schwiegersohn!
+      <lb n="05"/>Am Sonntag während A. an meinem Herzen lag, sagte ich zu ihm: "Fahren wir
+      <lb n="06"/>doch aus diesem grauslichen Wetter fort.“ Er antwortete: "Ja, ich möchte
+      <lb n="07"/>gerne mit dir wo anders sein, aber das Einpacken, das Reisen ist so
+      <lb n="08"/>schrecklich "Arnoldo und C. wünschen, und er ist bereit. Die Sache scheint
+      <lb n="09"/>ja schon in Berlin verabredet worden zu sein.
+      <lb n="10"/>Tiefe Verstimmung, Depression auf beiden Seiten. Unerfreuliche Gespräche
+      <lb n="11"/>mit Frieda. Bei Anna, die noch immer nicht ausgehen kann. Absage von Ull-
+      <lb n="12"/>stein.
+      <lb n="13"/>14.4. Abend bei A. Er lag fast den ganzen Abend am Bivan, sah elend aus,
+      <lb n="14"/>hatte Kopfschmerzen. Ich hochte neben ihm, streichelte ihn. So vergingen
+      <lb n="15"/>Stunden. Heute vor einem Jahr hat er mit Lili die Seereise angetreten.
+      <lb n="16"/>16.4. Vormittag Friedhof. Sterbetage: mein wann und unsere gute alte Ma-
+      <lb n="17"/>demoiselle. Wetter sehr kalt. Abend bei A. mit Hofrätin Z. A. animierter
+      <lb n="18"/>als sonst.
+      <lb n="19"/>1 7.4. Vormittag Stadt, Abend bei A. mit Frieda und Bruder, Ehepaar Ackonas
+      <lb n="20"/>und Dr. Hans Schnitzler (Sohn von Julius). Gemütlicherer Abend,A.
+      <lb n="21"/>in guter Stimmung.
+      <lb n="22"/>18.4. Nachmittag kleiner Spaziergang mit A. Bann brachte er mich zu Anna,
+      <lb n="23"/>wo ich für den Abend blieb. Gespräch mit Benedikt am Telefon. Meine Novelle
+      <lb n="24"/>an ihn abgeschickt. Er machte mir Vorwürfe, dass ich so lange nichtsgeschrie-
+      <lb n="25"/>ben habe und auf meinen Einwand, ich wollte nicht zudringlich sein, antwor-
+      <lb n="26"/>befürch-
+      <lb n="27"/>tete er: "Eine Schriftstellerin von ihrem Rang hat das nicht zu befürch¬
+      <lb n="28"/>ten.
+      <lb n="29"/>20.4. Wundervoll im wahrsten Sinn. Türkenschanzpark in der Sonne gesessen.
+      <lb n="30"/>Wie dankbar ist man für ein wenig Sonne. Abend im Kino mit A. "Geld".</seite></div></body></text></TEI>

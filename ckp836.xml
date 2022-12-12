@@ -1,4 +1,5 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xml:id="ckp836.xml" xml:base="https://id.acdh.oeaw.ac.at.at/ckp" prev="https://id.acdh.oeaw.ac.at.at/ckp/ckp835.xml" next="https://id.acdh.oeaw.ac.at.at/ckp/ckp837.xml"><teiHeader><fileDesc><titleStmt><title level="s">Clara Katharina Pollaczek: »Arthur Schnitzler und ich«</title><title level="a">Tagebuch von Clara Katharina Pollaczek, 28.–30. September 1930</title><title type="alternative" when-iso="1930-09-28"/><title type="alternative" when-iso="1930-09-29"/><title type="alternative" when-iso="1930-09-30"/><author ref="#12435">Pollaczek, Clara Katharina</author><editor><name>Müller, Martin Anton</name><name>Untner, Laura</name></editor><funder><name>FWF - Der Wissenschaftsfonds</name><address><street>Sensengasse 1</street><postCode>1090 Wien</postCode><placeName><country>A</country><settlement>Wien</settlement></placeName></address></funder></titleStmt><editionStmt><edition>CKP</edition><respStmt><resp>Transkription und Kommentierung</resp><name>Müller, Martin Anton</name><name>Untner, Laura</name></respStmt></editionStmt><publicationStmt><publisher>Austrian Centre for Digital Humanities and Cultural
+<TEI xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.tei-c.org/ns/1.0" xml:id="ckp836.xml" xml:base="https://id.acdh.oeaw.ac.at.at/ckp" prev="https://id.acdh.oeaw.ac.at.at/ckp/ckp835.xml" next="https://id.acdh.oeaw.ac.at.at/ckp/ckp837.xml"><teiHeader><fileDesc><titleStmt><title level="s">Clara Katharina Pollaczek: »Arthur Schnitzler und
+                                    ich«</title><title level="a"/><author ref="#12435">Pollaczek, Clara Katharina</author><editor><name>Müller, Martin Anton</name><name>Untner, Laura</name></editor><funder><name>FWF - Der Wissenschaftsfonds</name><address><street>Sensengasse 1</street><postCode>1090 Wien</postCode><placeName><country>A</country><settlement>Wien</settlement></placeName></address></funder></titleStmt><editionStmt><edition>CKP</edition><respStmt><resp>Transkription und Kommentierung</resp><name>Müller, Martin Anton</name><name>Untner, Laura</name></respStmt></editionStmt><publicationStmt><publisher>Austrian Centre for Digital Humanities and Cultural
                                     Heritage</publisher><pubPlace>Vienna</pubPlace><date when="2022">2023</date><availability><licence target="https://creativecommons.org/licenses/by/4.0/deed.de"><p>Sie dürfen: Teilen — das Material in jedwedem Format oder
                                             Medium vervielfältigen und weiterverbreiten Bearbeiten —
                                             das Material remixen, verändern und darauf aufbauen und
@@ -24,35 +25,32 @@
                                             Persönlichkeits- und Datenschutzrechte zu beachten sein,
                                             die Ihre Nutzung des Materials entsprechend
                                             beschränken.</p></licence></availability><idno type="handle"/></publicationStmt><seriesStmt><p>Machine-Readable Transcriptions of the Correspondences of Arthur
-                                    Schnitzler</p></seriesStmt><sourceDesc><listWit><witness n="1"><msDesc><msIdentifier><country>A</country><settlement>Wien</settlement><repository>Wienbibliothek</repository><idno>H.I.N. 155550</idno></msIdentifier></msDesc></witness></listWit></sourceDesc></fileDesc><profileDesc><langUsage><language ident="de-AT">German</language></langUsage></profileDesc><revisionDesc status="proposed"><change who="LU" when="2022-12-25">Angelegt</change></revisionDesc></teiHeader><facsimile><graphic url="836"/></facsimile><text><body><div type="writingSession" n="1"><seite id="836">
-            <lb n="01"/>Tgb. 28.9.1930.
-      <lb n="02"/>Vormittag noch zu ihm kommt, da sie um zwei Uhr abreist. Er hält
-      <lb n="03"/>mich wirklich für sehr dumm. Ich soll Mittag zu ihm, werde sehr
-      <lb n="04"/>freundlich sein. Szenen - nein! Das ist vorbei. Aber wie du mir, so
-      <lb n="05"/>ich dir, wenn auch mein Herz blutet. Macht ihm so eine Beziehung
-      <lb n="06"/>Vergnügen, bitte!
-      <lb n="07"/>4 Uhr. Gegenseitig freundlich-liebenswürdig, nichts Persönliches.
-      <lb n="08"/>Er liest mir Hugos Briefe an Minnie B. und ihre Mutter vor. Wie viele
-      <lb n="09"/>Erinnerungen sind für mich mit jener Zeit verknüpft. Die Briefe wun-
-      <lb n="10"/>derschön, aber verlogen und verleugnend. Wer weiss das besser als ich.
-      <lb n="11"/>Wenn man denkt, dass Minnie aus dem Irrtum, daß ich mit Mimi sie
-      <lb n="12"/>gemeint habe, in niedrigem Rachegefühl den anonymen Brief an meine
-      <lb n="13"/>Eltern schrieb oder schreiben liess, der meine Einakter in der Freien
-      <lb n="14"/>Bühne (Neue Deutsche Rundschau) mit dem Prolog Hugos verriet und so
-      <lb n="15"/>mein Leben in die Bürgerlichkeit zurückwarf,könnte man fast sagen:
-      <lb n="16"/>schicksalhaft, - wenn ich nicht wüsste, dass mein Wille zu schwach war.
-      <lb n="17"/>29.9. Gestern Abend eine der widerlichsten Szenen zwischen uns. Er
-      <lb n="18"/>frug mich, was ich morgen Abend tue. Ich sagte, ich bin nicht zuhause.
-      <lb n="19"/>Er wollte durchaus wissen, wo ich bin. Ich erklärte, dass ich keine
-      <lb n="20"/>Veranlassung habe Rechenschaft abzulegen, da wir ja angeblich "frei"
-      <lb n="21"/>sind. Ich % antwortete lächelnd, aber es wurde daraus, eine hässliche
-      <lb n="22"/>Auseinandersetzung. Er möchte alleswissen, was ich tue und
-      <lb n="23"/>mir von sich erzählen, was ihm passt. Er behauptet, er verheimliche
-      <lb n="24"/>mir nichts. Ich habe nicht zu verheimlichen. Aber unmöglich ihm
-      <lb n="25"/>irgend etwas plausibel machen zu wollen und ich bin für alles schon
-      <lb n="26"/>zu måd.
-      <lb n="27"/>Mittag bei Anna. Nachmittag beim Clara H., Abend mit A. Man findet
-      <lb n="28"/>mühsam wieder in einen anständigen Konversationston zurück.
-      <lb n="29"/>30.9. Charmanter Brief von Hofrat Pirquet. Er styglücklich, dass wieder
-      <lb n="30"/>etwas von mir in der Presse erscheint. Ueberschrift: "Verehrte Meisterif
-      <lb n="31"/>100</seite></div></body></text></TEI>
+                                    Schnitzler</p></seriesStmt><sourceDesc><listWit><witness n="1"><msDesc><msIdentifier><country>A</country><settlement>Wien</settlement><repository>Wienbibliothek</repository><idno>H.I.N. 155550</idno></msIdentifier></msDesc></witness></listWit></sourceDesc></fileDesc><profileDesc><langUsage><language ident="de-AT">German</language></langUsage></profileDesc><revisionDesc status="proposed"><change who="LU" when="2022-12-25">Angelegt</change></revisionDesc></teiHeader><facsimile><graphic url="ckp836"/></facsimile><text><body><div type="writingSession" n="1"><seite>
+      <lb n="01"/>28.9. Ich rief gestern um 3/410 unter einem Vorwand bei ihm an.
+      <lb n="02"/>Minna sagt mir, dass A. nicht zuhause, vor einer Weile fortgegangen
+      <lb n="03"/>ist. Ich rufe um 3/4 11 hochmals an, die Minna ruft "Hallo",ich
+      <lb n="04"/>lege das Hörrohr fort, ohne mich diesmal zu melden. Ich rufe im Hotel
+      <lb n="05"/>Regina an, frage ob Fräulein Boner da ist. Antwort: Sie wohnt dort,
+      <lb n="06"/>ist aber nicht zuhause. Heute Früh ruft A. an mit betonter Haralosig-
+      <lb n="07"/>keit. "Du hast mich gestern noch sprechen wollen". Ich: "Ja, du warst
+      <lb n="08"/>wohl bei Schmidls?". -Er; "Nein, ich war fort,- so wie du letzthin
+      <lb n="09"/>auch, als du in der Stadt warst. -Ich: "Ich mache dir auch keinen
+      <lb n="10"/>Vorwurf, wir haben beide unser Privatleben". Er: (lachend) "Ich
+      <lb n="11"/>hab halt im Gasthaus genachtmahlt wie schon öfters, nur dass du
+      <lb n="12"/>zufällig nicht angerufen hast. "Ichi" Aber jedesfalls nicht allein."
+      <lb n="13"/>Er: "Mit wem denn? Ich hab dirs ja letzthin auch gesagt, als ich mit
+      <lb n="14"/>Fräulein Boner nachtmahlte.“ Ich: (freundlich) "Nun und diesmal hast
+      <lb n="15"/>du es eben nicht gesagt.“ Er: „Ich kann schwören. “ Ich: (weiter freund-
+      <lb n="16"/>lich) "Vergiss nicht, dass du mir letzthin sagtest, auch ein Ehrenwort
+      <lb n="17"/>bedeute in solchen Dingen nichts.“ Er: "Doch, wenn ich es dir gebe.
+      <lb n="18"/>Und ich kanns dir geben". Ich : "Danke. Ich verlange keines und
+      <lb n="19"/>gebe keines. Freiheit auf beiden Seiten.“ Er: (sehr weich und freund-
+      <lb n="20"/>lich) "Ach, die Freiheiten, die ich mir nehme." Ich: "Sie sind in
+      <lb n="21"/>keinem Tropfflachherl, das man ausmachen kann, wie viel jeder davon
+      <lb n="22"/>nehmen darf." - Er: "Ist dabei, wenn man gerne mit einem
+      <lb n="23"/>klugen Wesen spricht, das einmal ein Buch über einen geschrieben
+      <lb n="24"/>hat?" -Ich: "Ich kann mich nicht erinnern, dass ich mit Géraldy sou-
+      <lb n="25"/>pieren war, weil ich seine Gedächte "Toi et moi" übersetzt haben.
+      <lb n="26"/>Ja, wenn ich ihn auch nur mit Andern hätte einladen
+      <lb n="27"/>wollen, hättest du es als lächerlich erklärt. - "Er behauptet weiter,
+      <lb n="28"/>gestern allein gewesen zu sein, aber dass Fräulein Boner morgen</seite></div></body></text></TEI>

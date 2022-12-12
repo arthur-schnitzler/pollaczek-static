@@ -1,4 +1,5 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xml:id="ckp578.xml" xml:base="https://id.acdh.oeaw.ac.at.at/ckp" prev="https://id.acdh.oeaw.ac.at.at/ckp/ckp577.xml" next="https://id.acdh.oeaw.ac.at.at/ckp/ckp579.xml"><teiHeader><fileDesc><titleStmt><title level="s">Clara Katharina Pollaczek: »Arthur Schnitzler und ich«</title><title level="a">Clara Katharina Pollaczek an Arthur Schnitzler, 24. August 1928</title><title type="alternative" when-iso="1928-08-24"/><author ref="#12435">Pollaczek, Clara Katharina</author><editor><name>Müller, Martin Anton</name><name>Untner, Laura</name></editor><funder><name>FWF - Der Wissenschaftsfonds</name><address><street>Sensengasse 1</street><postCode>1090 Wien</postCode><placeName><country>A</country><settlement>Wien</settlement></placeName></address></funder></titleStmt><editionStmt><edition>CKP</edition><respStmt><resp>Transkription und Kommentierung</resp><name>Müller, Martin Anton</name><name>Untner, Laura</name></respStmt></editionStmt><publicationStmt><publisher>Austrian Centre for Digital Humanities and Cultural
+<TEI xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.tei-c.org/ns/1.0" xml:id="ckp578.xml" xml:base="https://id.acdh.oeaw.ac.at.at/ckp" prev="https://id.acdh.oeaw.ac.at.at/ckp/ckp577.xml" next="https://id.acdh.oeaw.ac.at.at/ckp/ckp579.xml"><teiHeader><fileDesc><titleStmt><title level="s">Clara Katharina Pollaczek: »Arthur Schnitzler und
+                                    ich«</title><title level="a"/><author ref="#12435">Pollaczek, Clara Katharina</author><editor><name>Müller, Martin Anton</name><name>Untner, Laura</name></editor><funder><name>FWF - Der Wissenschaftsfonds</name><address><street>Sensengasse 1</street><postCode>1090 Wien</postCode><placeName><country>A</country><settlement>Wien</settlement></placeName></address></funder></titleStmt><editionStmt><edition>CKP</edition><respStmt><resp>Transkription und Kommentierung</resp><name>Müller, Martin Anton</name><name>Untner, Laura</name></respStmt></editionStmt><publicationStmt><publisher>Austrian Centre for Digital Humanities and Cultural
                                     Heritage</publisher><pubPlace>Vienna</pubPlace><date when="2022">2023</date><availability><licence target="https://creativecommons.org/licenses/by/4.0/deed.de"><p>Sie dürfen: Teilen — das Material in jedwedem Format oder
                                             Medium vervielfältigen und weiterverbreiten Bearbeiten —
                                             das Material remixen, verändern und darauf aufbauen und
@@ -24,43 +25,32 @@
                                             Persönlichkeits- und Datenschutzrechte zu beachten sein,
                                             die Ihre Nutzung des Materials entsprechend
                                             beschränken.</p></licence></availability><idno type="handle"/></publicationStmt><seriesStmt><p>Machine-Readable Transcriptions of the Correspondences of Arthur
-                                    Schnitzler</p></seriesStmt><sourceDesc><listWit><witness n="1"><msDesc><msIdentifier><country>A</country><settlement>Wien</settlement><repository>Wienbibliothek</repository><idno>H.I.N. 155550</idno></msIdentifier></msDesc></witness></listWit></sourceDesc></fileDesc><profileDesc><langUsage><language ident="de-AT">German</language></langUsage></profileDesc><revisionDesc status="proposed"><change who="LU" when="2022-12-25">Angelegt</change></revisionDesc></teiHeader><facsimile><graphic url="578"/></facsimile><text><body><div type="writingSession" n="1"><seite id="578">
-            <lb n="01"/>Semmering, 24.8.1928.
-      <lb n="02"/>Mein Liebes, gestern sah es schon ganz nach Herbst aus und heute
-      <lb n="03"/>loch
-      <lb n="04"/>wist wieder der schönste Somnertag. Wenn es xxx so angenehme Ueber-
-      <lb n="05"/>raschungen oder Täsuchungen im Leben gäbe.
-      <lb n="06"/>Vormittag mit Emmy am Pinkenkogel - hin Jurück in eine
-      <lb n="07"/>Stunden. Und dann direkt ins Stüberl, wo wir schon um ½1 Uhr essen
-      <lb n="08"/>da man sonst keinen Tisch allein bekommt. Gespräch über ihren
-      <lb n="09"/>bei Alma, über den ich Näheres mündlich berichten werde. Gesprä
-      <lb n="10"/>Dich,über die Zeit, über Beziehungen zu Gott etc. Sie ist eine aus
-      <lb n="11"/>zeichnete Person, nur schrecklich ermüdend. Ich kann nur nicht den
-      <lb n="12"/>zen Tag allein sein. Es bleibt immer noch der lange Nachmittag und
-      <lb n="13"/>Abend g übrig.
-      <lb n="14"/>Gestern Abend hatte ich gerade Angst vor der Einsamkeit, zog mir um
-      <lb n="15"/>10 noch mein einfachem schwarzes Kleid an, wickelte mich in mein Sil-
-      <lb n="16"/>bertuch, das Du ja kennst und ging hinüber in die Halle. Nach einer
-      <lb n="17"/>halben Stunde lief ich angegraust wieder fort.
-      <lb n="18"/>Heute Mittag fand ich Deine lieben Zeilen vom 22. vor. Ich freue amich,
-      <lb n="19"/>dass Dir Ruth sympathisch scheint und sicher eine Ablenkung für Dich
-      <lb n="20"/>bedeutet, nur sollte Heini noch nicht ans Heiraten denken (ich weiss
-      <lb n="21"/>ja gar nicht, ob es der Fall ist), denn er ist noch viel zu jung.
-      <lb n="22"/>Auch ich will heute zu arbeiten versuchen, obwohl es mich zu gar
-      <lb n="23"/>nichts ernsthaft hinzieht. Am ehesten noch zur Corday, aber mehr aus
-      <lb n="24"/>Eigensinn als aus Ueberzeugung, denn ich fühle mich dieser Arbeit noch
-      <lb n="25"/>nicht gewachsen.
-      <lb n="26"/>Ob Du nicht die Stabsarztnovelle anfangen solltest? Vielleicht ist das,
-      <lb n="27"/>was ich sage, sehr dumm, aber es ist gut gemeint. Ich glaube, dass ein
-      <lb n="28"/>grosser Schmerz sich eher in einem neuen Werk umzusetzen oder richti-
-      <lb n="29"/>ger aumzuleben vermag, als in schon betretenen Pfaden und dich daher
-      <lb n="30"/>eine neue Arbeit vielleicht eher abzulenken und zu fesseln vermöchte.
-      <lb n="31"/>Deshalb könntest Du ja immer fallweise auf "Zug der Schatten" und "Wort".
-      <lb n="32"/>zurückgreifen.-Lebwohl, mein Kind, ich hoffe noch immer zu hören, dass
-      <lb n="33"/>Du Dich wenigstens physisch erholt und erfrischt fühlst. Ich glaube,
-      <lb n="34"/>ich sehe schon besser aus, bin recht abgebrannt und alles andere -hängt
-      <lb n="35"/>der Sonne ab. Lebewohl, mein Liebes, ich schicke Dir viele
-      <lb n="36"/>gne
-      <lb n="37"/>nichtend Küsse.
-      <lb n="38"/>18
-      <lb n="39"/>12</seite></div></body></text></TEI>
+                                    Schnitzler</p></seriesStmt><sourceDesc><listWit><witness n="1"><msDesc><msIdentifier><country>A</country><settlement>Wien</settlement><repository>Wienbibliothek</repository><idno>H.I.N. 155550</idno></msIdentifier></msDesc></witness></listWit></sourceDesc></fileDesc><profileDesc><langUsage><language ident="de-AT">German</language></langUsage></profileDesc><revisionDesc status="proposed"><change who="LU" when="2022-12-25">Angelegt</change></revisionDesc></teiHeader><facsimile><graphic url="ckp578"/></facsimile><text><body><div type="writingSession" n="1"><seite>
+      <lb n="01"/>Hohlenschwangau, 24.8.1928.
+      <lb n="02"/>Mein Liebes, gestern kam den ganzen Tag kein Brief von Dir -dafür
+      <lb n="03"/>heute mit der ersten Post (es gibt nur zwei) - und ich merke doch
+      <lb n="04"/>mit Freude, dass Dir die Erholungstage auf dem Semmering körperlich
+      <lb n="05"/>und seelisch wohl tun; -brich sie nicht aus kleinlichen Rücksichten zu
+      <lb n="06"/>früh ab.
+      <lb n="07"/>Von vorgestern hab ich noch zu berichten, dass mein Arbeitsversuch
+      <lb n="08"/>völlig missglückte. Seelische, geistige, körperliche Müdigkeit und Kri¬
+      <lb n="09"/>sen die vorläufig nicht besser werden. Ich klage nicht darüber - ja,
+      <lb n="10"/>ich bin überzeugt, dass es allmählig und vielleicht bald besser werden
+      <lb n="11"/>ird, man muss eben Geduld haben.
+      <lb n="12"/>Gestern Vormittag allein an den See; köstliches Herbstwetter, die Land-
+      <lb n="13"/>schaft noch ergreifender; und mein Herz noch schwerer.-
+      <lb n="14"/>Nachmittag kamen O. und A.; Berichte aus Venedig - nun ist alles er-
+      <lb n="15"/>ledigt.-Lass mich über alles Nähere und übere die Abendstunden schwei-
+      <lb n="16"/>gen.-
+      <lb n="17"/>Es ist nicht unwahrscheinlich, dass in den letzten Augusttagen Dora
+      <lb n="18"/>kommt und zusammen mit 0. nach Berlin fährt; das genaue Datum kann
+      <lb n="19"/>ich heute noch nicht sagen.- Ich habe keine weitere Nachricht von Dora; -
+      <lb n="20"/>es kam gestern vom Karersee ein Brief an O.- A. muss
+      <lb n="21"/>am 5.9. in Sicilien - einem kleinen Nest Raguza (so heisst es nämlich)
+      <lb n="22"/>sein; - eine willkürliche, ja wie es scheint irrtümliche Verfügung.-
+      <lb n="23"/>Aber es wird wohl Monate dauern, bis die Sache richtig gestellt wird.
+      <lb n="24"/>Welche Existenz! - Und es ist doch noch immer wie ein böser Traum.
+      <lb n="25"/>Im Schlaf weiss ich gar nichts; - und am Morgen geht der böse Traum wie¬
+      <lb n="26"/>der weiter. Lebwohl für heute, mein geliebtes Kind, Deine Briefe tun
+      <lb n="27"/>mir sehr wohl. Ich umarme Dich zärtlich. Dein
+      <lb n="28"/>A.</seite></div></body></text></TEI>

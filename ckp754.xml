@@ -1,4 +1,5 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xml:id="ckp754.xml" xml:base="https://id.acdh.oeaw.ac.at.at/ckp" prev="https://id.acdh.oeaw.ac.at.at/ckp/ckp753.xml" next="https://id.acdh.oeaw.ac.at.at/ckp/ckp755.xml"><teiHeader><fileDesc><titleStmt><title level="s">Clara Katharina Pollaczek: »Arthur Schnitzler und ich«</title><title level="a">Clara Katharina Pollaczek an Arthur Schnitzler, 7. Januar 1930</title><title type="alternative" when-iso="1930-01-07"/><author ref="#12435">Pollaczek, Clara Katharina</author><editor><name>Müller, Martin Anton</name><name>Untner, Laura</name></editor><funder><name>FWF - Der Wissenschaftsfonds</name><address><street>Sensengasse 1</street><postCode>1090 Wien</postCode><placeName><country>A</country><settlement>Wien</settlement></placeName></address></funder></titleStmt><editionStmt><edition>CKP</edition><respStmt><resp>Transkription und Kommentierung</resp><name>Müller, Martin Anton</name><name>Untner, Laura</name></respStmt></editionStmt><publicationStmt><publisher>Austrian Centre for Digital Humanities and Cultural
+<TEI xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.tei-c.org/ns/1.0" xml:id="ckp754.xml" xml:base="https://id.acdh.oeaw.ac.at.at/ckp" prev="https://id.acdh.oeaw.ac.at.at/ckp/ckp753.xml" next="https://id.acdh.oeaw.ac.at.at/ckp/ckp755.xml"><teiHeader><fileDesc><titleStmt><title level="s">Clara Katharina Pollaczek: »Arthur Schnitzler und
+                                    ich«</title><title level="a"/><author ref="#12435">Pollaczek, Clara Katharina</author><editor><name>Müller, Martin Anton</name><name>Untner, Laura</name></editor><funder><name>FWF - Der Wissenschaftsfonds</name><address><street>Sensengasse 1</street><postCode>1090 Wien</postCode><placeName><country>A</country><settlement>Wien</settlement></placeName></address></funder></titleStmt><editionStmt><edition>CKP</edition><respStmt><resp>Transkription und Kommentierung</resp><name>Müller, Martin Anton</name><name>Untner, Laura</name></respStmt></editionStmt><publicationStmt><publisher>Austrian Centre for Digital Humanities and Cultural
                                     Heritage</publisher><pubPlace>Vienna</pubPlace><date when="2022">2023</date><availability><licence target="https://creativecommons.org/licenses/by/4.0/deed.de"><p>Sie dürfen: Teilen — das Material in jedwedem Format oder
                                             Medium vervielfältigen und weiterverbreiten Bearbeiten —
                                             das Material remixen, verändern und darauf aufbauen und
@@ -24,27 +25,28 @@
                                             Persönlichkeits- und Datenschutzrechte zu beachten sein,
                                             die Ihre Nutzung des Materials entsprechend
                                             beschränken.</p></licence></availability><idno type="handle"/></publicationStmt><seriesStmt><p>Machine-Readable Transcriptions of the Correspondences of Arthur
-                                    Schnitzler</p></seriesStmt><sourceDesc><listWit><witness n="1"><msDesc><msIdentifier><country>A</country><settlement>Wien</settlement><repository>Wienbibliothek</repository><idno>H.I.N. 155550</idno></msIdentifier></msDesc></witness></listWit></sourceDesc></fileDesc><profileDesc><langUsage><language ident="de-AT">German</language></langUsage></profileDesc><revisionDesc status="proposed"><change who="LU" when="2022-12-25">Angelegt</change></revisionDesc></teiHeader><facsimile><graphic url="754"/></facsimile><text><body><div type="writingSession" n="1"><seite id="754">
-            <lb n="01"/>Wien, 7.1.1930.
-      <lb n="02"/>An A.S., Berlin.
-      <lb n="03"/>Liebster,
-      <lb n="04"/>ich nur wenig erwidern. Es
-      <lb n="05"/>auf Deine Zeilen vom 6.k.
-      <lb n="06"/>bedarf wahrlich keiner Rechtfertigung oder Entschuldigung, dass Du
-      <lb n="07"/>länger ausbleibst, als ich mir dummer Weise eingeredet habe. Es wäre
-      <lb n="08"/>der grösste Fehler auch nur einen Tag kürzer in Berlin zu sein, als
-      <lb n="09"/>es Dir Bedürfnis ist. Niemandem wäre damit geholfen.
-      <lb n="10"/>Alles spricht dafür einen Aufenthalt auszudehnen, der
-      <lb n="11"/>Dir Freude, Belebung und jene Atmosphäre zu begeben vermag, die Du nötig
-      <lb n="12"/>hast, Dir wohl tut und Dir hier so offensichtlich fehlt.
-      <lb n="13"/>Auch hier ist meist frühlingshaftes Wetter. Immerhin ein
-      <lb n="14"/>Gewinn. Meinen Expressbrief vom 4. hast Du wohl erhalten, wenn Du
-      <lb n="15"/>ihn auch nicht erwähnst, - Hauptsache ist, dass Du Dich endlich erholt
-      <lb n="16"/>fühlst. Ich freue mich sehr darüber und wünsche Dir vom Herzen alles
-      <lb n="17"/>Gute und Schöne.
-      <lb n="18"/>Entschuldige, dass ich am Telefon letzthin etwas gereizt
-      <lb n="19"/>war. Meine Stimmung war durch mancherlei vorbereitet das breit zu
-      <lb n="20"/>treten sich nicht verlohnt.
-      <lb n="21"/>Es umarmt Dich Deine
-      <lb n="22"/>Cl.K.
-      <lb n="23"/>18</seite></div></body></text></TEI>
+                                    Schnitzler</p></seriesStmt><sourceDesc><listWit><witness n="1"><msDesc><msIdentifier><country>A</country><settlement>Wien</settlement><repository>Wienbibliothek</repository><idno>H.I.N. 155550</idno></msIdentifier></msDesc></witness></listWit></sourceDesc></fileDesc><profileDesc><langUsage><language ident="de-AT">German</language></langUsage></profileDesc><revisionDesc status="proposed"><change who="LU" when="2022-12-25">Angelegt</change></revisionDesc></teiHeader><facsimile><graphic url="ckp754"/></facsimile><text><body><div type="writingSession" n="1"><seite>
+      <lb n="01"/>Berlin, 6.1.1930.
+      <lb n="02"/>Mein Liebes, es tut mir leid, dass mein längerer Aufenthalt in Berlin
+      <lb n="03"/>Dein Missfallen findet. Es ist mir so schwer etwas dazuhu sagen,- denn
+      <lb n="04"/>alles sähe wie Rechtfertigung oder Entschuldigung aus -und dazu liegt
+      <lb n="05"/>doch wahrhaftig kein Grund vor. Hingegen wie Du weisst viele Gründe
+      <lb n="06"/>dafür einige Tage oder selbst Wochen hier zu verbringen und es käme
+      <lb n="07"/>mir etwas komisch vor hier alles aufzuzählen, was mir ein Verweilen
+      <lb n="08"/>in Berlin, wo ich seit März vorigen Jahres nicht gewesen bin, nicht nur
+      <lb n="09"/>angenehm, sondern auch notwendig erscheinen lässt.
+      <lb n="10"/>Gestern habe ich Krauss im Kaiser von Amerika geselahn, sehr schöne
+      <lb n="11"/>Auffassung eines Kaisers, der keiner ist -; und habe dann mit Heini und
+      <lb n="12"/>Horch genachtmahlt. Jetzt eben erwarte ich Weini, um mit ihm zu Eli-
+      <lb n="13"/>sabeth zu fahren. - Abende bin ich heute mit Heini Rut zusammen, noch
+      <lb n="14"/>unbestimmt wo. Morgen dürfte ich wieder bei Dora essen. Besuch und
+      <lb n="15"/>Unterredung mit Herr, Chapiro, Maril, Klein und Anderen stehen bevor.
+      <lb n="16"/>Das Wetter ist frühlingshaft achön, mein Befinden recht gut und ich
+      <lb n="17"/>wünschte mir, dass Du endlich - vor allem innerlich - die richtige
+      <lb n="18"/>Beziehung zu diesen Berliner Reisen fändest - durch die wahrhaftig
+      <lb n="19"/>Dir nicht das geringste genommen wird und mir vor allem durch das
+      <lb n="20"/>Beisammensein mit Heini und durch Aenderung der Atmosphäre Belebung.
+      <lb n="21"/>Anregung und Freude geschenkt wird.
+      <lb n="22"/>Ach, dass man das immer wieder sagen muss. Lebwohl, mein Liebes, und
+      <lb n="23"/>werde doch vernünftig. Ich denke Anfang nächster Woche zuhause zu sein.
+      <lb n="24"/>Ich umarme Dich. Dein A.</seite></div></body></text></TEI>

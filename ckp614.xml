@@ -1,4 +1,5 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xml:id="ckp614.xml" xml:base="https://id.acdh.oeaw.ac.at.at/ckp" prev="https://id.acdh.oeaw.ac.at.at/ckp/ckp613.xml" next="https://id.acdh.oeaw.ac.at.at/ckp/ckp615.xml"><teiHeader><fileDesc><titleStmt><title level="s">Clara Katharina Pollaczek: »Arthur Schnitzler und ich«</title><title level="a">Clara Katharina Pollaczek an Arthur Schnitzler, 18. Oktober 1928</title><title type="alternative" when-iso="1928-10-18"/><author ref="#12435">Pollaczek, Clara Katharina</author><editor><name>Müller, Martin Anton</name><name>Untner, Laura</name></editor><funder><name>FWF - Der Wissenschaftsfonds</name><address><street>Sensengasse 1</street><postCode>1090 Wien</postCode><placeName><country>A</country><settlement>Wien</settlement></placeName></address></funder></titleStmt><editionStmt><edition>CKP</edition><respStmt><resp>Transkription und Kommentierung</resp><name>Müller, Martin Anton</name><name>Untner, Laura</name></respStmt></editionStmt><publicationStmt><publisher>Austrian Centre for Digital Humanities and Cultural
+<TEI xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.tei-c.org/ns/1.0" xml:id="ckp614.xml" xml:base="https://id.acdh.oeaw.ac.at.at/ckp" prev="https://id.acdh.oeaw.ac.at.at/ckp/ckp613.xml" next="https://id.acdh.oeaw.ac.at.at/ckp/ckp615.xml"><teiHeader><fileDesc><titleStmt><title level="s">Clara Katharina Pollaczek: »Arthur Schnitzler und
+                                    ich«</title><title level="a"/><author ref="#12435">Pollaczek, Clara Katharina</author><editor><name>Müller, Martin Anton</name><name>Untner, Laura</name></editor><funder><name>FWF - Der Wissenschaftsfonds</name><address><street>Sensengasse 1</street><postCode>1090 Wien</postCode><placeName><country>A</country><settlement>Wien</settlement></placeName></address></funder></titleStmt><editionStmt><edition>CKP</edition><respStmt><resp>Transkription und Kommentierung</resp><name>Müller, Martin Anton</name><name>Untner, Laura</name></respStmt></editionStmt><publicationStmt><publisher>Austrian Centre for Digital Humanities and Cultural
                                     Heritage</publisher><pubPlace>Vienna</pubPlace><date when="2022">2023</date><availability><licence target="https://creativecommons.org/licenses/by/4.0/deed.de"><p>Sie dürfen: Teilen — das Material in jedwedem Format oder
                                             Medium vervielfältigen und weiterverbreiten Bearbeiten —
                                             das Material remixen, verändern und darauf aufbauen und
@@ -24,27 +25,35 @@
                                             Persönlichkeits- und Datenschutzrechte zu beachten sein,
                                             die Ihre Nutzung des Materials entsprechend
                                             beschränken.</p></licence></availability><idno type="handle"/></publicationStmt><seriesStmt><p>Machine-Readable Transcriptions of the Correspondences of Arthur
-                                    Schnitzler</p></seriesStmt><sourceDesc><listWit><witness n="1"><msDesc><msIdentifier><country>A</country><settlement>Wien</settlement><repository>Wienbibliothek</repository><idno>H.I.N. 155550</idno></msIdentifier></msDesc></witness></listWit></sourceDesc></fileDesc><profileDesc><langUsage><language ident="de-AT">German</language></langUsage></profileDesc><revisionDesc status="proposed"><change who="LU" when="2022-12-25">Angelegt</change></revisionDesc></teiHeader><facsimile><graphic url="614"/></facsimile><text><body><div type="writingSession" n="1"><seite id="614">
-            <lb n="01"/>18.10.28.
-      <lb n="02"/>mit einem Gastspieb verbunden? - Ich hoffe, dass aus Deinen vielen Ver-
-      <lb n="03"/>handlungen doch etwas Positives herausschaut. Das Benehmen Max Rein-
-      <lb n="04"/>hardts ist mir mehr als schleierhaft, vielleicht ist er hier in Wien?
-      <lb n="05"/>Ich will mich erkundigen.
-      <lb n="06"/>Hast du an dem "Zug" Veränderungen vorgenommen? 3.und
-      <lb n="07"/>letztes Bild!
-      <lb n="08"/>Ich möchte so gerne arbeiten, aber technisch derzeit un-
-      <lb n="09"/>möglich. An S.Fischer habe ich ein paar Zeilen geschrieben, d.h. ich
-      <lb n="10"/>habe den Brief telefonisch Frieda diktiert. Ich teilte ihm mit, dass
-      <lb n="11"/>mein neuer Roman über Aufforderung des Verlages an ihn abegangen ist
-      <lb n="12"/>etc. Gestern sprach ich auch Dr.Lohan vom Spiegel-Verlag, dem ich den
-      <lb n="13"/>"Aufstieg" zur Einsicht sende. Du siehst, ich bin nach Richtung bemüht,
-      <lb n="14"/>mein Leben einzurenken.
-      <lb n="15"/>Ich hoffe doch sehr, dass Du Samstag hier bist, auch dann
-      <lb n="16"/>sind es 14 Tage gewesen und so sehr sie, mit Arbeit erfüllt, rasch ver-
-      <lb n="17"/>gingen, ist es mir doch, als hätte ich Dich ewig lang nicht gesehen und
-      <lb n="18"/>Du scheinst mir fern und entfremdet. Du weisst ja, dass Trennungen
-      <lb n="19"/>immer diese Wirkung auf mich haben.
-      <lb n="20"/>Auf ein gutes Wiedersehen und eine schöne friedliche Zeit!
-      <lb n="21"/>Ich umarme Dich. Komm gesund zurück!
-      <lb n="22"/>Deine C.K.
-      <lb n="23"/>165</seite></div></body></text></TEI>
+                                    Schnitzler</p></seriesStmt><sourceDesc><listWit><witness n="1"><msDesc><msIdentifier><country>A</country><settlement>Wien</settlement><repository>Wienbibliothek</repository><idno>H.I.N. 155550</idno></msIdentifier></msDesc></witness></listWit></sourceDesc></fileDesc><profileDesc><langUsage><language ident="de-AT">German</language></langUsage></profileDesc><revisionDesc status="proposed"><change who="LU" when="2022-12-25">Angelegt</change></revisionDesc></teiHeader><facsimile><graphic url="ckp614"/></facsimile><text><body><div type="writingSession" n="1"><seite>
+      <lb n="01"/>An A.S., Berlin.
+      <lb n="02"/>Wien, 18.10.1928.
+      <lb n="03"/>Mein Liebes,
+      <lb n="04"/>es ist erst 5 Uhr Früh, aber ich kann nicht mehr schlafen,
+      <lb n="05"/>denn tagsüber finde ich ja jetzt kaum Zeit. Von Der Plage und Gehetzt-
+      <lb n="06"/>heit meiner derzeitigen Lebensweise machst Du Dir kaum einen Begriff.
+      <lb n="07"/>Gestern Vormittag war ich in verschiedenen Bureaux wegen eines Mädechens
+      <lb n="08"/>und schliesslich gab ich eine Annonce in die Neue Freie Presse. Dann
+      <lb n="09"/>in der Boden, wo ich das bisher eingezahlte Geld (für die Peregringas-
+      <lb n="10"/>senwohnung) in 7%igen Pfandscheinen anlegte und gleich in das Safe
+      <lb n="11"/>trug.- Nach Tisch war ein Händler stundenlang da sich die verkäuflichen
+      <lb n="12"/>Sachen ansehen. Er kaufte um 230 S. kleine Silbernippes aus einer
+      <lb n="13"/>Vitrine, die Du nicht kennst. Die guten Sachen behielt ich zurück. Heut
+      <lb n="14"/>kommt er und noch ein anderer wegen der Möbel. Dann packte ich einen
+      <lb n="15"/>Koffer um, in dem sich seit dem Winter im Hotel Regina alte Bücher und
+      <lb n="16"/>Schriften befinden. Da ich alles allein machen muss, die "Perle"
+      <lb n="17"/>gänzlich versagt und nur frech ist, bin ich schon recht müde. Dann
+      <lb n="18"/>ging ich zu Hery, der nicht ganz wohl ist und besorgte mir etwas zum
+      <lb n="19"/>Nachtmahl. Die Hausgehilfin war von 3-3/8 abwesend. Dann ging ich mit
+      <lb n="20"/>Frieda zur letzten Vorstellung zu "Lolotte" ins Kino. Ich hatte so
+      <lb n="21"/>sehr das Bedürfnis nach ein wenig Ablenkung und Aufheiterung. Der harm-
+      <lb n="22"/>lose, gut gespielte Film mit hübschen Bildern erfüllte ganz seinen
+      <lb n="23"/>Zweck. Frieda freut sich auch sehr über die Wohnung. Hoffentlich
+      <lb n="24"/>halte ich die nächsten Wochen physisch aus. Ich bestehe derzeit nur
+      <lb n="25"/>aus mit Energie gespannten Nerven, die aber manchmal am Zerplatzen sind.
+      <lb n="26"/>Vorgestern hatte ich keinerlei Nachricht von Dir. Gestern
+      <lb n="27"/>Früh Dein liebes Telegramm und eine Karte, Nachmittag Brief. Er ist
+      <lb n="28"/>stellenweise sehr lieb und auch lang, aber ich weiss doch eigentlich
+      <lb n="29"/>nicht recht, wo und mit wem Du zusammen bist. Dass Du Dich an dem
+      <lb n="30"/>Zusammensein mit Heini und über ihn freust macht mich sehr glücklich.
+      <lb n="31"/>Wird er nicht einmal während des Wihters herkommen können? vielleicht</seite></div></body></text></TEI>

@@ -1,4 +1,5 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xml:id="ckp638.xml" xml:base="https://id.acdh.oeaw.ac.at.at/ckp" prev="https://id.acdh.oeaw.ac.at.at/ckp/ckp637.xml" next="https://id.acdh.oeaw.ac.at.at/ckp/ckp639.xml"><teiHeader><fileDesc><titleStmt><title level="s">Clara Katharina Pollaczek: »Arthur Schnitzler und ich«</title><title level="a">Clara Katharina Pollaczek an Arthur Schnitzler, 4. Januar 1929</title><title type="alternative" when-iso="1929-01-04"/><author ref="#12435">Pollaczek, Clara Katharina</author><editor><name>Müller, Martin Anton</name><name>Untner, Laura</name></editor><funder><name>FWF - Der Wissenschaftsfonds</name><address><street>Sensengasse 1</street><postCode>1090 Wien</postCode><placeName><country>A</country><settlement>Wien</settlement></placeName></address></funder></titleStmt><editionStmt><edition>CKP</edition><respStmt><resp>Transkription und Kommentierung</resp><name>Müller, Martin Anton</name><name>Untner, Laura</name></respStmt></editionStmt><publicationStmt><publisher>Austrian Centre for Digital Humanities and Cultural
+<TEI xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.tei-c.org/ns/1.0" xml:id="ckp638.xml" xml:base="https://id.acdh.oeaw.ac.at.at/ckp" prev="https://id.acdh.oeaw.ac.at.at/ckp/ckp637.xml" next="https://id.acdh.oeaw.ac.at.at/ckp/ckp639.xml"><teiHeader><fileDesc><titleStmt><title level="s">Clara Katharina Pollaczek: »Arthur Schnitzler und
+                                    ich«</title><title level="a"/><author ref="#12435">Pollaczek, Clara Katharina</author><editor><name>Müller, Martin Anton</name><name>Untner, Laura</name></editor><funder><name>FWF - Der Wissenschaftsfonds</name><address><street>Sensengasse 1</street><postCode>1090 Wien</postCode><placeName><country>A</country><settlement>Wien</settlement></placeName></address></funder></titleStmt><editionStmt><edition>CKP</edition><respStmt><resp>Transkription und Kommentierung</resp><name>Müller, Martin Anton</name><name>Untner, Laura</name></respStmt></editionStmt><publicationStmt><publisher>Austrian Centre for Digital Humanities and Cultural
                                     Heritage</publisher><pubPlace>Vienna</pubPlace><date when="2022">2023</date><availability><licence target="https://creativecommons.org/licenses/by/4.0/deed.de"><p>Sie dürfen: Teilen — das Material in jedwedem Format oder
                                             Medium vervielfältigen und weiterverbreiten Bearbeiten —
                                             das Material remixen, verändern und darauf aufbauen und
@@ -24,20 +25,34 @@
                                             Persönlichkeits- und Datenschutzrechte zu beachten sein,
                                             die Ihre Nutzung des Materials entsprechend
                                             beschränken.</p></licence></availability><idno type="handle"/></publicationStmt><seriesStmt><p>Machine-Readable Transcriptions of the Correspondences of Arthur
-                                    Schnitzler</p></seriesStmt><sourceDesc><listWit><witness n="1"><msDesc><msIdentifier><country>A</country><settlement>Wien</settlement><repository>Wienbibliothek</repository><idno>H.I.N. 155550</idno></msIdentifier></msDesc></witness></listWit></sourceDesc></fileDesc><profileDesc><langUsage><language ident="de-AT">German</language></langUsage></profileDesc><revisionDesc status="proposed"><change who="LU" when="2022-12-25">Angelegt</change></revisionDesc></teiHeader><facsimile><graphic url="638"/></facsimile><text><body><div type="writingSession" n="1"><seite id="638">
-            <lb n="01"/>4. I. 29.
-      <lb n="02"/>Freiwill" natürlich bist Du da bist. Jetzt sind es noch drei lange
-      <lb n="03"/>Tage! Ich freue mich schon sehr. Du auch? Ich glaube ja.
-      <lb n="04"/>Am Nachmittag gegen 4,bald nachdem P. fort war,kam
-      <lb n="05"/>meine Hausfrau auf einen Tratsch und blieb eine Stunde. Sie sagte,
-      <lb n="06"/>dass der Garten im Frühling wie ein Fliedermeer aussieht, dass so
-      <lb n="07"/>schöner dicker Flieder blüht und so viel, dass man gar nicht weiss
-      <lb n="08"/>wohin damit. Uebrigens ist der Garten auch jetzt mit dem vielen
-      <lb n="09"/>Schnee hübsch anzusehen, sobald ein bissel Sonne herauskommt, will
-      <lb n="10"/>ich ihn photographieren. Jetzt sag ich Dir gute Nacht und morgen
-      <lb n="11"/>schreibe ich noch ein paar Zeilen, die letzten hoffentlich nach
-      <lb n="12"/>Berlin - und dann bist Du wieder da und wir feiern wiedder Flitter-
-      <lb n="13"/>wochen oder Monate oder lieber Flitterjahre.
-      <lb n="14"/>Ich umarme Dich sehr.
-      <lb n="15"/>Deine C.K.
-      <lb n="16"/>18</seite></div></body></text></TEI>
+                                    Schnitzler</p></seriesStmt><sourceDesc><listWit><witness n="1"><msDesc><msIdentifier><country>A</country><settlement>Wien</settlement><repository>Wienbibliothek</repository><idno>H.I.N. 155550</idno></msIdentifier></msDesc></witness></listWit></sourceDesc></fileDesc><profileDesc><langUsage><language ident="de-AT">German</language></langUsage></profileDesc><revisionDesc status="proposed"><change who="LU" when="2022-12-25">Angelegt</change></revisionDesc></teiHeader><facsimile><graphic url="ckp638"/></facsimile><text><body><div type="writingSession" n="1"><seite>
+      <lb n="01"/>An A.S. Berlin.
+      <lb n="02"/>Wien, 4.1.1929.
+      <lb n="03"/>Mein Liebes,
+      <lb n="04"/>eben habe ich mir Deinen Brief vom 3. aus dem Kastel
+      <lb n="05"/>geholt, da Sophie nicht zukause ist. Ich begreife gar nicht, dass Du
+      <lb n="06"/>an diesem Morgen keinen von mir hattest. Denn äusser am 31. schrieb
+      <lb n="07"/>ich Dir täglich.
+      <lb n="08"/>Heute Vormittag war ich also wieder einmal in "Wien",
+      <lb n="09"/>ich kam mir schon wie das Lentscherl vom Land vor und blieb vor allen
+      <lb n="10"/>Auslagen stehen. Ich gab meine Weihnachtsschuhe gegen einen Bon
+      <lb n="11"/>beim Schuster Kardos ab, da er meine Grösse nicht vorrätig hatte, dann
+      <lb n="12"/>fuhr ich zu Laufer (1 S.20), um noch eine Kleinigkeit wegen des Man-
+      <lb n="13"/>tels zu besprechen. Um 1 Uhr war ich mit der Elektrischen natürlich
+      <lb n="14"/>wieder zuhause und um ½2 kam Baron P. zu Tisch, der mich Neujahr an-
+      <lb n="15"/>rief und mir sagte, dass er Mittags am ehesten herauskommen kann. Er
+      <lb n="16"/>war von der Wohnung begeistert, sagte, er sei froh, dass ich es so schön
+      <lb n="17"/>und gut habe. Wir sprachen sehr viel von Dir und dann über Religion,
+      <lb n="18"/>Katholizismus etc. Uebrigens kennt er Frau Czapo, die gestern bei mir
+      <lb n="19"/>war und was ich von allen Seiten über sie höre macht sie mir nicht
+      <lb n="20"/>sympathisch. Sie hat eine Bridgestube im Hotel Royal in der Singer-
+      <lb n="21"/>strasse mit sehr schlechter Gesellschaft etc.
+      <lb n="22"/>Nun, Liebes, muss ich Dir noch sagen, dass ich gerührt
+      <lb n="23"/>bin, dass Du mit Elisabeth B. über mein Stück gesprochen hast. Wenn
+      <lb n="24"/>sie das Stück verlegt hat, könnte sie sich das stück von Kahane ge-
+      <lb n="25"/>ben lassen, der es auch hat. Oder hältst Du es für besser das nicht
+      <lb n="26"/>zu erwähnen? Viel wichtiger aber ist es, dass die "Else" zustande
+      <lb n="27"/>kommt. Am besten wäre Elisabeth käme bald nach Wien. Jetzt ist
+      <lb n="28"/>"Freiwild" überall angeschlagen als "Meisterfilmwerk" von A.S., was
+      <lb n="29"/>ich saudumm finde. Es wäre richtiger gewesen nach einem "Jugendwerk von
+      <lb n="30"/>A.S.“ Meisterwerk kann man bei der „Else“ sagen. Ich warte mit dem</seite></div></body></text></TEI>

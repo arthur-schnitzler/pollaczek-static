@@ -1,4 +1,5 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xml:id="ckp926.xml" xml:base="https://id.acdh.oeaw.ac.at.at/ckp" prev="https://id.acdh.oeaw.ac.at.at/ckp/ckp925.xml" next="https://id.acdh.oeaw.ac.at.at/ckp/ckp927.xml"><teiHeader><fileDesc><titleStmt><title level="s">Clara Katharina Pollaczek: »Arthur Schnitzler und ich«</title><title level="a">Tagebuch von Clara Katharina Pollaczek, 18.–19. Juni 1931</title><title type="alternative" when-iso="1931-06-18"/><title type="alternative" when-iso="1931-06-19"/><author ref="#12435">Pollaczek, Clara Katharina</author><editor><name>Müller, Martin Anton</name><name>Untner, Laura</name></editor><funder><name>FWF - Der Wissenschaftsfonds</name><address><street>Sensengasse 1</street><postCode>1090 Wien</postCode><placeName><country>A</country><settlement>Wien</settlement></placeName></address></funder></titleStmt><editionStmt><edition>CKP</edition><respStmt><resp>Transkription und Kommentierung</resp><name>Müller, Martin Anton</name><name>Untner, Laura</name></respStmt></editionStmt><publicationStmt><publisher>Austrian Centre for Digital Humanities and Cultural
+<TEI xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.tei-c.org/ns/1.0" xml:id="ckp926.xml" xml:base="https://id.acdh.oeaw.ac.at.at/ckp" prev="https://id.acdh.oeaw.ac.at.at/ckp/ckp925.xml" next="https://id.acdh.oeaw.ac.at.at/ckp/ckp927.xml"><teiHeader><fileDesc><titleStmt><title level="s">Clara Katharina Pollaczek: »Arthur Schnitzler und
+                                    ich«</title><title level="a"/><author ref="#12435">Pollaczek, Clara Katharina</author><editor><name>Müller, Martin Anton</name><name>Untner, Laura</name></editor><funder><name>FWF - Der Wissenschaftsfonds</name><address><street>Sensengasse 1</street><postCode>1090 Wien</postCode><placeName><country>A</country><settlement>Wien</settlement></placeName></address></funder></titleStmt><editionStmt><edition>CKP</edition><respStmt><resp>Transkription und Kommentierung</resp><name>Müller, Martin Anton</name><name>Untner, Laura</name></respStmt></editionStmt><publicationStmt><publisher>Austrian Centre for Digital Humanities and Cultural
                                     Heritage</publisher><pubPlace>Vienna</pubPlace><date when="2022">2023</date><availability><licence target="https://creativecommons.org/licenses/by/4.0/deed.de"><p>Sie dürfen: Teilen — das Material in jedwedem Format oder
                                             Medium vervielfältigen und weiterverbreiten Bearbeiten —
                                             das Material remixen, verändern und darauf aufbauen und
@@ -24,35 +25,34 @@
                                             Persönlichkeits- und Datenschutzrechte zu beachten sein,
                                             die Ihre Nutzung des Materials entsprechend
                                             beschränken.</p></licence></availability><idno type="handle"/></publicationStmt><seriesStmt><p>Machine-Readable Transcriptions of the Correspondences of Arthur
-                                    Schnitzler</p></seriesStmt><sourceDesc><listWit><witness n="1"><msDesc><msIdentifier><country>A</country><settlement>Wien</settlement><repository>Wienbibliothek</repository><idno>H.I.N. 155550</idno></msIdentifier></msDesc></witness></listWit></sourceDesc></fileDesc><profileDesc><langUsage><language ident="de-AT">German</language></langUsage></profileDesc><revisionDesc status="proposed"><change who="LU" when="2022-12-25">Angelegt</change></revisionDesc></teiHeader><facsimile><graphic url="926"/></facsimile><text><body><div type="writingSession" n="1"><seite id="926">
-            <lb n="01"/>Tgb. 18.6.1931.
-      <lb n="02"/>Am Heimweg im Auto behauptete A., Heini hätte ihm auf seine die bezügli
-      <lb n="03"/>che Anfrage vor ein paar Tagen erklärt, meine Anwesenheit sei ihm nicht
-      <lb n="04"/>erwünscht. Ich fürchte, A. spricht die Unwahrheit. Er behauptet auch
-      <lb n="05"/>nicht zu ahnen, wie Heini und Ruth miteinander stehen und gerade gestern
-      <lb n="06"/>seit die Rechnung des Advokaten für die Scheidung gekommen. Ansonsten
-      <lb n="07"/>war er den ganzen Abend unliebenswürdiger und fremder denn je. Heute
-      <lb n="08"/>Früh Anruf wie immer, Frage nach meinem Befinden. Er geht am Abend noch
-      <lb n="09"/>mals zu "Leer", allein. Er riet mir Vormittag bei der Hitze nicht fort
-      <lb n="10"/>zugehen. Seit zwei Tagen Hochsommerwetter.
-      <lb n="11"/>Ich rief um all Vormittag bei ihm an, um ihn noch zu ersuchen wegen der
-      <lb n="12"/>Generalprobe keinesfalls etwas mit Heini zu bezprechen, wenn er nicht da-
-      <lb n="13"/>von anfängt. Aber A. war nicht zuhause. "Zum Friseur vielleicht", meinte
-      <lb n="14"/>Minna. Ich habe eben 12 Uhr wieder angerufen und da sich wieder Minna
-      <lb n="15"/>meldete, legte ich das Hörrohr fort, ohne mich zu melden. Der leidende,
-      <lb n="16"/>müde, alte Herr ist bei der Temperatur unterwegs. - Ich glaube nicht mehr,
-      <lb n="17"/>dass er mich zu halten versuchen wird, wenn ich fortgehe.- Harry fährt
-      <lb n="18"/>am 29. oder 30. mit der "Lacoronia" via Hamburg, bis dahin müssen meine
-      <lb n="19"/>Nerven halten.
-      <lb n="20"/>Als ich um 3/4 1 nochmals anrief, war Frieda am Telefon und sagte, der
-      <lb n="21"/>Herr Doktor sei den Moment auf einen Sprung weggegangen, sie glaube,
-      <lb n="22"/>zum Advokaten. Sie lügt, - aber was bleibt ihr schliesslich übrig?
-      <lb n="23"/>Abend allein zuhause. A. nochmals bei "Lear", weil Heini jetzt als
-      <lb n="24"/>Narr im 3. Akt stirbt. Cary und Magdi sind auch im Theater.
-      <lb n="25"/>
-            <date>19.6.</date> Anruf A.'s vor 8 Uhr. Er holt mich zwischen ½ und 3/4 11 Uhr zur
-      <lb n="26"/>Generalprobe ab, muss vorher zum "Friseur", also war er gestern nicht
-      <lb n="27"/>dort,oder geht heute nicht hin.
-      <lb n="28"/>A. kam schon im Auto um 3/4 11 aus der Richtung seines Hauses, brachte
-      <lb n="29"/>Rosen aus seinem Garten. Beim Volkstheater machte die Taxe fast
-      <lb n="30"/>9 Schillinge aus, wo mag er vorher gewesen sein?</seite></div></body></text></TEI>
+                                    Schnitzler</p></seriesStmt><sourceDesc><listWit><witness n="1"><msDesc><msIdentifier><country>A</country><settlement>Wien</settlement><repository>Wienbibliothek</repository><idno>H.I.N. 155550</idno></msIdentifier></msDesc></witness></listWit></sourceDesc></fileDesc><profileDesc><langUsage><language ident="de-AT">German</language></langUsage></profileDesc><revisionDesc status="proposed"><change who="LU" when="2022-12-25">Angelegt</change></revisionDesc></teiHeader><facsimile><graphic url="ckp926"/></facsimile><text><body><div type="writingSession" n="1"><seite>
+      <lb n="01"/>Harry fährt entweder am 29. via Hamburg mit der "Lacoronia" oder 28.
+      <lb n="02"/>via Triest mit der "Martha Washington"
+      <lb n="03"/><date>16.6.</date> Abend. Meine Depression nimmt von einer Stunde zur andern zu. Den
+      <lb n="04"/>ganzen Nachmittag allein, unfähig zu lesen und zu arbeiten. Nach dem
+      <lb n="05"/>Abendessen kurzer Spaziergang an seinem Haus vorbei. Lilis Zimmer und
+      <lb n="06"/>die Küche beleuchtet, sonst alles finster. Vielleicht Unterredung mit
+      <lb n="07"/>Ruth -? (die er angeblich haben soll). Die Luft ganz mild; die Linden
+      <lb n="08"/>duften betäubend. Nie war mir so klar, dass dies der letzte Sommer
+      <lb n="09"/>ist, den ich hier in dieser Gegend verbringe, vielleicht - die letzten
+      <lb n="10"/>Wochen.
+      <lb n="11"/>Und was wird aus mir werden? Wo werde ich sein - - -
+      <lb n="12"/><date>17.6.</date> Heute von 10-12 in der czechischen Passstelle wegen Passverlän-
+      <lb n="13"/>- Menschenschinderei. We,nn Hedwig mir nicht einen Beamten mit-
+      <lb n="14"/>geben hätte, wäre ich zusammen gebrochen. Abend woll ich mit A. zum
+      <lb n="15"/>aumexpress". Wozu sind wolche Abend gut? Eben rief mich Dr.D. an
+      <lb n="16"/>und sagte mir, er finde den Gesundheitszustand von A. objektiv und sub-
+      <lb n="17"/>jektiv bedeutend gebessert. Ich bin mehr froh darüber, aber in seinem
+      <lb n="18"/>Verhalten zu mir hat sich das nicht ausgewirkt.
+      <lb n="19"/><date>18.6.</date> Gestern "Traumexpress", sehr öde Operettenrevue, dann "Weingartl".
+      <lb n="20"/>wo wir mit Heini, Ruth und einem Schauspieler Böhm zufällig zusammen-
+      <lb n="21"/>trafen. Grotesk - und ich habe es eigentlich wirklich nicht nötig
+      <lb n="22"/>sowas mitzumachen. Ich war sehr artig, Ruth und Heini fast beflissen.
+      <lb n="23"/>Als wir aufbrachen frug mich Heini, ob ich morgen Freitag in seine Ge-
+      <lb n="24"/>neralprobe "Komparserie" komme. Ich antwortete, ich wusste nicht, dass
+      <lb n="25"/>ich gewünscht werde. Er sagte: "Sie müssen wünschen." - Ich darauf:
+      <lb n="26"/>"Ich weiss nicht, ob es Ihren Vater recht ist." -A. (zu Heini, verlegen):
+      <lb n="27"/>"ich dachte, es ist dir nicht angenehm". -Heini: "Es wäre mir sehr angenehn."
+      <lb n="28"/>(lächelnd) "Sie schreiben doch nicht über Generalproben?" -Ich: (lä¬
+      <lb n="29"/>chelnd) "Sie hätten es nicht zu fürchten, aber es ist gar nicht mein
+      <lb n="30"/>Ressort".</seite></div></body></text></TEI>

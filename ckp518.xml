@@ -1,4 +1,5 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xml:id="ckp518.xml" xml:base="https://id.acdh.oeaw.ac.at.at/ckp" prev="https://id.acdh.oeaw.ac.at.at/ckp/ckp517.xml" next="https://id.acdh.oeaw.ac.at.at/ckp/ckp519.xml"><teiHeader><fileDesc><titleStmt><title level="s">Clara Katharina Pollaczek: »Arthur Schnitzler und ich«</title><title level="a">Tagebuch von Clara Katharina Pollaczek, 2. Februar – 22. März 1928</title><title type="alternative" when-iso="1928-02-02"/><title type="alternative" when-iso="1928-02-12"/><title type="alternative" when-iso="1928-03-22"/><author ref="#12435">Pollaczek, Clara Katharina</author><editor><name>Müller, Martin Anton</name><name>Untner, Laura</name></editor><funder><name>FWF - Der Wissenschaftsfonds</name><address><street>Sensengasse 1</street><postCode>1090 Wien</postCode><placeName><country>A</country><settlement>Wien</settlement></placeName></address></funder></titleStmt><editionStmt><edition>CKP</edition><respStmt><resp>Transkription und Kommentierung</resp><name>Müller, Martin Anton</name><name>Untner, Laura</name></respStmt></editionStmt><publicationStmt><publisher>Austrian Centre for Digital Humanities and Cultural
+<TEI xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.tei-c.org/ns/1.0" xml:id="ckp518.xml" xml:base="https://id.acdh.oeaw.ac.at.at/ckp" prev="https://id.acdh.oeaw.ac.at.at/ckp/ckp517.xml" next="https://id.acdh.oeaw.ac.at.at/ckp/ckp519.xml"><teiHeader><fileDesc><titleStmt><title level="s">Clara Katharina Pollaczek: »Arthur Schnitzler und
+                                    ich«</title><title level="a"/><author ref="#12435">Pollaczek, Clara Katharina</author><editor><name>Müller, Martin Anton</name><name>Untner, Laura</name></editor><funder><name>FWF - Der Wissenschaftsfonds</name><address><street>Sensengasse 1</street><postCode>1090 Wien</postCode><placeName><country>A</country><settlement>Wien</settlement></placeName></address></funder></titleStmt><editionStmt><edition>CKP</edition><respStmt><resp>Transkription und Kommentierung</resp><name>Müller, Martin Anton</name><name>Untner, Laura</name></respStmt></editionStmt><publicationStmt><publisher>Austrian Centre for Digital Humanities and Cultural
                                     Heritage</publisher><pubPlace>Vienna</pubPlace><date when="2022">2023</date><availability><licence target="https://creativecommons.org/licenses/by/4.0/deed.de"><p>Sie dürfen: Teilen — das Material in jedwedem Format oder
                                             Medium vervielfältigen und weiterverbreiten Bearbeiten —
                                             das Material remixen, verändern und darauf aufbauen und
@@ -24,33 +25,33 @@
                                             Persönlichkeits- und Datenschutzrechte zu beachten sein,
                                             die Ihre Nutzung des Materials entsprechend
                                             beschränken.</p></licence></availability><idno type="handle"/></publicationStmt><seriesStmt><p>Machine-Readable Transcriptions of the Correspondences of Arthur
-                                    Schnitzler</p></seriesStmt><sourceDesc><listWit><witness n="1"><msDesc><msIdentifier><country>A</country><settlement>Wien</settlement><repository>Wienbibliothek</repository><idno>H.I.N. 155550</idno></msIdentifier></msDesc></witness></listWit></sourceDesc></fileDesc><profileDesc><langUsage><language ident="de-AT">German</language></langUsage></profileDesc><revisionDesc status="proposed"><change who="LU" when="2022-12-25">Angelegt</change></revisionDesc></teiHeader><facsimile><graphic url="518"/></facsimile><text><body><div type="writingSession" n="1"><seite id="518">
-            <lb n="01"/>1928
-      <lb n="02"/>30.1.
-      <lb n="03"/>mir das Geld). Wenn er aber seine Kühle, sein melancholisches Wesen nur
-      <lb n="04"/>für einen vorübergehenden Zustand hält, dann will ich alles versuchen,
-      <lb n="05"/>damit es wieder schön zwischen uns wird. Er sagt, er habe mich ge-
-      <lb n="06"/>nau so lieb, seine Depression teilweise physisch, teil weise, weil er nicht
-      <lb n="07"/>arbeiten kann, woran auch meine durch O.'s Anwesenheit immer wieder her-
-      <lb n="08"/>vorgerufene Verstimmung Schuld trägt. Er verstehe es ja teilweise, aber
-      <lb n="09"/>ich müsse einsehen, dass er mir damit nicht das Geringate wegnimmt. Ich
-      <lb n="10"/>nehme seinen Kopf zwischen meine Hände, streichte ihn, vielleicht werden
-      <lb n="11"/>jetzt bessere Tage kommen.
-      <lb n="12"/>12.2. Olga kommt wieder! Ich ging beim Mondschein zu ihm, dachte, das
-      <lb n="13"/>wird einmal ein schöner Abend. Er empfing mich mit der Nachricht. Ich
-      <lb n="14"/>wurde schneeweiss im Gesicht, meine Zähne schlugen aufeinander. Dabei
-      <lb n="15"/>redete ich inn fortgesetzt zu, sich nicht aufzuregen. Er behauptet, sie
-      <lb n="16"/>komme nur für drei Tage den Abtransport der Möbel überwachen.
-      <lb n="17"/>Olga, Olga - immer sie zwischen uns. Er ist zwar fast jeden Abend mit
-      <lb n="18"/>mir, aber sein Haus darf ich nicht betreten. Ich sage nichts, ich klage
-      <lb n="19"/>nicht mehr, aber ich bin innerlich müde.
-      <lb n="20"/>Sie ist fast drei Wochen hier. Ich war einmal bei ihm an einem Abend,
-      <lb n="21"/>da sie ihm absagte und zu Bett lag. Da war er sicher, dass sie nicht
-      <lb n="22"/>plötzlich kommen würde.- Ich war zu müde Nein zu sagen.
-      <lb n="23"/>Was nützt es, dass sie jetzt endlich fort ist. A. klagt fort über Kopf-
-      <lb n="24"/>schmerzen, Verstimmung, es ist nichts mehr, wie es war. Er sagt, er sieht
-      <lb n="25"/>sie, wie sie ist. Sie macht ihn ausschliesslich nervös und doch hat er
-      <lb n="26"/>nicht die Kraft uns Ruhe zu schaffen. -Die Hand liegt längst wieder an
-      <lb n="27"/>ihrem Platz, sie war nur in Reparatur. Wie hässlich und unwahr ist alles.
-      <lb n="28"/>22.3. Géraldy in Wien. Einer der reizendsten menschen. Sehr hübscher
-      <lb n="29"/>Asend bei Hofrätin Z. Anwesend: Géraldy, Hofmannsthal und Frau, Werfel,</seite></div></body></text></TEI>
+                                    Schnitzler</p></seriesStmt><sourceDesc><listWit><witness n="1"><msDesc><msIdentifier><country>A</country><settlement>Wien</settlement><repository>Wienbibliothek</repository><idno>H.I.N. 155550</idno></msIdentifier></msDesc></witness></listWit></sourceDesc></fileDesc><profileDesc><langUsage><language ident="de-AT">German</language></langUsage></profileDesc><revisionDesc status="proposed"><change who="LU" when="2022-12-25">Angelegt</change></revisionDesc></teiHeader><facsimile><graphic url="ckp518"/></facsimile><text><body><div type="writingSession" n="1"><seite>
+      <lb n="01"/>nachzusenden sind, da sie in Berlin eine Wohnung in Sicht hat.
+      <lb n="02"/>28.1. 0. heute Abend allein bei ihm, angeblich wichtige Besprechungen we-
+      <lb n="03"/>gen des Spediteurs etc. Er teilt es mir telefonisch mit. Ich reagiere mit
+      <lb n="04"/>keinem Wort. Wozu Worte? Zu Szenen, wie die im Vorjähr waren, lasse ich es
+      <lb n="05"/>nicht kommen, aber ich bin innerlich wie erstarrt. Ich arbeite viel.
+      <lb n="06"/>Ich weiss, sie ist wieder nahezu täglich bei ihm, ich wie der ausgeschlossen.
+      <lb n="07"/>29.1. Heute am Spaziergang doch die Katastrophe ausgelöst, durch seine
+      <lb n="08"/>Mitteilung, dass er am Abend mit der § 19.jährigen Pianistin L.K. ins Kon-
+      <lb n="09"/>zert geht. Ich sage nichts, mache nurb offenbar ein entsetztes Gesicht. Er
+      <lb n="10"/>darüber empört, erst eine halbe Stunde böses Schweigen, dann durch ihn pro-
+      <lb n="11"/>vozierte heftige Auseinandersetzung. Wirft mir Irrsinn und Herzlosigkeit
+      <lb n="12"/>vor.
+      <lb n="13"/>30.1. Das nennt er Liebe. Ein Minimum an Takt hätte ihm gerade während O.A.
+      <lb n="14"/>Anwesenheit ein anderes Benehmen diktieren müssen. Aber ihn enerviert es,
+      <lb n="15"/>dass er mir anmerkt, ich sei irritiert,ich habe nicht das Recht empfind-
+      <lb n="16"/>lich zu sein. Er duldet keine Einschränkung, seines freien Willens, alles
+      <lb n="17"/>ist belanglos. Wenn ich ein Wort sage, Stampft er mit dem Fuss, erklärt,
+      <lb n="18"/>er wird krank und ich bekomme Angst und schweige.
+      <lb n="19"/>Ich arbeite, um nicht zu weinen.
+      <lb n="20"/>Ich habe lange nicht eingeschrieben. Wozu auch - Verstimmungen,Depressio-
+      <lb n="21"/>nen.
+      <lb n="22"/>Am 2. zum Frästück bei A. mit Wassermann xxx zusammen, der meine Anwesen-
+      <lb n="23"/>heit angeblich gewünscht hat. W. mir wenig sympathisch, ebenso wie seine
+      <lb n="24"/>Werke, wenn ich auch sein grosses Können vollauf würdige. Am 4. Abendessen
+      <lb n="25"/>bei Auernheimer für Wassermann. Bin mit A. zusammen hingefahren. Er machte
+      <lb n="26"/>mir Komplimente über mein Aussehen, so wie man jemandem den Hof macht.
+      <lb n="27"/>Irgend ein Band zwischen uns ist lädiert.
+      <lb n="28"/>Ich habe A. erklärt, dass es so nicht geht. Wenn er fühlt,dass er mich
+      <lb n="29"/>weniger liebt, so bin ich fest entschlossen, abzureisen. (Emmy R. leiht</seite></div></body></text></TEI>

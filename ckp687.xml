@@ -1,4 +1,5 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xml:id="ckp687.xml" xml:base="https://id.acdh.oeaw.ac.at.at/ckp" prev="https://id.acdh.oeaw.ac.at.at/ckp/ckp686.xml" next="https://id.acdh.oeaw.ac.at.at/ckp/ckp688.xml"><teiHeader><fileDesc><titleStmt><title level="s">Clara Katharina Pollaczek: »Arthur Schnitzler und ich«</title><title level="a">Clara Katharina Pollaczek an Arthur Schnitzler, 3. Mai 1929</title><title type="alternative" when-iso="1929-05-03"/><author ref="#12435">Pollaczek, Clara Katharina</author><editor><name>Müller, Martin Anton</name><name>Untner, Laura</name></editor><funder><name>FWF - Der Wissenschaftsfonds</name><address><street>Sensengasse 1</street><postCode>1090 Wien</postCode><placeName><country>A</country><settlement>Wien</settlement></placeName></address></funder></titleStmt><editionStmt><edition>CKP</edition><respStmt><resp>Transkription und Kommentierung</resp><name>Müller, Martin Anton</name><name>Untner, Laura</name></respStmt></editionStmt><publicationStmt><publisher>Austrian Centre for Digital Humanities and Cultural
+<TEI xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.tei-c.org/ns/1.0" xml:id="ckp687.xml" xml:base="https://id.acdh.oeaw.ac.at.at/ckp" prev="https://id.acdh.oeaw.ac.at.at/ckp/ckp686.xml" next="https://id.acdh.oeaw.ac.at.at/ckp/ckp688.xml"><teiHeader><fileDesc><titleStmt><title level="s">Clara Katharina Pollaczek: »Arthur Schnitzler und
+                                    ich«</title><title level="a"/><author ref="#12435">Pollaczek, Clara Katharina</author><editor><name>Müller, Martin Anton</name><name>Untner, Laura</name></editor><funder><name>FWF - Der Wissenschaftsfonds</name><address><street>Sensengasse 1</street><postCode>1090 Wien</postCode><placeName><country>A</country><settlement>Wien</settlement></placeName></address></funder></titleStmt><editionStmt><edition>CKP</edition><respStmt><resp>Transkription und Kommentierung</resp><name>Müller, Martin Anton</name><name>Untner, Laura</name></respStmt></editionStmt><publicationStmt><publisher>Austrian Centre for Digital Humanities and Cultural
                                     Heritage</publisher><pubPlace>Vienna</pubPlace><date when="2022">2023</date><availability><licence target="https://creativecommons.org/licenses/by/4.0/deed.de"><p>Sie dürfen: Teilen — das Material in jedwedem Format oder
                                             Medium vervielfältigen und weiterverbreiten Bearbeiten —
                                             das Material remixen, verändern und darauf aufbauen und
@@ -24,26 +25,25 @@
                                             Persönlichkeits- und Datenschutzrechte zu beachten sein,
                                             die Ihre Nutzung des Materials entsprechend
                                             beschränken.</p></licence></availability><idno type="handle"/></publicationStmt><seriesStmt><p>Machine-Readable Transcriptions of the Correspondences of Arthur
-                                    Schnitzler</p></seriesStmt><sourceDesc><listWit><witness n="1"><msDesc><msIdentifier><country>A</country><settlement>Wien</settlement><repository>Wienbibliothek</repository><idno>H.I.N. 155550</idno></msIdentifier></msDesc></witness></listWit></sourceDesc></fileDesc><profileDesc><langUsage><language ident="de-AT">German</language></langUsage></profileDesc><revisionDesc status="proposed"><change who="LU" when="2022-12-25">Angelegt</change></revisionDesc></teiHeader><facsimile><graphic url="687"/></facsimile><text><body><div type="writingSession" n="1"><seite id="687">
-            <lb n="01"/>3.5.29.
-      <lb n="02"/>schon heftigen inneren Widerwillen entgegengebracht,
-      <lb n="03"/>obwohl es diesmal eine geschäftliche Reise sein
-      <lb n="04"/>sollte. Denn es ist mir ganz klar - und klarer denn
-      <lb n="05"/>je - dass Du ohne die "else"-Angelegenheit einen
-      <lb n="06"/>anderen Vorwand für ein Zusammensein gefunden hät-
-      <lb n="07"/>test.
-      <lb n="08"/>Du hast genau gewusst, wie ich täglich,
-      <lb n="09"/>stündlich unter Deinem Dortsein leide und hast
-      <lb n="10"/>trotzdem eine neuerliche Verabredung,diesmal zu
-      <lb n="11"/>Dritt, "Arnoldo, O. und Du" getroffen.
-      <lb n="12"/>Es war vor Deiner letzten Reise nach Ber-
-      <lb n="13"/>lin, als wir in einer traurig-zärtlichen Stunde
-      <lb n="14"/>hier bei mir zusammensassen und ich zu Dir sagte:
-      <lb n="15"/>Wir sollten aus dieser schrecklichen Kälte hier fort,
-      <lb n="16"/>an irgend einen schönen Ort. Ich will Dich wieder jünger
-      <lb n="17"/>und fröhlicher machen. Du sagtest darauf: Jetzt ist
-      <lb n="18"/>es noch zu früh, aber Ende April oder Anfang Mai -
-      <lb n="19"/>und dann frugst Du, wohin ich eigentlich möchte. Es
-      <lb n="20"/>war das erste Mal, dass Du mich das frugst und'sich
-      <lb n="21"/>war sehr froh und sagte, um die Zeit wäre es am schön-
-      <lb n="22"/>233</seite></div></body></text></TEI>
+                                    Schnitzler</p></seriesStmt><sourceDesc><listWit><witness n="1"><msDesc><msIdentifier><country>A</country><settlement>Wien</settlement><repository>Wienbibliothek</repository><idno>H.I.N. 155550</idno></msIdentifier></msDesc></witness></listWit></sourceDesc></fileDesc><profileDesc><langUsage><language ident="de-AT">German</language></langUsage></profileDesc><revisionDesc status="proposed"><change who="LU" when="2022-12-25">Angelegt</change></revisionDesc></teiHeader><facsimile><graphic url="ckp687"/></facsimile><text><body><div type="writingSession" n="1"><seite>
+      <lb n="01"/>nen die einzigen wirklich guten Wochen dieses Win-
+      <lb n="02"/>ters. Ich war zuversichtlich und Du erholtest Dich
+      <lb n="03"/>zusehends.
+      <lb n="04"/>Dann brachte es O. durch allerlei Vermitt-
+      <lb n="05"/>lungen zuwege, dass Arnoldo Urlaub zu Weihnachten be-
+      <lb n="06"/>kam und Du wieder nach B. fahren musstest. Du weisst,
+      <lb n="07"/>wir sind damals im zärtlichsten Einverständnis aus-
+      <lb n="08"/>einander gegangen. Du fuhrst am 1. Weihnachtstag fort,
+      <lb n="09"/>ich verbrachte den 1.Sylvesterabend in dem neuen
+      <lb n="10"/>Heim mutterseelenallein, Du bei Deiner geschiedenen
+      <lb n="11"/>Gattin. Ich hatte in der mir noch ganz ungewohnten
+      <lb n="12"/>Umgebung, bei der plötzlichen grossen Kälte, durch
+      <lb n="13"/>Schneefälle isoliert, ein Gefühl schrecklicher Ver-
+      <lb n="14"/>einsamung.
+      <lb n="15"/>Dann kamst Du endlich zurück und an
+      <lb n="16"/>Deinem ganzen Verhalten, in Deinem Wesen sogar merk-
+      <lb n="17"/>te ich deutlich, dass sich die Beziehung zur O. wieder
+      <lb n="18"/>gebessert hat. Es muss wohl etwas daran sein, sonst
+      <lb n="19"/>könnte ich nicht aus Deinem Benehmen zu mir so
+      <lb n="20"/>genau erkennen, wie Du jeweilig zu <hi rend="underline" n="">ihr</hi> stehst. Ich habe daher
+      <lb n="21"/>Deiner 3. Berliner Reise ein paar Wochen später</seite></div></body></text></TEI>
