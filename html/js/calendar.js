@@ -15,7 +15,7 @@ function getYear(item) {
     name: r.name,
     linkId: r.id,
     color: '#1e81b0'
-  })).filter(r => r.startDate.getFullYear() === 1910);
+  })).filter(r => r.startDate.getFullYear() === 1896);
   
   
   
