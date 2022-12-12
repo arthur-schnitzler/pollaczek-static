@@ -47,7 +47,20 @@
                                                         <xsl:attribute name="href">                                                
                                                             <xsl:value-of select="replace(tokenize($full_path, '/')[last()], '.xml', '.html')"/>
                                                         </xsl:attribute>
-                                                        <xsl:value-of select=".//tei:seite/@id"/>
+                                                        <xsl:choose>
+                                                            <xsl:when test="starts-with(@xml:id, 'ckp00')">
+                                                                <xsl:value-of select="substring-after(@xml:id, 'ckp00')"/>
+                                                            </xsl:when>
+                                                            <xsl:when test="starts-with(@xml:id, 'ckp0')">
+                                                                <xsl:value-of select="substring-after(@xml:id, 'ckp0')"/>
+                                                            </xsl:when>
+                                                            <xsl:when test="starts-with(@xml:id, 'ckp')">
+                                                                <xsl:value-of select="substring-after(@xml:id, 'ckp')"/>
+                                                            </xsl:when>
+                                                            <xsl:otherwise>
+                                                                <xsl:value-of select="@xml:id"/>
+                                                            </xsl:otherwise>
+                                                        </xsl:choose>
                                                     </a>
                                                 </td>
                                                 <td>

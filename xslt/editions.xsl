@@ -103,8 +103,7 @@
                                                     fitHorizontally: true,
                                                     tileSources: {
                                                         type: 'image',
-                                                        url: '<xsl:value-of select="$facs-url"/>
-                                                '
+                                                        url: '<xsl:value-of select="$facs-url"/>'
                                             },
                                             // Initial rotation angle
                                             degrees: 0,
