@@ -40,7 +40,7 @@
                                             </xsl:variable>
                                             <tr>
                                                 <td>
-                                                    <xsl:variable name="seite" select="substring(@xml:id, 4)"/>
+                                                    <xsl:variable name="seite" select="replace(substring(@xml:id, 4),'.xml', '')"/>
                                                     <span hidden="hidden">
                                                         <xsl:value-of select="$seite"/>
                                                     </span>
