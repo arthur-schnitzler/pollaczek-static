@@ -40,25 +40,23 @@
                                             </xsl:variable>
                                             <tr>
                                                 <td>
+                                                    <xsl:variable name="seite" select="substring(@xml:id, 4)"/>
                                                     <span hidden="hidden">
-                                                        <xsl:value-of select="@xml:id"/>
+                                                        <xsl:value-of select="$seite"/>
                                                     </span>
-                                                    <a>
+                                                                                                        <a>
                                                         <xsl:attribute name="href">                                                
                                                             <xsl:value-of select="replace(tokenize($full_path, '/')[last()], '.xml', '.html')"/>
                                                         </xsl:attribute>
                                                         <xsl:choose>
-                                                            <xsl:when test="starts-with(@xml:id, 'ckp00')">
-                                                                <xsl:value-of select="substring-after(@xml:id, 'ckp00')"/>
+                                                            <xsl:when test="starts-with($seite, '00')">
+                                                                <xsl:value-of select="substring($seite, 3)"/>
                                                             </xsl:when>
-                                                            <xsl:when test="starts-with(@xml:id, 'ckp0')">
-                                                                <xsl:value-of select="substring-after(@xml:id, 'ckp0')"/>
-                                                            </xsl:when>
-                                                            <xsl:when test="starts-with(@xml:id, 'ckp')">
-                                                                <xsl:value-of select="substring-after(@xml:id, 'ckp')"/>
+                                                            <xsl:when test="starts-with($seite, '0')">
+                                                                <xsl:value-of select="substring($seite, 2)"/>
                                                             </xsl:when>
                                                             <xsl:otherwise>
-                                                                <xsl:value-of select="@xml:id"/>
+                                                                    <xsl:value-of select="substring($seite, 3)"/>
                                                             </xsl:otherwise>
                                                         </xsl:choose>
                                                     </a>
