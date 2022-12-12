@@ -5,7 +5,6 @@
     version="2.0" exclude-result-prefixes="xsl tei xs">
     <xsl:output encoding="UTF-8" media-type="text/html" method="xhtml" version="1.0" indent="yes"
         omit-xml-declaration="yes"/>
-
     <xsl:import href="./partials/shared.xsl"/>
     <xsl:import href="./partials/html_navbar.xsl"/>
     <xsl:import href="./partials/html_head.xsl"/>
@@ -15,7 +14,6 @@
     <xsl:import href="./partials/person.xsl"/>
     <xsl:import href="./partials/place.xsl"/>
     <xsl:import href="./partials/org.xsl"/>
-
     <xsl:variable name="prev">
         <xsl:value-of select="replace(tokenize(data(tei:TEI/@prev), '/')[last()], '.xml', '.html')"
         />
@@ -30,9 +28,6 @@
     <xsl:variable name="link">
         <xsl:value-of select="replace($teiSource, '.xml', '.html')"/>
     </xsl:variable>
-
-
-
     <xsl:template match="/">
         <xsl:variable name="doc_title">
             <xsl:value-of select="descendant::tei:titleStmt/tei:title[@level = 'a'][1]/text()"/>
@@ -42,11 +37,9 @@
             <xsl:call-template name="html_head">
                 <xsl:with-param name="html_title" select="$doc_title"/>
             </xsl:call-template>
-
             <body class="page">
                 <div class="hfeed site" id="page">
                     <xsl:call-template name="nav_bar"/>
-
                     <div class="container-fluid">
                         <div class="card" data-index="true">
                             <div class="card-header">
@@ -91,12 +84,14 @@
                                 <div class="row">
                                     <div class="col-md-6">
                                         <div id="openseadragon-photo" style="height:800px;">
-                                            <xsl:variable name="wb-foto-nummer" as="xs:integer">
+                                            <!--<xsl:variable name="wb-foto-nummer" as="xs:integer">
                                                 
                                                 
                                                 <xsl:value-of select="xs:integer(substring-after(replace(string($teiSource), '.xml', ''), 'ckp')) + 4183713"/>
                                             </xsl:variable>
-                                            <xsl:variable name="facs-url" select="concat('https://www.digital.wienbibliothek.at/i3f/v20/', $wb-foto-nummer, '/full/full/0/default.jpg')"/>
+                                            <xsl:variable name="facs-url" select="concat('https://www.digital.wienbibliothek.at/i3f/v20/', $wb-foto-nummer, '/full/full/0/default.jpg')"/>-->
+                                            <xsl:variable name="facs-url"
+                                                select="normalize-space(concat('https://shared.acdh.oeaw.ac.at/ckp/', concat(replace($teiSource, '.xml', ''), '.jpg')))"/>
                                             <script src="https://cdnjs.cloudflare.com/ajax/libs/openseadragon/3.0.0/openseadragon.min.js"/>
                                             <script type="text/javascript">
                                                 var viewer = OpenSeadragon({
@@ -108,7 +103,8 @@
                                                     fitHorizontally: true,
                                                     tileSources: {
                                                         type: 'image',
-                                                        url: '<xsl:value-of select="$facs-url"/>'
+                                                        url: '<xsl:value-of select="$facs-url"/>
+                                                '
                                             },
                                             // Initial rotation angle
                                             degrees: 0,
@@ -125,8 +121,6 @@
                                         <xsl:apply-templates select=".//tei:body"/>
                                     </div>
                                 </div>
-
-
                             </div>
                             <div class="card-footer">
                                 <p style="text-align:center;">
@@ -159,7 +153,6 @@
                         </div>
                     </div>
                     <xsl:for-each select=".//tei:back//tei:org[@xml:id]">
-
                         <div class="modal fade" tabindex="-1" role="dialog" aria-hidden="true">
                             <xsl:attribute name="id">
                                 <xsl:value-of select="./@xml:id"/>
@@ -170,7 +163,6 @@
                                         <h5 class="modal-title">
                                             <xsl:value-of select=".//tei:orgName[1]/text()"/>
                                         </h5>
-
                                     </div>
                                     <div class="modal-body">
                                         <xsl:call-template name="org_detail">
@@ -189,7 +181,6 @@
                         <xsl:variable name="xmlId">
                             <xsl:value-of select="data(./@xml:id)"/>
                         </xsl:variable>
-
                         <div class="modal fade" tabindex="-1" role="dialog" aria-hidden="true"
                             id="{$xmlId}">
                             <div class="modal-dialog" role="document">
@@ -203,7 +194,6 @@
                                                 <i class="fas fa-external-link-alt"/>
                                             </a>
                                         </h5>
-
                                     </div>
                                     <div class="modal-body">
                                         <xsl:call-template name="person_detail">
@@ -222,7 +212,6 @@
                         <xsl:variable name="xmlId">
                             <xsl:value-of select="data(./@xml:id)"/>
                         </xsl:variable>
-
                         <div class="modal fade" tabindex="-1" role="dialog" aria-hidden="true"
                             id="{$xmlId}">
                             <div class="modal-dialog" role="document">
@@ -255,7 +244,6 @@
             </body>
         </html>
     </xsl:template>
-
     <xsl:template match="tei:p">
         <p id="{local:makeId(.)}">
             <xsl:apply-templates/>
