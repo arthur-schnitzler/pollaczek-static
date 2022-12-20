@@ -46,7 +46,7 @@
                                     <a title="Links" href="https://fraueninbewegung.onb.ac.at/node/2555"
                                         class="nav-link" target="_blank">Frauen in Bewegung</a>
                                     <a title="Links"
-                                        href="https://search.wienbibliothek.at/primo-explore/search?query=creator,contains,clara%20katharina%20pollaczek,AND&amp;tab=nachlaesse&amp;search_scope=WBR_NH&amp;vid=WBR&amp;mode=advanced&amp;offset=0"
+                                        href="https://search.wienbibliothek.at/primo-explore/search?institution=WBR&amp;vid=WBR&amp;query=addsrcrid,exact,AC15900634&amp;tab=default_tab"
                                         class="nav-link" target="_blank">Teilnachlass Wienbibliothek</a>
                                     <a title="Links" href="https://schnitzler-tagebuch.acdh.oeaw.ac.at/person_18863.html"
                                         class="nav-link" target="_blank">… in Schnitzlers Tagebuch</a>
