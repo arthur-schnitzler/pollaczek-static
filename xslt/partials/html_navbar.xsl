@@ -27,13 +27,29 @@
                                     <a class="dropdown-item" href="editionsprinzipien.html">Editionsprinzipien</a>
                                     <a class="dropdown-item" href="mithilfe.html">Mithilfe</a>
                                     <a class="dropdown-item" href="zitat.html">Zitieren</a>
-                                    <a title="Links" href="https://de.wikipedia.org/wiki/Clara_Katharina_Pollaczek"
-                                        class="nav-link" target="_blank">C. K. Pollaczek (Wikipedia)</a>
                                     <a title="Links" href="https://schnitzler.acdh.oeaw.ac.at"
                                         class="nav-link" target="_blank">Schnitzler am ACDH-CH</a>
                                     <a title="Links"
                                         href="https://github.com/arthur-schnitzler/pollaczek-data"
                                         class="nav-link" target="_blank">Daten auf gitHub</a>
+                                </div>
+                            </li>
+                            <li class="nav-item dropdown">
+                                <a class="nav-link dropdown-toggle" href="#" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                                    Clara Katharina Pollaczek
+                                </a>
+                                <div class="dropdown-menu">
+                                    <a title="Links" href="https://de.wikipedia.org/wiki/Clara_Katharina_Pollaczek"
+                                        class="nav-link" target="_blank">Wikipedia-Eintrag</a>
+                                    <a title="Links" href="https://www.geschichtewiki.wien.gv.at/Clara_Katharina_Pollaczek"
+                                        class="nav-link" target="_blank">Wien Geschichte Wiki</a>
+                                    <a title="Links" href="https://fraueninbewegung.onb.ac.at/node/2555"
+                                        class="nav-link" target="_blank">Frauen in Bewegung</a>
+                                    <a title="Links"
+                                        href="https://search.wienbibliothek.at/primo-explore/search?query=creator,contains,clara%20katharina%20pollaczek,AND&amp;tab=nachlaesse&amp;search_scope=WBR_NH&amp;vid=WBR&amp;mode=advanced&amp;offset=0"
+                                        class="nav-link" target="_blank">Teilnachlass Wienbibliothek</a>
+                                    <a title="Links" href="https://schnitzler-tagebuch.acdh.oeaw.ac.at/person_18863.html"
+                                        class="nav-link" target="_blank">… in Schnitzlers Tagebuch</a>
                                 </div>
                             </li>
                             <li class="nav-item">
