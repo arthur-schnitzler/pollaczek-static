@@ -28,6 +28,7 @@
                         <div class="card">
                             <div class="card-header">
                                 <h2 align="center"><xsl:value-of select="$doc_title"/></h2>
+                                <h3><xsl:value-of select="root()//tei:teiHeader//tei:author"/></h3>
                             </div>
                             <div class="card-body-index">                                
                                 <xsl:apply-templates select=".//tei:body"></xsl:apply-templates>
@@ -71,6 +72,9 @@
                                         </a>
                                     </xsl:element>
                                     <xsl:apply-templates/>
+                                    <xsl:if test="not(ends-with(string-join(.//text(), ''), '.'))">
+                                        <xsl:text>. </xsl:text>
+                                    </xsl:if>
                                 </p>
                             </xsl:for-each>
                         
@@ -135,6 +139,7 @@
                 </a>
             </xsl:when>
             <xsl:when test="@subtype='arthur-schnitzler-und-ich'"><a href="{concat(@target, '.html')}">AS und ich, <xsl:value-of select="substring-after(@target, 'ckp')"/></a> </xsl:when>
+            <xsl:when test="@subtype='schnitzler-tagebuch'"><a href="{concat('https://schnitzler-tagebuch.acdh.oeaw.ac.at/entry__', @target, '.html')}">Schnitzler Tagebuch, <xsl:value-of select="@target"/></a> </xsl:when>
             <xsl:otherwise>
                 <xsl:apply-templates/>
             </xsl:otherwise>
