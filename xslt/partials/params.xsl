@@ -5,7 +5,7 @@
     <xsl:param name="project_title">Clara Katharina Pollaczek – Arthur Schnitzler und ich</xsl:param>
     <xsl:param name="project_short_title">CKP</xsl:param>
     <xsl:param name="github_url">https://github.com/arthur-schnitzler/pollaczek-static</xsl:param>
-    <xsl:param name="html_title">CKP</xsl:param>
+    <xsl:param name="html_title">Clara Katharina Pollaczek</xsl:param>
     <xsl:param name="project_logo">dist/fundament/images/fundament_logo.svg</xsl:param>
     <xsl:param name="base_url">https://pollaczek.acdh.oeaw.ac.at</xsl:param>
 </xsl:stylesheet>

@@ -33,7 +33,7 @@
                                         class="nav-link" target="_blank">Schnitzler am ACDH-CH</a>
                                     <a title="Links"
                                         href="https://github.com/arthur-schnitzler/pollaczek-data"
-                                        class="nav-link" target="_blank">Daten auf gitHub</a>
+                                        class="nav-link" target="_blank">Daten auf GitHub</a>
                                 </div>
                             </li>
                             <li class="nav-item dropdown">
@@ -52,6 +52,8 @@
                                         class="nav-link" target="_blank">Teilnachlass Wienbibliothek</a>
                                     <a title="Links" href="https://schnitzler-tagebuch.acdh.oeaw.ac.at/person_18863.html"
                                         class="nav-link" target="_blank">… in Schnitzlers Tagebuch</a>
+                                    <a title="Links" href="bibliografie.html"
+                                        class="nav-link" target="_blank">Personalbibliografie</a>
                                 </div>
                             </li>
                             <li class="nav-item">

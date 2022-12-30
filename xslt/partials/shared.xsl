@@ -15,7 +15,7 @@
     </xsl:function>
     
     <xsl:template match="tei:note">
-        <xsl:element name="a">
+        <xsl:element name="a" xmlns="http://www.w3.org/1999/xhtml">
             <xsl:attribute name="name">
                 <xsl:text>fna_</xsl:text>
                 <xsl:number level="any" format="1" count="tei:note"/>
