@@ -41,6 +41,8 @@
                                     Clara Katharina Pollaczek
                                 </a>
                                 <div class="dropdown-menu">
+                                    <a title="Links" href="bibliografie.html"
+                                        class="nav-link" target="_blank">Bibliografie</a>
                                     <a title="Links" href="https://de.wikipedia.org/wiki/Clara_Katharina_Pollaczek"
                                         class="nav-link" target="_blank">Wikipedia-Eintrag</a>
                                     <a title="Links" href="https://www.geschichtewiki.wien.gv.at/Clara_Katharina_Pollaczek"
@@ -52,8 +54,7 @@
                                         class="nav-link" target="_blank">Teilnachlass Wienbibliothek</a>
                                     <a title="Links" href="https://schnitzler-tagebuch.acdh.oeaw.ac.at/person_18863.html"
                                         class="nav-link" target="_blank">… in Schnitzlers Tagebuch</a>
-                                    <a title="Links" href="bibliografie.html"
-                                        class="nav-link" target="_blank">Personalbibliografie</a>
+                                    
                                 </div>
                             </li>
                             <li class="nav-item">
