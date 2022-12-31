@@ -171,7 +171,7 @@
         </u>
     </xsl:template>
     <xsl:template match="tei:title">
-        <span>
+        <span style="font-weight: bold; color: #1e81b0;">
             <xsl:apply-templates/>
         </span>
     </xsl:template>
