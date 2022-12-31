@@ -175,13 +175,14 @@
             <xsl:apply-templates/>
         </span>
     </xsl:template>
+    
     <xsl:template match="tei:item/tei:title">
         <span style="font-weight: bold; color: #1e81b0;">
             <xsl:apply-templates/>
         </span>
     </xsl:template>
     <xsl:template match="tei:bibl">
-        <xsl:apply-templates/>
+        <p><xsl:apply-templates/></p>
     </xsl:template>
 
 </xsl:stylesheet>
