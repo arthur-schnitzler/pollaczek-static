@@ -1,7 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <xsl:stylesheet xmlns="http://www.w3.org/1999/xhtml"
     xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:tei="http://www.tei-c.org/ns/1.0"
-    xmlns:xs="http://www.w3.org/2001/XMLSchema" version="2.0" xmlns:local="http://dse-static.foo.bar" exclude-result-prefixes="xsl tei xs">
+    xmlns:xs="http://www.w3.org/2001/XMLSchema" version="2.0"
+    xmlns:local="http://dse-static.foo.bar" exclude-result-prefixes="xsl tei xs">
     <xsl:output encoding="UTF-8" media-type="text/html" method="xhtml" version="1.0" indent="yes"
         omit-xml-declaration="yes"/>
     <xsl:import href="./partials/shared.xsl"/>
@@ -19,19 +20,21 @@
             <xsl:call-template name="html_head">
                 <xsl:with-param name="html_title" select="$doc_title"/>
             </xsl:call-template>
-
             <body class="page">
                 <div class="hfeed site" id="page">
                     <xsl:call-template name="nav_bar"/>
-                    
-                    <div class="container-fluid">                        
+                    <div class="container-fluid">
                         <div class="card">
                             <div class="card-header">
-                                <h2 align="center"><xsl:value-of select="$doc_title"/></h2>
-                                <h3><xsl:value-of select="root()//tei:teiHeader//tei:author"/></h3>
+                                <h2 align="center">
+                                    <xsl:value-of select="$doc_title"/>
+                                </h2>
+                                <h3>
+                                    <xsl:value-of select="root()//tei:teiHeader//tei:author"/>
+                                </h3>
                             </div>
-                            <div class="card-body-index">                                
-                                <xsl:apply-templates select=".//tei:body"></xsl:apply-templates>
+                            <div class="card-body-index">
+                                <xsl:apply-templates select=".//tei:body"/>
                             </div>
                             <xsl:if test="descendant::tei:footNote">
                                 <div class="card-body-index">
@@ -45,50 +48,44 @@
                                     </xsl:element>
                                 </div>
                             </xsl:if>
-                        </div>                       
+                        </div>
                     </div>
                     <div class="card-footer">
                         <h3>Noten</h3>
-                        
-                            <xsl:for-each select=".//tei:note[not(./tei:p)]">
-                                <p class="footnotes" id="{local:makeId(.)}">
-                                    <xsl:element name="a">
-                                        <xsl:attribute name="name">
-                                            <xsl:text>fn</xsl:text>
-                                            <xsl:number level="any" format="1"
-                                                count="tei:note"/>
+                        <xsl:for-each select=".//tei:note[not(./tei:p)]">
+                            <p class="footnotes" id="{local:makeId(.)}">
+                                <xsl:element name="a">
+                                    <xsl:attribute name="name">
+                                        <xsl:text>fn</xsl:text>
+                                        <xsl:number level="any" format="1" count="tei:note"/>
+                                    </xsl:attribute>
+                                    <a>
+                                        <xsl:attribute name="href">
+                                            <xsl:text>#fna_</xsl:text>
+                                            <xsl:number level="any" format="1" count="tei:note"/>
                                         </xsl:attribute>
-                                        <a>
-                                            <xsl:attribute name="href">
-                                                <xsl:text>#fna_</xsl:text>
-                                                <xsl:number level="any" format="1"
-                                                    count="tei:note"/>
-                                            </xsl:attribute>
-                                            <span
-                                                style="font-size:7pt;vertical-align:super; margin-right: 0.4em">
-                                                <xsl:number level="any" format="1"
-                                                    count="tei:note"/>
-                                            </span>
-                                        </a>
-                                    </xsl:element>
-                                    <xsl:apply-templates/>
-                                    <xsl:if test="not(ends-with(string-join(.//text(), ''), '.'))">
-                                        <xsl:text>. </xsl:text>
-                                    </xsl:if>
-                                </p>
-                            </xsl:for-each>
-                        
+                                        <span
+                                            style="font-size:7pt;vertical-align:super; margin-right: 0.4em">
+                                            <xsl:number level="any" format="1" count="tei:note"/>
+                                        </span>
+                                    </a>
+                                </xsl:element>
+                                <xsl:apply-templates/>
+                                <xsl:if test="not(ends-with(string-join(.//text(), ''), '.'))">
+                                    <xsl:text>. </xsl:text>
+                                </xsl:if>
+                            </p>
+                        </xsl:for-each>
                     </div>
                     <xsl:call-template name="html_footer"/>
                 </div>
             </body>
         </html>
     </xsl:template>
-
     <xsl:template match="tei:p">
         <p id="{generate-id()}">
             <xsl:choose>
-                <xsl:when test="@rend='summary'">
+                <xsl:when test="@rend = 'summary'">
                     <xsl:attribute name="style">font-style:italic</xsl:attribute>
                 </xsl:when>
             </xsl:choose>
@@ -134,12 +131,21 @@
                             <xsl:value-of select="number(position()) div 2"/>
                             <xsl:text>] </xsl:text>
                         </xsl:when>
-                        <xsl:otherwise><xsl:value-of select="."/></xsl:otherwise>
+                        <xsl:otherwise>
+                            <xsl:value-of select="."/>
+                        </xsl:otherwise>
                     </xsl:choose>
                 </a>
             </xsl:when>
-            <xsl:when test="@subtype='arthur-schnitzler-und-ich'"><a href="{concat(@target, '.html')}">AS und ich, <xsl:value-of select="substring-after(@target, 'ckp')"/></a> </xsl:when>
-            <xsl:when test="@subtype='schnitzler-tagebuch'"><a href="{concat('https://schnitzler-tagebuch.acdh.oeaw.ac.at/entry__', @target, '.html')}">Schnitzler Tagebuch, <xsl:value-of select="@target"/></a> </xsl:when>
+            <xsl:when test="@subtype = 'arthur-schnitzler-und-ich'">
+                <a href="{concat(@target, '.html')}">AS und ich, <xsl:value-of
+                        select="substring-after(@target, 'ckp')"/></a>
+            </xsl:when>
+            <xsl:when test="@subtype = 'schnitzler-tagebuch'">
+                <a
+                    href="{concat('https://schnitzler-tagebuch.acdh.oeaw.ac.at/entry__', @target, '.html')}"
+                    >Schnitzler Tagebuch, <xsl:value-of select="@target"/></a>
+            </xsl:when>
             <xsl:otherwise>
                 <xsl:apply-templates/>
             </xsl:otherwise>
@@ -175,14 +181,27 @@
             <xsl:apply-templates/>
         </span>
     </xsl:template>
-    
-    <xsl:template match="tei:item/tei:title">
-        <span style="font-weight: bold; color: #1e81b0;">
+    <xsl:template match="tei:item/tei:title[descendant::tei:listRef/tei:ref[@type = 'URL']]">
+        <xsl:element name="a">
+            <xsl:attribute name="href">
+                <xsl:value-of select="descendant::tei:listRef/tei:ref[@type = 'URL'][1]/@target"/>
+            </xsl:attribute>
+            <xsl:attribute name="target">
+                <xsl:text>_blank</xsl:text>
+            </xsl:attribute>
+            <span style="font-weight: bold; color: #1e81b0;">
+                <xsl:apply-templates/>
+            </span>
+        </xsl:element>
+    </xsl:template>
+    <xsl:template match="tei:item/tei:title[not(descendant::tei:listRef/tei:ref[@type = 'URL'])]">
+        <span style="font-weight: bold;">
             <xsl:apply-templates/>
         </span>
     </xsl:template>
     <xsl:template match="tei:bibl">
-        <p><xsl:apply-templates/></p>
+        <p>
+            <xsl:apply-templates/>
+        </p>
     </xsl:template>
-
 </xsl:stylesheet>
