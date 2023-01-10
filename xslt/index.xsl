@@ -43,7 +43,7 @@
                                     Tagebucheinträge und teilweise auch andere Quellen zusammen und versah sie
                                     gelegentlich mit überleitenden Texten. Das Typoskript, für die
                                     postume Veröffentlichung vorgesehen, umfasst 990 von
-                                    Schnitzlers Sekretärin Frieda Pollak getippte Seiten und blieb nach ihrem Tod
+                                    Schnitzlers Sekretärin Frieda Pollak getippte Seiten und blieb nach ihrem Tod am 22. Juli
                                     1951 siebzig Jahre lang unveröffentlicht. Bis zur vorliegenden Publikation war es
                                     zwar der Forschung bekannt, konnte aber nur in ihrem <a href="https://permalink.obvsg.at/wbr/AC15900634" target="_blank">Teilnachlass</a> in
                                     der Wienbibliothek im Rathaus eingesehen werden.</p>

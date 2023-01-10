@@ -205,9 +205,9 @@
         <xsl:apply-templates select="./tei:note[@type='url']"/>
     </xsl:template>
     <xsl:template match="tei:head">
-        <strong>
+        <h2>
             <xsl:apply-templates/>
-        </strong>
+        </h2>
     </xsl:template>
     <xsl:template match="tei:lb">
         <br/>
@@ -269,10 +269,11 @@
         </ul>&#160;
     </xsl:template>
     <xsl:template match="tei:listBibl">
-        <p><xsl:value-of select="@type"/></p>&#160;
-        <ul>
+        <section xml:id="{@type}">
+        <div>
             <xsl:apply-templates/>
-        </ul>&#160;
+        </div>&#160;
+        </section>
     </xsl:template>
     <xsl:template match="tei:item">
         <li>
