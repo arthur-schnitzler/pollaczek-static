@@ -11,6 +11,14 @@
     <xsl:import href="partials/html_footer.xsl"/>
     <xsl:import href="partials/osd-container.xsl"/>
     <xsl:import href="partials/tei-facsimile.xsl"/>
+    <xsl:variable name="teiSource">
+        <xsl:choose>
+            <xsl:when test="tei:TEI/@xml:id"><xsl:value-of select="data(tei:TEI/@xml:id)"/></xsl:when>
+            <xsl:otherwise>
+                <xsl:value-of select="base-uri(root())"/>
+            </xsl:otherwise>
+        </xsl:choose>
+    </xsl:variable>
     <xsl:template match="/">
         <xsl:variable name="doc_title">
             <xsl:value-of select="root()//tei:titleStmt//tei:title[@type = 'main'][1]/text()"/>
@@ -29,8 +37,13 @@
                                 <h2 align="center">
                                     <xsl:value-of select="$doc_title"/>
                                 </h2>
-                                <h3>
+                                <h3 align="center">
                                     <xsl:value-of select="root()//tei:teiHeader//tei:author"/>
+                                </h3>
+                                <h3 align="center">
+                                    <a href="{$teiSource}">
+                                        <i class="fas fa-code" title="zeige TEI"/>
+                                    </a>
                                 </h3>
                             </div>
                             <div class="card-body-index">
