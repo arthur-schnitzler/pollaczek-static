@@ -1,10 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <xsl:stylesheet xmlns="http://www.w3.org/1999/xhtml"
     xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:tei="http://www.tei-c.org/ns/1.0"
-    xmlns:xs="http://www.w3.org/2001/XMLSchema" version="2.0"
+    xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:functx="http://www.functx.com" version="2.0"
     xmlns:local="http://dse-static.foo.bar" exclude-result-prefixes="xsl tei xs">
     <xsl:output encoding="UTF-8" media-type="text/html" method="xhtml" version="1.0" indent="yes"
         omit-xml-declaration="yes"/>
+    <xsl:function name="functx:escape-for-regex" as="xs:string" xmlns:functx="http://www.functx.com"><xsl:param name="arg" as="xs:string?"/><xsl:sequence select="replace($arg,'(\.|\[|\]|\\|\||\-|\^|\$|\?|\*|\+|\{|\}|\(|\))','\\$1')"/></xsl:function>
+    <xsl:function name="functx:substring-after-last" as="xs:string" xmlns:functx="http://www.functx.com"><xsl:param name="arg" as="xs:string?"/><xsl:param name="delim" as="xs:string"/><xsl:sequence select="replace ($arg,concat('^.*',functx:escape-for-regex($delim)),'')"/></xsl:function>
     <xsl:import href="./partials/shared.xsl"/>
     <xsl:import href="./partials/html_navbar.xsl"/>
     <xsl:import href="./partials/html_head.xsl"/>
@@ -15,7 +17,7 @@
         <xsl:choose>
             <xsl:when test="tei:TEI/@xml:id"><xsl:value-of select="data(tei:TEI/@xml:id)"/></xsl:when>
             <xsl:otherwise>
-                <xsl:value-of select="base-uri(root())"/>
+                <xsl:value-of select="functx:substring-after-last(base-uri(root()), '/')"/>
             </xsl:otherwise>
         </xsl:choose>
     </xsl:variable>
