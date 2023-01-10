@@ -51,6 +51,7 @@
                                     digitale Ausgabe des Manuskripts in einer <b>Rohfassung</b> vor, die nur teilweise
                                     fehlerbereinigt ist. Genauere Hinweise finden sich in den <a
                                         href="editionsprinzipien.html">Editionsprinzipien</a>.</p>
+                                <p style="font-size:18px;line-heigth:27px;">In Vorbereitung ist eine technisch überarbeitete Fassung der Aufsätze zu Pollaczek, die in dem von Stephan Kurz, Michael Rohrwasser und Daniel Schopper herausgegebenen Band <em>„A. ist manchmal wie ein kleines Kind“. Clara Katharina Pollaczek und Arthur Schnitzler gehen ins Kino</em> (Wien: Böhlau 2012) versammelt sind.</p>
                                 <p style="font-size:18px;line-heigth:27px;">Wir freuen uns über Ihre
                                         <a href="mithilfe.html">Mithilfe</a>!</p>
                             </div>
