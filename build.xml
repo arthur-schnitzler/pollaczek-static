@@ -34,7 +34,7 @@
         <factory name="net.sf.saxon.TransformerFactoryImpl"/>
         <classpath location="${basedir}/saxon/saxon9he.jar"/>
     </xslt>
-    <xslt in="./data/bibliografie.xml" out="${target}/bibliografie.html" style="./xslt/biblio.xsl">
+    <xslt in="./data/listBibl.xml" out="${target}/listBibl.html" style="./xslt/biblio.xsl">
         <factory name="net.sf.saxon.TransformerFactoryImpl"/>
         <classpath location="${basedir}/saxon/saxon9he.jar"/>
     </xslt>
