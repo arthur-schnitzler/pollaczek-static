@@ -730,6 +730,11 @@ border-bottom-style: solid;
 .subst-add {
 }
 
+.summary {
+    font-style: italic;
+    color:rgba(0, 0, 0, .75)
+}
+
 .superscript {
     position: relative;
     top: -0.5em;
