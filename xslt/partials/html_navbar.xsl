@@ -29,6 +29,7 @@
                                     <a class="dropdown-item" href="zitat.html">Zitieren</a>
                                     <a title="Links" href="https://www.digital.wienbibliothek.at/wbrobv/content/titleinfo/4183713"
                                         class="nav-link" target="_blank">Faksimile der Wienbibliothek</a>
+                                    <a title="Links" href="CP-aufsatz.html" class="nav-link">Biografischer Aufsatz (Stephan Kurz)</a>
                                     <a title="Links" href="https://schnitzler.acdh.oeaw.ac.at"
                                         class="nav-link" target="_blank">Schnitzler am ACDH-CH</a>
                                     <a title="Links"
