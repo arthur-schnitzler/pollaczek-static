@@ -14,6 +14,7 @@
     <xsl:import href="./partials/person.xsl"/>
     <xsl:import href="./partials/place.xsl"/>
     <xsl:import href="./partials/org.xsl"/>
+    <xsl:import href="./partials/work.xsl"/>
     <xsl:variable name="prev">
         <xsl:value-of select="replace(tokenize(data(tei:TEI/@prev), '/')[last()], '.xml', '.html')"
         />
@@ -162,6 +163,31 @@
                                     </div>
                                     <div class="modal-body">
                                         <xsl:call-template name="person_detail">
+                                            <xsl:with-param name="showNumberOfMentions" select="5"/>
+                                        </xsl:call-template>
+                                    </div>
+                                    <div class="modal-footer">
+                                        <button type="button" class="btn btn-secondary"
+                                            data-dismiss="modal">Schließen</button>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </xsl:for-each>
+                    <xsl:for-each select=".//tei:back//tei:bibl[@xml:id]">
+                        <div class="modal fade" tabindex="-1" role="dialog" aria-hidden="true">
+                            <xsl:attribute name="id">
+                                <xsl:value-of select="./@xml:id"/>
+                            </xsl:attribute>
+                            <div class="modal-dialog" role="document">
+                                <div class="modal-content">
+                                    <div class="modal-header">
+                                        <h5 class="modal-title">
+                                            <xsl:value-of select=".//tei:title[1]/text()"/>
+                                        </h5>
+                                    </div>
+                                    <div class="modal-body">
+                                        <xsl:call-template name="work_detail">
                                             <xsl:with-param name="showNumberOfMentions" select="5"/>
                                         </xsl:call-template>
                                     </div>
