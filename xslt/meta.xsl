@@ -1,10 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<xsl:stylesheet xmlns="http://www.w3.org/1999/xhtml"
+<xsl:stylesheet xmlns="http://www.w3.org/1999/xhtml" xmlns:local="http://dse-static.foo.bar"
     xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:tei="http://www.tei-c.org/ns/1.0"
+    
     xmlns:xs="http://www.w3.org/2001/XMLSchema" version="2.0" exclude-result-prefixes="xsl tei xs">
     <xsl:output encoding="UTF-8" media-type="text/html" method="xhtml" version="1.0" indent="yes"
         omit-xml-declaration="yes"/>
-
+    <xsl:import href="./partials/shared.xsl"/>
     <xsl:import href="./partials/html_navbar.xsl"/>
     <xsl:import href="./partials/html_head.xsl"/>
     <xsl:import href="partials/html_footer.xsl"/>
@@ -44,6 +45,29 @@
                                     </xsl:element>
                                 </div>
                             </xsl:if>
+                            <xsl:if test="descendant::tei:note">
+                                <h2>Anmerkungen</h2>
+                                <xsl:for-each select=".//tei:note">
+                                    <div class="footnotes" id="{local:makeId(.)}">
+                                        <xsl:element name="a">
+                                            <xsl:attribute name="name">
+                                                <xsl:text>fn</xsl:text>
+                                                <xsl:number level="any" format="1" count="tei:note"/>
+                                            </xsl:attribute>
+                                            <a>
+                                                <xsl:attribute name="href">
+                                                    <xsl:text>#fna_</xsl:text>
+                                                    <xsl:number level="any" format="1" count="tei:note"/>
+                                                </xsl:attribute>
+                                                <span style="font-size:7pt;vertical-align:super; margin-right: 0.4em">
+                                                    <xsl:number level="any" format="1" count="tei:note"/>
+                                                </span>
+                                            </a>
+                                        </xsl:element>
+                                        <xsl:apply-templates/>
+                                    </div>
+                                </xsl:for-each>
+                            </xsl:if>
                         </div>                       
                     </div>
                     <xsl:call-template name="html_footer"/>
@@ -62,11 +86,6 @@
     </xsl:template>
     <xsl:template match="tei:lb">
         <br/>
-    </xsl:template>
-    <xsl:template match="tei:unclear">
-        <abbr title="unclear">
-            <xsl:apply-templates/>
-        </abbr>
     </xsl:template>
     <xsl:template match="tei:del">
         <del>
@@ -113,5 +132,19 @@
             <xsl:apply-templates/>
         </u>
     </xsl:template>
-
+    <xsl:template match="tei:quote">
+        <blockquote class="mx-5">
+            <xsl:apply-templates/>
+        </blockquote>
+    </xsl:template>
+    <xsl:template match="tei:supplied">
+        <xsl:text>[</xsl:text>
+        <xsl:apply-templates/>
+        <xsl:text>]</xsl:text>
+    </xsl:template>
+    <xsl:template match="tei:unclear">
+        <span style="color:gray">
+            <xsl:apply-templates/>
+        </span>
+    </xsl:template>
 </xsl:stylesheet>
