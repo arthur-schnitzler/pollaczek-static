@@ -34,14 +34,14 @@
                             <div class="card-header">
                                 <h2 align="center"><xsl:value-of select="$doc_title"/></h2>
                                 <xsl:if test="descendant::tei:titleStmt/tei:author">
-                                    <h3  align="center"><i><xsl:choose>
+                                    <h3 align="center"><i><xsl:choose>
                                         <xsl:when test="contains(descendant::tei:teiHeader//tei:titleStmt/tei:author, ', ')">
                                             <xsl:value-of select="tokenize(descendant::tei:teiHeader//tei:titleStmt/tei:author, ', ')[2]"/>
                                             <xsl:text> </xsl:text>
                                             <xsl:value-of select="tokenize(descendant::tei:teiHeader//tei:titleStmt/tei:author, ', ')[1]"/>
                                         </xsl:when>
                                         <xsl:otherwise>
-                                            <xsl:value-of select="(descendant::tei:teiHeader//tei:titleStmt/tei:author, ',')"/>
+                                            <xsl:value-of select="descendant::tei:teiHeader//tei:titleStmt/tei:author"/>
                                         </xsl:otherwise>
                                     </xsl:choose></i></h3>
                                 </xsl:if>
