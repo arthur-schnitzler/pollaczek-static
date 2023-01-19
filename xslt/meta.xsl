@@ -61,9 +61,9 @@
                                     </xsl:element>
                                 </div>
                             </xsl:if>
-                            <xsl:if test="descendant::tei:note">
+                            <xsl:if test="descendant::tei:note[not(ancestor::tei:back)]">
                                 <h2>Anmerkungen</h2>
-                                <xsl:for-each select=".//tei:note">
+                                <xsl:for-each select=".//tei:note[not(ancestor::tei:back)]">
                                     <div class="footnotes" id="{local:makeId(.)}">
                                         <xsl:element name="a">
                                             <xsl:attribute name="name">
