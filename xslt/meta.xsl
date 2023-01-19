@@ -28,9 +28,18 @@
                     <div class="container-fluid">                        
                         <div class="card">
                             <div class="card-header">
-                                <h1 align="center"><xsl:value-of select="$doc_title"/></h1>
+                                <h2 align="center"><xsl:value-of select="$doc_title"/></h2>
                                 <xsl:if test="descendant::tei:titleStmt/tei:author">
-                                    <h2><i><xsl:value-of select="descendant::tei:titleStmt/tei:author/text()"/></i></h2>
+                                    <h3><i><xsl:choose>
+                                        <xsl:when test="contains(descendant::tei:teiHeader//tei:titleStmt/tei:author, ', ')">
+                                            <xsl:value-of select="substring-after(descendant::tei:teiHeader//tei:titleStmt/tei:author, ', ')"/>
+                                            <xsl:text> </xsl:text>
+                                            <xsl:value-of select="substring-before(descendant::tei:teiHeader//tei:titleStmt/tei:author, ', ')"/>
+                                        </xsl:when>
+                                        <xsl:otherwise>
+                                            <xsl:value-of select="(descendant::tei:teiHeader//tei:titleStmt/tei:author, ',')"/>
+                                        </xsl:otherwise>
+                                    </xsl:choose></i></h3>
                                 </xsl:if>
                             </div>
                             <div class="card-body-index">                                
@@ -151,13 +160,13 @@
         </span>
     </xsl:template>
     <xsl:template match="tei:head[not(@*)]">
-        <h1>
-            <xsl:apply-templates/>
-        </h1>
-    </xsl:template>
-    <xsl:template match="tei:head[(@*)]">
         <h2>
             <xsl:apply-templates/>
         </h2>
+    </xsl:template>
+    <xsl:template match="tei:head[(@*)]">
+        <h3>
+            <xsl:apply-templates/>
+        </h3>
     </xsl:template>
 </xsl:stylesheet>
