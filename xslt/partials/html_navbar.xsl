@@ -42,7 +42,7 @@
                                     Clara Katharina Pollaczek
                                 </a>
                                 <div class="dropdown-menu">
-                                    <a title="Links" href="bibliografie.html"
+                                    <a title="Links" href="listBibl.html"
                                         class="nav-link" target="_blank">Bibliografie</a>
                                     <a title="Links" href="https://de.wikipedia.org/wiki/Clara_Katharina_Pollaczek"
                                         class="nav-link" target="_blank">Wikipedia-Eintrag</a>
