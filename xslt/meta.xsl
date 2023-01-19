@@ -17,7 +17,7 @@
     <xsl:import href="./partials/work.xsl"/>
     <xsl:template match="/">
         <xsl:variable name="doc_title">
-            <xsl:value-of select="descendant::tei:teiHeader//tei:titleSmt/tei:title[@type = 'main'][1]/text()"/>
+            <xsl:value-of select="descendant::tei:teiHeader/tei:fileDesc/tei:titleStmt/tei:title[@type = 'main'][1]/text()"/>
         </xsl:variable>
         <xsl:text disable-output-escaping="yes">&lt;!DOCTYPE html&gt;</xsl:text>
         <html>
@@ -36,9 +36,9 @@
                                 <xsl:if test="descendant::tei:titleStmt/tei:author">
                                     <h3  align="center"><i><xsl:choose>
                                         <xsl:when test="contains(descendant::tei:teiHeader//tei:titleStmt/tei:author, ', ')">
-                                            <xsl:value-of select="substring-after(descendant::tei:teiHeader//tei:titleStmt/tei:author, ', ')"/>
+                                            <xsl:value-of select="tokenize(descendant::tei:teiHeader//tei:titleStmt/tei:author, ', ')[2]"/>
                                             <xsl:text> </xsl:text>
-                                            <xsl:value-of select="replace(substring-before(descendant::tei:teiHeader//tei:titleStmt/tei:author, ', '), ',','')"/>
+                                            <xsl:value-of select="tokenize(descendant::tei:teiHeader//tei:titleStmt/tei:author, ', ')[1]"/>
                                         </xsl:when>
                                         <xsl:otherwise>
                                             <xsl:value-of select="(descendant::tei:teiHeader//tei:titleStmt/tei:author, ',')"/>
