@@ -90,36 +90,39 @@
                                     </xsl:element>
                                 </div>
                             </xsl:if>
-                        </div>
-                        <div class="card-footer">
-                            <h3>Anmerkungen</h3>
-                            <xsl:for-each select=".//tei:note[not(./tei:p)][@type = 'footnote']">
-                                <p class="footnotes" id="{local:makeId(.)}">
-                                    <xsl:element name="a">
-                                        <xsl:attribute name="name">
-                                            <xsl:text>fn</xsl:text>
-                                            <xsl:number level="any" format="1" count="tei:note"/>
-                                        </xsl:attribute>
-                                        <a>
-                                            <xsl:attribute name="href">
-                                                <xsl:text>#fna_</xsl:text>
-                                                <xsl:number level="any" format="1" count="tei:note"/>
+                            <div class="card-body-index">
+                                <h3>Anmerkungen</h3>
+                                <xsl:for-each select=".//tei:note[not(./tei:p)][@type = 'footnote']">
+                                    <p class="footnotes" id="{local:makeId(.)}">
+                                        <xsl:element name="a">
+                                            <xsl:attribute name="name">
+                                                <xsl:text>fn</xsl:text>
+                                                <xsl:number level="any" format="1" count="tei:note"
+                                                />
                                             </xsl:attribute>
-                                            <span
-                                                style="font-size:7pt;vertical-align:super; margin-right: 0.4em">
-                                                <xsl:number level="any" format="1" count="tei:note"/>
-                                            </span>
-                                        </a>
-                                    </xsl:element>
-                                    <xsl:apply-templates/>
-                                    <xsl:if test="not(ends-with(string-join(.//text(), ''), '.'))">
-                                        <xsl:text>. </xsl:text>
-                                    </xsl:if>
-                                </p>
-                            </xsl:for-each>
+                                            <a>
+                                                <xsl:attribute name="href">
+                                                  <xsl:text>#fna_</xsl:text>
+                                                  <xsl:number level="any" format="1"
+                                                  count="tei:note"/>
+                                                </xsl:attribute>
+                                                <span
+                                                  style="font-size:7pt;vertical-align:super; margin-right: 0.4em">
+                                                  <xsl:number level="any" format="1"
+                                                  count="tei:note"/>
+                                                </span>
+                                            </a>
+                                        </xsl:element>
+                                        <xsl:apply-templates/>
+                                        <xsl:if
+                                            test="not(ends-with(string-join(.//text(), ''), '.'))">
+                                            <xsl:text>. </xsl:text>
+                                        </xsl:if>
+                                    </p>
+                                </xsl:for-each>
+                            </div>
                         </div>
                     </div>
-                    
                     <xsl:call-template name="html_footer"/>
                 </div>
             </body>
@@ -148,15 +151,18 @@
                                 select="./tei:analytic/tei:date"/></xsl:when>
                         <xsl:otherwise><xsl:apply-templates select="./tei:monogr//tei:date"
                             /></xsl:otherwise>
-                    </xsl:choose>)</span><br/>
+                    </xsl:choose>)</span>
+                <br/>
                 <xsl:if test="./tei:analytic">
                     <xsl:apply-templates select="tei:analytic"/>
                 </xsl:if>
-                <xsl:if test="./tei:analytic and ./tei:monogr//tei:title//text()"
-                    ><xsl:text> In: </xsl:text></xsl:if>
+                <xsl:if test="./tei:analytic and ./tei:monogr//tei:title//text()">
+                    <xsl:text> In: </xsl:text>
+                </xsl:if>
                 <xsl:if test="./tei:monogr//tei:title//text()">
                     <xsl:apply-templates select="tei:monogr"/>
-                    <xsl:text>. </xsl:text></xsl:if>
+                    <xsl:text>. </xsl:text>
+                </xsl:if>
                 <div class="notes">
                     <xsl:apply-templates select="./tei:note"/>
                 </div>
@@ -330,7 +336,9 @@
     <xsl:template match="tei:listBibl">
         <section xml:id="{@type}">
             <div>
-                <xsl:apply-templates/>
+                <ul>
+                    <xsl:apply-templates/>
+                </ul>
             </div>&#160; </section>
     </xsl:template>
     <xsl:template match="tei:item">
@@ -357,12 +365,12 @@
             <xsl:apply-templates/>
         </em>
     </xsl:template>
-    <xsl:template match="tei:title[parent::tei:analytic or (parent::tei:monogr and not(parent::tei:monogr/preceding-sibling::tei:analytic))]">
-            <span style="font-weight: bold; color: #1e81b0;">
-                <xsl:apply-templates/>
-            </span>
+    <xsl:template
+        match="tei:title[parent::tei:analytic or (parent::tei:monogr and not(parent::tei:monogr/preceding-sibling::tei:analytic))]">
+        <span style="font-weight: bold; color: #1e81b0;">
+            <xsl:apply-templates/>
+        </span>
     </xsl:template>
-    
     <xsl:template match="tei:bibl">
         <xsl:apply-templates/>
     </xsl:template>
@@ -388,10 +396,5 @@
         <p class="{@type}">
             <xsl:apply-templates/>
         </p>
-    </xsl:template>
-    <xsl:template match="tei:standOff">
-        <ul>
-            <xsl:apply-templates select="tei:biblStruct"/>
-        </ul>
     </xsl:template>
 </xsl:stylesheet>
