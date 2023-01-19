@@ -11,6 +11,10 @@
     <xsl:import href="partials/html_footer.xsl"/>
     <xsl:import href="partials/osd-container.xsl"/>
     <xsl:import href="partials/tei-facsimile.xsl"/>
+    <xsl:import href="./partials/person.xsl"/>
+    <xsl:import href="./partials/place.xsl"/>
+    <xsl:import href="./partials/org.xsl"/>
+    <xsl:import href="./partials/work.xsl"/>
     <xsl:template match="/">
         <xsl:variable name="doc_title">
             <xsl:value-of select=".//tei:title[@type = 'main'][1]/text()"/>
@@ -82,6 +86,118 @@
                             </xsl:if>
                         </div>                       
                     </div>
+                    <xsl:for-each select=".//tei:back//tei:org[@xml:id]">
+                        <div class="modal fade" tabindex="-1" role="dialog" aria-hidden="true">
+                            <xsl:attribute name="id">
+                                <xsl:value-of select="./@xml:id"/>
+                            </xsl:attribute>
+                            <div class="modal-dialog" role="document">
+                                <div class="modal-content">
+                                    <div class="modal-header">
+                                        <h5 class="modal-title">
+                                            <xsl:value-of select=".//tei:orgName[1]/text()"/>
+                                        </h5>
+                                    </div>
+                                    <div class="modal-body">
+                                        <xsl:call-template name="org_detail">
+                                            <xsl:with-param name="showNumberOfMentions" select="5"/>
+                                        </xsl:call-template>
+                                    </div>
+                                    <div class="modal-footer">
+                                        <button type="button" class="btn btn-secondary"
+                                            data-dismiss="modal">Schließen</button>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </xsl:for-each>
+                    <xsl:for-each select=".//tei:back//tei:person[@xml:id]">
+                        <xsl:variable name="xmlId">
+                            <xsl:value-of select="data(./@xml:id)"/>
+                        </xsl:variable>
+                        <div class="modal fade" tabindex="-1" role="dialog" aria-hidden="true"
+                            id="{$xmlId}">
+                            <div class="modal-dialog" role="document">
+                                <div class="modal-content">
+                                    <div class="modal-header">
+                                        <h5 class="modal-title">
+                                            <xsl:value-of
+                                                select="normalize-space(string-join(.//tei:persName[1]//text()))"/>
+                                            <xsl:text> </xsl:text>
+                                            <a href="{concat($xmlId, '.html')}">
+                                                <i class="fas fa-external-link-alt"/>
+                                            </a>
+                                        </h5>
+                                    </div>
+                                    <div class="modal-body">
+                                        <xsl:call-template name="person_detail">
+                                            <xsl:with-param name="showNumberOfMentions" select="5"/>
+                                        </xsl:call-template>
+                                    </div>
+                                    <div class="modal-footer">
+                                        <button type="button" class="btn btn-secondary"
+                                            data-dismiss="modal">Schließen</button>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </xsl:for-each>
+                    <xsl:for-each select=".//tei:back//tei:bibl[@xml:id]">
+                        <div class="modal fade" tabindex="-1" role="dialog" aria-hidden="true">
+                            <xsl:attribute name="id">
+                                <xsl:value-of select="./@xml:id"/>
+                            </xsl:attribute>
+                            <div class="modal-dialog" role="document">
+                                <div class="modal-content">
+                                    <div class="modal-header">
+                                        <h5 class="modal-title">
+                                            <xsl:value-of select=".//tei:title[1]/text()"/>
+                                        </h5>
+                                    </div>
+                                    <div class="modal-body">
+                                        <xsl:call-template name="work_detail">
+                                            <xsl:with-param name="showNumberOfMentions" select="5"/>
+                                        </xsl:call-template>
+                                    </div>
+                                    <div class="modal-footer">
+                                        <button type="button" class="btn btn-secondary"
+                                            data-dismiss="modal">Schließen</button>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </xsl:for-each>
+                    <xsl:for-each select=".//tei:back//tei:place[@xml:id]">
+                        <xsl:variable name="xmlId">
+                            <xsl:value-of select="data(./@xml:id)"/>
+                        </xsl:variable>
+                        <div class="modal fade" tabindex="-1" role="dialog" aria-hidden="true"
+                            id="{$xmlId}">
+                            <div class="modal-dialog" role="document">
+                                <div class="modal-content">
+                                    <div class="modal-header">
+                                        <h5 class="modal-title">
+                                            <xsl:value-of
+                                                select="normalize-space(string-join(.//tei:placeName[1]/text()))"/>
+                                            <xsl:text> </xsl:text>
+                                            <a href="{concat($xmlId, '.html')}">
+                                                <i class="fas fa-external-link-alt"/>
+                                            </a>
+                                        </h5>
+                                    </div>
+                                    <div class="modal-body">
+                                        <xsl:call-template name="place_detail">
+                                            <xsl:with-param name="showNumberOfMentions" select="5"/>
+                                        </xsl:call-template>
+                                    </div>
+                                    <div class="modal-footer">
+                                        <button type="button" class="btn btn-secondary"
+                                            data-dismiss="modal">Schließen</button>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </xsl:for-each>
                     <xsl:call-template name="html_footer"/>
                 </div>
             </body>
@@ -169,4 +285,19 @@
             <xsl:apply-templates/>
         </h3>
     </xsl:template>
+    
+    <xsl:template match="tei:title[ancestor::tei:body]">
+        <i><xsl:apply-templates/></i>
+    </xsl:template>
+    
+    <xsl:template match="tei:rs">
+        <xsl:apply-templates/>
+    </xsl:template>
+    <xsl:template match="tei:emph">
+        <i>
+        <xsl:apply-templates/>
+        </i>
+    </xsl:template>
+    <xsl:template match="tei:relatedItem"/>
+    
 </xsl:stylesheet>
