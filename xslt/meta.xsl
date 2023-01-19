@@ -28,7 +28,10 @@
                     <div class="container-fluid">                        
                         <div class="card">
                             <div class="card-header">
-                                <h2 align="center"><xsl:value-of select="$doc_title"/></h2>
+                                <h1 align="center"><xsl:value-of select="$doc_title"/></h1>
+                                <xsl:if test="descendant::tei:titleStmt/tei:author">
+                                    <h2><i><xsl:value-of select="descendant::tei:titleStmt/tei:author/text()"/></i></h2>
+                                </xsl:if>
                             </div>
                             <div class="card-body-index">                                
                                 <xsl:apply-templates select=".//tei:body"></xsl:apply-templates>
