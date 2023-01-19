@@ -91,34 +91,35 @@
                                 </div>
                             </xsl:if>
                         </div>
-                    </div>
-                    <div class="card-footer">
-                        <h3>Anmerkungen</h3>
-                        <xsl:for-each select=".//tei:note[not(./tei:p)][@type = 'footnote']">
-                            <p class="footnotes" id="{local:makeId(.)}">
-                                <xsl:element name="a">
-                                    <xsl:attribute name="name">
-                                        <xsl:text>fn</xsl:text>
-                                        <xsl:number level="any" format="1" count="tei:note"/>
-                                    </xsl:attribute>
-                                    <a>
-                                        <xsl:attribute name="href">
-                                            <xsl:text>#fna_</xsl:text>
+                        <div class="card-footer">
+                            <h3>Anmerkungen</h3>
+                            <xsl:for-each select=".//tei:note[not(./tei:p)][@type = 'footnote']">
+                                <p class="footnotes" id="{local:makeId(.)}">
+                                    <xsl:element name="a">
+                                        <xsl:attribute name="name">
+                                            <xsl:text>fn</xsl:text>
                                             <xsl:number level="any" format="1" count="tei:note"/>
                                         </xsl:attribute>
-                                        <span
-                                            style="font-size:7pt;vertical-align:super; margin-right: 0.4em">
-                                            <xsl:number level="any" format="1" count="tei:note"/>
-                                        </span>
-                                    </a>
-                                </xsl:element>
-                                <xsl:apply-templates/>
-                                <xsl:if test="not(ends-with(string-join(.//text(), ''), '.'))">
-                                    <xsl:text>. </xsl:text>
-                                </xsl:if>
-                            </p>
-                        </xsl:for-each>
+                                        <a>
+                                            <xsl:attribute name="href">
+                                                <xsl:text>#fna_</xsl:text>
+                                                <xsl:number level="any" format="1" count="tei:note"/>
+                                            </xsl:attribute>
+                                            <span
+                                                style="font-size:7pt;vertical-align:super; margin-right: 0.4em">
+                                                <xsl:number level="any" format="1" count="tei:note"/>
+                                            </span>
+                                        </a>
+                                    </xsl:element>
+                                    <xsl:apply-templates/>
+                                    <xsl:if test="not(ends-with(string-join(.//text(), ''), '.'))">
+                                        <xsl:text>. </xsl:text>
+                                    </xsl:if>
+                                </p>
+                            </xsl:for-each>
+                        </div>
                     </div>
+                    
                     <xsl:call-template name="html_footer"/>
                 </div>
             </body>
