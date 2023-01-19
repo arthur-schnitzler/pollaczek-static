@@ -147,4 +147,14 @@
             <xsl:apply-templates/>
         </span>
     </xsl:template>
+    <xsl:template match="tei:head[not(@*)]">
+        <h1>
+            <xsl:apply-templates/>
+        </h1>
+    </xsl:template>
+    <xsl:template match="tei:head[(@*)]">
+        <h2>
+            <xsl:apply-templates/>
+        </h2>
+    </xsl:template>
 </xsl:stylesheet>
