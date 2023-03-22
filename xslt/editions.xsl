@@ -249,7 +249,7 @@
         </p>
     </xsl:template>
     <xsl:template match="tei:div[@type='writingSession']/tei:page">
-        <xsl:for-each-group select="child::*" group-starting-with="*:paragraph-begin">
+        <xsl:for-each-group select="child::*" group-starting-with="*[name()='paragraph-begin']">
             <xsl:element name="p">
                 <xsl:attribute name="style">
                     <xsl:text>margin-top: 8px;</xsl:text>
@@ -259,7 +259,7 @@
         </xsl:for-each-group>
     </xsl:template>
     
-    <xsl:template match="tei:lb">
+    <xsl:template match="tei:lb[preceding-sibling::tei:lb]">
         <br/>
     </xsl:template>
     <xsl:template match="tei:div">
