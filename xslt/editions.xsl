@@ -117,7 +117,7 @@
                                         </div>
                                     </div>
                                     <div class="col-md-6">
-                                        <xsl:apply-templates select=".//tei:body//tei:div[@type='writingSession']"/>
+                                        <xsl:apply-templates select=".//tei:body//tei:div[@type='writingSession']/tei:page"/>
                                     </div>
                                 </div>
                             </div>
@@ -248,9 +248,12 @@
             <xsl:apply-templates/>
         </p>
     </xsl:template>
-    <xsl:template match="tei:div[@type='writingSession']">
-        <xsl:for-each-group select="*" group-starting-with="tei:paragraph-begin">
-            <xsl:element name="popGoesTheWorld">
+    <xsl:template match="tei:div[@type='writingSession']/tei:page">
+        <xsl:for-each-group select="." group-starting-with="tei:paragraph-begin">
+            <xsl:element name="p">
+                <xsl:attribute name="style">
+                    <xsl:text>margin-top: 8px;</xsl:text>
+                </xsl:attribute>
                 <xsl:apply-templates/>
             </xsl:element>
         </xsl:for-each-group>
