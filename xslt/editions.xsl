@@ -262,6 +262,8 @@
     <xsl:template match="tei:lb[not(preceding-sibling::*[1][name()='paragraph-begin'])]">
         <br/>
     </xsl:template>
+    <xsl:template match="tei:lb[(preceding-sibling::*[1][name()='paragraph-begin'])]"/>
+       
     <xsl:template match="tei:div">
         <div id="{local:makeId(.)}">
             <xsl:apply-templates/>
