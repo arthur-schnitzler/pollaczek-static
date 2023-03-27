@@ -103,7 +103,8 @@
                                                     fitHorizontally: true,
                                                     tileSources: {
                                                         type: 'image',
-                                                        url: '<xsl:value-of select="normalize-space($facs-url)"/>'
+                                                        url: '<xsl:value-of select="normalize-space($facs-url)"/>
+                                                '
                                             },
                                             // Initial rotation angle
                                             degrees: 0,
@@ -117,7 +118,9 @@
                                         </div>
                                     </div>
                                     <div class="col-md-6">
-                                        <xsl:apply-templates select=".//tei:body//tei:div[@type='writingSession']/tei:page"/>
+                                        <xsl:apply-templates
+                                            select=".//tei:body//tei:div[@type = 'writingSession']/tei:p"
+                                        />
                                     </div>
                                 </div>
                             </div>
@@ -254,8 +257,9 @@
             <xsl:apply-templates/>
         </xsl:element>
     </xsl:template>
-    <xsl:template match="tei:div[@type='writingSession']/tei:p">
-        <xsl:for-each-group select="child::*|text()" group-starting-with="*[name()='paragraph-begin']">
+    
+    <xsl:template match="tei:div[@type = 'writingSession']/tei:p">
+        <xsl:for-each-group select="child::*|text()[not(normalize-space(.)='')]" group-starting-with="child::tei:lb[@type='paragraph-begin']">
             <xsl:element name="p">
                 <xsl:attribute name="style">
                     <xsl:text>margin-top: 8px;</xsl:text>
@@ -264,12 +268,10 @@
             </xsl:element>
         </xsl:for-each-group>
     </xsl:template>
-    
-    <xsl:template match="tei:lb[not(preceding-sibling::*[1][name()='paragraph-begin'])]">
-        <br/>
+    <xsl:template match="tei:lb[not(@type='paragraph-begin')]">
+        <xsl:element name="br"/>
     </xsl:template>
-    <xsl:template match="tei:lb[(preceding-sibling::*[1][name()='paragraph-begin'])]"/>
-       
+    <xsl:template match="tei:lb[@type='paragraph-begin']"/>
     <xsl:template match="tei:div">
         <div id="{local:makeId(.)}">
             <xsl:apply-templates/>
