@@ -244,11 +244,17 @@
         </html>
     </xsl:template>
     <xsl:template match="tei:p">
-        <p id="{local:makeId(.)}">
+        <xsl:element name="p">
+            <xsl:attribute name="id">
+                <xsl:value-of select="local:makeId(.)"/>
+            </xsl:attribute>
+            <xsl:attribute name="style">
+                <xsl:text>margin-top: 8px;</xsl:text>
+            </xsl:attribute>
             <xsl:apply-templates/>
-        </p>
+        </xsl:element>
     </xsl:template>
-    <xsl:template match="tei:div[@type='writingSession']/tei:page">
+    <xsl:template match="tei:div[@type='writingSession']/tei:p">
         <xsl:for-each-group select="child::*|text()" group-starting-with="*[name()='paragraph-begin']">
             <xsl:element name="p">
                 <xsl:attribute name="style">
