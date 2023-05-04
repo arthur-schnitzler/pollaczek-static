@@ -122,6 +122,22 @@
                                         />
                                     </div>
                                 </div>
+                                <xsl:if test="descendant::tei:titleStmt/tei:title[@when-iso][1]">
+                                <div class="row" style="text-align: center;">
+                                <xsl:element name="a">
+                                <xsl:attribute name="href">
+                                <xsl:value-of select="concat('https://schnitzler-tagebuch.acdh.oeaw.ac.at/entry__', descendant::tei:titleStmt/tei:title[@when-iso][1]/@when-iso, '.html')"/>
+                                </xsl:attribute>
+                                <xsl:attribute name="target">
+                                <xsl:text>_blank</xsl:text>
+                                </xsl:attribute>
+                                <xsl:attribute name="style">
+                                <xsl:text>color: #037A33; font-weight: bold;</xsl:text>
+                                </xsl:attribute>
+                                <xsl:text>Tagebuch von Arthur Schnitzler</xsl:text>
+                                </xsl:element>
+                                </div>
+                                </xsl:if>
                             </div>
                             <div class="card-footer">
                                 <p style="text-align:center;">
