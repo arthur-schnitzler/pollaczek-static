@@ -22,11 +22,13 @@
                     <!-- .footer-widget -->
                     <div class="footer-widget col-lg-4 col-md-3 col-sm-3">
                         <div class="textwidget custom-html-widget">
-                            <p> ACDH-CH ÖAW <br/> Austrian Centre for Digital Humanities and
+                            <p> ACDH-CH <br/> Austrian Centre for Digital Humanities <br/> and
                                 Cultural Heritage <br/> Österreichische Akademie der Wissenschaften </p>
-                            <p> Bäckerstraße 13 <br/> 1010 Wien </p>
-                            <p> T: +43 1 51581-2200 <br/> E: <a href="mailto:acdh@oeaw.ac.at"
-                                    >acdh@oeaw.ac.at</a>
+                            <p> Bäckerstraße 13, <br/> 1010 Wien </p>
+                            <p> T: +43 1 51581-2200 <br/> E: <a
+                                href="mailto:acdh-ch-helpdesk@oeaw.ac.at
+                                "
+                                >acdh-ch-helpdesk(@)oeaw.ac.at</a>
                             </p>
                         </div>
                     </div>
@@ -53,23 +55,18 @@
                     <div class="footer-widget col-lg-3 col-md-4 col-sm-3 ml-auto">
                         <div class="row">
                             <div class="textwidget custom-html-widget">
-                                <h6 class="font-weight-bold">HELPDESK</h6>
-                                <p>ACDH-CH betreibt einen Helpdesk mit Rat und Hilfestellung zu
-                                    verschiedensten Fragen der Digital Humanities.</p>
-                                <p>
-                                    <a class="helpdesk-button"
-                                        href="mailto:acdh-helpdesk@oeaw.ac.at">FRAG UNS!</a>
-                                </p>
-                            </div>
+                            <h6 class="font-weight-bold">HELPDESK</h6>
+                            <p>Bei Fragen, Anmerkungen, Kritik, aber gerne auch Lob, wenden Sie
+                                sich bitte an den ACDH-CH Helpdesk.</p>
+                            <p>
+                                <a class="helpdesk-button"
+                                    href="mailto:acdh-ch-helpdesk@oeaw.ac.at">e-Mail</a>
+                            </p>
+                        </div>
                         </div>
                         <div class="row">
                             <div class="footer-widget col-lg-3 col-md-4 col-sm-3 ml-auto"
                                 style="margin-left:0 !important;">
-                                <div class="textwidget custom-html-widget">
-                                    <p style="margin-bottom:0 !important;">Social: </p>
-                                </div>
-                                <div class="row">
-                                    <div class="textwidget custom-html-widget col-md-4">
                                         <a id="github-logo" title="GitHub" href="{$github_url}"
                                             class="nav-link" target="_blank">
                                             <svg xmlns="http://www.w3.org/2000/svg" width="32"
@@ -79,8 +76,6 @@
                                                 />
                                             </svg>
                                         </a>
-                                    </div>
-                                </div>
                             </div>
                         </div>
                     </div>
