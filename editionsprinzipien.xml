@@ -1,4 +1,5 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:base="https://id.acdh.oeaw.ac.at.at/ckp" xml:id="editionsprinzipien.xml" prev="https://id.acdh.oeaw.ac.at.at/ckp/CP-aufsatz.xml" next="https://id.acdh.oeaw.ac.at.at/ckp/mithilfe.xml">
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:base="https://id.acdh.oeaw.ac.at.at/ckp" xml:id="editionsprinzipien.xml" prev="https://id.acdh.oeaw.ac.at.at/ckp/ebook.xml" next="https://id.acdh.oeaw.ac.at.at/ckp/mithilfe.xml">
    <teiHeader>
       <fileDesc>
          <titleStmt>
