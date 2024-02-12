@@ -27,6 +27,7 @@
                                     <a class="dropdown-item" href="editionsprinzipien.html">Editionsprinzipien</a>
                                     <a class="dropdown-item" href="mithilfe.html">Mithilfe</a>
                                     <a class="dropdown-item" href="zitat.html">Zitieren</a>
+                                    <a class="dropdown-item" href="ebook.html">E-Book</a>
                                     <a title="Links" href="https://www.digital.wienbibliothek.at/wbrobv/content/titleinfo/4183713"
                                         class="nav-link" target="_blank">Faksimile der Wienbibliothek</a>
                                     <a title="Links" href="CP-aufsatz.html" class="nav-link">Biografischer Aufsatz (Stephan Kurz)</a>
