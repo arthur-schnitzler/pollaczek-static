@@ -11,6 +11,7 @@
         <xsl:param name="html_description">Clara Katharina Pollaczeks Erinnerungen an Arthur Schnitzler - Digitale Edition des unveröffentlichten Typoskripts „Arthur Schnitzler und ich"</xsl:param>
         <xsl:param name="page_url" select="concat($base_url, '/')"></xsl:param>
         <head>
+            <meta name="google-site-verification" content="dc888ZmCroA0_VKEB86Vss7wy4Jbkaro0j2QfM8GOak" />
             <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
             <meta http-equiv="X-UA-Compatible" content="IE=edge" />
             <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
