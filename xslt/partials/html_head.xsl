@@ -8,6 +8,8 @@
     <xsl:include href="./params.xsl"/>
     <xsl:template match="/" name="html_head">
         <xsl:param name="html_title" select="$project_short_title"></xsl:param>
+        <xsl:param name="html_description">Clara Katharina Pollaczeks Erinnerungen an Arthur Schnitzler - Digitale Edition des unveröffentlichten Typoskripts „Arthur Schnitzler und ich"</xsl:param>
+        <xsl:param name="page_url" select="concat($base_url, '/')"></xsl:param>
         <head>
             <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
             <meta http-equiv="X-UA-Compatible" content="IE=edge" />
@@ -15,6 +17,20 @@
             <meta name="mobile-web-app-capable" content="yes" />
             <meta name="apple-mobile-web-app-capable" content="yes" />
             <meta name="apple-mobile-web-app-title" content="{$html_title}" />
+            <meta name="description" content="{$html_description}" />
+            <link rel="canonical" href="{$page_url}" />
+            <meta property="og:title" content="{$html_title}" />
+            <meta property="og:description" content="{$html_description}" />
+            <meta property="og:url" content="{$page_url}" />
+            <meta property="og:type" content="website" />
+            <meta property="og:site_name" content="{$project_title}" />
+            <meta property="og:image" content="{concat($base_url, '/img/teaser.jpg')}" />
+            <meta property="og:image:width" content="1200" />
+            <meta property="og:image:height" content="630" />
+            <meta name="twitter:card" content="summary_large_image" />
+            <meta name="twitter:title" content="{$html_title}" />
+            <meta name="twitter:description" content="{$html_description}" />
+            <meta name="twitter:image" content="{concat($base_url, '/img/teaser.jpg')}" />
             <meta name="msapplication-TileColor" content="#ffffff"/>
             <meta name="msapplication-TileImage" content="{$project_logo}"/>
             <link rel="icon" type="image/svg+xml" href="{$project_logo}" sizes="any"/>

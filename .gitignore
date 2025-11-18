@@ -142,6 +142,10 @@ desktop.ini
 # MacOS
 .DS_Store
 
+# Claude Code
+.claude/
+*claude*
+
 # Project specific
 
 data/

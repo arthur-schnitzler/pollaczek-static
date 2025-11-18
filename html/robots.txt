@@ -1,0 +1,10 @@
+User-agent: *
+Allow: /
+
+# Sitemap
+Sitemap: https://pollaczek.acdh.oeaw.ac.at/sitemap.xml
+
+# Disallow unnecessary paths
+Disallow: /dist/
+Disallow: /js/
+Disallow: /css/maps/
